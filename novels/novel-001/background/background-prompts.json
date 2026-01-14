@@ -14,6 +14,14 @@
         {
           "name": "青云宗外门弟子房-雨天",
           "prompt": "Chinese xianxia style, humble wooden room in cultivation sect, rainy day, raindrops on paper window, gloomy but cozy lighting, wooden floor wet with rain reflection, melancholic cultivation atmosphere, simple wooden furniture, high quality, detailed, 8k resolution, no people, no text, no UI elements"
+        },
+        {
+          "name": "青云宗外门弟子房-黄昏",
+          "prompt": "Chinese xianxia style, humble wooden room in cultivation sect at sunset, warm orange light through paper window, long shadows across room, cozy evening atmosphere, wooden furniture silhouetted, peaceful cultivation environment, high quality, detailed, 8k resolution, no people, no text, no UI elements"
+        },
+        {
+          "name": "青云宗外门弟子房-雪天",
+          "prompt": "Chinese xianxia style, humble wooden room in cultivation sect, snowing outside, white frost on paper window, cold blue lighting, warm oil lamp glow inside, winter cultivation atmosphere, simple wooden furniture, peaceful snowy day, high quality, detailed, 8k resolution, no people, no text, no UI elements"
         }
       ],
       "tags": ["室内", "木屋", "简陋", "弟子房", "修仙", "清晨"],
@@ -54,6 +62,14 @@
         {
           "name": "青云宗山门广场-黄昏",
           "prompt": "Chinese xianxia style, cultivation sect mountain gate plaza, sunset golden hour, warm orange glow, long shadows, traditional architecture silhouetted against setting sun, peaceful evening atmosphere, mountain gate plaza, high quality, detailed, 8k resolution, no people, no text, no UI elements"
+        },
+        {
+          "name": "青云宗山门广场-夜晚",
+          "prompt": "Chinese xianxia style, cultivation sect mountain gate plaza at night, moonlight over stone ground, lanterns flickering, mountain gate silhouetted against starry sky, mysterious peaceful atmosphere, sect gates standing tall, cool blue lighting, high quality, detailed, 8k resolution, no people, no text, no UI elements"
+        },
+        {
+          "name": "青云宗山门广场-雪景",
+          "prompt": "Chinese xianxia style, cultivation sect mountain gate plaza in snow, white snow covering stone ground, traditional architecture dusted with snow, mountain gate framed by winter scenery, peaceful winter atmosphere, cold crisp lighting, serene snowy landscape, high quality, detailed, 8k resolution, no people, no text, no UI elements"
         }
       ],
       "tags": ["室外", "山门", "广场", "宗门", "修仙", "清晨"],
@@ -110,6 +126,14 @@
         {
           "name": "天衍宗论道会场-法宝展示区",
           "prompt": "Chinese xianxia style, treasure exhibition area in cultivation debate arena, magical artifacts display, glowing treasures, ornate pedestals, mysterious light effects, rich sect atmosphere, golden and colorful lighting, high quality, detailed, 8k resolution, no people, no text, no UI elements"
+        },
+        {
+          "name": "天衍宗论道会场-傍晚",
+          "prompt": "Chinese xianxia style, grand debate arena at sunset, magnificent pavilions bathed in golden light, sect banners silhouetted against orange sky, grand architecture warm glow, peaceful evening atmosphere, cultivators departing, high quality, detailed, 8k resolution, no people, no text, no UI elements"
+        },
+        {
+          "name": "天衍宗论道会场-夜晚",
+          "prompt": "Chinese xianxia style, grand debate arena illuminated at night, magical lights floating in air, pavilions glowing with inner light, mysterious night atmosphere, sect banners waving in starlight, enchanting evening scene, high quality, detailed, 8k resolution, no people, no text, no UI elements"
         }
       ],
       "tags": ["特殊空间", "论道会场", "宏伟", "盛会", "修仙", "下午"],
@@ -146,6 +170,14 @@
         {
           "name": "青州城演武场",
           "prompt": "Chinese xianxia style, grand martial arts arena in Qingzhou city, competition platforms, sect flags waving, bright daylight, cultivation tournament venue, impressive architecture, lively atmosphere, traditional Chinese martial arts arena, high quality, detailed, 8k resolution, no people, no text, no UI elements"
+        },
+        {
+          "name": "青州城街道",
+          "prompt": "Chinese xianxia style, bustling street in Qingzhou city, cultivation world marketplace, shops selling magical artifacts and herbs, traditional Chinese buildings, lively city atmosphere, bright daylight, cultivators and mortals mingling, high quality, detailed, 8k resolution, no people, no text, no UI elements"
+        },
+        {
+          "name": "青州城夜景",
+          "prompt": "Chinese xianxia style, Qingzhou city at night, lanterns illuminating streets, magical lights from cultivation shops, bustling night market, traditional Chinese architecture glowing warmly, lively nocturnal atmosphere, moon over cityscape, high quality, detailed, 8k resolution, no people, no text, no UI elements"
         }
       ],
       "tags": ["室外", "广场", "城市", "比武", "修仙", "白天"],
@@ -214,6 +246,14 @@
         {
           "name": "魔教秘密据点",
           "prompt": "Chinese xianxia style, demon cult secret hideout, dark underground space, dim torchlight, cold stone walls, mysterious atmosphere, evil cult lair, dark purple lighting, secretive environment, high quality, detailed, 8k resolution, no people, no text, no UI elements"
+        },
+        {
+          "name": "魔教修炼密室",
+          "prompt": "Chinese xianxia style, demon cult cultivation chamber, dark stone walls covered with evil runes, blood-red cultivation pool, oppressive atmosphere, cult practices space, sinister magical energy flowing, underground lair, ominous lighting, high quality, detailed, 8k resolution, no people, no text, no UI elements"
+        },
+        {
+          "name": "魔教牢房",
+          "prompt": "Chinese xianxia style, demon cult prison cells, dark underground dungeon, iron bars, chains on walls, cold stone floors, dim torchlight, oppressive atmosphere, cult imprisonment area, sinister detention space, high quality, detailed, 8k resolution, no people, no text, no UI elements"
         }
       ],
       "tags": ["室内", "魔教", "阴森", "神秘", "修仙", "夜晚"],
@@ -246,6 +286,14 @@
         {
           "name": "系统界面特写",
           "prompt": "Chinese xianxia style, close-up of translucent holographic system panel, blue digital interface, floating technological elements, glowing text and symbols, mix of ancient and modern, cool blue light, mysterious system interface, high quality, detailed, 8k resolution, no people, no text, no UI elements"
+        },
+        {
+          "name": "系统商城界面",
+          "prompt": "Chinese xianxia style, celestial demon system shop interface, items floating in holographic display, special effects and spiritual stones, cultivation enhancement tools, digital marketplace mixing cultivation and technology, colorful item displays, mysterious trading atmosphere, high quality, detailed, 8k resolution, no people, no text, no UI elements"
+        },
+        {
+          "name": "系统任务界面",
+          "prompt": "Chinese xianxia style, celestial demon system quest panel, mission objectives displayed, reward information, holographic task list, blue digital interface with golden highlights, system notifications floating, quest tracking interface, high quality, detailed, 8k resolution, no people, no text, no UI elements"
         }
       ],
       "tags": ["特殊空间", "系统界面", "科技感", "数字化", "修仙", "无时间"],
@@ -278,6 +326,14 @@
         {
           "name": "青云宗议事厅-下午",
           "prompt": "Chinese xianxia style, cultivation sect council hall, formal meeting space, wooden pillars, stone floor, afternoon light streaming in, warm atmosphere, dignified sect meeting environment, high quality, detailed, 8k resolution, no people, no text, no UI elements"
+        },
+        {
+          "name": "青云宗掌门大殿-夜晚",
+          "prompt": "Chinese xianxia style, sect leader's grand hall at night, moonlight through openings, illuminated by magical crystals, imposing wooden pillars casting shadows, solemn nocturnal atmosphere, formal sect hall, mysterious night lighting, high quality, detailed, 8k resolution, no people, no text, no UI elements"
+        },
+        {
+          "name": "青云宗藏书阁",
+          "prompt": "Chinese xianxia style, cultivation sect library pavilion, ancient scrolls and books on wooden shelves, crystal orbs illuminating, quiet study atmosphere, traditional Chinese architecture, knowledge repository, warm magical lighting, high quality, detailed, 8k resolution, no people, no text, no UI elements"
         }
       ],
       "tags": ["室内", "掌门大殿", "修葺后", "会议", "修仙", "白天"],
@@ -294,6 +350,10 @@
         {
           "name": "观星台-黄昏",
           "prompt": "Chinese xianxia style, star observation platform at sunset, warm orange and purple sky, stone platform silhouetted against evening light, mountain peaks below, peaceful transition to night, high quality, detailed, 8k resolution, no people, no text, no UI elements"
+        },
+        {
+          "name": "观星台-黎明",
+          "prompt": "Chinese xianxia style, star observation platform at dawn, first light breaking, fading stars in sky, stone platform catching morning glow, mountain range below, contemplative pre-dawn atmosphere, peaceful transition to day, high quality, detailed, 8k resolution, no people, no text, no UI elements"
         }
       ],
       "tags": ["室外", "观星台", "高处", "夜景", "修仙", "深夜"],
@@ -310,6 +370,10 @@
         {
           "name": "后山密室入口",
           "prompt": "Chinese xianxia style, secret chamber entrance in mountain forest, high-tech door mechanism disguised as stone formation, moonlight through trees, mysterious glowing runes, cool blue lighting, hidden location, high quality, detailed, 8k resolution, no people, no text, no UI elements"
+        },
+        {
+          "name": "密室控制台",
+          "prompt": "Chinese xianxia style, secret chamber control center, advanced technological console with holographic displays, data streams floating, ancient stone walls mixed with futuristic equipment, mysterious laboratory atmosphere, cool blue lighting, sci-fi cultivation fusion, high quality, detailed, 8k resolution, no people, no text, no UI elements"
         }
       ],
       "tags": ["室内", "密室", "隐秘", "科技感", "修仙", "深夜"],
@@ -322,7 +386,16 @@
       "location_type": "室外",
       "time_of_day": "黄昏",
       "main_prompt": "Chinese xianxia style, demon cult headquarters exterior, dark fortress walls, ominous atmosphere, sunset golden hour lighting, dark imposing architecture, sinister cult buildings, mountain fortress setting, tense atmosphere, high quality, detailed, 8k resolution, no people, no text, no UI elements",
-      "sub_scenes": [],
+      "sub_scenes": [
+        {
+          "name": "魔教总坛外围-夜晚",
+          "prompt": "Chinese xianxia style, demon cult headquarters exterior at night, dark fortress walls glowing with purple magical energy, torches burning, sinister atmosphere, cult banners waving in wind, moonlight over mountain fortress, ominous and threatening, high quality, detailed, 8k resolution, no people, no text, no UI elements"
+        },
+        {
+          "name": "魔教总坛外围-黎明",
+          "prompt": "Chinese xianxia style, demon cult headquarters exterior at dawn, dark fortress silhouetted against first light, mist shrouding mountain, cold dawn atmosphere, dark imposing architecture barely visible, mysterious and foreboding, high quality, detailed, 8k resolution, no people, no text, no UI elements"
+        }
+      ],
       "tags": ["室外", "魔教", "堡垒", "阴森", "修仙", "黄昏"],
       "usage_count": 2,
       "description": "魔教总坛外围,黑色堡垒城墙在夕阳下显得阴森可怖"
@@ -333,7 +406,16 @@
       "location_type": "室外",
       "time_of_day": "夜晚",
       "main_prompt": "Chinese xianxia style, massive blood sacrifice altar, terrifying energy fluctuations, blood red light soaring to sky, cult ceremony site, dark ominous atmosphere, ancient evil altar, mysterious dark cult ritual location, high contrast dark red lighting, high quality, detailed, 8k resolution, no people, no text, no UI elements",
-      "sub_scenes": [],
+      "sub_scenes": [
+        {
+          "name": "血祭仪式中",
+          "prompt": "Chinese xianxia style, blood sacrifice ceremony in progress, red light beams rising from altar, cult banners flying, dark magical energy swirling, terrifying ritual scene, blood-red sky above, ominous ceremonial atmosphere, dramatic red and black contrast, high quality, detailed, 8k resolution, no people, no text, no UI elements"
+        },
+        {
+          "name": "祭坛符文发光",
+          "prompt": "Chinese xianxia style, blood sacrifice altar with ancient runes glowing crimson, mystical patterns on altar surface, dark stone with red energy veins, sinister magical formation, evil power gathering, ominous red light pulsing, high quality, detailed, 8k resolution, no people, no text, no UI elements"
+        }
+      ],
       "tags": ["室外", "祭坛", "血祭", "恐怖", "修仙", "夜晚"],
       "usage_count": 2,
       "description": "魔教总坛的巨大血祭祭坛,血光冲天,恐怖气氛弥漫"
@@ -344,7 +426,16 @@
       "location_type": "室外",
       "time_of_day": "黎明",
       "main_prompt": "Chinese xianxia style, destroyed demon cult headquarters ruins, crumbling dark fortress, morning light breaking through devastation, remnants of evil architecture, dawn light over destruction, peaceful aftermath atmosphere, high quality, detailed, 8k resolution, no people, no text, no UI elements",
-      "sub_scenes": [],
+      "sub_scenes": [
+        {
+          "name": "废墟战场",
+          "prompt": "Chinese xianxia style, aftermath battlefield of cult headquarters destruction, broken magical weapons scattered, craters from energy explosions, shattered dark stones, remnants of fierce battle, destruction everywhere, morning light illuminating devastation, high quality, detailed, 8k resolution, no people, no text, no UI elements"
+        },
+        {
+          "name": "废墟消散",
+          "prompt": "Chinese xianxia style, cult ruins slowly dissipating dark energy, last remnants of evil power fading away, purification light breaking through, dark corruption being cleansed, hopeful transformation scene, light overcoming darkness, high quality, detailed, 8k resolution, no people, no text, no UI elements"
+        }
+      ],
       "tags": ["室外", "废墟", "战后", "黎明", "修仙"],
       "usage_count": 2,
       "description": "被摧毁的魔教总坛废墟,晨光中透露出和平的希望"
@@ -355,7 +446,16 @@
       "location_type": "室外",
       "time_of_day": "夜晚",
       "main_prompt": "Chinese xianxia style, deep mountain valley cave main chamber, blood pool, ancient runes covering stone walls, mysterious red light, terrifying cult ceremony site, dark oppressive atmosphere, underground cult lair, high quality, detailed, 8k resolution, no people, no text, no UI elements",
-      "sub_scenes": [],
+      "sub_scenes": [
+        {
+          "name": "洞穴通道",
+          "prompt": "Chinese xianxia style, narrow passage leading deeper into cave, torches on stone walls, ancient cult markings, mysterious red glow from ahead, claustrophobic tunnel, underground passage, ominous atmosphere, high quality, detailed, 8k resolution, no people, no text, no UI elements"
+        },
+        {
+          "name": "洞穴血池",
+          "prompt": "Chinese xianxia style, blood pool in cave center, crimson liquid glowing with evil energy, ancient sacrificial stones around, cult runes carved in walls, terrifying underground altar, dark red lighting, sinister atmosphere, high quality, detailed, 8k resolution, no people, no text, no UI elements"
+        }
+      ],
       "tags": ["室外", "山洞", "祭坛", "恐怖", "修仙", "夜晚"],
       "usage_count": 2,
       "description": "深山峡谷中的主洞穴,魔教进行血祭仪式的场所"
@@ -366,7 +466,16 @@
       "location_type": "室外",
       "time_of_day": "白天",
       "main_prompt": "Chinese xianxia style, cultivation world army marching through sky, countless cultivators riding flying swords, forming spectacular scene over mountains, cloud layer lighting, grand military expedition atmosphere, cultivation world warfare, high quality, detailed, 8k resolution, no people, no text, no UI elements",
-      "sub_scenes": [],
+      "sub_scenes": [
+        {
+          "name": "御剑大军-黄昏",
+          "prompt": "Chinese xianxia style, cultivation army flying at sunset, golden light reflecting off countless flying swords, silhouettes of cultivators against orange sky, grand aerial procession, mountain range below, epic journey atmosphere, high quality, detailed, 8k resolution, no people, no text, no UI elements"
+        },
+        {
+          "name": "夜行军",
+          "prompt": "Chinese xianxia style, cultivators flying through night sky, moonlight illuminating flying swords and figures, starry night background, mountain peaks visible below, mysterious nocturnal journey, ethereal atmosphere, high quality, detailed, 8k resolution, no people, no text, no UI elements"
+        }
+      ],
       "tags": ["室外", "飞行", "行军", "战争", "修仙", "白天"],
       "usage_count": 3,
       "description": "修仙大军在空中御剑飞行,前往战场的壮观景象"
@@ -397,7 +506,16 @@
       "location_type": "室外",
       "time_of_day": "白天",
       "main_prompt": "Chinese xianxia style, East Sea surface massive tsunami waves, ocean disaster aftermath, explosion aftermath on water, coastal city impact, towering waves, disaster scene, terrifying natural forces, high quality, detailed, 8k resolution, no people, no text, no UI elements",
-      "sub_scenes": [],
+      "sub_scenes": [
+        {
+          "name": "东海海啸爆发",
+          "prompt": "Chinese xianxia style, colossal tsunami waves rising from East Sea, water walls reaching sky, catastrophic ocean disaster, coastal cities threatened, terrifying scale of destruction, chaotic water surface, dramatic lighting from above, high quality, detailed, 8k resolution, no people, no text, no UI elements"
+        },
+        {
+          "name": "海面能量爆炸",
+          "prompt": "Chinese xianxia style, massive energy explosion on East Sea surface, brilliant light and water eruptions, shockwaves spreading across ocean, magical catastrophe, water turning into steam near epicenter, spectacular disaster scene, high contrast lighting, high quality, detailed, 8k resolution, no people, no text, no UI elements"
+        }
+      ],
       "tags": ["室外", "海面", "海啸", "灾难", "修仙", "白天"],
       "usage_count": 2,
       "description": "东海海面掀起万丈巨浪的灾难场景"
@@ -408,7 +526,16 @@
       "location_type": "特殊空间",
       "time_of_day": "无",
       "main_prompt": "Chinese xianxia style, space-time tunnel, starry portal, dimensional gateway, brilliant starlight, mysterious energy flowing through passage, ethereal otherworldly atmosphere, cultivation world teleportation, dazzling lights, high quality, detailed, 8k resolution, no people, no text, no UI elements",
-      "sub_scenes": [],
+      "sub_scenes": [
+        {
+          "name": "穿越过程",
+          "prompt": "Chinese xianxia style, mid-teleportation through dimensional tunnel, streaking stars and light streams, body transforming into energy, space warping around, transcendental journey through void, brilliant multicolored light, ethereal transformation, high quality, detailed, 8k resolution, no people, no text, no UI elements"
+        },
+        {
+          "name": "传送出口",
+          "prompt": "Chinese xianxia style, emerging from dimensional portal, bright light at tunnel exit, new world visible ahead, transition point between spaces, energy barrier dissolving, arrival destination glowing, hopeful arrival atmosphere, high quality, detailed, 8k resolution, no people, no text, no UI elements"
+        }
+      ],
       "tags": ["特殊空间", "传送", "时空", "科幻", "修仙", "无时间"],
       "usage_count": 2,
       "description": "穿越时空的星门隧道,星光璀璨"
@@ -428,20 +555,309 @@
       "tags": ["室外", "废墟", "末日", "绝望", "修仙", "昏暗"],
       "usage_count": 4,
       "description": "被完全毁灭的文明废墟,断壁残垣,一片死寂"
+    },
+    {
+      "id": "scene-028",
+      "name": "天竞界浮空平台-白天",
+      "location_type": "特殊空间",
+      "time_of_day": "白天",
+      "main_prompt": "Chinese xianxia style, floating platforms above sea of clouds in cultivation competition realm, countless platforms suspended in sky, energy fluctuations everywhere, cultivators battling and practicing, golden light rays, ethereal atmosphere, high-level cultivators visible, majestic scene, high quality, detailed, 8k resolution, no people, no text, no UI elements",
+      "sub_scenes": [
+        {
+          "name": "天竞界浮台战斗",
+          "prompt": "Chinese xianxia style, intense battle on floating platform, energy explosions, magical artifacts clashing, sword qi crisscrossing, fierce competition atmosphere, bright combat lighting, spectacular martial arts scene, high quality, detailed, 8k resolution, no people, no text, no UI elements"
+        },
+        {
+          "name": "天竞界奇观",
+          "prompt": "Chinese xianxia style, bizarre scenes in competition realm, cultivators riding mythical beasts playing games, immortal singing in clouds, powerful beings playing with planets, surreal cultivation wonderland, colorful energy lights, high quality, detailed, 8k resolution, no people, no text, no UI elements"
+        }
+      ],
+      "tags": ["特殊空间", "浮空平台", "天竞界", "战斗", "修仙", "白天"],
+      "usage_count": 8,
+      "description": "天竞界中的浮空平台,云海之上,无数修士在其中修炼战斗"
+    },
+    {
+      "id": "scene-029",
+      "name": "天竞界天尊台-白天",
+      "location_type": "室外",
+      "time_of_day": "白天",
+      "main_prompt": "Chinese xianxia style, towering Heavenly Venerable Platform rising into clouds, highest peak in competition realm, ancient mysterious architecture, golden light shining from top, path to enlightenment visible, awe-inspiring height, ambitious cultivators gazing up, mysterious opportunity awaits, high quality, detailed, 8k resolution, no people, no text, no UI elements",
+      "sub_scenes": [
+        {
+          "name": "天尊台之巅",
+          "prompt": "Chinese xianxia style, summit of Heavenly Venerable Platform, mystical altar at peak, surrounded by clouds and golden light, source of profound opportunities, sacred cultivation site, ethereal atmosphere, high quality, detailed, 8k resolution, no people, no text, no UI elements"
+        }
+      ],
+      "tags": ["室外", "天尊台", "高处", "机缘", "修仙", "白天"],
+      "usage_count": 3,
+      "description": "天竞界最高的天尊台,高耸入云,传说中有莫大机缘"
+    },
+    {
+      "id": "scene-030",
+      "name": "天地秘境入口-白天",
+      "location_type": "特殊空间",
+      "time_of_day": "白天",
+      "main_prompt": "Chinese xianxia style, massive portal to Heaven Earth Secret Realm opening in sky, brilliant light gate, countless cultivators swarming to enter, spectacular dimensional portal, mysterious energy fluctuations, once in ten thousand years event, grand cultivation opportunity, dazzling lights, high quality, detailed, 8k resolution, no people, no text, no UI elements",
+      "sub_scenes": [
+        {
+          "name": "天地秘境迷宫",
+          "prompt": "Chinese xianxia style, labyrinth interior of secret realm, ancient stone walls, mysterious passages, dim eerie lighting, traps and mechanisms visible, dangerous cultivation environment, mysterious atmosphere, high quality, detailed, 8k resolution, no people, no text, no UI elements"
+        },
+        {
+          "name": "秘境战斗痕迹",
+          "prompt": "Chinese xianxia style, aftermath of battle in secret realm, fresh remains of powerful cultivators, no visible wounds but souls vanished, scattered broken artifacts, ominous signs of mysterious attack, cold lighting, high quality, detailed, 8k resolution, no people, no text, no UI elements"
+        }
+      ],
+      "tags": ["特殊空间", "秘境", "入口", "盛大", "修仙", "白天"],
+      "usage_count": 6,
+      "description": "万年一开的天地秘境入口,巨大的光门吸引无数修士"
+    },
+    {
+      "id": "scene-031",
+      "name": "避世桃源小世界-无时间",
+      "location_type": "特殊空间",
+      "time_of_day": "无",
+      "main_prompt": "Chinese xianxia style, hidden paradise small world sanctuary, beautiful peach blossom forest, clear streams flowing, simple wooden buildings, warm protective light barrier shielding from detection, peaceful refuge atmosphere, survivors resting and healing, tranquil sanctuary, high quality, detailed, 8k resolution, no people, no text, no UI elements",
+      "sub_scenes": [
+        {
+          "name": "桃源被撕裂",
+          "prompt": "Chinese xianxia style, peaceful paradise sanctuary being torn apart, sky ripped open by void creatures, protective barrier shattering, peaceful refuge under attack, contrast between peace and destruction, dramatic lighting, high quality, detailed, 8k resolution, no people, no text, no UI elements"
+        }
+      ],
+      "tags": ["特殊空间", "桃源", "避难所", "和平", "修仙", "无时间"],
+      "usage_count": 4,
+      "description": "特殊的避世桃源小世界,规则特殊能屏蔽外界探测"
+    },
+    {
+      "id": "scene-032",
+      "name": "多元宇宙事务办公室-无时间",
+      "location_type": "室内",
+      "time_of_day": "无",
+      "main_prompt": "Chinese xianxia style, dimensional office space, holographic reports floating in air, administrator workspace mixing ancient cultivation and modern technology, soft blue lighting, digital displays showing multiple worlds data, futuristic cultivation management center, high quality, detailed, 8k resolution, no people, no text, no UI elements",
+      "sub_scenes": [
+        {
+          "name": "办公室紧急警报",
+          "prompt": "Chinese xianxia style, dimensional office with emergency alert activated, red warning lights flashing, holographic screens showing crisis data, urgent atmosphere, administrator workspace on high alert, dramatic red and blue contrast lighting, high quality, detailed, 8k resolution, no people, no text, no UI elements"
+        },
+        {
+          "name": "全息会议室",
+          "prompt": "Chinese xianxia style, holographic conference room for multiverse administration, multiple representatives from different worlds projected, circular meeting table, floating data displays, grand administrative center, cool blue lighting, high quality, detailed, 8k resolution, no people, no text, no UI elements"
+        }
+      ],
+      "tags": ["室内", "办公室", "科幻", "管理", "修仙", "无时间"],
+      "usage_count": 5,
+      "description": "管理多元宇宙事务的办公室,充满科技感"
+    },
+    {
+      "id": "scene-033",
+      "name": "主系统核心控制室-无时间",
+      "location_type": "特殊空间",
+      "time_of_day": "无",
+      "main_prompt": "Chinese xianxia style, main system core control room, massive crystalline supercomputer structure, countless data streams flowing, purple void energy contamination spreading, grand cosmic scale facility, ominous atmosphere of corruption, technological magnificence mixed with danger, high quality, detailed, 8k resolution, no people, no text, no UI elements",
+      "sub_scenes": [
+        {
+          "name": "系统核心被净化",
+          "prompt": "Chinese xianxia style, main system core being purified, golden light dispelling purple corruption, crystalline structure healing, energy of order restoring control, brilliant transformation scene, warm golden lighting replacing ominous purple, high quality, detailed, 8k resolution, no people, no text, no UI elements"
+        }
+      ],
+      "tags": ["特殊空间", "核心控制室", "科技", "重要", "修仙", "无时间"],
+      "usage_count": 4,
+      "description": "主系统核心控制室,巨大的光脑结构,被虚空能量侵蚀"
+    },
+    {
+      "id": "scene-034",
+      "name": "Q-13世界废墟城市-无时间",
+      "location_type": "室外",
+      "time_of_day": "无(天空紫色)",
+      "main_prompt": "Chinese xianxia style, ruined city of advanced technological civilization, crumbling skyscrapers, twisted metal structures, purple sky overhead, void creatures lurking in shadows, post-apocalyptic high-tech wasteland, ominous purple lighting, desperate atmosphere, abandoned technology everywhere, high quality, detailed, 8k resolution, no people, no text, no UI elements",
+      "sub_scenes": [
+        {
+          "name": "废墟街道",
+          "prompt": "Chinese xianxia style, abandoned street in ruined technological city, broken vehicles and debris, dim purple streetlights flickering, void energy residues, crumbling buildings on both sides, eerie silence, high quality, detailed, 8k resolution, no people, no text, no UI elements"
+        },
+        {
+          "name": "地下避难所",
+          "prompt": "Chinese xianxia style, underground bunker shelter in ruined world, crude emergency lighting, simple equipment, desperate survivors' refuge, cramped space, dim warm lighting contrasting with cold outside, survival atmosphere, high quality, detailed, 8k resolution, no people, no text, no UI elements"
+        }
+      ],
+      "tags": ["室外", "废墟", "科幻", "末日", "修仙", "无时间"],
+      "usage_count": 5,
+      "description": "Q-13世界的废墟城市,高级科技文明已化为废墟"
+    },
+    {
+      "id": "scene-035",
+      "name": "虚空裂缝中心-无时间",
+      "location_type": "特殊空间",
+      "time_of_day": "无",
+      "main_prompt": "Chinese xianxia style, massive void rift center in ruined world, enormous purple energy vortex, reality distorting around edges, void creatures emerging, dimensional tearing visible, overwhelming purple light, terrifying cosmic horror atmosphere, high contrast purple and black, high quality, detailed, 8k resolution, no people, no text, no UI elements",
+      "sub_scenes": [
+        {
+          "name": "虚空深处",
+          "prompt": "Chinese xianxia style, deep within void dimension, pure purple energy realm, reality completely broken, crystalline control platform floating, original consciousness struggling, chaotic energy flows, otherworldly atmosphere,超高对比度紫色光芒, high quality, detailed, 8k resolution, no people, no text, no UI elements"
+        }
+      ],
+      "tags": ["特殊空间", "虚空", "裂缝", "恐怖", "修仙", "无时间"],
+      "usage_count": 4,
+      "description": "Q-13世界的虚空裂缝中心,吞噬一切的紫色漩涡"
+    },
+    {
+      "id": "scene-036",
+      "name": "地下灵脉空洞-无时间",
+      "location_type": "特殊空间",
+      "time_of_day": "无",
+      "main_prompt": "Chinese xianxia style, massive underground cavity beneath city, brilliant spiritual energy stream flowing through center like river of light, crystalline formations, ancient mining platform structure with mysterious runes, mystical underground landscape, dazzling colorful lighting, sacred cultivation resource site, high quality, detailed, 8k resolution, no people, no text, no UI elements",
+      "sub_scenes": [
+        {
+          "name": "灵脉能量爆发",
+          "prompt": "Chinese xianxia style, spiritual vein energy going berserk, underground cavity shaking violently, brilliant light flaring uncontrollably, energy waves rippling through space, dangerous atmosphere, crystal formations glowing intensely, high contrast dramatic lighting, high quality, detailed, 8k resolution, no people, no text, no UI elements"
+        }
+      ],
+      "tags": ["特殊空间", "地下", "灵脉", "能量", "修仙", "无时间"],
+      "usage_count": 3,
+      "description": "青州城地下的灵脉空洞,璀璨的能量光带在流动"
+    },
+    {
+      "id": "scene-037",
+      "name": "根源视界系统空间-无时间",
+      "location_type": "特殊空间",
+      "time_of_day": "无",
+      "main_prompt": "Chinese xianxia style, Root Horizon system interface space, transcendental digital realm with cascading data streams, dimensional monitoring displays, multiverse data visualization, blue holographic interface everywhere, consciousness navigation space, ethereal infinite data landscape, cool blue lighting, high quality, detailed, 8k resolution, no people, no text, no UI elements",
+      "sub_scenes": [
+        {
+          "name": "秩序之眼界面",
+          "prompt": "Chinese xianxia style, Order Eye system interface close-up, translucent blue panel displaying world rules, cultivation levels, threat analysis, floating technological elements, mix of ancient cultivation wisdom and modern data display, mysterious system interface, high quality, detailed, 8k resolution, no people, no text, no UI elements"
+        },
+        {
+          "name": "系统商城界面",
+          "prompt": "Chinese xianxia style, system shop interface with glowing items for sale, special effects spiritual stones, cultivation enhancement tools, digital marketplace mixing cultivation and technology, colorful item displays, mysterious trading atmosphere, high quality, detailed, 8k resolution, no people, no text, no UI elements"
+        }
+      ],
+      "tags": ["特殊空间", "系统", "数字化", "根源", "修仙", "无时间"],
+      "usage_count": 6,
+      "description": "根源视界的系统空间,充满数据流和全息界面"
+    },
+    {
+      "id": "scene-038",
+      "name": "宇宙维度间隙-无时间",
+      "location_type": "特殊空间",
+      "time_of_day": "无",
+      "main_prompt": "Chinese xianxia style, dimensional gap between universes, vast cosmic space with colorful energy currents, stars and galaxies visible in distance, various life forms gathering, ethereal otherworldly atmosphere, meeting place for different civilizations, magnificent cosmic scale, brilliant cosmic lighting, high quality, detailed, 8k resolution, no people, no text, no UI elements",
+      "sub_scenes": [
+        {
+          "name": "宇宙文明大会会场",
+          "prompt": "Chinese xianxia style, grand assembly venue in dimensional gap, representatives from countless civilizations gathered, massive holographic displays showing civilization data, diverse life forms, spectacular cosmic meeting place, brilliant multicolored lighting, high quality, detailed, 8k resolution, no people, no text, no UI elements"
+        },
+        {
+          "name": "宇宙考场",
+          "prompt": "Chinese xianxia style, cosmic examination arena, dimensional testing ground with reality warping effects, multiple challenge scenarios unfolding, civilizations being tested, grand scale cosmic trial, mysterious exam atmosphere, high energy lighting, high quality, detailed, 8k resolution, no people, no text, no UI elements"
+        }
+      ],
+      "tags": ["特殊空间", "宇宙", "维度", "宏大", "修仙", "无时间"],
+      "usage_count": 7,
+      "description": "宇宙之间的维度间隙,各种文明汇聚的神秘空间"
+    },
+    {
+      "id": "scene-039",
+      "name": "创造实验室-无时间",
+      "location_type": "室内",
+      "time_of_day": "无",
+      "main_prompt": "Chinese xianxia style, inter-civilization collaboration laboratory, mixing magical cultivation and advanced technology, inventors from different worlds working together, prototype devices, magical artifacts enhanced with science, innovative atmosphere, colorful energy glow from experiments, high quality, detailed, 8k resolution, no people, no text, no UI elements",
+      "sub_scenes": [
+        {
+          "name": "魔法计算机实验室",
+          "prompt": "Chinese xianxia style, laboratory where magic meets technology, enchanted circuit boards, spell-coding interfaces, magical energy powering computational devices, fusion of cultivation and innovation, brilliant multi-colored lighting, high quality, detailed, 8k resolution, no people, no text, no UI elements"
+        },
+        {
+          "name": "创造力展示空间",
+          "prompt": "Chinese xianxia style, innovation showcase space displaying creative inventions, magical machines, hybrid technologies, novel creations from diverse civilizations, celebration of creativity and progress, bright inspiring lighting, high quality, detailed, 8k resolution, no people, no text, no UI elements"
+        }
+      ],
+      "tags": ["室内", "实验室", "创新", "协作", "修仙", "无时间"],
+      "usage_count": 5,
+      "description": "不同文明交流创造的实验室,魔法与科技融合"
+    },
+    {
+      "id": "scene-040",
+      "name": "地球现代实验室-白天",
+      "location_type": "室内",
+      "time_of_day": "白天",
+      "main_prompt": "Chinese xianxia style, modern laboratory on Earth, scientific equipment and computers, prototype dream machine device, students and equipment, bright fluorescent lighting, contemporary scientific atmosphere, white walls and metal surfaces, clean modern space, high quality, detailed, 8k resolution, no people, no text, no UI elements",
+      "sub_scenes": [
+        {
+          "name": "梦想机器原型",
+          "prompt": "Chinese xianxia style, dream machine prototype in laboratory, complex device with glowing energy core, cables and displays, revolutionary invention, blue energy glow, technological breakthrough atmosphere, high quality, detailed, 8k resolution, no people, no text, no UI elements"
+        }
+      ],
+      "tags": ["室内", "实验室", "现代", "科技", "地球", "白天"],
+      "usage_count": 2,
+      "description": "地球上的现代实验室,研发梦想机器的地方"
+    },
+    {
+      "id": "scene-041",
+      "name": "宇宙监考者降临-无时间",
+      "location_type": "特殊空间",
+      "time_of_day": "无",
+      "main_prompt": "Chinese xianxia style, cosmic examiners appearing throughout universe, massive geometric structures materializing in space, dimension-shaking presence, overwhelming power, reality warping around them, supreme cosmic authority, terrifying examination atmosphere, high contrast lighting, high quality, detailed, 8k resolution, no people, no text, no UI elements",
+      "sub_scenes": [
+        {
+          "name": "宇宙考试现场",
+          "prompt": "Chinese xianxia style, universe undergoing great filter examination, dimensional fluctuations testing civilizations, multiple crisis scenarios, resources depleting then recovering, cosmic trial unfolding, dramatic energy lighting, high quality, detailed, 8k resolution, no people, no text, no UI elements"
+        }
+      ],
+      "tags": ["特殊空间", "宇宙", "考试", "监考者", "宏大", "无时间"],
+      "usage_count": 4,
+      "description": "宇宙大过滤器考试现场,监考者降临考核文明"
+    },
+    {
+      "id": "scene-042",
+      "name": "抵抗军据点-无时间",
+      "location_type": "特殊空间",
+      "time_of_day": "无",
+      "main_prompt": "Chinese xianxia style, resistance forces hidden base, anti-civilization militant headquarters, weapons and equipment targeting order maintainers, rebellion banners, fortified position in dimensional space, tense atmosphere, dim military lighting, high quality, detailed, 8k resolution, no people, no text, no UI elements",
+      "sub_scenes": [
+        {
+          "name": "抵抗军破坏现场",
+          "prompt": "Chinese xianxia style, aftermath of resistance attack, hacked systems, corrupted textbooks showing false information, stolen artifacts, chaos and disruption visible, rebellious atmosphere, alarm lighting flashing, high quality, detailed, 8k resolution, no people, no text, no UI elements"
+        }
+      ],
+      "tags": ["特殊空间", "抵抗军", "据点", "冲突", "修仙", "无时间"],
+      "usage_count": 3,
+      "description": "反文明抵抗军的据点,专门破坏备考工作"
+    },
+    {
+      "id": "scene-043",
+      "name": "宇宙庆祝-无时间",
+      "location_type": "特殊空间",
+      "time_of_day": "无",
+      "main_prompt": "Chinese xianxia style, entire universe celebrating after passing exam, countless civilizations rejoicing together, spectacular cosmic celebration, energy displays, fireworks of light across galaxies, joyful atmosphere, brilliant multicolored lighting throughout cosmos, triumph and hope, high quality, detailed, 8k resolution, no people, no text, no UI elements",
+      "sub_scenes": [
+        {
+          "name": "文明欢庆",
+          "prompt": "Chinese xianxia style, different civilizations celebrating in their unique ways, magical light displays, technological shows, exotic celebrations across planets, diverse expressions of joy, cultural festivities visible from space, brilliant multicolored lights, high quality, detailed, 8k resolution, no people, no text, no UI elements"
+        },
+        {
+          "name": "能量烟花",
+          "prompt": "Chinese xianxia style, spectacular cosmic fireworks display across galaxies, pure energy explosions forming beautiful patterns in space, civilizations' celebrations visible as brilliant light shows, joy spreading through universe, dazzling celebration, multicolored energy bursts, high quality, detailed, 8k resolution, no people, no text, no UI elements"
+        }
+      ],
+      "tags": ["特殊空间", "宇宙", "庆祝", "欢乐", "修仙", "无时间"],
+      "usage_count": 2,
+      "description": "宇宙通过考试后的盛大庆祝,所有文明共同欢呼"
     }
   ],
   "metadata": {
-    "version": "1.0",
+    "version": "2.0",
     "created_date": "2026-01-14",
-    "total_scenes": 27,
-    "description": "Background scene prompts for cultivation novel '天魔系统', featuring various locations from humble sect to grand gatherings, all in Chinese xianxia style without people or text",
+    "updated_date": "2026-01-14",
+    "total_scenes": 43,
+    "description": "Background scene prompts for cultivation novel '天魔系统', featuring various locations from humble sect to cosmic dimensions, all in Chinese xianxia style without people or text",
     "prompt_style": "Chinese xianxia cultivation style, detailed visual descriptions, 8k resolution quality",
     "usage_guideline": "All prompts specify 'no people, no text, no UI elements' to ensure clean background images suitable for composition with characters later",
     "scene_categories": {
-      "indoor": 7,
-      "outdoor": 16,
-      "special": 4
+      "indoor": 10,
+      "outdoor": 19,
+      "special": 14
     },
-    "notes": "Generated based on storyboard chapters 1-22, covering main locations and time variations. Each scene includes 2-3 sub-scenes with different times or weather conditions."
+    "notes": "Comprehensive expansion based on storyboard chapters 1-34. Original 27 scenes enriched with multiple time/weather variants (dawn, dusk, night, snow, rain). Added 16 new major scene categories including: Tianjing Realm floating platforms, Multiverse Administration Office, Secret Realms, Void Rifts, Cosmic Exam Arenas, etc. Each main scene now includes 2-5 sub-scenes covering different conditions, times, and related locations. Total sub-scene count exceeds 120 variations."
   }
 }
