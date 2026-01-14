@@ -3,54 +3,39 @@
     "shot_id": "EP05-S001",
     "chapter_number": 5,
     "scene_number": 1,
-    "duration": 7,
+    "duration": 6,
     "shot_type": "全景",
-    "location": "青云宗山门",
-    "time_of_day": "上午",
+    "location": "青云宗",
+    "time_of_day": "白天",
     "composition": {
-      "camera_position": "山门外拍摄",
-      "camera_movement": "缓慢推近",
-      "framing": "广角构图",
+      "camera_position": "高角度俯拍",
+      "camera_movement": "缓慢推镜",
+      "framing": "宗门全景",
       "focus_type": "整体清晰"
     },
-    "characters": [
-      {
-        "name": "各大宗门使者",
-        "position": "山门外,齐集",
-        "action": "联名上书,要求分享",
-        "expression": "期待 → 贪婪",
-        "costume": "各宗服饰"
-      },
-      {
-        "name": "顾玄",
-        "position": "山门内,应对",
-        "action": "淡定应对",
-        "expression": "表面淡定",
-        "costume": "粗布麻衣"
-      }
-    ],
+    "characters": [],
     "visual_effects": {
-      "environment": "山门前人山人海",
+      "environment": "青云宗全景",
       "lighting": "明亮日光",
-      "color_palette": "热闹色调",
-      "special_effects": "无"
+      "color_palette": "温暖明亮",
+      "special_effects": "宗门焕然一新,屋顶不再漏雨,整体有了些宗门样子"
     },
     "audio": {
-      "dialogue": "众使者: '顾宗师！特效之法乃无上之宝！应当共享！'",
-      "narration": "",
-      "internal_monologue": "顾玄: 共享你大爷！",
-      "background_music": "紧张带幽默",
-      "sound_effects": ["嘈杂人声"],
-      "volume_level": "人声突出"
+      "dialogue": "",
+      "narration": "有了灵石支撑,青云宗总算有了点宗门的样子——至少屋顶不再漏雨,餐桌上偶尔能见着荤腥。",
+      "internal_monologue": "",
+      "background_music": "温馨轻快",
+      "sound_effects": [],
+      "volume_level": "旁白清晰"
     },
     "editing": {
       "transition_to_next": "直接切",
-      "pacing": "紧张",
-      "purpose": "引入外部压力"
+      "pacing": "舒缓",
+      "purpose": "开场展示变化"
     },
     "notes": {
-      "production_note": "营造压迫感",
-      "reference_style": "仙侠场面",
+      "production_note": "展示宗门变化",
+      "reference_style": "温馨开场",
       "difficulty_level": "简单"
     }
   },
@@ -58,205 +43,1317 @@
     "shot_id": "EP05-S002",
     "chapter_number": 5,
     "scene_number": 2,
-    "duration": 6,
+    "duration": 7,
     "shot_type": "中景",
-    "location": "青云宗密室",
-    "time_of_day": "午后",
+    "location": "青云宗后院",
+    "time_of_day": "白天",
     "composition": {
-      "camera_position": "密室内拍摄",
-      "camera_movement": "固定镜头",
+      "camera_position": "侧面拍摄",
+      "camera_movement": "跟随拍摄",
       "framing": "双人构图",
-      "focus_type": "两人清晰"
+      "focus_type": "动作与表情"
     },
     "characters": [
       {
-        "name": "顾玄",
-        "position": "画面左侧",
-        "action": "查看系统,思考对策",
-        "expression": "担忧 → 坚定",
-        "costume": "粗布麻衣"
+        "name": "陆尘",
+        "position": "画面中央",
+        "action": "练习奔雷剑法",
+        "expression": "专注投入",
+        "costume": "新道袍"
       },
       {
-        "name": "李道玄",
-        "position": "画面右侧",
-        "action": "担忧宗门未来",
-        "expression": "忧虑",
-        "costume": "掌门袍"
+        "name": "顾玄",
+        "position": "一旁观看",
+        "action": "观察剑法",
+        "expression": "震惊担忧",
+        "costume": "新道袍"
       }
     ],
     "visual_effects": {
-      "environment": "密室内",
-      "lighting": "昏暗灯光",
-      "color_palette": "压抑色调",
-      "special_effects": "系统界面浮现在顾玄眼前"
+      "environment": "后院空地",
+      "lighting": "自然光+电光",
+      "color_palette": "明亮+雷电蓝",
+      "special_effects": "陆尘剑招间隐有风雷之势,电光闪烁"
     },
     "audio": {
-      "dialogue": "李道玄: '徒儿,各大宗门步步紧逼,我们该如何是好？'",
-      "narration": "",
-      "internal_monologue": "顾玄: 得搞点真东西出来了...",
-      "background_music": "压抑带思考",
-      "sound_effects": [],
-      "volume_level": "对话清晰"
+      "dialogue": "",
+      "narration": "陆尘的'奔雷剑法'进展神速,虽然灵力依旧微弱,但一招一式间已隐有风雷之势。顾玄看得心惊肉跳。",
+      "internal_monologue": "顾玄: 越发确信这世界肯定哪里出了问题。",
+      "background_music": "震撼带疑惑",
+      "sound_effects": ["剑气破空", "轻微雷声"],
+      "volume_level": "音效突出"
     },
     "editing": {
       "transition_to_next": "直接切",
-      "pacing": "压抑",
-      "purpose": "展现困境"
+      "pacing": "明快",
+      "purpose": "展示陆尘进步"
     },
     "notes": {
-      "production_note": "注重氛围",
-      "reference_style": "紧张场景",
-      "difficulty_level": "简单"
+      "production_note": "动作+特效",
+      "reference_style": "仙侠修炼",
+      "difficulty_level": "中等"
     }
   },
   {
     "shot_id": "EP05-S003",
     "chapter_number": 5,
     "scene_number": 3,
-    "duration": 8,
-    "shot_type": "特效特写",
-    "location": "青云宗后山",
-    "time_of_day": "夜晚",
+    "duration": 6,
+    "shot_type": "中景",
+    "location": "青云宗主殿",
+    "time_of_day": "清晨",
     "composition": {
-      "camera_position": "环绕拍摄",
-      "camera_movement": "快速环绕",
-      "framing": "动态构图",
-      "focus_type": "特效突出"
+      "camera_position": "正面拍摄",
+      "camera_movement": "固定镜头",
+      "framing": "三人构图",
+      "focus_type": "群体清晰"
     },
     "characters": [
       {
-        "name": "顾玄",
+        "name": "李道玄",
         "position": "画面中央",
-        "action": "尝试突破,天魔之力躁动",
-        "expression": "痛苦 → 坚定",
-        "costume": "粗布麻衣"
+        "action": "宣布消息",
+        "expression": "面色凝重",
+        "costume": "掌门袍"
+      },
+      {
+        "name": "顾玄",
+        "position": "画面左侧",
+        "action": "听取消息",
+        "expression": "惊讶担忧",
+        "costume": "新道袍"
+      },
+      {
+        "name": "陆尘",
+        "position": "画面右侧",
+        "action": "认真聆听",
+        "expression": "好奇",
+        "costume": "新道袍"
       }
     ],
     "visual_effects": {
-      "environment": "后山夜空",
-      "lighting": "月光+异色光芒",
-      "color_palette": "神秘色调",
-      "special_effects": "天魔之力躁动,黑金双色光芒交织,恐怖威压引发天地异象"
+      "environment": "主殿内",
+      "lighting": "殿内光线",
+      "color_palette": "自然色调",
+      "special_effects": ""
     },
     "audio": {
-      "dialogue": "",
+      "dialogue": "李道玄: '十年一度的青州宗门大比下月就要开始了。'...",
       "narration": "",
-      "internal_monologue": "该死！天魔之力又失控了！",
-      "background_music": "紧张震撼",
-      "sound_effects": ["能量涌动", "系统警告音"],
-      "volume_level": "紧张氛围"
+      "internal_monologue": "",
+      "background_music": "严肃正式",
+      "sound_effects": [],
+      "volume_level": "对话清晰"
     },
     "editing": {
-      "transition_to_next": "快速切",
-      "pacing": "紧张",
-      "purpose": "天魔之力异动"
+      "transition_to_next": "直接切",
+      "pacing": "稳重",
+      "purpose": "引入事件"
     },
     "notes": {
-      "production_note": "大量特效",
-      "reference_style": "仙侠突破",
-      "difficulty_level": "复杂"
+      "production_note": "正式场景",
+      "reference_style": "剧情推进",
+      "difficulty_level": "简单"
     }
   },
   {
     "shot_id": "EP05-S004",
     "chapter_number": 5,
-    "scene_number": 4,
-    "duration": 7,
-    "shot_type": "全景",
-    "location": "青云宗演武场",
-    "time_of_day": "次日清晨",
+    "scene_number": 3,
+    "duration": 5,
+    "shot_type": "特写",
+    "location": "青云宗主殿",
+    "time_of_day": "清晨",
     "composition": {
-      "camera_position": "高角度俯拍",
-      "camera_movement": "缓慢推近",
-      "framing": "大场面",
-      "focus_type": "整体清晰"
+      "camera_position": "大特写",
+      "camera_movement": "推镜",
+      "framing": "面部表情",
+      "focus_type": "震惊细节"
     },
     "characters": [
       {
         "name": "顾玄",
-        "position": "演武场中央",
-        "action": "向各大宗门展示",
-        "expression": "自信(勉强)",
-        "costume": "粗布麻衣"
-      },
-      {
-        "name": "各大宗门代表",
-        "position": "四周围观",
-        "action": "屏息凝神观看",
-        "expression": "好奇 → 震撼",
-        "costume": "各宗服饰"
+        "position": "画面中央",
+        "action": "内心震惊",
+        "expression": "目瞪口呆",
+        "costume": "新道袍"
       }
     ],
     "visual_effects": {
-      "environment": "演武场,人山人海",
-      "lighting": "晨光+特效光",
-      "color_palette": "明亮+特效色",
-      "special_effects": "顾玄展示特效修炼法,金光大盛,震撼全场"
+      "environment": "主殿内",
+      "lighting": "殿内光线",
+      "color_palette": "自然",
+      "special_effects": ""
     },
     "audio": {
-      "dialogue": "顾玄: '此乃特效修炼法,可快速提升修为！'",
+      "dialogue": "",
       "narration": "",
-      "internal_monologue": "快信啊！不然露馅了！",
-      "background_music": "震撼恢弘",
-      "sound_effects": ["金光爆发", "全场惊呼"],
-      "volume_level": "震撼突出"
+      "internal_monologue": "顾玄: 宗门大比?就我们这破宗门?去给人当沙包吗?",
+      "background_music": "紧张带幽默",
+      "sound_effects": [],
+      "volume_level": "内心独白突出"
     },
     "editing": {
       "transition_to_next": "直接切",
-      "pacing": "震撼",
-      "purpose": "展示实力,震慑各方"
+      "pacing": "快速",
+      "purpose": "内心震惊"
     },
     "notes": {
-      "production_note": "大场面制作",
-      "reference_style": "仙侠展示",
-      "difficulty_level": "中等"
+      "production_note": "心理反应",
+      "reference_style": "喜剧风格",
+      "difficulty_level": "简单"
     }
   },
   {
     "shot_id": "EP05-S005",
     "chapter_number": 5,
-    "scene_number": 5,
+    "scene_number": 3,
     "duration": 8,
-    "shot_type": "全景",
-    "location": "青云宗",
-    "time_of_day": "黄昏",
+    "shot_type": "近景",
+    "location": "青云宗主殿",
+    "time_of_day": "清晨",
     "composition": {
-      "camera_position": "远景拍摄",
-      "camera_movement": "缓慢拉远",
-      "framing": "广角",
-      "focus_type": "全景清晰"
+      "camera_position": "正面拍摄",
+      "camera_movement": "推镜",
+      "framing": "对话构图",
+      "focus_type": "表情互动"
     },
     "characters": [
       {
         "name": "顾玄",
-        "position": "后山山顶",
-        "action": "独自思索未来",
-        "expression": "忧虑 → 坚定",
-        "costume": "粗布麻衣"
+        "position": "画面左侧",
+        "action": "震惊拒绝",
+        "expression": "崩溃",
+        "costume": "新道袍"
+      },
+      {
+        "name": "李道玄",
+        "position": "画面右侧",
+        "action": "鼓励拍肩",
+        "expression": "语重心长",
+        "costume": "掌门袍"
       }
     ],
     "visual_effects": {
-      "environment": "夕阳西下,青云宗全景",
-      "lighting": "黄昏金光",
-      "color_palette": "温暖色调",
-      "special_effects": "无"
+      "environment": "主殿内",
+      "lighting": "殿内光线",
+      "color_palette": "自然",
+      "special_effects": ""
+    },
+    "audio": {
+      "dialogue": "顾玄: '掌门,我才筑基期啊!去参加宗门大比?那些参赛的可都是各派精英,最少也是金丹初期!'\n李道玄: '徒儿啊,你要对自己有信心。想想那天的天雷,想想你教出来的奔雷剑法...'",
+      "narration": "",
+      "internal_monologue": "顾玄: 那都是运气!运气啊掌门!",
+      "background_music": "幽默带无奈",
+      "sound_effects": [],
+      "volume_level": "对话清晰"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "对话",
+      "purpose": "展示冲突"
+    },
+    "notes": {
+      "production_note": "对话场景",
+      "reference_style": "师徒互动",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP05-S006",
+    "chapter_number": 5,
+    "scene_number": 4,
+    "duration": 8,
+    "shot_type": "远景",
+    "location": "青州城中心广场",
+    "time_of_day": "次日白天",
+    "composition": {
+      "camera_position": "高角度俯拍",
+      "camera_movement": "缓慢旋转",
+      "framing": "广角大场面",
+      "focus_type": "全景清晰"
+    },
+    "characters": [],
+    "visual_effects": {
+      "environment": "广场人山人海",
+      "lighting": "明亮日光",
+      "color_palette": "热闹色调",
+      "special_effects": "数十个宗门旗帜飘扬,法器光芒闪烁,修仙界盛会"
     },
     "audio": {
       "dialogue": "",
-      "narration": "风波暂平,但顾玄知道,这只是开始...",
-      "internal_monologue": "特效总有耗尽的一天,我得想办法...",
-      "background_music": "悠扬带忧虑",
+      "narration": "次日,青州城中心广场人山人海。数十个宗门旗帜飘扬,弟子们个个精神抖擞,法器光芒闪烁,俨然一场修仙界盛会。",
+      "internal_monologue": "",
+      "background_music": "热闹恢弘",
+      "sound_effects": ["人声鼎沸", "旗帜飘扬"],
+      "volume_level": "环境音突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "大气",
+      "purpose": "展示场面"
+    },
+    "notes": {
+      "production_note": "大场面制作",
+      "reference_style": "仙侠盛会",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP05-S007",
+    "chapter_number": 5,
+    "scene_number": 4,
+    "duration": 6,
+    "shot_type": "中景",
+    "location": "青州城中心广场",
+    "time_of_day": "次日白天",
+    "composition": {
+      "camera_position": "侧面拍摄",
+      "camera_movement": "推镜",
+      "framing": "对比构图",
+      "focus_type": "对比突出"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "画面左侧角落",
+        "action": "寒酸站立",
+        "expression": "淡定(内心无奈)",
+        "costume": "洗得发白的新道袍"
+      },
+      {
+        "name": "陆尘",
+        "position": "顾玄身旁",
+        "action": "紧张站立",
+        "expression": "不安",
+        "costume": "洗得发白的新道袍"
+      },
+      {
+        "name": "其他宗门弟子",
+        "position": "画面右侧",
+        "action": "精神抖擞",
+        "expression": "傲慢",
+        "costume": "精美法器,华丽服饰"
+      }
+    ],
+    "visual_effects": {
+      "environment": "广场角落",
+      "lighting": "日光",
+      "color_palette": "对比色调",
+      "special_effects": "其他宗门法器光芒闪烁,与青云宗寒酸形成对比"
+    },
+    "audio": {
+      "dialogue": "众人: '快看,那不是青云宗的特效仙人吗?''哈哈哈他们也敢来参赛?''旁边那个是他们新收的弟子?连灵根都没有吧?'",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "尴尬带幽默",
+      "sound_effects": ["嘲讽声", "议论声"],
+      "volume_level": "对话清晰"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "尴尬",
+      "purpose": "对比寒酸"
+    },
+    "notes": {
+      "production_note": "对比场景",
+      "reference_style": "喜剧风格",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP05-S008",
+    "chapter_number": 5,
+    "scene_number": 4,
+    "duration": 5,
+    "shot_type": "特写",
+    "location": "青州城中心广场",
+    "time_of_day": "次日白天",
+    "composition": {
+      "camera_position": "推镜",
+      "camera_movement": "快速推镜",
+      "framing": "双人特写",
+      "focus_type": "表情细节"
+    },
+    "characters": [
+      {
+        "name": "陆尘",
+        "position": "画面左侧",
+        "action": "生气",
+        "expression": "脸色发红,愤怒",
+        "costume": "新道袍"
+      },
+      {
+        "name": "顾玄",
+        "position": "画面右侧",
+        "action": "面无表情",
+        "expression": "淡定麻木",
+        "costume": "新道袍"
+      }
+    ],
+    "visual_effects": {
+      "environment": "广场",
+      "lighting": "日光",
+      "color_palette": "自然",
+      "special_effects": ""
+    },
+    "audio": {
+      "dialogue": "",
+      "narration": "嘲讽声不绝于耳。陆尘气得脸色发红,顾玄却面无表情——习惯了,这几年他听过的嘲讽能编成一本词典。",
+      "internal_monologue": "",
+      "background_music": "轻松带无奈",
       "sound_effects": [],
-      "volume_level": "音乐为主"
+      "volume_level": "旁白清晰"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "快速",
+      "purpose": "反应镜头"
+    },
+    "notes": {
+      "production_note": "表情对比",
+      "reference_style": "人物刻画",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP05-S009",
+    "chapter_number": 5,
+    "scene_number": 5,
+    "duration": 6,
+    "shot_type": "近景",
+    "location": "广场三号擂台",
+    "time_of_day": "白天",
+    "composition": {
+      "camera_position": "侧面拍摄",
+      "camera_movement": "推镜",
+      "framing": "双人构图",
+      "focus_type": "对话"
+    },
+    "characters": [
+      {
+        "name": "陆尘",
+        "position": "画面左侧",
+        "action": "紧张询问",
+        "expression": "担忧",
+        "costume": "新道袍"
+      },
+      {
+        "name": "顾玄",
+        "position": "画面右侧",
+        "action": "查看名单",
+        "expression": "脸色一沉",
+        "costume": "新道袍"
+      }
+    ],
+    "visual_effects": {
+      "environment": "擂台旁",
+      "lighting": "日光",
+      "color_palette": "自然",
+      "special_effects": ""
+    },
+    "audio": {
+      "dialogue": "陆尘: '师兄,我们在哪个擂台?'",
+      "narration": "",
+      "internal_monologue": "顾玄: 完了完了,三号擂台,正好有玄天剑宗的人!还是那个经常嘲讽我的赵铭!",
+      "background_music": "紧张悬疑",
+      "sound_effects": [],
+      "volume_level": "对话清晰"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "紧张",
+      "purpose": "发现危机"
+    },
+    "notes": {
+      "production_note": "悬疑氛围",
+      "reference_style": "紧张场景",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP05-S010",
+    "chapter_number": 5,
+    "scene_number": 6,
+    "duration": 7,
+    "shot_type": "全景",
+    "location": "广场三号擂台",
+    "time_of_day": "白天",
+    "composition": {
+      "camera_position": "高角度俯拍",
+      "camera_movement": "俯瞰擂台",
+      "framing": "擂台全景",
+      "focus_type": "整体清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "擂台最角落",
+        "action": "缩在角落",
+        "expression": "紧张计算",
+        "costume": "新道袍,手持锈迹铁剑"
+      },
+      {
+        "name": "其他参赛者",
+        "position": "擂台各处",
+        "action": "混战",
+        "expression": "激烈",
+        "costume": "各宗服饰"
+      }
+    ],
+    "visual_effects": {
+      "environment": "擂台",
+      "lighting": "日光",
+      "color_palette": "激烈色调",
+      "special_effects": "剑气纵横,法术乱飞"
+    },
+    "audio": {
+      "dialogue": "裁判: '开始!'",
+      "narration": "裁判一声令下,擂台顿时乱成一片。剑气纵横,法术乱飞,不时有人被打下台去。",
+      "internal_monologue": "顾玄: 就是现在!看准空档准备跳台认输。",
+      "background_music": "紧张激烈",
+      "sound_effects": ["剑气破空", "法术轰鸣"],
+      "volume_level": "战斗音效突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "激烈",
+      "purpose": "混战开始"
+    },
+    "notes": {
+      "production_note": "混战场面",
+      "reference_style": "战斗场面",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP05-S011",
+    "chapter_number": 5,
+    "scene_number": 7,
+    "duration": 6,
+    "shot_type": "中景",
+    "location": "广场三号擂台",
+    "time_of_day": "白天",
+    "composition": {
+      "camera_position": "跟随拍摄",
+      "camera_movement": "快速跟随",
+      "framing": "动态构图",
+      "focus_type": "动作连贯"
+    },
+    "characters": [
+      {
+        "name": "赵铭",
+        "position": "画面中央",
+        "action": "气势汹汹冲来",
+        "expression": "愤怒狂妄",
+        "costume": "玄天剑宗弟子服,手持灵剑"
+      },
+      {
+        "name": "顾玄",
+        "position": "画面前方",
+        "action": "准备跳台",
+        "expression": "惊慌",
+        "costume": "新道袍"
+      }
+    ],
+    "visual_effects": {
+      "environment": "擂台",
+      "lighting": "日光",
+      "color_palette": "激烈",
+      "special_effects": "赵铭一剑劈开两个对手,剑气凌厉"
+    },
+    "audio": {
+      "dialogue": "赵铭: '顾玄!可算找到你了!今天我就让大伙看看你这特效仙人的真面目!'\n顾玄: '赵铭,我劝你善良。若非顾某修为被天道封印,一根手指就能碾死你。'",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "紧张带幽默",
+      "sound_effects": ["剑气破空"],
+      "volume_level": "对话清晰"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "激烈",
+      "purpose": "冲突升级"
+    },
+    "notes": {
+      "production_note": "动作场面",
+      "reference_style": "仙侠战斗",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP05-S012",
+    "chapter_number": 5,
+    "scene_number": 8,
+    "duration": 8,
+    "shot_type": "中景",
+    "location": "广场三号擂台",
+    "time_of_day": "白天",
+    "composition": {
+      "camera_position": "多角度拍摄",
+      "camera_movement": "快速切换",
+      "framing": "动态构图",
+      "focus_type": "动作与特效"
+    },
+    "characters": [
+      {
+        "name": "赵铭",
+        "position": "画面中央",
+        "action": "施展成名绝技",
+        "expression": "自信凶狠",
+        "costume": "玄天剑宗弟子服"
+      },
+      {
+        "name": "顾玄",
+        "position": "防御姿态",
+        "action": "下意识格挡",
+        "expression": "惊恐",
+        "costume": "新道袍"
+      }
+    ],
+    "visual_effects": {
+      "environment": "擂台",
+      "lighting": "日光+剑光",
+      "color_palette": "激烈+剑光白",
+      "special_effects": "玄天剑法展开,道道剑光如网般罩向顾玄,天罗地网"
+    },
+    "audio": {
+      "dialogue": "",
+      "narration": "玄天剑法展开,道道剑光如网般罩向顾玄。这招'天罗地网'是赵铭的成名绝技,曾越级战胜过金丹中期修士。",
+      "internal_monologue": "顾玄: 吓得魂飞魄散!",
+      "background_music": "紧张震撼",
+      "sound_effects": ["剑光纵横", "剑气破空"],
+      "volume_level": "战斗音效突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "激烈",
+      "purpose": "绝技展示"
+    },
+    "notes": {
+      "production_note": "特效+动作",
+      "reference_style": "仙侠绝技",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP05-S013",
+    "chapter_number": 5,
+    "scene_number": 9,
+    "duration": 6,
+    "shot_type": "特写",
+    "location": "广场三号擂台",
+    "time_of_day": "白天",
+    "composition": {
+      "camera_position": "慢动作",
+      "camera_movement": "跟随铁剑",
+      "framing": "物体特写",
+      "focus_type": "细节清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "画面背景",
+        "action": "被击退",
+        "expression": "痛苦",
+        "costume": "新道袍"
+      }
+    ],
+    "visual_effects": {
+      "environment": "擂台",
+      "lighting": "日光+光芒",
+      "color_palette": "激烈+刺眼光芒",
+      "special_effects": "两剑相交,铁剑脱手飞出,剑柄镶嵌的劣质灵石爆发出刺目光芒"
+    },
+    "audio": {
+      "dialogue": "",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "震撼",
+      "sound_effects": ["铛", "光芒爆发"],
+      "volume_level": "音效突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "震撼",
+      "purpose": "关键转折"
+    },
+    "notes": {
+      "production_note": "特效重点",
+      "reference_style": "仙侠特效",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP05-S014",
+    "chapter_number": 5,
+    "scene_number": 10,
+    "duration": 7,
+    "shot_type": "中景",
+    "location": "广场三号擂台",
+    "time_of_day": "白天",
+    "composition": {
+      "camera_position": "侧面拍摄",
+      "camera_movement": "跟随动作",
+      "framing": "动作构图",
+      "focus_type": "动作连贯"
+    },
+    "characters": [
+      {
+        "name": "赵铭",
+        "position": "画面中央",
+        "action": "被晃眼,脚下打滑",
+        "expression": "闭眼,失去平衡",
+        "costume": "玄天剑宗弟子服"
+      }
+    ],
+    "visual_effects": {
+      "environment": "擂台",
+      "lighting": "日光",
+      "color_palette": "自然",
+      "special_effects": "赵铭下意识闭眼,脚下踩到钢珠突然一滑"
+    },
+    "audio": {
+      "dialogue": "",
+      "narration": "这光芒恰好晃到了赵铭的眼睛。赵铭下意识闭眼,手中剑势一滞。而他脚下不知踩到了谁掉落的一颗钢珠,突然一滑!",
+      "internal_monologue": "",
+      "background_music": "滑稽带震撼",
+      "sound_effects": ["滑倒声", "咚"],
+      "volume_level": "音效突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "滑稽",
+      "purpose": "意外发生"
+    },
+    "notes": {
+      "production_note": "喜剧意外",
+      "reference_style": "滑稽战斗",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP05-S015",
+    "chapter_number": 5,
+    "scene_number": 10,
+    "duration": 5,
+    "shot_type": "特写",
+    "location": "广场三号擂台",
+    "time_of_day": "白天",
+    "composition": {
+      "camera_position": "俯拍",
+      "camera_movement": "固定",
+      "framing": "单人特写",
+      "focus_type": "状态清晰"
+    },
+    "characters": [
+      {
+        "name": "赵铭",
+        "position": "画面中央",
+        "action": "昏死过去",
+        "expression": "眼睛翻白",
+        "costume": "玄天剑宗弟子服"
+      }
+    ],
+    "visual_effects": {
+      "environment": "擂台边缘",
+      "lighting": "日光",
+      "color_palette": "自然",
+      "special_effects": "额头撞在擂台边缘石柱上"
+    },
+    "audio": {
+      "dialogue": "",
+      "narration": "本来稳操胜券的金丹修士,就这么在众目睽睽之下表演了个标准的平地摔。额头正好撞在擂台边缘的石柱上!",
+      "internal_monologue": "",
+      "background_music": "滑稽震撼",
+      "sound_effects": ["咚", "全场寂静"],
+      "volume_level": "寂静突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "震撼",
+      "purpose": "意外结果"
+    },
+    "notes": {
+      "production_note": "喜剧高潮",
+      "reference_style": "滑稽风格",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP05-S016",
+    "chapter_number": 5,
+    "scene_number": 11,
+    "duration": 6,
+    "shot_type": "全景",
+    "location": "广场",
+    "time_of_day": "白天",
+    "composition": {
+      "camera_position": "环绕拍摄",
+      "camera_movement": "快速环绕",
+      "framing": "群体反应",
+      "focus_type": "反应各异"
+    },
+    "characters": [
+      {
+        "name": "围观群众",
+        "position": "擂台四周",
+        "action": "目瞪口呆",
+        "expression": "震惊懵逼",
+        "costume": "各色服饰"
+      }
+    ],
+    "visual_effects": {
+      "environment": "广场",
+      "lighting": "日光",
+      "color_palette": "自然",
+      "special_effects": ""
+    },
+    "audio": {
+      "dialogue": "众人: '看到了吗?顾玄一招就打败了赵铭!''那是什么剑法?弃剑术?''莫非是失传已久的飞剑惊鸿?''特效仙人原来是真大佬!'",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "震撼带困惑",
+      "sound_effects": ["议论纷纷"],
+      "volume_level": "议论声突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "震撼",
+      "purpose": "群众反应"
+    },
+    "notes": {
+      "production_note": "群体反应",
+      "reference_style": "群众场面",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP05-S017",
+    "chapter_number": 5,
+    "scene_number": 11,
+    "duration": 5,
+    "shot_type": "特写",
+    "location": "广场三号擂台",
+    "time_of_day": "白天",
+    "composition": {
+      "camera_position": "大特写",
+      "camera_movement": "固定",
+      "framing": "面部表情",
+      "focus_type": "懵逼细节"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "画面中央",
+        "action": "茫然站立",
+        "expression": "完全懵逼",
+        "costume": "新道袍"
+      }
+    ],
+    "visual_effects": {
+      "environment": "擂台",
+      "lighting": "日光",
+      "color_palette": "自然",
+      "special_effects": ""
+    },
+    "audio": {
+      "dialogue": "",
+      "narration": "",
+      "internal_monologue": "顾玄: 我不是,我没有,别瞎说啊!完全没搞懂发生了什么。",
+      "background_music": "懵逼带困惑",
+      "sound_effects": [],
+      "volume_level": "内心独白清晰"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "困惑",
+      "purpose": "主角懵逼"
+    },
+    "notes": {
+      "production_note": "喜剧效果",
+      "reference_style": "心理刻画",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP05-S018",
+    "chapter_number": 5,
+    "scene_number": 12,
+    "duration": 10,
+    "shot_type": "中景",
+    "location": "广场三号擂台",
+    "time_of_day": "白天",
+    "composition": {
+      "camera_position": "多角度拍摄",
+      "camera_movement": "快速跟随",
+      "framing": "动态构图",
+      "focus_type": "动作与巧合"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "画面中央",
+        "action": "抱头鼠窜",
+        "expression": "惊恐万分",
+        "costume": "新道袍"
+      },
+      {
+        "name": "陆尘",
+        "position": "顾玄身后",
+        "action": "格挡支援",
+        "expression": "紧张",
+        "costume": "新道袍"
+      },
+      {
+        "name": "其他参赛者",
+        "position": "围攻",
+        "action": "同时攻击",
+        "expression": "恐惧",
+        "costume": "各宗服饰"
+      }
+    ],
+    "visual_effects": {
+      "environment": "擂台",
+      "lighting": "日光+各种法术光芒",
+      "color_palette": "混乱激烈",
+      "special_effects": "各种剑气法术铺天盖地,陆尘木剑迸发电光"
+    },
+    "audio": {
+      "dialogue": "",
+      "narration": "台上剩下十几人同时朝顾玄攻来!顾玄在台上狼狈逃窜,看似惊险万分,却总能莫名其妙地避开致命攻击。陆尘木剑上迸发电光,让对手手臂一麻,攻击偏转。",
+      "internal_monologue": "顾玄: 我就是个筑基期啊!各位大佬饶命!",
+      "background_music": "紧张带滑稽",
+      "sound_effects": ["剑气法术", "电火花"],
+      "volume_level": "战斗音效突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "激烈混乱",
+      "purpose": "混战升级"
+    },
+    "notes": {
+      "production_note": "混乱战斗",
+      "reference_style": "滑稽战斗",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP05-S019",
+    "chapter_number": 5,
+    "scene_number": 13,
+    "duration": 7,
+    "shot_type": "中景",
+    "location": "广场三号擂台",
+    "time_of_day": "白天",
+    "composition": {
+      "camera_position": "侧面拍摄",
+      "camera_movement": "推镜",
+      "framing": "动作特写",
+      "focus_type": "动作连贯"
+    },
+    "characters": [
+      {
+        "name": "彪形大汉",
+        "position": "画面中央",
+        "action": "一刀劈向顾玄",
+        "expression": "凶狠",
+        "costume": "某宗门服饰"
+      },
+      {
+        "name": "顾玄",
+        "position": "大汉前方",
+        "action": "根本来不及反应",
+        "expression": "惊恐",
+        "costume": "新道袍"
+      }
+    ],
+    "visual_effects": {
+      "environment": "擂台",
+      "lighting": "日光",
+      "color_palette": "紧张",
+      "special_effects": "一刀又快又狠"
+    },
+    "audio": {
+      "dialogue": "彪形大汉: '给我下去吧!'",
+      "narration": "混战中,一个彪形大汉看准机会,一刀劈向顾玄后心。这一刀又快又狠,顾玄根本来不及反应。",
+      "internal_monologue": "",
+      "background_music": "紧张",
+      "sound_effects": ["刀风呼啸"],
+      "volume_level": "紧张氛围"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "紧张",
+      "purpose": "危机时刻"
+    },
+    "notes": {
+      "production_note": "紧张时刻",
+      "reference_style": "惊险场面",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP05-S020",
+    "chapter_number": 5,
+    "scene_number": 13,
+    "duration": 6,
+    "shot_type": "特写",
+    "location": "广场三号擂台",
+    "time_of_day": "白天",
+    "composition": {
+      "camera_position": "大特写",
+      "camera_movement": "推镜",
+      "framing": "面部表情",
+      "focus_type": "细节清晰"
+    },
+    "characters": [
+      {
+        "name": "彪形大汉",
+        "position": "画面中央",
+        "action": "突然身体僵硬",
+        "expression": "脸色发青",
+        "costume": "某宗门服饰"
+      }
+    ],
+    "visual_effects": {
+      "environment": "擂台",
+      "lighting": "日光",
+      "color_palette": "自然",
+      "special_effects": ""
+    },
+    "audio": {
+      "dialogue": "彪形大汉: '呃...早饭吃的蘑菇好像有问题...'",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "滑稽",
+      "sound_effects": ["噗通"],
+      "volume_level": "对话清晰"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "滑稽",
+      "purpose": "意外转机"
+    },
+    "notes": {
+      "production_note": "喜剧效果",
+      "reference_style": "滑稽意外",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP05-S021",
+    "chapter_number": 5,
+    "scene_number": 14,
+    "duration": 8,
+    "shot_type": "全景",
+    "location": "广场三号擂台",
+    "time_of_day": "白天",
+    "composition": {
+      "camera_position": "高角度俯拍",
+      "camera_movement": "俯瞰全景",
+      "framing": "擂台全景",
+      "focus_type": "整体清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "擂台上",
+        "action": "抱头蹲防",
+        "expression": "惊魂未定",
+        "costume": "新道袍"
+      },
+      {
+        "name": "陆尘",
+        "position": "擂台上",
+        "action": "举着木剑发呆",
+        "expression": "茫然",
+        "costume": "新道袍"
+      },
+      {
+        "name": "张小凡",
+        "position": "擂台上",
+        "action": "早就吓傻",
+        "expression": "懵逼",
+        "costume": "小宗门服饰"
+      }
+    ],
+    "visual_effects": {
+      "environment": "擂台",
+      "lighting": "日光",
+      "color_palette": "自然",
+      "special_effects": ""
+    },
+    "audio": {
+      "dialogue": "裁判: '三号擂台晋级者:青云宗顾玄、陆尘,飞云门张小凡。'",
+      "narration": "就这样,在各种匪夷所思的意外和巧合下,台上的人越来越少。最后当裁判敲响结束钟声时,台上站着的只剩三人。",
+      "internal_monologue": "",
+      "background_music": "震撼带滑稽",
+      "sound_effects": ["钟声"],
+      "volume_level": "宣布清晰"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "震撼",
+      "purpose": "结果宣布"
+    },
+    "notes": {
+      "production_note": "结果场景",
+      "reference_style": "戏剧性结尾",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP05-S022",
+    "chapter_number": 5,
+    "scene_number": 15,
+    "duration": 8,
+    "shot_type": "近景",
+    "location": "广场三号擂台",
+    "time_of_day": "白天",
+    "composition": {
+      "camera_position": "仰拍",
+      "camera_movement": "缓慢推镜",
+      "framing": "单人构图",
+      "focus_type": "装逼姿态"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "画面中央",
+        "action": "负手而立,45度角望天",
+        "expression": "淡然高人",
+        "costume": "新道袍"
+      }
+    ],
+    "visual_effects": {
+      "environment": "擂台",
+      "lighting": "日光",
+      "color_palette": "高冷色调",
+      "special_effects": ""
+    },
+    "audio": {
+      "dialogue": "顾玄: '我若出手,天地失色。今日权且留手,望诸位好自为之。'",
+      "narration": "",
+      "internal_monologue": "后背已经全湿了。",
+      "background_music": "高冷装逼",
+      "sound_effects": [],
+      "volume_level": "对话清晰"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "装逼",
+      "purpose": "经典装逼"
+    },
+    "notes": {
+      "production_note": "装逼名场面",
+      "reference_style": "经典装逼",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP05-S023",
+    "chapter_number": 5,
+    "scene_number": 16,
+    "duration": 7,
+    "shot_type": "远景",
+    "location": "广场",
+    "time_of_day": "白天",
+    "composition": {
+      "camera_position": "环绕拍摄",
+      "camera_movement": "快速环绕",
+      "framing": "群体反应",
+      "focus_type": "反应热烈"
+    },
+    "characters": [
+      {
+        "name": "台下观众",
+        "position": "擂台四周",
+        "action": "哗然议论",
+        "expression": "崇拜敬畏",
+        "costume": "各色服饰"
+      }
+    ],
+    "visual_effects": {
+      "environment": "广场",
+      "lighting": "日光",
+      "color_palette": "热烈",
+      "special_effects": ""
+    },
+    "audio": {
+      "dialogue": "众人: '果然!他果然是装的!''原来不是不能打,是不屑出手!''这才是真正的高人啊!'",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "震撼热烈",
+      "sound_effects": ["哗然声"],
+      "volume_level": "议论突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "热烈",
+      "purpose": "群众反应"
+    },
+    "notes": {
+      "production_note": "群众场面",
+      "reference_style": "热烈场面",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP05-S024",
+    "chapter_number": 5,
+    "scene_number": 17,
+    "duration": 6,
+    "shot_type": "近景",
+    "location": "广场擂台边",
+    "time_of_day": "白天",
+    "composition": {
+      "camera_position": "侧面拍摄",
+      "camera_movement": "推镜",
+      "framing": "双人构图",
+      "focus_type": "对话"
+    },
+    "characters": [
+      {
+        "name": "陆尘",
+        "position": "画面左侧",
+        "action": "激动拉住顾玄",
+        "expression": "崇拜兴奋",
+        "costume": "新道袍"
+      },
+      {
+        "name": "顾玄",
+        "position": "画面右侧",
+        "action": "嘴角抽搐",
+        "expression": "无力解释",
+        "costume": "新道袍"
+      }
+    ],
+    "visual_effects": {
+      "environment": "擂台边",
+      "lighting": "日光",
+      "color_palette": "自然",
+      "special_effects": ""
+    },
+    "audio": {
+      "dialogue": "陆尘: '师兄!你太厉害了!原来你一直在用这种方式教导我——真正的强者,不战而屈人之兵!'",
+      "narration": "",
+      "internal_monologue": "顾玄: 严重怀疑自己是不是有什么言出法随的被动技能,或者这个世界就是个巨大的bug?",
+      "background_music": "轻松带无奈",
+      "sound_effects": [],
+      "volume_level": "对话清晰"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "轻松",
+      "purpose": "师徒对话"
+    },
+    "notes": {
+      "production_note": "喜剧收尾",
+      "reference_style": "轻松对话",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP05-S025",
+    "chapter_number": 5,
+    "scene_number": 18,
+    "duration": 8,
+    "shot_type": "全景",
+    "location": "广场高台",
+    "time_of_day": "白天",
+    "composition": {
+      "camera_position": "侧面拍摄",
+      "camera_movement": "缓慢横移",
+      "framing": "长老构图",
+      "focus_type": "群体清晰"
+    },
+    "characters": [
+      {
+        "name": "须发皆白的老者",
+        "position": "画面左侧",
+        "action": "眯眼观察",
+        "expression": "若有所思",
+        "costume": "大宗门长老服"
+      },
+      {
+        "name": "美妇人",
+        "position": "画面右侧",
+        "action": "点头赞同",
+        "expression": "沉思",
+        "costume": "大宗门长老服"
+      }
+    ],
+    "visual_effects": {
+      "environment": "高台",
+      "lighting": "日光",
+      "color_palette": "庄严",
+      "special_effects": ""
+    },
+    "audio": {
+      "dialogue": "老者: '有意思...那个顾玄,看似狼狈,实则每一步都恰到好处,仿佛能预知未来般避开所有危险。'\n美妇人: '还有那个弟子,明明没有灵根,却能运用雷灵之力...青云宗,不简单啊。'",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "深沉带悬念",
+      "sound_effects": [],
+      "volume_level": "对话清晰"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "深沉",
+      "purpose": "埋下伏笔"
+    },
+    "notes": {
+      "production_note": "伏笔场景",
+      "reference_style": "深沉氛围",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP05-S026",
+    "chapter_number": 5,
+    "scene_number": 19,
+    "duration": 7,
+    "shot_type": "特写",
+    "location": "广场",
+    "time_of_day": "白天",
+    "composition": {
+      "camera_position": "大特写",
+      "camera_movement": "推镜",
+      "framing": "面部表情",
+      "focus_type": "崩溃细节"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "画面中央",
+        "action": "内心哀嚎",
+        "expression": "崩溃绝望",
+        "costume": "新道袍"
+      }
+    ],
+    "visual_effects": {
+      "environment": "广场",
+      "lighting": "日光",
+      "color_palette": "自然",
+      "special_effects": ""
+    },
+    "audio": {
+      "dialogue": "",
+      "narration": "",
+      "internal_monologue": "顾玄: 他们完全想多了。此刻只有一个念头:预选都这么刺激,正赛我可怎么混啊?!现在退赛还来得及吗?!",
+      "background_music": "崩溃带喜剧",
+      "sound_effects": [],
+      "volume_level": "内心独白突出"
     },
     "editing": {
       "transition_to_next": "淡出",
-      "pacing": "舒缓",
-      "purpose": "章节收尾,为后续埋伏笔"
+      "pacing": "崩溃",
+      "purpose": "章节收尾"
     },
     "notes": {
-      "production_note": "收尾场景",
-      "reference_style": "场景转场",
+      "production_note": "喜剧收尾",
+      "reference_style": "崩溃收尾",
       "difficulty_level": "简单"
     }
   }

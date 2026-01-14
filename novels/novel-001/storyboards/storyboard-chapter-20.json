@@ -3,9 +3,64 @@
     "shot_id": "EP20-S001",
     "chapter_number": 20,
     "scene_number": 1,
+    "duration": 8,
+    "shot_type": "远景",
+    "location": "青云宗-观星台",
+    "time_of_day": "深夜",
+    "composition": {
+      "camera_position": "高处俯拍",
+      "camera_movement": "缓慢下降",
+      "framing": "全景构图",
+      "focus_type": "全景清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "观星台中央",
+        "action": "凝视西北方",
+        "expression": "凝重",
+        "costume": "白衣"
+      },
+      {
+        "name": "各大宗门高层",
+        "position": "观星台周围",
+        "action": "面色凝重商议",
+        "expression": "担忧,焦虑",
+        "costume": "各宗华服"
+      }
+    ],
+    "visual_effects": {
+      "environment": "观星台夜景,星空背景",
+      "lighting": "星光+秩序之眼蓝光",
+      "color_palette": "深蓝调",
+      "special_effects": "秩序之眼穿透千里,隐约看到巨大金属圆环旋转"
+    },
+    "audio": {
+      "dialogue": "",
+      "narration": "西北方向传来不祥气息。所有宗门的高层都聚集在此,等待顾玄的决定。",
+      "internal_monologue": "",
+      "background_music": "庄重,紧张",
+      "sound_effects": ["夜风声", "远处的能量波动"],
+      "volume_level": "环境音突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "中等",
+      "purpose": "开篇定调"
+    },
+    "notes": {
+      "production_note": "夜景拍摄",
+      "reference_style": "庄重场景",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP20-S002",
+    "chapter_number": 20,
+    "scene_number": 2,
     "duration": 10,
     "shot_type": "全景",
-    "location": "青云宗观星台",
+    "location": "青云宗-观星台",
     "time_of_day": "夜晚",
     "composition": {
       "camera_position": "高处俯拍",
@@ -55,12 +110,122 @@
     }
   },
   {
-    "shot_id": "EP20-S002",
+    "shot_id": "EP20-S003",
     "chapter_number": 20,
-    "scene_number": 2,
+    "scene_number": 3,
+    "duration": 6,
+    "shot_type": "中景",
+    "location": "青云宗-观星台",
+    "time_of_day": "夜晚",
+    "composition": {
+      "camera_position": "多角度拍摄",
+      "camera_movement": "快速切换",
+      "framing": "团队构图",
+      "focus_type": "人物清晰"
+    },
+    "characters": [
+      {
+        "name": "各宗门高层",
+        "position": "观星台",
+        "action": "犹豫后同意",
+        "expression": "凝重→决绝",
+        "costume": "各宗华服"
+      },
+      {
+        "name": "顾玄",
+        "position": "中央",
+        "action": "统筹安排",
+        "expression": "坚定",
+        "costume": "白衣"
+      }
+    ],
+    "visual_effects": {
+      "environment": "观星台",
+      "lighting": "星光",
+      "color_palette": "深蓝调",
+      "special_effects": "无"
+    },
+    "audio": {
+      "dialogue": "我同意!与其坐以待毙,不如拼死一搏! 我也同意!顾道友,我们听你指挥!",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "决绝,坚定",
+      "sound_effects": [],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "快速",
+      "purpose": "达成共识"
+    },
+    "notes": {
+      "production_note": "多角色场景",
+      "reference_style": "团队决策",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP20-S004",
+    "chapter_number": 20,
+    "scene_number": 4,
+    "duration": 8,
+    "shot_type": "全景蒙太奇",
+    "location": "青州各处",
+    "time_of_day": "深夜",
+    "composition": {
+      "camera_position": "多地点拍摄",
+      "camera_movement": "快速切换",
+      "framing": "蒙太奇构图",
+      "focus_type": "准备场景清晰"
+    },
+    "characters": [
+      {
+        "name": "各宗门修士",
+        "position": "青州各灵脉节点",
+        "action": "布阵,准备",
+        "expression": "紧张,认真",
+        "costume": "修炼服"
+      },
+      {
+        "name": "顾玄",
+        "position": "观星台",
+        "action": "统筹全局",
+        "expression": "专注",
+        "costume": "白衣"
+      }
+    ],
+    "visual_effects": {
+      "environment": "青州各地",
+      "lighting": "阵法光芒",
+      "color_palette": "阵法光芒色调",
+      "special_effects": "各宗门在灵脉节点布阵,顾玄在观星台绘制巨大阵图"
+    },
+    "audio": {
+      "dialogue": "各宗门弟子听令!按部署就位! 东方节点就绪!南方节点就绪!西方节点就绪!北方节点就绪! 中央大阵启动准备!",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "紧张,忙碌",
+      "sound_effects": ["阵法启动声", "修士呼喝"],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "快速切",
+      "pacing": "快速",
+      "purpose": "准备蒙太奇"
+    },
+    "notes": {
+      "production_note": "多场景拍摄",
+      "reference_style": "战争准备",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP20-S005",
+    "chapter_number": 20,
+    "scene_number": 5,
     "duration": 7,
     "shot_type": "中景",
-    "location": "青云宗观星台",
+    "location": "青云宗-观星台",
     "time_of_day": "白天",
     "composition": {
       "camera_position": "正面拍摄",
@@ -110,10 +275,58 @@
     }
   },
   {
-    "shot_id": "EP20-S003",
+    "shot_id": "EP20-S006",
     "chapter_number": 20,
-    "scene_number": 3,
-    "duration": 12,
+    "scene_number": 6,
+    "duration": 8,
+    "shot_type": "特效全景",
+    "location": "秩序之眼视野",
+    "time_of_day": "瞬间",
+    "composition": {
+      "camera_position": "俯瞰视角",
+      "camera_movement": "快速推近",
+      "framing": "震撼构图",
+      "focus_type": "遗迹清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "意识空间",
+        "action": "通过秩序之眼观察",
+        "expression": "震惊",
+        "costume": "意识形态"
+      }
+    ],
+    "visual_effects": {
+      "environment": "东海海底",
+      "lighting": "深渊之光",
+      "color_palette": "深蓝+神秘光",
+      "special_effects": "秩序之眼切换视角,看到东海海底深处,巨大的金字塔遗迹,深渊之眼正在苏醒"
+    },
+    "audio": {
+      "dialogue": "该死!中计了!目标东海!所有能量立即转向!",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "紧张,急促",
+      "sound_effects": ["系统切换声", "警报声"],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "快速切",
+      "pacing": "快速",
+      "purpose": "揭示真相"
+    },
+    "notes": {
+      "production_note": "需要大量CG特效",
+      "reference_style": "震撼视角",
+      "difficulty_level": "复杂"
+    }
+  },
+  {
+    "shot_id": "EP20-S007",
+    "chapter_number": 20,
+    "scene_number": 7,
+    "duration": 10,
     "shot_type": "特效全景",
     "location": "东海海底遗迹",
     "time_of_day": "深海",
@@ -166,9 +379,169 @@
     }
   },
   {
-    "shot_id": "EP20-S004",
+    "shot_id": "EP20-S008",
     "chapter_number": 20,
-    "scene_number": 4,
+    "scene_number": 8,
+    "duration": 6,
+    "shot_type": "全景",
+    "location": "东海海面",
+    "time_of_day": "白天",
+    "composition": {
+      "camera_position": "海面俯拍",
+      "camera_movement": "震撼推拉",
+      "framing": "灾难构图",
+      "focus_type": "海啸清晰"
+    },
+    "characters": [
+      {
+        "name": "沿海修士",
+        "position": "海岸",
+        "action": "惊恐逃离",
+        "expression": "惊恐",
+        "costume": "修炼服"
+      }
+    ],
+    "visual_effects": {
+      "environment": "东海海面",
+      "lighting": "爆炸光芒",
+      "color_palette": "灾难色调",
+      "special_effects": "整个东海掀起万丈巨浪,沿海城市受到冲击"
+    },
+    "audio": {
+      "dialogue": "海啸!快跑!",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "紧张,灾难",
+      "sound_effects": ["海啸声", "爆炸回响", "惊恐呼喊"],
+      "volume_level": "音效突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "快速",
+      "purpose": "灾难波及"
+    },
+    "notes": {
+      "production_note": "灾难场景",
+      "reference_style": "灾难片",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP20-S009",
+    "chapter_number": 20,
+    "scene_number": 9,
+    "duration": 7,
+    "shot_type": "中景",
+    "location": "海底遗迹入口",
+    "time_of_day": "深海",
+    "composition": {
+      "camera_position": "跟随拍摄",
+      "camera_movement": "快速推进",
+      "framing": "动作构图",
+      "focus_type": "人物清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "遗迹入口",
+        "action": "冲入遗迹",
+        "expression": "决绝",
+        "costume": "白衣(受伤)",
+        "props": "天魔剑"
+      },
+      {
+        "name": "陆尘",
+        "position": "跟随",
+        "action": "紧随其后",
+        "expression": "担忧但坚定",
+        "costume": "布衣"
+      }
+    ],
+    "visual_effects": {
+      "environment": "海底遗迹内部",
+      "lighting": "幽暗光芒",
+      "color_palette": "深蓝调",
+      "special_effects": "遗迹通道充满未知能量"
+    },
+    "audio": {
+      "dialogue": "师兄!太危险了! 我必须去!你在外面守着! 无论如何,我都要去!",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "紧张,决心",
+      "sound_effects": ["水声", "能量波动"],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "快速",
+      "purpose": "深入险境"
+    },
+    "notes": {
+      "production_note": "动作场景",
+      "reference_style": "冒险动作",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP20-S010",
+    "chapter_number": 20,
+    "scene_number": 10,
+    "duration": 8,
+    "shot_type": "全景",
+    "location": "海底遗迹内部",
+    "time_of_day": "深海",
+    "composition": {
+      "camera_position": "环绕拍摄",
+      "camera_movement": "缓慢环绕",
+      "framing": "探索构图",
+      "focus_type": "场景清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "遗迹通道",
+        "action": "探索前进",
+        "expression": "警惕",
+        "costume": "白衣(受伤)",
+        "props": "天魔剑"
+      },
+      {
+        "name": "魔教守卫",
+        "position": "各处",
+        "action": "防御姿态",
+        "expression": "恐惧",
+        "costume": "黑袍"
+      }
+    ],
+    "visual_effects": {
+      "environment": "遗迹内部,充满科技感的墙壁",
+      "lighting": "幽暗蓝光",
+      "color_palette": "深蓝调",
+      "special_effects": "遗迹墙壁上闪烁的符文,守卫们惊恐地看着顾玄"
+    },
+    "audio": {
+      "dialogue": "让开!不想死就滚! 是...是! 顾道友!我们也是被逼的!右使说这是神赐的机缘! 神赐的机缘?这是毁灭世界的兵器!",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "紧张",
+      "sound_effects": ["回声", "守卫颤抖声"],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "中等",
+      "purpose": "探索遗迹"
+    },
+    "notes": {
+      "production_note": "场景探索",
+      "reference_style": "神秘探险",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP20-S011",
+    "chapter_number": 20,
+    "scene_number": 11,
     "duration": 10,
     "shot_type": "全景",
     "location": "海底遗迹",
@@ -229,9 +602,127 @@
     }
   },
   {
-    "shot_id": "EP20-S005",
+    "shot_id": "EP20-S012",
     "chapter_number": 20,
-    "scene_number": 5,
+    "scene_number": 12,
+    "duration": 6,
+    "shot_type": "特写",
+    "location": "遗迹核心",
+    "time_of_day": "深海",
+    "composition": {
+      "camera_position": "世界核心特写",
+      "camera_movement": "缓慢旋转",
+      "framing": "神圣构图",
+      "focus_type": "核心清晰"
+    },
+    "characters": [
+      {
+        "name": "世界核心",
+        "position": "中央",
+        "action": "飞向陆尘",
+        "expression": "无",
+        "costume": "发光球体"
+      },
+      {
+        "name": "陆尘",
+        "position": "接受核心",
+        "action": "茫然接受",
+        "expression": "茫然→震撼",
+        "costume": "布衣"
+      }
+    ],
+    "visual_effects": {
+      "environment": "遗迹核心",
+      "lighting": "核心光芒",
+      "color_palette": "神圣色调",
+      "special_effects": "世界核心散发柔和光芒,主动飞向陆尘,融入体内"
+    },
+    "audio": {
+      "dialogue": "这是...世界核心?!为什么它选择了我? 我...我感觉到了...整个世界的力量!",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "神圣,震撼",
+      "sound_effects": ["核心嗡鸣", "能量流动"],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "光芒转场",
+      "pacing": "宏大",
+      "purpose": "天命觉醒"
+    },
+    "notes": {
+      "production_note": "特效重点",
+      "reference_style": "神圣场景",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP20-S013",
+    "chapter_number": 20,
+    "scene_number": 13,
+    "duration": 8,
+    "shot_type": "全景",
+    "location": "海底遗迹",
+    "time_of_day": "深海",
+    "composition": {
+      "camera_position": "环绕拍摄",
+      "camera_movement": "快速环绕",
+      "framing": "动态构图",
+      "focus_type": "战斗场景突出"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "遗迹中",
+        "action": "使用最终防御,对抗立方体",
+        "expression": "决绝",
+        "costume": "白衣",
+        "props": "天魔剑"
+      },
+      {
+        "name": "黑色立方体",
+        "position": "空中",
+        "action": "伸出机械触手",
+        "expression": "无",
+        "costume": "机械"
+      },
+      {
+        "name": "陆尘",
+        "position": "昏迷",
+        "action": "被保护",
+        "expression": "昏迷",
+        "costume": "布衣"
+      }
+    ],
+    "visual_effects": {
+      "environment": "海底遗迹",
+      "lighting": "极致光芒,空间破碎",
+      "color_palette": "高对比度",
+      "special_effects": "机械触手无视防御穿透顾玄身体,天魔系统全功率启动,天魔剑爆发出前所未有光芒,与触手碰撞"
+    },
+    "audio": {
+      "dialogue": "检测到非法入侵!启动最终防御!授权使用:管理员最高权限!执行:格式化攻击!",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "震撼,史诗",
+      "sound_effects": ["能量爆发", "系统提示", "机械音"],
+      "volume_level": "音效突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "快速",
+      "purpose": "最终防御启动"
+    },
+    "notes": {
+      "production_note": "需要大量CG特效",
+      "reference_style": "震撼场景",
+      "difficulty_level": "复杂"
+    }
+  },
+  {
+    "shot_id": "EP20-S014",
+    "chapter_number": 20,
+    "scene_number": 14,
     "duration": 8,
     "shot_type": "特效全景",
     "location": "海底遗迹",
@@ -285,9 +776,104 @@
     }
   },
   {
-    "shot_id": "EP20-S006",
+    "shot_id": "EP20-S015",
     "chapter_number": 20,
-    "scene_number": 6,
+    "scene_number": 15,
+    "duration": 7,
+    "shot_type": "中景",
+    "location": "海底遗迹",
+    "time_of_day": "深海",
+    "composition": {
+      "camera_position": "俯拍",
+      "camera_movement": "缓慢拉远",
+      "framing": "余韵构图",
+      "focus_type": "场景清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "废墟中",
+        "action": "虚弱查看",
+        "expression": "疲惫但欣慰",
+        "costume": "白衣(破烂)"
+      },
+      {
+        "name": "陆尘",
+        "position": "昏迷",
+        "action": "被保护",
+        "expression": "昏迷",
+        "costume": "布衣"
+      }
+    ],
+    "visual_effects": {
+      "environment": "废墟化的海底遗迹",
+      "lighting": "微弱光芒",
+      "color_palette": "昏暗调",
+      "special_effects": "遗迹大部分被破坏,但威胁暂时解除"
+    },
+    "audio": {
+      "dialogue": "结束了...终于结束了...咳咳...这代价也太大了...",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "悲壮转为平静",
+      "sound_effects": ["虚弱喘息", "废墟坍塌"],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "舒缓",
+      "purpose": "余韵"
+    },
+    "notes": {
+      "production_note": "余韵场景",
+      "reference_style": "平静收尾",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP20-S016",
+    "chapter_number": 20,
+    "scene_number": 16,
+    "duration": 6,
+    "shot_type": "特写",
+    "location": "看不见的维度",
+    "time_of_day": "无",
+    "composition": {
+      "camera_position": "立方体视角",
+      "camera_movement": "固定镜头",
+      "framing": "中心构图",
+      "focus_type": "界面清晰"
+    },
+    "characters": [],
+    "visual_effects": {
+      "environment": "黑暗维度",
+      "lighting": "立方体发光",
+      "color_palette": "科幻蓝",
+      "special_effects": "立方体在虚空中重新凝聚,生成报告界面"
+    },
+    "audio": {
+      "dialogue": "",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "科幻悬疑",
+      "sound_effects": ["机械重组声"],
+      "volume_level": "音效突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "中等",
+      "purpose": "彩蛋铺垫"
+    },
+    "notes": {
+      "production_note": "需要CG制作立方体重组",
+      "reference_style": "科幻悬疑",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP20-S017",
+    "chapter_number": 20,
+    "scene_number": 17,
     "duration": 6,
     "shot_type": "特写",
     "location": "看不见的维度",

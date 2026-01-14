@@ -3,29 +3,77 @@
     "shot_id": "EP34-S001",
     "chapter_number": 34,
     "scene_number": 1,
-    "duration": 11,
-    "shot_type": "全景",
-    "location": "全宇宙文明大会",
+    "duration": 8,
+    "shot_type": "远景",
+    "location": "宇宙-维度间隙",
     "time_of_day": "无",
     "composition": {
-      "camera_position": "宏大场景",
-      "camera_movement": "缓慢扫视",
+      "camera_position": "宏大视角",
+      "camera_movement": "缓慢推进",
+      "framing": "史诗构图",
+      "focus_type": "全景清晰"
+    },
+    "characters": [
+      {
+        "name": "各种形态生命体",
+        "position": "维度空间各处",
+        "action": "汇聚参加大会",
+        "expression": "各异",
+        "costume": "各异"
+      }
+    ],
+    "visual_effects": {
+      "environment": "维度间隙的特殊空间,绚丽多彩",
+      "lighting": "宇宙光芒",
+      "color_palette": "绚丽多彩",
+      "special_effects": "各种形态生命体:能量体、机械生命、真菌、概念存在等"
+    },
+    "audio": {
+      "dialogue": "",
+      "narration": "宇宙暂时恢复平静,但所有文明都感受到一种无形的压力——就像考前最后的复习时间。",
+      "internal_monologue": "",
+      "background_music": "恢弘大气",
+      "sound_effects": ["宇宙背景音"],
+      "volume_level": "旁白突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "舒缓",
+      "purpose": "建立宇宙备考氛围"
+    },
+    "notes": {
+      "production_note": "宏大场景+CG",
+      "reference_style": "史诗科幻",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP34-S002",
+    "chapter_number": 34,
+    "scene_number": 2,
+    "duration": 10,
+    "shot_type": "全景",
+    "location": "全宇宙文明大会会场",
+    "time_of_day": "无",
+    "composition": {
+      "camera_position": "会场中央高处",
+      "camera_movement": "环绕拍摄",
       "framing": "史诗构图",
       "focus_type": "众生态清晰"
     },
     "characters": [
       {
         "name": "顾玄",
-        "position": "大会主持",
-        "action": "演讲,布置任务",
+        "position": "大会主讲位置",
+        "action": "演讲,展示数据",
         "expression": "庄重",
         "costume": "管理者长袍"
       },
       {
         "name": "各文明代表",
-        "position": "大会各处",
-        "action": "聆听,提问",
-        "expression": "各异",
+        "position": "会场各处",
+        "action": "聆听,记录",
+        "expression": "认真,紧张",
         "costume": "各种形态"
       }
     ],
@@ -33,10 +81,10 @@
       "environment": "维度间隙特殊空间",
       "lighting": "宇宙光芒",
       "color_palette": "绚丽多彩",
-      "special_effects": "容纳所有形态生命,全息屏展示文明指数72分、通过标准90分、剩余时间99年"
+      "special_effects": "全息屏展示数据:【文明指数72分】【通过标准90分】【剩余时间99年】"
     },
     "audio": {
-      "dialogue": "各位,大过滤器不是灾难,而是宇宙的'升学考试'。具体考什么?是否有模拟试题?咕噜(能补考吗)?考核三个方面:文明协作度、规则理解度、以及...创造力。成立'宇宙备考委员会',开始特训!",
+      "dialogue": "各位,大过滤器不是灾难,而是宇宙的'升学考试'。考核三个方面:文明协作度、规则理解度、以及...创造力。",
       "narration": "",
       "internal_monologue": "",
       "background_music": "庄重带希望",
@@ -55,9 +103,71 @@
     }
   },
   {
-    "shot_id": "EP34-S002",
+    "shot_id": "EP34-S003",
     "chapter_number": 34,
-    "scene_number": 2,
+    "scene_number": 3,
+    "duration": 6,
+    "shot_type": "中景",
+    "location": "大会现场",
+    "time_of_day": "无",
+    "composition": {
+      "camera_position": "快速切换",
+      "camera_movement": "快速推拉",
+      "framing": "对话构图",
+      "focus_type": "提问者清晰"
+    },
+    "characters": [
+      {
+        "name": "精灵代表",
+        "position": "会场上方",
+        "action": "举手提问",
+        "expression": "好奇",
+        "costume": "精灵形态"
+      },
+      {
+        "name": "AI代表",
+        "position": "会场左侧",
+        "action": "提问",
+        "expression": "理性",
+        "costume": "机械身体"
+      },
+      {
+        "name": "蘑菇代表",
+        "position": "会场下方",
+        "action": "发出声音",
+        "expression": "期待",
+        "costume": "蘑菇形态"
+      }
+    ],
+    "visual_effects": {
+      "environment": "会场",
+      "lighting": "提问光芒",
+      "color_palette": "柔和",
+      "special_effects": "精灵闪光,AI数据流,蘑菇孢子"
+    },
+    "audio": {
+      "dialogue": "具体考什么? 是否有模拟试题? 咕噜?(能补考吗?)",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "轻松带悬疑",
+      "sound_effects": ["提问音效"],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "快速",
+      "purpose": "幽默提问"
+    },
+    "notes": {
+      "production_note": "多角色拍摄",
+      "reference_style": "轻喜剧",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP34-S004",
+    "chapter_number": 34,
+    "scene_number": 4,
     "duration": 10,
     "shot_type": "蒙太奇",
     "location": "宇宙各处",
@@ -72,14 +182,14 @@
       {
         "name": "各文明学生",
         "position": "各处学习",
-        "action": "学习,协作",
-        "expression": "困惑→顿悟",
+        "action": "学习,协作,出问题",
+        "expression": "困惑→顿悟→混乱",
         "costume": "各异"
       },
       {
         "name": "顾玄及教师团",
         "position": "教学",
-        "action": "教学,调解",
+        "action": "教学,调解,修改规则",
         "expression": "无奈,欣慰",
         "costume": "各异"
       }
@@ -88,14 +198,14 @@
       "environment": "宇宙学习场景",
       "lighting": "教学光芒",
       "color_palette": "多彩学习",
-      "special_effects": "第一课协作乱子,第二课规则理解混乱,第三课创造力发明,模拟考规则变化"
+      "special_effects": "第一课协作乱子:AI做梦、精灵过敏、蘑菇孢子打喷嚏"
     },
     "audio": {
-      "dialogue": "协作期间禁止过敏反应!1+1=蘑菇?蘑菇拒绝考试!文明交换生计划...魔法计算机、APP咒语、会发光蘑菇路灯...偏科不行!全面发展!模拟考:金属变棉花糖、时间倒流、蘑菇人变聪明",
+      "dialogue": "协作期间禁止过敏反应! 1+1=蘑菇? 蘑菇拒绝考试! 文明交换生计划...",
       "narration": "",
       "internal_monologue": "",
       "background_music": "欢乐学习",
-      "sound_effects": ["教学声", "发明声"],
+      "sound_effects": ["教学声", "发明声", "混乱声"],
       "volume_level": "对话突出"
     },
     "editing": {
@@ -110,64 +220,470 @@
     }
   },
   {
-    "shot_id": "EP34-S003",
+    "shot_id": "EP34-S005",
     "chapter_number": 34,
-    "scene_number": 3,
-    "duration": 11,
+    "scene_number": 5,
+    "duration": 8,
     "shot_type": "中景",
-    "location": "宇宙某处",
+    "location": "第二课教学现场",
     "time_of_day": "无",
     "composition": {
-      "camera_position": "对抗构图",
+      "camera_position": "教学场景",
       "camera_movement": "快速切换",
-      "framing": "战斗构图",
-      "focus_type": "对抗清晰"
+      "framing": "教学构图",
+      "focus_type": "教学主体清晰"
     },
     "characters": [
       {
-        "name": "顾玄及各文明",
-        "position": "联合对抗",
-        "action": "对抗抵抗军",
-        "expression": "坚定",
-        "costume": "各异"
+        "name": "塔克",
+        "position": "讲台",
+        "action": "章鱼语教学",
+        "expression": "认真",
+        "costume": "章鱼形态"
       },
       {
-        "name": "复制体零残党",
-        "position": "对立面",
-        "action": "破坏,攻击",
-        "expression": "狂热",
-        "costume": "抵抗军形态"
+        "name": "AI教师",
+        "position": "讲台",
+        "action": "二进制教学",
+        "expression": "理性",
+        "costume": "机械形态"
+      },
+      {
+        "name": "顾玄",
+        "position": "教学",
+        "action": "根源视界共享知识",
+        "expression": "紧张",
+        "costume": "管理者长袍"
       }
     ],
     "visual_effects": {
-      "environment": "抵抗军据点",
-      "lighting": "对抗光芒",
-      "color_palette": "高对比度",
-      "special_effects": "抵抗军用魔法病毒黑客攻击,教科书掺假1+1=3,试图偷遗物,顾玄苦战,各文明支援,围困抵抗军"
+      "environment": "教学场景",
+      "lighting": "知识光芒",
+      "color_palette": "智慧色调",
+      "special_effects": "章鱼语波纹,二进制代码,根源视界知识共享差点过载"
     },
     "audio": {
-      "dialogue": "又是你!过滤器会毁灭所有文明!只有抵抗才能生存!但那也是我们自己选择的路。此乃众生之志!小心...监考者...检测到'反文明势力'!复制体零的残党!过滤器抵抗军!你们都被骗了!通过过滤器只会成为更高级文明的养料!",
+      "dialogue": "章鱼语...没人听懂。二进制教学...只有蘑菇人理解。根源视界共享...半个宇宙差点过载!",
       "narration": "",
       "internal_monologue": "",
-      "background_music": "激烈对抗",
-      "sound_effects": ["战斗声", "净化声"],
-      "volume_level": "音效突出"
+      "background_music": "幽默教学",
+      "sound_effects": ["教学声", "过载警报"],
+      "volume_level": "对话突出"
     },
     "editing": {
       "transition_to_next": "快速切",
-      "pacing": "极快",
-      "purpose": "对抗高潮"
+      "pacing": "快速",
+      "purpose": "规则理解课混乱"
     },
     "notes": {
-      "production_note": "战斗+特效",
+      "production_note": "多场景+特效",
+      "reference_style": "幽默教学",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP34-S006",
+    "chapter_number": 34,
+    "scene_number": 6,
+    "duration": 9,
+    "shot_type": "蒙太奇",
+    "location": "第三课创造力现场",
+    "time_of_day": "无",
+    "composition": {
+      "camera_position": "创造场景",
+      "camera_movement": "快速切换",
+      "framing": "创造构图",
+      "focus_type": "创造物突出"
+    },
+    "characters": [
+      {
+        "name": "精灵和AI",
+        "position": "实验室",
+        "action": "创造魔法计算机",
+        "expression": "兴奋",
+        "costume": "工作服"
+      },
+      {
+        "name": "科技和蘑菇人",
+        "position": "实验室",
+        "action": "发明光合发动机",
+        "expression": "自豪",
+        "costume": "工作服"
+      },
+      {
+        "name": "概念文明",
+        "position": "创造空间",
+        "action": "创造新颜色",
+        "expression": "神秘",
+        "costume": "概念形态"
+      }
+    ],
+    "visual_effects": {
+      "environment": "创造实验室",
+      "lighting": "创造光芒",
+      "color_palette": "创新色调",
+      "special_effects": "魔法计算机、光合发动机、新颜色(高维可见)"
+    },
+    "audio": {
+      "dialogue": "魔法计算机造好了! 光合发动机成功! 我们创造了...新颜色?",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "创新欢乐",
+      "sound_effects": ["发明声", "创造声"],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "快速切",
+      "pacing": "快速",
+      "purpose": "创造力展示"
+    },
+    "notes": {
+      "production_note": "多场景+特效",
+      "reference_style": "创新科幻",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP34-S007",
+    "chapter_number": 34,
+    "scene_number": 7,
+    "duration": 10,
+    "shot_type": "蒙太奇",
+    "location": "宇宙模拟考现场",
+    "time_of_day": "无",
+    "composition": {
+      "camera_position": "多地点",
+      "camera_movement": "快速切换",
+      "framing": "危机构图",
+      "focus_type": "危机场景突出"
+    },
+    "characters": [
+      {
+        "name": "各文明",
+        "position": "宇宙各处",
+        "action": "应对各种危机",
+        "expression": "惊恐→应对→成长",
+        "costume": "各异"
+      }
+    ],
+    "visual_effects": {
+      "environment": "宇宙变化",
+      "lighting": "危机光芒",
+      "color_palette": "高对比度",
+      "special_effects": "金属变棉花糖、时间倒流、蘑菇人变聪明又变蠢"
+    },
+    "audio": {
+      "dialogue": "金属变成棉花糖了! 时间在倒流! 蘑菇人突然变聪明了...又变回去了!",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "紧张带幽默",
+      "sound_effects": ["危机音效", "应变声"],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "快速切",
+      "pacing": "快速",
+      "purpose": "模拟考危机"
+    },
+    "notes": {
+      "production_note": "多场景+特效",
+      "reference_style": "科幻喜剧",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP34-S008",
+    "chapter_number": 34,
+    "scene_number": 8,
+    "duration": 8,
+    "shot_type": "中景",
+    "location": "顾玄指挥中心",
+    "time_of_day": "无",
+    "composition": {
+      "camera_position": "正面拍摄",
+      "camera_movement": "轻微推近",
+      "framing": "中心构图",
+      "focus_type": "主体清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "指挥中心",
+        "action": "发现问题,部署计划",
+        "expression": "严肃→决断",
+        "costume": "管理者长袍"
+      },
+      {
+        "name": "委员会成员",
+        "position": "周围",
+        "action": "汇报,记录",
+        "expression": "认真",
+        "costume": "各异"
+      }
+    ],
+    "visual_effects": {
+      "environment": "指挥中心",
+      "lighting": "分析光芒",
+      "color_palette": "严肃色调",
+      "special_effects": "数据投影显示各文明偏科问题"
+    },
+    "audio": {
+      "dialogue": "有些文明在偏科! 机械文明只钻研科技,精灵沉迷魔法...这样不行!必须全面发展!推出文明交换生计划!",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "严肃行动",
+      "sound_effects": ["数据声", "决策声"],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "中等",
+      "purpose": "发现问题与部署"
+    },
+    "notes": {
+      "production_note": "场景+特效",
+      "reference_style": "科幻剧情",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP34-S009",
+    "chapter_number": 34,
+    "scene_number": 9,
+    "duration": 9,
+    "shot_type": "蒙太奇",
+    "location": "文明交换生现场",
+    "time_of_day": "无",
+    "composition": {
+      "camera_position": "多地点",
+      "camera_movement": "快速切换",
+      "framing": "交流构图",
+      "focus_type": "交流场景清晰"
+    },
+    "characters": [
+      {
+        "name": "AI交换生",
+        "position": "魔法世界",
+        "action": "学习代码开光",
+        "expression": "新奇",
+        "costume": "学习服"
+      },
+      {
+        "name": "精灵交换生",
+        "position": "科技星球",
+        "action": "开发APP咒语",
+        "expression": "兴奋",
+        "costume": "实习服"
+      },
+      {
+        "name": "蘑菇人",
+        "position": "各星球",
+        "action": "种植发光蘑菇",
+        "expression": "开心",
+        "costume": "蘑菇服"
+      }
+    ],
+    "visual_effects": {
+      "environment": "交流场景",
+      "lighting": "交流光芒",
+      "color_palette": "多元色调",
+      "special_effects": "代码开光、APP咒语、发光蘑菇路灯"
+    },
+    "audio": {
+      "dialogue": "代码开光成功! APP咒语开发完成! 发光蘑菇路灯亮起! 效果显著!",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "欢乐交流",
+      "sound_effects": ["交流声", "成功声"],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "快速切",
+      "pacing": "快速",
+      "purpose": "交流生计划效果"
+    },
+    "notes": {
+      "production_note": "多场景",
+      "reference_style": "欢乐交流",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP34-S010",
+    "chapter_number": 34,
+    "scene_number": 10,
+    "duration": 8,
+    "shot_type": "中景",
+    "location": "指挥中心",
+    "time_of_day": "无",
+    "composition": {
+      "camera_position": "警报场景",
+      "camera_movement": "快速推近",
+      "framing": "危机构图",
+      "focus_type": "警报突出"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "指挥中心",
+        "action": "接收警报",
+        "expression": "警觉→严肃",
+        "costume": "管理者长袍"
+      },
+      {
+        "name": "委员会",
+        "position": "周围",
+        "action": "慌乱",
+        "expression": "惊恐",
+        "costume": "各异"
+      }
+    ],
+    "visual_effects": {
+      "environment": "指挥中心",
+      "lighting": "警报红光",
+      "color_palette": "警报色调",
+      "special_effects": "警报灯闪烁,全息屏显示检测到反文明势力"
+    },
+    "audio": {
+      "dialogue": "警报! 检测到反文明势力! 过滤器抵抗军专门破坏备考工作!",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "紧张警报",
+      "sound_effects": ["警报声", "混乱声"],
+      "volume_level": "警报突出"
+    },
+    "editing": {
+      "transition_to_next": "快速切",
+      "pacing": "快速",
+      "purpose": "警报响起"
+    },
+    "notes": {
+      "production_note": "场景+特效",
+      "reference_style": "紧张危机",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP34-S011",
+    "chapter_number": 34,
+    "scene_number": 11,
+    "duration": 10,
+    "shot_type": "蒙太奇",
+    "location": "抵抗军破坏现场",
+    "time_of_day": "无",
+    "composition": {
+      "camera_position": "多地点破坏",
+      "camera_movement": "快速切换",
+      "framing": "破坏构图",
+      "focus_type": "破坏场景突出"
+    },
+    "characters": [
+      {
+        "name": "抵抗军",
+        "position": "各处",
+        "action": "黑客攻击,掺假,偷窃",
+        "expression": "狂热",
+        "costume": "抵抗军服装"
+      },
+      {
+        "name": "顾玄",
+        "position": "带队追捕",
+        "action": "指挥抓捕",
+        "expression": "愤怒",
+        "costume": "管理者长袍"
+      }
+    ],
+    "visual_effects": {
+      "environment": "破坏现场",
+      "lighting": "破坏光芒",
+      "color_palette": "混乱色调",
+      "special_effects": "魔法病毒攻击、教科书掺假1+1=3、偷遗物"
+    },
+    "audio": {
+      "dialogue": "黑客攻击跨宇宙互联网! 教科书掺假! 试图偷走创始者遗物! 又是你! 复制体零的残党!",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "激烈对抗",
+      "sound_effects": ["黑客声", "战斗声"],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "快速切",
+      "pacing": "快速",
+      "purpose": "抵抗军破坏"
+    },
+    "notes": {
+      "production_note": "多场景+特效",
       "reference_style": "激烈对抗",
       "difficulty_level": "中等"
     }
   },
   {
-    "shot_id": "EP34-S004",
+    "shot_id": "EP34-S012",
     "chapter_number": 34,
-    "scene_number": 4,
+    "scene_number": 12,
+    "duration": 11,
+    "shot_type": "全景",
+    "location": "抵抗军据点",
+    "time_of_day": "无",
+    "composition": {
+      "camera_position": "战场环绕",
+      "camera_movement": "快速环绕",
+      "framing": "战斗构图",
+      "focus_type": "战斗场景突出"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "战场中心",
+        "action": "与抵抗军战斗",
+        "expression": "决绝",
+        "costume": "管理者长袍"
+      },
+      {
+        "name": "复制体零残党",
+        "position": "对立面",
+        "action": "攻击",
+        "expression": "狂热",
+        "costume": "抵抗军形态"
+      },
+      {
+        "name": "各文明援军",
+        "position": "支援",
+        "action": "支援顾玄",
+        "expression": "坚定",
+        "costume": "各异"
+      }
+    ],
+    "visual_effects": {
+      "environment": "战场",
+      "lighting": "战斗光芒",
+      "color_palette": "高对比度",
+      "special_effects": "抵抗军用专门克制权限的武器,精灵防护咒,AI破解,蘑菇人孢子迷晕"
+    },
+    "audio": {
+      "dialogue": "过滤器会毁灭所有文明! 只有抵抗才能生存! 但那也是我们自己选择的路。此乃众生之志! 你们都被骗了! 小心...监考者...",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "激烈战斗",
+      "sound_effects": ["战斗声", "能量爆炸"],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "极快",
+      "purpose": "大战高潮"
+    },
+    "notes": {
+      "production_note": "战斗+特效",
+      "reference_style": "激烈战斗",
+      "difficulty_level": "复杂"
+    }
+  },
+  {
+    "shot_id": "EP34-S013",
+    "chapter_number": 34,
+    "scene_number": 13,
     "duration": 12,
     "shot_type": "特效全景",
     "location": "宇宙-监考者出现",
@@ -182,7 +698,7 @@
       {
         "name": "监考者",
         "position": "宇宙各处",
-        "action": "出题,评分",
+        "action": "出现,出题",
         "expression": "无表情",
         "costume": "巨大结构体"
       },
@@ -198,20 +714,20 @@
       "environment": "宇宙震动",
       "lighting": "考试光芒",
       "color_palette": "高对比度",
-      "special_effects": "巨大结构体出现,维度震荡,规则崩溃,文明协作应对,恒星变答题板,黑洞变错题本,资源危机能量枯竭,证明存在展示"
+      "special_effects": "巨大结构体出现,维度震荡,规则崩溃,监考者发出信息:预考开始"
     },
     "audio": {
-      "dialogue": "预考开始。应对维度震荡!协作度85分!规则运用80分!创造力70分!应对资源危机!效率75分!可持续性80分!创新性90分!证明你们值得存在!存在无需证明。我们选择共同前行,这就是意义。文明指数89分,差1分通过!梦想机器...+1分创造力!最终分90分,通过!恭喜通过预考。百年后正式考试,请继续努力",
+      "dialogue": "预考开始。项目:应对维度震荡! 应对资源危机! 证明你们值得存在!",
       "narration": "",
       "internal_monologue": "",
       "background_music": "史诗考试",
-      "sound_effects": ["宇宙震动", "评分声"],
+      "sound_effects": ["宇宙震动", "监考者声音"],
       "volume_level": "对话突出"
     },
     "editing": {
-      "transition_to_next": "光芒转场",
+      "transition_to_next": "直接切",
       "pacing": "宏大",
-      "purpose": "预考高潮"
+      "purpose": "监考者登场"
     },
     "notes": {
       "production_note": "大量CG特效",
@@ -220,12 +736,232 @@
     }
   },
   {
-    "shot_id": "EP34-S005",
+    "shot_id": "EP34-S014",
     "chapter_number": 34,
-    "scene_number": 5,
+    "scene_number": 14,
+    "duration": 10,
+    "shot_type": "蒙太奇",
+    "location": "宇宙考试现场",
+    "time_of_day": "无",
+    "composition": {
+      "camera_position": "多地点",
+      "camera_movement": "快速切换",
+      "framing": "考试构图",
+      "focus_type": "考试场景突出"
+    },
+    "characters": [
+      {
+        "name": "各文明",
+        "position": "宇宙各处",
+        "action": "协作应对考试",
+        "expression": "紧张→协作→欣慰",
+        "costume": "各异"
+      },
+      {
+        "name": "顾玄",
+        "position": "指挥",
+        "action": "指挥协作",
+        "expression": "专注",
+        "costume": "管理者长袍"
+      }
+    ],
+    "visual_effects": {
+      "environment": "宇宙考试场景",
+      "lighting": "考试光芒",
+      "color_palette": "高对比度",
+      "special_effects": "第一题:维度震荡-协作85分,规则运用80分,创造力70分。第二题:资源危机-恒星暗淡,魔法枯竭"
+    },
+    "audio": {
+      "dialogue": "启动所有稳定装置! 文明协作阵型! 应对维度震荡! 应对资源危机! 科技文明开发真空能! 精灵引导生命能量!",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "史诗考试",
+      "sound_effects": ["协作声", "评分声"],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "快速切",
+      "pacing": "快速",
+      "purpose": "考试过程"
+    },
+    "notes": {
+      "production_note": "多场景+特效",
+      "reference_style": "史诗协作",
+      "difficulty_level": "复杂"
+    }
+  },
+  {
+    "shot_id": "EP34-S015",
+    "chapter_number": 34,
+    "scene_number": 15,
+    "duration": 11,
+    "shot_type": "全景",
+    "location": "宇宙-最后一题",
+    "time_of_day": "无",
+    "composition": {
+      "camera_position": "宇宙视角",
+      "camera_movement": "缓慢扫视",
+      "framing": "沉思构图",
+      "focus_type": "各文明清晰"
+    },
+    "characters": [
+      {
+        "name": "各文明",
+        "position": "宇宙各处",
+        "action": "沉思,展示存在",
+        "expression": "沉思→展示",
+        "costume": "各异"
+      },
+      {
+        "name": "监考者",
+        "position": "观察",
+        "action": "观察,评分",
+        "expression": "无",
+        "costume": "巨大结构体"
+      }
+    ],
+    "visual_effects": {
+      "environment": "宇宙",
+      "lighting": "沉思光芒",
+      "color_palette": "柔和",
+      "special_effects": "科技文明展示创造奇迹,精灵展现生命美丽,AI演绎思维无限,蘑菇人展示蘑菇多样性,顾玄总结"
+    },
+    "audio": {
+      "dialogue": "证明你们值得存在。存在无需证明。我们选择共同前行,这就是意义。文明指数89分,差1分通过!",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "史诗感人",
+      "sound_effects": ["展示声", "评分声"],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "舒缓",
+      "purpose": "最后一题"
+    },
+    "notes": {
+      "production_note": "宏大场景+特效",
+      "reference_style": "史诗感人",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP34-S016",
+    "chapter_number": 34,
+    "scene_number": 16,
+    "duration": 9,
+    "shot_type": "中景",
+    "location": "地球-小浩实验室",
+    "time_of_day": "无",
+    "composition": {
+      "camera_position": "实验室内部",
+      "camera_movement": "快速推近",
+      "framing": "突破构图",
+      "focus_type": "梦想机器突出"
+    },
+    "characters": [
+      {
+        "name": "小浩",
+        "position": "实验室",
+        "action": "启动梦想机器",
+        "expression": "紧张→兴奋",
+        "costume": "学生服"
+      },
+      {
+        "name": "同学们",
+        "position": "周围",
+        "action": "欢呼",
+        "expression": "激动",
+        "costume": "学生服"
+      }
+    ],
+    "visual_effects": {
+      "environment": "实验室",
+      "lighting": "创造光芒",
+      "color_palette": "创新色调",
+      "special_effects": "梦想机器启动,创意转化为现实,原型机成功运行"
+    },
+    "audio": {
+      "dialogue": "梦想机器...成功了! 能将创意直接转化为现实! 虽然只是原型机,但代表无限可能!",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "激动突破",
+      "sound_effects": ["机器声", "欢呼声"],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "快速",
+      "purpose": "关键突破"
+    },
+    "notes": {
+      "production_note": "场景+特效",
+      "reference_style": "创新突破",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP34-S017",
+    "chapter_number": 34,
+    "scene_number": 17,
+    "duration": 10,
+    "shot_type": "全景",
+    "location": "宇宙-评分现场",
+    "time_of_day": "无",
+    "composition": {
+      "camera_position": "宇宙视角",
+      "camera_movement": "震撼运动",
+      "framing": "庆祝构图",
+      "focus_type": "监考者和文明清晰"
+    },
+    "characters": [
+      {
+        "name": "监考者",
+        "position": "宇宙上方",
+        "action": "调整评分,宣布结果",
+        "expression": "无",
+        "costume": "巨大结构体"
+      },
+      {
+        "name": "各文明",
+        "position": "宇宙各处",
+        "action": "绝望→沸腾",
+        "expression": "绝望→狂喜",
+        "costume": "各异"
+      }
+    ],
+    "visual_effects": {
+      "environment": "宇宙沸腾",
+      "lighting": "庆祝光芒",
+      "color_palette": "绚丽多彩",
+      "special_effects": "+1分创造力,最终分90分,通过!宇宙沸腾,各文明欢呼"
+    },
+    "audio": {
+      "dialogue": "+1分创造力! 最终分90分,通过! 恭喜通过预考。百年后正式考试,请继续努力。宇宙沸腾了! 他们真的做到了!",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "史诗庆祝",
+      "sound_effects": ["评分声", "宇宙欢呼"],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "宏大",
+      "purpose": "通过庆祝"
+    },
+    "notes": {
+      "production_note": "宏大场景+特效",
+      "reference_style": "史诗庆祝",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP34-S018",
+    "chapter_number": 34,
+    "scene_number": 18,
     "duration": 9,
     "shot_type": "远景",
-    "location": "宇宙-庆祝",
+    "location": "宇宙-结尾",
     "time_of_day": "无",
     "composition": {
       "camera_position": "宇宙视角",
@@ -253,26 +989,25 @@
       "environment": "庆祝的宇宙",
       "lighting": "庆祝光芒",
       "color_palette": "绚丽多彩",
-      "special_effects": "宇宙沸腾,各文明欢呼,小浩梦想机器,顾玄欣慰笑容"
+      "special_effects": "宇宙沸腾,各文明欢呼,小浩梦想机器,顾玄欣慰笑容但眼神警觉"
     },
-    {
-      "audio": {
-        "dialogue": "虽然前路漫长,但至少...他们正在正确的道路上。这还只是预考,正式大过滤器还在后面!宇宙沸腾了!他们真的做到了!通过只是开始。真正的挑战在过滤器之外...",
-        "narration": "",
-        "internal_monologue": "",
-        "background_music": "欢乐史诗",
-        "sound_effects": ["欢呼"],
-        "volume_level": "对话突出"
-      },
-      "editing": {
-        "transition_to_next": "淡出",
-        "pacing": "舒缓",
-        "purpose": "欢乐结尾+延续"
-      },
-      "notes": {
-        "production_note": "宏大场景",
-        "reference_style": "欢乐史诗",
-        "difficulty_level": "中等"
-      }
+    "audio": {
+      "dialogue": "虽然前路漫长,但至少...他们正在正确的道路上。这还只是预考,正式大过滤器还在前面! 宇宙沸腾了! 通过只是开始。真正的挑战在过滤器之外...",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "欢乐史诗带悬疑",
+      "sound_effects": ["欢呼", "余韵音乐"],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "淡出",
+      "pacing": "舒缓",
+      "purpose": "欢乐结尾+延续"
+    },
+    "notes": {
+      "production_note": "宏大场景",
+      "reference_style": "欢乐史诗",
+      "difficulty_level": "中等"
     }
-  ]
+  }
+]

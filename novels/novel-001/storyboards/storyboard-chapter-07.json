@@ -161,8 +161,63 @@
     "shot_id": "EP07-S004",
     "chapter_number": 7,
     "scene_number": 4,
+    "duration": 6,
+    "shot_type": "特写",
+    "location": "论道会场",
+    "time_of_day": "下午",
+    "composition": {
+      "camera_position": "聚焦阵法",
+      "camera_movement": "跟随笔走",
+      "framing": "特写",
+      "focus_type": "阵法清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "阵法前",
+        "action": "随手补全残阵",
+        "expression": "轻松写意",
+        "costume": "粗布麻衣"
+      },
+      {
+        "name": "烈阳宗长老",
+        "position": "一旁",
+        "action": "目瞪口呆",
+        "expression": "震惊",
+        "costume": "烈阳宗长老袍"
+      }
+    ],
+    "visual_effects": {
+      "environment": "论道会场",
+      "lighting": "阵法光芒",
+      "color_palette": "金色调",
+      "special_effects": "残阵被补全,阵法发光"
+    },
+    "audio": {
+      "dialogue": "烈阳宗长老: '这...这怎么可能？！你一眼就看透了这上古残阵？！'",
+      "narration": "",
+      "internal_monologue": "顾玄: 系统解析真香！",
+      "background_music": "震撼",
+      "sound_effects": ["阵法嗡鸣"],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "快速",
+      "purpose": "打脸时刻"
+    },
+    "notes": {
+      "production_note": "阵法特效",
+      "reference_style": "仙侠打脸",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP07-S005",
+    "chapter_number": 7,
+    "scene_number": 5,
     "duration": 7,
-    "shot_type": "特效特写",
+    "shot_type": "中景",
     "location": "论道会场法宝展示区",
     "time_of_day": "下午",
     "composition": {
@@ -197,18 +252,80 @@
     "editing": {
       "transition_to_next": "直接切",
       "pacing": "震撼",
-      "purpose": "法宝展示高潮"
+      "purpose": "法宝展示铺垫"
     },
     "notes": {
-      "production_note": "大量法宝特效",
+      "production_note": "法宝特效",
       "reference_style": "仙侠法宝",
       "difficulty_level": "中等"
     }
   },
   {
-    "shot_id": "EP07-S005",
+    "shot_id": "EP07-S006",
     "chapter_number": 7,
-    "scene_number": 5,
+    "scene_number": 6,
+    "duration": 8,
+    "shot_type": "中景",
+    "location": "论道会场法宝展示区",
+    "time_of_day": "下午",
+    "composition": {
+      "camera_position": "正面拍摄",
+      "camera_movement": "缓慢推近",
+      "framing": "中心构图",
+      "focus_type": "人物清晰"
+    },
+    "characters": [
+      {
+        "name": "天衍宗主",
+        "position": "顾玄身旁",
+        "action": "期待",
+        "expression": "期待",
+        "costume": "宗主华服"
+      },
+      {
+        "name": "顾玄",
+        "position": "画面中央",
+        "action": "犹豫,取出天魔剑",
+        "expression": "表面淡定,内心慌乱",
+        "costume": "粗布麻衣"
+      },
+      {
+        "name": "各宗长老",
+        "position": "四周",
+        "action": "期待",
+        "expression": "好奇",
+        "costume": "长老服饰"
+      }
+    ],
+    "visual_effects": {
+      "environment": "展示区",
+      "lighting": "聚焦光芒",
+      "color_palette": "期待色调",
+      "special_effects": "无"
+    },
+    "audio": {
+      "dialogue": "天衍宗主: '顾道友,听闻你亦有镇派之宝？不如让众长老开开眼界？' 顾玄: '这...好吧...'",
+      "narration": "",
+      "internal_monologue": "顾玄: 完了,要露馅了！天魔剑你给我争气点！",
+      "background_music": "紧张带幽默",
+      "sound_effects": [],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "紧张",
+      "purpose": "天魔剑出场铺垫"
+    },
+    "notes": {
+      "production_note": "注重氛围",
+      "reference_style": "紧张幽默",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP07-S007",
+    "chapter_number": 7,
+    "scene_number": 7,
     "duration": 10,
     "shot_type": "特效特写",
     "location": "论道会场法宝展示区",
@@ -254,9 +371,71 @@
     }
   },
   {
-    "shot_id": "EP07-S006",
+    "shot_id": "EP07-S008",
     "chapter_number": 7,
-    "scene_number": 6,
+    "scene_number": 8,
+    "duration": 7,
+    "shot_type": "特写",
+    "location": "论道会场",
+    "time_of_day": "下午",
+    "composition": {
+      "camera_position": "各长老特写",
+      "camera_movement": "快速切换",
+      "framing": "特写",
+      "focus_type": "表情清晰"
+    },
+    "characters": [
+      {
+        "name": "天衍宗主",
+        "position": "特写1",
+        "action": "震惊",
+        "expression": "震撼",
+        "costume": "宗主华服"
+      },
+      {
+        "name": "烈阳宗长老",
+        "position": "特写2",
+        "action": "恐惧",
+        "expression": "敬畏",
+        "costume": "长老袍"
+      },
+      {
+        "name": "各宗长老",
+        "position": "特写3",
+        "action": "跪伏",
+        "expression": "敬畏 → 恐惧",
+        "costume": "长老服饰"
+      }
+    ],
+    "visual_effects": {
+      "environment": "会场震撼",
+      "lighting": "剑光余威",
+      "color_palette": "震撼色调",
+      "special_effects": "无"
+    },
+    "audio": {
+      "dialogue": "天衍宗主: '这...这是...天魔剑？！' 烈阳宗长老: '不可能！传说中的天魔剑竟然真的存在！'",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "震撼",
+      "sound_effects": ["惊呼"],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "快速",
+      "purpose": "众人反应"
+    },
+    "notes": {
+      "production_note": "注重表情",
+      "reference_style": "震撼场景",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP07-S009",
+    "chapter_number": 7,
+    "scene_number": 9,
     "duration": 8,
     "shot_type": "全景",
     "location": "论道会场",
@@ -305,6 +484,300 @@
     "notes": {
       "production_note": "注重氛围",
       "reference_style": "震撼场景",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP07-S010",
+    "chapter_number": 7,
+    "scene_number": 10,
+    "duration": 6,
+    "shot_type": "近景",
+    "location": "论道会场后台",
+    "time_of_day": "下午",
+    "composition": {
+      "camera_position": "正面拍摄",
+      "camera_movement": "缓慢推近",
+      "framing": "私密构图",
+      "focus_type": "人物清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "后台",
+        "action": "擦汗,查看天魔剑",
+        "expression": "后怕",
+        "costume": "粗布麻衣"
+      },
+      {
+        "name": "天衍宗主",
+        "position": "走来",
+        "action": "担忧询问",
+        "expression": "担忧",
+        "costume": "宗主华服"
+      }
+    ],
+    "visual_effects": {
+      "environment": "后台",
+      "lighting": "昏暗光线",
+      "color_palette": "私密色调",
+      "special_effects": "无"
+    },
+    "audio": {
+      "dialogue": "天衍宗主: '顾道友...你刚才展现的实力...恐怕会引起整个修仙界的震动。' 顾玄: '我...我也不想啊...' 顾玄: 系统!刚才怎么回事？！系统: 检测到社交场合,自动装逼模式已激活。",
+      "narration": "",
+      "internal_monologue": "完了完了,这下骑虎难下了！",
+      "background_music": "紧张带幽默",
+      "sound_effects": [],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "淡出",
+      "pacing": "舒缓",
+      "purpose": "收尾,埋下伏笔"
+    },
+    "notes": {
+      "production_note": "私密场景",
+      "reference_style": "紧张幽默",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP07-S011",
+    "chapter_number": 7,
+    "scene_number": 11,
+    "duration": 7,
+    "shot_type": "全景",
+    "location": "论道会场外",
+    "time_of_day": "傍晚",
+    "composition": {
+      "camera_position": "远处拍摄",
+      "camera_movement": "缓慢拉远",
+      "framing": "大场面",
+      "focus_type": "会场清晰"
+    },
+    "characters": [
+      {
+        "name": "各宗长老",
+        "position": "离开会场",
+        "action": "议论纷纷",
+        "expression": "震撼,思考",
+        "costume": "长老服饰"
+      }
+    ],
+    "visual_effects": {
+      "environment": "夕阳下的会场",
+      "lighting": "夕阳余晖",
+      "color_palette": "黄昏色调",
+      "special_effects": "无"
+    },
+    "audio": {
+      "dialogue": "长老甲: '天衍宗这次真是捡到宝了！' 长老乙: '顾玄此人...深不可测。天魔剑现世...看来修仙界要变天了。' 长老丙: '必须立即向宗门汇报此事！'",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "悬疑",
+      "sound_effects": [],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "淡出",
+      "pacing": "舒缓",
+      "purpose": "引发后续剧情"
+    },
+    "notes": {
+      "production_note": "外景拍摄",
+      "reference_style": "悬疑氛围",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP07-S012",
+    "chapter_number": 7,
+    "scene_number": 12,
+    "duration": 6,
+    "shot_type": "中景",
+    "location": "天衍宗密室",
+    "time_of_day": "夜晚",
+    "composition": {
+      "camera_position": "侧面拍摄",
+      "camera_movement": "轻微推近",
+      "framing": "秘密构图",
+      "focus_type": "人物清晰"
+    },
+    "characters": [
+      {
+        "name": "神秘人物",
+        "position": "阴影中",
+        "action": "传递消息",
+        "expression": "神秘",
+        "costume": "黑衣"
+      },
+      {
+        "name": "接收者",
+        "position": "明处",
+        "action": "接收",
+        "expression": "震惊",
+        "costume": "宗门服饰"
+      }
+    ],
+    "visual_effects": {
+      "environment": "密室",
+      "lighting": "昏暗光线",
+      "color_palette": "神秘色调",
+      "special_effects": "无"
+    },
+    "audio": {
+      "dialogue": "神秘人物: '天魔剑...真的重现于世了。立即传讯给教主,天衍宗有重宝！' 接收者: '是！'",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "神秘紧张",
+      "sound_effects": [],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "淡出",
+      "pacing": "缓慢",
+      "purpose": "埋下伏笔"
+    },
+    "notes": {
+      "production_note": "神秘场景",
+      "reference_style": "悬疑伏笔",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP07-S013",
+    "chapter_number": 7,
+    "scene_number": 13,
+    "duration": 5,
+    "shot_type": "特写",
+    "location": "青云宗",
+    "time_of_day": "夜晚",
+    "composition": {
+      "camera_position": "正面特写",
+      "camera_movement": "固定镜头",
+      "framing": "特写",
+      "focus_type": "细节清晰"
+    },
+    "characters": [
+      {
+        "name": "陆尘",
+        "position": "房间内",
+        "action": "打坐修炼",
+        "expression": "认真",
+        "costume": "布衣"
+      }
+    ],
+    "visual_effects": {
+      "environment": "简陋房间",
+      "lighting": "月光",
+      "color_palette": "清冷色调",
+      "special_effects": "陆尘身上微弱灵气波动"
+    },
+    "audio": {
+      "dialogue": "",
+      "narration": "",
+      "internal_monologue": "陆尘: 师兄去论道这么久了...不知道他怎么样...",
+      "background_music": "温馨",
+      "sound_effects": [],
+      "volume_level": "内心独白为主"
+    },
+    "editing": {
+      "transition_to_next": "淡出",
+      "pacing": "舒缓",
+      "purpose": "温馨收尾"
+    },
+    "notes": {
+      "production_note": "温馨场景",
+      "reference_style": "情感纽带",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP07-S014",
+    "chapter_number": 7,
+    "scene_number": 14,
+    "duration": 8,
+    "shot_type": "远景",
+    "location": "天衍宗-青云宗路上",
+    "time_of_day": "白天",
+    "composition": {
+      "camera_position": "高处俯拍",
+      "camera_movement": "跟随拍摄",
+      "framing": "旅途构图",
+      "focus_type": "旅途清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "回程路上",
+        "action": "赶路,思考",
+        "expression": "若有所思",
+        "costume": "粗布麻衣"
+      }
+    ],
+    "visual_effects": {
+      "environment": "山路",
+      "lighting": "自然光",
+      "color_palette": "旅途色调",
+      "special_effects": "无"
+    },
+    "audio": {
+      "dialogue": "",
+      "narration": "百宗宴之后,顾玄的名声在修仙界传开。而他也意识到,自己正逐渐卷入一个巨大的漩涡...",
+      "internal_monologue": "顾玄: 装逼一时爽,一直装逼一直爽？不对,是装逼容易火葬场啊！系统！你能不能靠谱点？！系统: 用户反馈已收到。系统将根据剧情需要调整装逼频率。",
+      "background_music": "轻松带紧张",
+      "sound_effects": [],
+      "volume_level": "旁白突出"
+    },
+    "editing": {
+      "transition_to_next": "淡出",
+      "pacing": "舒缓",
+      "purpose": "章节总结"
+    },
+    "notes": {
+      "production_note": "旅途外景",
+      "reference_style": "旅途总结",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP07-S015",
+    "chapter_number": 7,
+    "scene_number": 15,
+    "duration": 6,
+    "shot_type": "特写",
+    "location": "维度空间",
+    "time_of_day": "无",
+    "composition": {
+      "camera_position": "系统界面特写",
+      "camera_movement": "界面流动",
+      "framing": "科技构图",
+      "focus_type": "界面清晰"
+    },
+    "characters": [],
+    "visual_effects": {
+      "environment": "系统空间",
+      "lighting": "界面光芒",
+      "color_palette": "科技蓝",
+      "special_effects": "系统界面显示任务更新:主线任务推进度15%,新任务解锁:建立宗门声望"
+    },
+    "audio": {
+      "dialogue": "系统: 检测到用户已完成重要剧情节点。奖励:声望值+500,解锁新功能-宗门管理系统。",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "系统提示音",
+      "sound_effects": ["系统提示"],
+      "volume_level": "系统音突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "快速",
+      "purpose": "系统提示,新功能开启"
+    },
+    "notes": {
+      "production_note": "CG界面",
+      "reference_style": "系统界面",
       "difficulty_level": "简单"
     }
   }

@@ -3,103 +3,95 @@
     "shot_id": "EP19-S001",
     "chapter_number": 19,
     "scene_number": 1,
-    "duration": 8,
-    "shot_type": "全景",
-    "location": "青州城地底灵脉",
-    "time_of_day": "夜晚",
+    "duration": 6,
+    "shot_type": "中景",
+    "location": "场景1",
+    "time_of_day": "白天",
     "composition": {
-      "camera_position": "环绕拍摄",
-      "camera_movement": "快速环绕",
-      "framing": "全景构图",
-      "focus_type": "全景清晰"
+      "camera_position": "正面拍摄",
+      "camera_movement": "固定镜头",
+      "framing": "标准构图",
+      "focus_type": "主体清晰"
     },
     "characters": [
       {
-        "name": "顾玄",
-        "position": "灵脉旁",
-        "action": "将天魔剑插入灵脉充电,能量失控时用身体当缓冲器",
-        "expression": "痛苦→惊喜",
-        "costume": "白衣",
-        "props": "天魔剑"
+        "name": "主要角色",
+        "position": "画面中央",
+        "action": "推进剧情",
+        "expression": "根据情境",
+        "costume": "修仙服饰"
       }
     ],
     "visual_effects": {
-      "environment": "地下空洞,灵脉能量光带",
-      "lighting": "璀璨能量光芒",
-      "color_palette": "能量蓝为主",
-      "special_effects": "天魔剑吸收能量,灵脉突然裂开,魔教装置升起粗暴抽取能量导致狂暴,顾玄七窍流血,能量自动转化为功德值暴涨,系统界面疯狂刷新"
+      "environment": "根据场景",
+      "lighting": "自然光",
+      "color_palette": "自然色调",
+      "special_effects": "根据需要添加特效"
     },
     "audio": {
-      "dialogue": "系统,把所有多余能量导入我体内! 检测到紧急状况,启动应急协议,授权使用:能量转化功能,开始将过剩能量转化为功德值! 转化能量+1000...功德+1000,转化能量+5000...功德+5000! 还能这样?!",
+      "dialogue": "返回青云宗后，顾玄满脑子都是“充电”二字。",
       "narration": "",
       "internal_monologue": "",
-      "background_music": "紧张震撼",
-      "sound_effects": ["能量爆炸", "系统提示音", "大地震动"],
-      "volume_level": "音效突出"
+      "background_music": "中等",
+      "sound_effects": [],
+      "volume_level": "正常"
     },
     "editing": {
       "transition_to_next": "直接切",
-      "pacing": "快速",
-      "purpose": "高潮场景,重大发现"
+      "pacing": "中等",
+      "purpose": "推进剧情"
     },
     "notes": {
-      "production_note": "需要大量CG特效",
-      "reference_style": "震撼场景",
-      "difficulty_level": "复杂"
+      "production_note": "根据实际内容调整",
+      "reference_style": "仙侠风格",
+      "difficulty_level": "中等"
     }
   },
   {
     "shot_id": "EP19-S002",
     "chapter_number": 19,
     "scene_number": 2,
-    "duration": 7,
-    "shot_type": "特效全景",
-    "location": "青州城",
-    "time_of_day": "黎明",
+    "duration": 6,
+    "shot_type": "中景",
+    "location": "场景2",
+    "time_of_day": "白天",
     "composition": {
-      "camera_position": "高处俯拍",
-      "camera_movement": "缓慢上升",
-      "framing": "全景构图",
-      "focus_type": "全景清晰"
+      "camera_position": "正面拍摄",
+      "camera_movement": "快速跟随",
+      "framing": "标准构图",
+      "focus_type": "主体清晰"
     },
     "characters": [
       {
-        "name": "顾玄",
-        "position": "地底",
-        "action": "启动修复程序",
-        "expression": "认真",
-        "costume": "白衣"
-      },
-      {
-        "name": "青州百姓",
-        "position": "城中",
-        "action": "跪地叩拜",
-        "expression": "感激",
-        "costume": "布衣"
+        "name": "主要角色",
+        "position": "画面中央",
+        "action": "推进剧情",
+        "expression": "根据情境",
+        "costume": "修仙服饰"
       }
     ],
     "visual_effects": {
-      "environment": "青州城全景",
-      "lighting": "白光渗入地底",
-      "color_palette": "从破败转为恢复",
-      "special_effects": "道道白光渗入地底,崩塌地面自行愈合,倒塌房屋重新立起,灵气比之前更加浓郁"
+      "environment": "根据场景",
+      "lighting": "自然光",
+      "color_palette": "自然色调",
+      "special_effects": "根据需要添加特效"
     },
     "audio": {
-      "dialogue": "地龙翻身停了! 是神仙显灵了! 快磕头!谢谢神仙! 任务完成!功德+50000,权限提升至4级!",
+      "dialogue": "系统能量耗尽，大部分功能无法使用。而魔教那个“远古兵器”的威胁如同达摩克利斯之剑悬在头顶。",
       "narration": "",
       "internal_monologue": "",
-      "background_music": "震撼,温馨",
-      "sound_effects": ["修复声", "百姓感谢声"],
-      "volume_level": "环境音突出"
+      "background_music": "激烈",
+      "sound_effects": [],
+      "volume_level": "正常"
     },
     "editing": {
       "transition_to_next": "直接切",
-      "pacing": "中等",
-      "purpose": "修复场景,功德暴涨"
+      "pacing": "激烈",
+      "purpose": "推进剧情"
     },
     "notes": {
-      "production_note": "需要CG制作修复效果",
-      "reference_style": "神迹场景",
+      "production_note": "根据实际内容调整",
+      "reference_style": "仙侠风格",
       "difficulty_level": "中等"
     }
   },
@@ -107,54 +99,47 @@
     "shot_id": "EP19-S003",
     "chapter_number": 19,
     "scene_number": 3,
-    "duration": 8,
+    "duration": 6,
     "shot_type": "中景",
-    "location": "青云宗",
+    "location": "场景3",
     "time_of_day": "白天",
     "composition": {
-      "camera_position": "快速切换",
-      "camera_movement": "快速剪辑",
-      "framing": "中心构图",
+      "camera_position": "正面拍摄",
+      "camera_movement": "固定镜头",
+      "framing": "标准构图",
       "focus_type": "主体清晰"
     },
     "characters": [
       {
-        "name": "顾玄",
-        "position": "宗门各处",
-        "action": "建设灵能发电站,演示应用",
-        "expression": "兴奋",
-        "costume": "白衣"
-      },
-      {
-        "name": "各宗门代表",
-        "position": "参观",
-        "action": "目瞪口呆,争相购买",
-        "expression": "震惊,兴奋",
-        "costume": "各宗服饰"
+        "name": "主要角色",
+        "position": "画面中央",
+        "action": "推进剧情",
+        "expression": "根据情境",
+        "costume": "修仙服饰"
       }
     ],
     "visual_effects": {
-      "environment": "青云宗灯火通明",
-      "lighting": "灵能光芒",
-      "color_palette": "科技蓝+修仙金",
-      "special_effects": "灵能电站运行,法阵24小时开启,灵能充电宝给法器充电,灵能WIFI信号"
+      "environment": "根据场景",
+      "lighting": "自然光",
+      "color_palette": "自然色调",
+      "special_effects": "根据需要添加特效"
     },
     "audio": {
-      "dialogue": "这、这是什么技术? 居然能直接使用灵脉能量? 顾宗师真乃神人也! 顾前辈!这项技术能否推广?我宗愿出高价购买! 基础套餐1000灵石/月,高级套餐10000灵石/月,尊享套餐100000灵石/月!",
+      "dialogue": "“必须尽快恢复能量...”顾玄盯着秩序之眼扫描出的青州灵脉分布图，“就选这条主灵脉的分支吧。”",
       "narration": "",
-      "internal_monologue": "对哦!可以卖电赚钱!",
-      "background_music": "轻快,繁荣",
+      "internal_monologue": "",
+      "background_music": "中等",
       "sound_effects": [],
-      "volume_level": "对话突出"
+      "volume_level": "正常"
     },
     "editing": {
-      "transition_to_next": "快速切",
-      "pacing": "快速",
-      "purpose": "蒙太奇,灵能革命"
+      "transition_to_next": "直接切",
+      "pacing": "中等",
+      "purpose": "推进剧情"
     },
     "notes": {
-      "production_note": "多场景拍摄",
-      "reference_style": "繁荣场景",
+      "production_note": "根据实际内容调整",
+      "reference_style": "仙侠风格",
       "difficulty_level": "中等"
     }
   },
@@ -162,47 +147,47 @@
     "shot_id": "EP19-S004",
     "chapter_number": 19,
     "scene_number": 4,
-    "duration": 7,
-    "shot_type": "特写",
-    "location": "三号电站",
-    "time_of_day": "深夜",
+    "duration": 6,
+    "shot_type": "中景",
+    "location": "场景4",
+    "time_of_day": "白天",
     "composition": {
-      "camera_position": "破坏现场",
-      "camera_movement": "缓慢移动",
-      "framing": "中心构图",
-      "focus_type": "细节清晰"
+      "camera_position": "正面拍摄",
+      "camera_movement": "固定镜头",
+      "framing": "标准构图",
+      "focus_type": "主体清晰"
     },
     "characters": [
       {
-        "name": "顾玄",
-        "position": "现场",
-        "action": "查看破坏痕迹",
-        "expression": "震惊,凝重",
-        "costume": "白衣"
+        "name": "主要角色",
+        "position": "画面中央",
+        "action": "推进剧情",
+        "expression": "根据情境",
+        "costume": "修仙服饰"
       }
     ],
     "visual_effects": {
-      "environment": "被袭击的电站",
-      "lighting": "破坏现场",
-      "color_palette": "混乱色调",
-      "special_effects": "地上深深的脚印,秩序之眼显示:检测到高等魔族气息-建议:极度危险!"
+      "environment": "根据场景",
+      "lighting": "自然光",
+      "color_palette": "自然色调",
+      "special_effects": "根据需要添加特效"
     },
     "audio": {
-      "dialogue": "三号电站遭袭击!守卫全军覆没!虚空结晶被抢! 高等魔族?!魔教竟然能召唤这种存在?",
+      "dialogue": "他选择的是青州城地底的一条中型灵脉分支，能量充足且相对隐蔽。",
       "narration": "",
       "internal_monologue": "",
-      "background_music": "紧张,悬疑",
+      "background_music": "中等",
       "sound_effects": [],
-      "volume_level": "对话突出"
+      "volume_level": "正常"
     },
     "editing": {
       "transition_to_next": "直接切",
       "pacing": "中等",
-      "purpose": "危机再现"
+      "purpose": "推进剧情"
     },
     "notes": {
-      "production_note": "实景+特效",
-      "reference_style": "悬疑场景",
+      "production_note": "根据实际内容调整",
+      "reference_style": "仙侠风格",
       "difficulty_level": "中等"
     }
   },
@@ -210,48 +195,288 @@
     "shot_id": "EP19-S005",
     "chapter_number": 19,
     "scene_number": 5,
-    "duration": 10,
-    "shot_type": "全景",
-    "location": "西北祭坛",
-    "time_of_day": "夜晚",
+    "duration": 6,
+    "shot_type": "中景",
+    "location": "场景5",
+    "time_of_day": "白天",
     "composition": {
-      "camera_position": "远景拍摄",
-      "camera_movement": "缓慢推近",
-      "framing": "全景构图",
-      "focus_type": "全景清晰"
+      "camera_position": "正面拍摄",
+      "camera_movement": "快速跟随",
+      "framing": "标准构图",
+      "focus_type": "主体清晰"
     },
     "characters": [
       {
-        "name": "右使",
-        "position": "祭坛中央",
-        "action": "启动灭世之轮",
-        "expression": "狂热",
-        "costume": "华贵黑袍"
+        "name": "主要角色",
+        "position": "画面中央",
+        "action": "推进剧情",
+        "expression": "根据情境",
+        "costume": "修仙服饰"
       }
     ],
     "visual_effects": {
-      "environment": "巨大金属圆环祭坛",
-      "lighting": "恐怖能量汇聚",
-      "color_palette": "毁灭色调",
-      "special_effects": "灭世之轮开始旋转,恐怖能量汇聚,系统警报大作:警告!检测到维度级武器启动!预计目标:本世界,剩余时间:72小时"
+      "environment": "根据场景",
+      "lighting": "自然光",
+      "color_palette": "自然色调",
+      "special_effects": "根据需要添加特效"
     },
     "audio": {
-      "dialogue": "终于...终于完成了!启动'灭世之轮'!让这个世界...重归混沌! 警告!检测到维度级武器启动!预计目标:本世界!剩余时间:72小时!建议:立即撤离或阻止!",
+      "dialogue": "顾玄带着天魔剑，悄无声息地潜入青州城地底。穿过层层岩壁，终于来到灵脉所在——一个巨大的地下空洞，中央有一条璀璨的能量光带在缓缓流动，那就是灵脉本体。",
       "narration": "",
-      "internal_monologue": "撤离?能撤到哪去?唯有...阻止它!",
-      "background_music": "震撼,紧张",
-      "sound_effects": ["机械运转", "能量汇聚", "系统警报"],
-      "volume_level": "音效突出"
+      "internal_monologue": "",
+      "background_music": "激烈",
+      "sound_effects": [],
+      "volume_level": "正常"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "激烈",
+      "purpose": "推进剧情"
+    },
+    "notes": {
+      "production_note": "根据实际内容调整",
+      "reference_style": "仙侠风格",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP19-S006",
+    "chapter_number": 19,
+    "scene_number": 6,
+    "duration": 6,
+    "shot_type": "中景",
+    "location": "场景6",
+    "time_of_day": "白天",
+    "composition": {
+      "camera_position": "正面拍摄",
+      "camera_movement": "快速跟随",
+      "framing": "标准构图",
+      "focus_type": "主体清晰"
+    },
+    "characters": [
+      {
+        "name": "主要角色",
+        "position": "画面中央",
+        "action": "推进剧情",
+        "expression": "根据情境",
+        "costume": "修仙服饰"
+      }
+    ],
+    "visual_effects": {
+      "environment": "根据场景",
+      "lighting": "自然光",
+      "color_palette": "自然色调",
+      "special_effects": "根据需要添加特效"
+    },
+    "audio": {
+      "dialogue": "顾玄找了个隐蔽处，将天魔剑插入灵脉：“系统，开始充电，上限9.9%。”",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "激烈",
+      "sound_effects": [],
+      "volume_level": "正常"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "激烈",
+      "purpose": "推进剧情"
+    },
+    "notes": {
+      "production_note": "根据实际内容调整",
+      "reference_style": "仙侠风格",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP19-S007",
+    "chapter_number": 19,
+    "scene_number": 7,
+    "duration": 6,
+    "shot_type": "中景",
+    "location": "场景7",
+    "time_of_day": "白天",
+    "composition": {
+      "camera_position": "正面拍摄",
+      "camera_movement": "快速跟随",
+      "framing": "标准构图",
+      "focus_type": "主体清晰"
+    },
+    "characters": [
+      {
+        "name": "主要角色",
+        "position": "画面中央",
+        "action": "推进剧情",
+        "expression": "根据情境",
+        "costume": "修仙服饰"
+      }
+    ],
+    "visual_effects": {
+      "environment": "根据场景",
+      "lighting": "自然光",
+      "color_palette": "自然色调",
+      "special_effects": "根据需要添加特效"
+    },
+    "audio": {
+      "dialogue": "剑身亮起微光，开始缓缓吸收能量。顾玄则警惕地守卫四周——偷电被抓可就尴尬了。",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "激烈",
+      "sound_effects": [],
+      "volume_level": "正常"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "激烈",
+      "purpose": "推进剧情"
+    },
+    "notes": {
+      "production_note": "根据实际内容调整",
+      "reference_style": "仙侠风格",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP19-S008",
+    "chapter_number": 19,
+    "scene_number": 8,
+    "duration": 6,
+    "shot_type": "中景",
+    "location": "场景8",
+    "time_of_day": "白天",
+    "composition": {
+      "camera_position": "正面拍摄",
+      "camera_movement": "固定镜头",
+      "framing": "标准构图",
+      "focus_type": "主体清晰"
+    },
+    "characters": [
+      {
+        "name": "主要角色",
+        "position": "画面中央",
+        "action": "推进剧情",
+        "expression": "根据情境",
+        "costume": "修仙服饰"
+      }
+    ],
+    "visual_effects": {
+      "environment": "根据场景",
+      "lighting": "自然光",
+      "color_palette": "自然色调",
+      "special_effects": "根据需要添加特效"
+    },
+    "audio": {
+      "dialogue": "时间一分一秒过去，一切顺利。系统能量从0%慢慢回升...",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "中等",
+      "sound_effects": [],
+      "volume_level": "正常"
     },
     "editing": {
       "transition_to_next": "直接切",
       "pacing": "中等",
-      "purpose": "终极威胁,倒计时开始"
+      "purpose": "推进剧情"
     },
     "notes": {
-      "production_note": "需要大量CG特效",
-      "reference_style": "末日场景",
-      "difficulty_level": "复杂"
+      "production_note": "根据实际内容调整",
+      "reference_style": "仙侠风格",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP19-S009",
+    "chapter_number": 19,
+    "scene_number": 9,
+    "duration": 6,
+    "shot_type": "中景",
+    "location": "场景9",
+    "time_of_day": "白天",
+    "composition": {
+      "camera_position": "正面拍摄",
+      "camera_movement": "固定镜头",
+      "framing": "标准构图",
+      "focus_type": "主体清晰"
+    },
+    "characters": [
+      {
+        "name": "主要角色",
+        "position": "画面中央",
+        "action": "推进剧情",
+        "expression": "根据情境",
+        "costume": "修仙服饰"
+      }
+    ],
+    "visual_effects": {
+      "environment": "根据场景",
+      "lighting": "自然光",
+      "color_palette": "自然色调",
+      "special_effects": "根据需要添加特效"
+    },
+    "audio": {
+      "dialogue": "整个地下空间突然剧烈震动！灵脉光芒大盛，能量开始狂暴！",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "中等",
+      "sound_effects": [],
+      "volume_level": "正常"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "中等",
+      "purpose": "推进剧情"
+    },
+    "notes": {
+      "production_note": "根据实际内容调整",
+      "reference_style": "仙侠风格",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP19-S010",
+    "chapter_number": 19,
+    "scene_number": 10,
+    "duration": 6,
+    "shot_type": "近景",
+    "location": "场景10",
+    "time_of_day": "白天",
+    "composition": {
+      "camera_position": "正面拍摄",
+      "camera_movement": "轻微推镜",
+      "framing": "标准构图",
+      "focus_type": "主体清晰"
+    },
+    "characters": [
+      {
+        "name": "主要角色",
+        "position": "画面中央",
+        "action": "推进剧情",
+        "expression": "根据情境",
+        "costume": "修仙服饰"
+      }
+    ],
+    "visual_effects": {
+      "environment": "根据场景",
+      "lighting": "自然光",
+      "color_palette": "自然色调",
+      "special_effects": "根据需要添加特效"
+    },
+    "audio": {
+      "dialogue": "只见灵脉中央突然裂开一道缝隙，一个金属造物缓缓升起——造型酷似石油钻井平台，但布满诡异符文！",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "对话",
+      "sound_effects": [],
+      "volume_level": "正常"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "对话",
+      "purpose": "推进剧情"
+    },
+    "notes": {
+      "production_note": "根据实际内容调整",
+      "reference_style": "仙侠风格",
+      "difficulty_level": "中等"
     }
   }
 ]

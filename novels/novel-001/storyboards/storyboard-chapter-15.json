@@ -307,13 +307,371 @@
       "volume_level": "内心独白为主"
     },
     "editing": {
-      "transition_to_next": "淡出",
+      "transition_to_next": "直接切",
       "pacing": "舒缓",
       "purpose": "收尾,留下笑点"
     },
     "notes": {
       "production_note": "实景拍摄",
       "reference_style": "轻松幽默",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP15-S007",
+    "chapter_number": 15,
+    "scene_number": 7,
+    "duration": 9,
+    "shot_type": "中景",
+    "location": "青云宗外门弟子房",
+    "time_of_day": "深夜",
+    "composition": {
+      "camera_position": "对话角度",
+      "camera_movement": "双方切换",
+      "framing": "对话构图",
+      "focus_type": "人物清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "书桌前",
+        "action": "写方案,算账",
+        "expression": "认真→兴奋",
+        "costume": "粗布麻衣"
+      },
+      {
+        "name": "陆尘",
+        "position": "旁边",
+        "action": "好奇看方案",
+        "expression": "困惑→惊讶",
+        "costume": "布衣"
+      }
+    ],
+    "visual_effects": {
+      "environment": "简陋木屋",
+      "lighting": "油灯昏黄",
+      "color_palette": "暖色调",
+      "special_effects": "纸上密密麻麻写着'修仙主题乐园'方案,天魔剑投影出简单的3D模型"
+    },
+    "audio": {
+      "dialogue": "师兄,你这是在写什么?《青云仙宗主题乐园可行性报告》?!我想了!我们可以开发修仙旅游项目!让凡人体验修仙生活,收灵石当门票!还能卖周边!这个...会不会有损宗门形象?形象能当饭吃吗?",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "轻松搞笑",
+      "sound_effects": ["写字声", "投影声"],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "中等",
+      "purpose": "展开计划"
+    },
+    "notes": {
+      "production_note": "实景+CG投影",
+      "reference_style": "创意幽默",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP15-S008",
+    "chapter_number": 15,
+    "scene_number": 8,
+    "duration": 8,
+    "shot_type": "全景",
+    "location": "青云宗-山门外",
+    "time_of_day": "白天",
+    "composition": {
+      "camera_position": "山门外视角",
+      "camera_movement": "缓慢推近",
+      "framing": "宣传场景构图",
+      "focus_type": "宣传清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "山门前",
+        "action": "竖立广告牌",
+        "expression": "认真",
+        "costume": "白衣"
+      },
+      {
+        "name": "陆尘",
+        "position": "帮忙",
+        "action": "搬运材料",
+        "expression": "努力",
+        "costume": "布衣"
+      },
+      {
+        "name": "路过的弟子",
+        "position": "远处",
+        "action": "围观议论",
+        "expression": "好奇",
+        "costume": "弟子服"
+      }
+    ],
+    "visual_effects": {
+      "environment": "青云山门",
+      "lighting": "自然阳光",
+      "color_palette": "明亮色调",
+      "special_effects": "巨大的广告牌:『青云仙宗一日游,体验修仙生活,包教包会,食宿自理』,天魔剑投影出宣传视频"
+    },
+    "audio": {
+      "dialogue": "位置选这里好!进山的游客都能看到!师兄,这会不会太...太那个了?太有商业气息?这叫与时俱进!来,把投影音量调大点!",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "热闹",
+      "sound_effects": ["广告录音", "弟子议论"],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "中等",
+      "purpose": "实施计划"
+    },
+    "notes": {
+      "production_note": "实景+CG投影",
+      "reference_style": "商业搞笑",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP15-S009",
+    "chapter_number": 15,
+    "scene_number": 9,
+    "duration": 10,
+    "shot_type": "全景蒙太奇",
+    "location": "青云宗-各处",
+    "time_of_day": "白天",
+    "composition": {
+      "camera_position": "多地点切换",
+      "camera_movement": "快速切换",
+      "framing": "蒙太奇构图",
+      "focus_type": "游客场景清晰"
+    },
+    "characters": [
+      {
+        "name": "游客们",
+        "position": "各处",
+        "action": "体验修仙项目",
+        "expression": "兴奋,好奇",
+        "costume": "各种服饰"
+      },
+      {
+        "name": "顾玄",
+        "position": "各处",
+        "action": "接待,介绍",
+        "expression": "忙碌但高兴",
+        "costume": "白衣"
+      },
+      {
+        "name": "青云弟子",
+        "position": "一旁",
+        "action": "无奈围观",
+        "expression": "无语",
+        "costume": "弟子服"
+      }
+    ],
+    "visual_effects": {
+      "environment": "青云宗各景点",
+      "lighting": "自然光",
+      "color_palette": "热闹色调",
+      "special_effects": "游客穿古装拍照,体验'御剑飞行'(实际上是被天魔剑的磁力悬浮),学习'仙术'(顾玄教简单的魔术),买纪念品(天魔剑造型的钥匙扣)"
+    },
+    "audio": {
+      "dialogue": "哇!真的飞起来了!快来拍照!这个飞剑好酷!多少钱一个?五百灵石?!这太贵了吧!这可是正宗天魔剑同款!而且附带蓝牙音箱功能!师兄...掌门叫你去一趟...好像很生气的样子...",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "热闹欢快",
+      "sound_effects": ["游客欢声", "蓝牙音乐"],
+      "volume_level": "环境音突出"
+    },
+    "editing": {
+      "transition_to_next": "快速切",
+      "pacing": "快速",
+      "purpose": "业务兴隆蒙太奇"
+    },
+    "notes": {
+      "production_note": "多场景拍摄",
+      "reference_style": "欢乐商业",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP15-S010",
+    "chapter_number": 15,
+    "scene_number": 10,
+    "duration": 8,
+    "shot_type": "中景",
+    "location": "青云宗-掌门大殿",
+    "time_of_day": "下午",
+    "composition": {
+      "camera_position": "大殿内部",
+      "camera_movement": "对话切换",
+      "framing": "会议构图",
+      "focus_type": "人物清晰"
+    },
+    "characters": [
+      {
+        "name": "李道玄",
+        "position": "掌门座",
+        "action": "头疼,揉太阳穴",
+        "expression": "无奈,头疼",
+        "costume": "掌门华服"
+      },
+      {
+        "name": "顾玄",
+        "position": "殿中",
+        "action": "辩解,展示收入",
+        "expression": "认真",
+        "costume": "白衣"
+      },
+      {
+        "name": "长老们",
+        "position": "两侧",
+        "action": "议论纷纷",
+        "expression": "各有看法",
+        "costume": "长老服"
+      }
+    ],
+    "visual_effects": {
+      "environment": "掌门大殿",
+      "lighting": "殿内光线",
+      "color_palette": "正式色调",
+      "special_effects": "桌上堆满灵石,天魔剑投影出收入报表"
+    },
+    "audio": {
+      "dialogue": "顾玄...你这是在做什么?把宗门搞成集市了?掌门您听我解释!我们这个月收入增加了十倍!你看!游客收入,纪念品销售,体验项目收费...而且我们还宣传了宗门形象!确实...现在外面都说我们青云宗最亲民...但这...这也太...",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "尴尬又好笑",
+      "sound_effects": [],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "中等",
+      "purpose": "商业vs传统冲突"
+    },
+    "notes": {
+      "production_note": "室内拍摄",
+      "reference_style": "办公场景",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP15-S011",
+    "chapter_number": 15,
+    "scene_number": 11,
+    "duration": 9,
+    "shot_type": "全景",
+    "location": "青云宗-演武场",
+    "time_of_day": "傍晚",
+    "composition": {
+      "camera_position": "高处俯拍",
+      "camera_movement": "缓慢环绕",
+      "framing": "活动全景构图",
+      "focus_type": "活动清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "演武场中央",
+        "action": "主持活动",
+        "expression": "兴奋",
+        "costume": "白衣"
+      },
+      {
+        "name": "游客们",
+        "position": "四周",
+        "action": "参与活动",
+        "expression": "快乐",
+        "costume": "古装"
+      },
+      {
+        "name": "青云弟子",
+        "position": "协助",
+        "action": "维持秩序",
+        "expression": "无奈但帮忙",
+        "costume": "弟子服"
+      }
+    ],
+    "visual_effects": {
+      "environment": "演武场",
+      "lighting": "夕阳+灯光",
+      "color_palette": "暖色调",
+      "special_effects": "天魔剑投影出绚丽的光效,举办'修仙知识竞赛',游客答题赢奖品,场面热闹"
+    },
+    "audio": {
+      "dialogue": "好!接下来是知识竞赛环节!答对有奖!第一题:天魔剑的正确使用方法是什么?A.切菜 B.砍柴 C.播放电影 D.以上都对!我知道!选D!恭喜你答对了!获得天魔剑钥匙扣一个!耶!这也太...",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "欢快",
+      "sound_effects": ["欢呼声", "答题声"],
+      "volume_level": "环境音突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "快速",
+      "purpose": "活动高潮"
+    },
+    "notes": {
+      "production_note": "群众场景",
+      "reference_style": "热闹活动",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP15-S012",
+    "chapter_number": 15,
+    "scene_number": 12,
+    "duration": 8,
+    "shot_type": "远景",
+    "location": "青云宗-夜晚全景",
+    "time_of_day": "夜晚",
+    "composition": {
+      "camera_position": "山景远景",
+      "camera_movement": "缓慢拉远",
+      "framing": "意境构图",
+      "focus_type": "夜景清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "观星台",
+        "action": "看着热闹的宗门",
+        "expression": "欣慰,思考",
+        "costume": "白衣"
+      },
+      {
+        "name": "陆尘",
+        "position": "旁边",
+        "action": "陪伴",
+        "expression": "敬佩",
+        "costume": "布衣"
+      }
+    ],
+    "visual_effects": {
+      "environment": "夜晚的青云宗",
+      "lighting": "月光+灯火",
+      "color_palette": "温暖夜色",
+      "special_effects": "宗门内灯火通明,游客还在游玩,天魔剑在夜空中投射出'青云仙院,欢迎您'的光字"
+    },
+    "audio": {
+      "dialogue": "师兄,你真的改变了这个宗门。以前这里冷冷清清的,现在这么热闹。是啊...虽然有点商业化,但至少大家都能活下去。而且...我觉得修仙也不该高高在上,该让更多人接触。师兄真厉害!对了,今天的收入...咳咳,攒着,下次买更好的特效素材!",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "温馨又搞笑",
+      "sound_effects": ["夜风声", "远处的欢声"],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "淡出",
+      "pacing": "舒缓",
+      "purpose": "温馨收尾+幽默"
+    },
+    "notes": {
+      "production_note": "夜景意境",
+      "reference_style": "温馨收尾",
       "difficulty_level": "简单"
     }
   }

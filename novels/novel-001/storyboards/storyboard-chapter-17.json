@@ -351,5 +351,370 @@
       "reference_style": "悬疑场景",
       "difficulty_level": "中等"
     }
+  },
+  {
+    "shot_id": "EP17-S007",
+    "chapter_number": 17,
+    "scene_number": 7,
+    "duration": 9,
+    "shot_type": "中景",
+    "location": "青云宗-掌门大殿",
+    "time_of_day": "早晨",
+    "composition": {
+      "camera_position": "会议角度",
+      "camera_movement": "人物切换",
+      "framing": "会议构图",
+      "focus_type": "人物清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "殿中",
+        "action": "汇报情报,展示证据",
+        "expression": "凝重",
+        "costume": "白衣"
+      },
+      {
+        "name": "李道玄",
+        "position": "掌门座",
+        "action": "听取汇报,做决定",
+        "expression": "震惊,决断",
+        "costume": "掌门华服"
+      },
+      {
+        "name": "各宗门代表",
+        "position": "两侧",
+        "action": "震惊议论",
+        "expression": "担忧",
+        "costume": "各宗服饰"
+      }
+    ],
+    "visual_effects": {
+      "environment": "掌门大殿",
+      "lighting": "殿内光线",
+      "color_palette": "正式色调",
+      "special_effects": "天魔剑投影出情报地图,标注血祭位置"
+    },
+    "audio": {
+      "dialogue": "十万生灵...魔教真的疯了!我们必须阻止他们!但是情报可靠吗?白芷看到的...我也无法确定。但宁可信其有,不可信其无!我提议,立即联合各宗门,先发制人!附议!附议!",
+      "narration": "",
+      "internal_monologue": "希望能赶得及...",
+      "background_music": "紧张,决断",
+      "sound_effects": [],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "中等",
+      "purpose": "联合决策"
+    },
+    "notes": {
+      "production_note": "会议场景",
+      "reference_style": "正式会议",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP17-S008",
+    "chapter_number": 17,
+    "scene_number": 8,
+    "duration": 10,
+    "shot_type": "全景蒙太奇",
+    "location": "青州-各宗门",
+    "time_of_day": "白天",
+    "composition": {
+      "camera_position": "多地点拍摄",
+      "camera_movement": "快速切换",
+      "framing": "动员蒙太奇",
+      "focus_type": "动员场景清晰"
+    },
+    "characters": [
+      {
+        "name": "各宗门修士",
+        "position": "各宗门",
+        "action": "集结,准备,出发",
+        "expression": "决心,紧张",
+        "costume": "各宗服饰"
+      },
+      {
+        "name": "顾玄",
+        "position": "各处协调",
+        "action": "统筹全局",
+        "expression": "专注",
+        "costume": "白衣"
+      }
+    ],
+    "visual_effects": {
+      "environment": "青州各宗门",
+      "lighting": "自然光",
+      "color_palette": "战争色调",
+      "special_effects": "各宗门亮起阵法,修士们御剑飞行,天魔剑投影出联合军力分布"
+    },
+    "audio": {
+      "dialogue": "青云宗听令!目标魔教!出发!剑宗集结完毕!万法寺准备就绪!各大宗门,同仇敌忾!为了天下苍生!这一战...十万生灵的性命啊!",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "激昂,史诗",
+      "sound_effects": ["号角声", "剑鸣声"],
+      "volume_level": "音效突出"
+    },
+    "editing": {
+      "transition_to_next": "快速切",
+      "pacing": "快速",
+      "purpose": "战争动员蒙太奇"
+    },
+    "notes": {
+      "production_note": "多场景拍摄",
+      "reference_style": "史诗动员",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP17-S009",
+    "chapter_number": 17,
+    "scene_number": 9,
+    "duration": 8,
+    "shot_type": "中景",
+    "location": "行军路上",
+    "time_of_day": "白天",
+    "composition": {
+      "camera_position": "跟随拍摄",
+      "camera_movement": "跟随飞行",
+      "framing": "飞行构图",
+      "focus_type": "人物清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "前方领队",
+        "action": "带队飞行",
+        "expression": "专注",
+        "costume": "白衣"
+      },
+      {
+        "name": "白芷",
+        "position": "身后",
+        "action": "跟随,偶尔眼中黑光闪现",
+        "expression": "痛苦但坚持",
+        "costume": "布衣"
+      },
+      {
+        "name": "陆尘",
+        "position": "旁边",
+        "action": "担忧白芷",
+        "expression": "担忧",
+        "costume": "布衣"
+      }
+    ],
+    "visual_effects": {
+      "environment": "青州上空",
+      "lighting": "云层光影",
+      "color_palette": "飞行色调",
+      "special_effects": "无数修士御剑飞行,形成壮观景象,白芷眼中偶尔黑光闪烁"
+    },
+    "audio": {
+      "dialogue": "白芷,你还好吗?我...我没事!我能坚持!师兄,前面就是魔教地界了!小心点,情报可能有诈!",
+      "narration": "",
+      "internal_monologue": "白芷的情况越来越严重了...",
+      "background_music": "紧张飞行",
+      "sound_effects": ["风声", "剑鸣"],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "中等",
+      "purpose": "行军+悬念"
+    },
+    "notes": {
+      "production_note": "飞行场景",
+      "reference_style": "紧张行军",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP17-S010",
+    "chapter_number": 17,
+    "scene_number": 10,
+    "duration": 9,
+    "shot_type": "全景",
+    "location": "魔教总坛外围",
+    "time_of_day": "黄昏",
+    "composition": {
+      "camera_position": "高处俯拍",
+      "camera_movement": "缓慢环绕",
+      "framing": "对峙构图",
+      "focus_type": "对峙清晰"
+    },
+    "characters": [
+      {
+        "name": "联合修士大军",
+        "position": "包围圈外围",
+        "action": "列阵对峙",
+        "expression": "紧张,决心",
+        "costume": "各宗服饰"
+      },
+      {
+        "name": "顾玄",
+        "position": "最前方",
+        "action": "观察魔教总坛",
+        "expression": "凝重",
+        "costume": "白衣"
+      },
+      {
+        "name": "魔教守卫",
+        "position": "总坛城墙",
+        "action": "防御姿态",
+        "expression": "恐惧但坚决",
+        "costume": "黑袍"
+      }
+    ],
+    "visual_effects": {
+      "environment": "魔教总坛外围",
+      "lighting": "黄昏+阵法光芒",
+      "color_palette": "对峙色调",
+      "special_effects": "各大宗门阵法光芒闪烁,魔教总坛阴气森森,天魔剑扫描地形"
+    },
+    "audio": {
+      "dialogue": "魔教听着!立即投降,交出血祭计划!否则...否则怎么样?血祭已经开始!你们来晚了!哈哈哈!什么?!已经开始?!该死!强攻!",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "紧张对峙",
+      "sound_effects": ["阵法轰鸣", "魔教狂笑"],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "快速",
+      "purpose": "对峙转折"
+    },
+    "notes": {
+      "production_note": "对峙场景",
+      "reference_style": "紧张对峙",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP17-S011",
+    "chapter_number": 17,
+    "scene_number": 11,
+    "duration": 10,
+    "shot_type": "特效全景",
+    "location": "魔教总坛-血祭祭坛",
+    "time_of_day": "夜晚",
+    "composition": {
+      "camera_position": "祭坛环绕",
+      "camera_movement": "快速环绕",
+      "framing": "震撼构图",
+      "focus_type": "祭坛清晰"
+    },
+    "characters": [
+      {
+        "name": "魔教高层",
+        "position": "祭坛周围",
+        "action": "进行血祭仪式",
+        "expression": "狂热",
+        "costume": "华贵黑袍"
+      },
+      {
+        "name": "被俘虏的修士",
+        "position": "祭坛上",
+        "action": "被献祭",
+        "expression": "恐惧",
+        "costume": "破烂修炼服"
+      },
+      {
+        "name": "顾玄",
+        "position": "突然出现",
+        "action": "出手阻止",
+        "expression": "愤怒",
+        "costume": "白衣"
+      }
+    ],
+    "visual_effects": {
+      "environment": "巨大血祭祭坛",
+      "lighting": "血光冲天",
+      "color_palette": "恐怖色调",
+      "special_effects": "巨大祭坛上血池沸腾,修士被献祭生命,血光冲天,魔教高层狂热,顾玄突然破墙而入,天魔剑爆发光芒"
+    },
+    "audio": {
+      "dialogue": "伟大的天魔啊!接受这些祭品吧! 不!住手!晚了!血祭已经开始了!哈哈哈!天魔即将归来!系统!紧急停止血祭!使用权限!购买'时间回溯'!时间倒流三秒! 住手!",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "恐怖紧张",
+      "sound_effects": ["血祭声", "时间倒流声"],
+      "volume_level": "音效突出"
+    },
+    "editing": {
+      "transition_to_next": "光芒转场",
+      "pacing": "快速",
+      "purpose": "高潮阻止"
+    },
+    "notes": {
+      "production_note": "需要大量CG特效",
+      "reference_style": "恐怖震撼",
+      "difficulty_level": "复杂"
+    }
+  },
+  {
+    "shot_id": "EP17-S012",
+    "chapter_number": 17,
+    "scene_number": 12,
+    "duration": 9,
+    "shot_type": "全景",
+    "location": "魔教总坛-废墟",
+    "time_of_day": "黎明",
+    "composition": {
+      "camera_position": "高处俯拍",
+      "camera_movement": "缓慢拉远",
+      "framing": "余韵构图",
+      "focus_type": "废墟清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "废墟中央",
+        "action": "疲惫站立",
+        "expression": "疲惫,欣慰",
+        "costume": "白衣(破烂)"
+      },
+      {
+        "name": "白芷",
+        "position": "昏迷中",
+        "action": "被扶着",
+        "expression": "痛苦",
+        "costume": "布衣"
+      },
+      {
+        "name": "各宗门修士",
+        "position": "周围",
+        "action": "救援,收拾战场",
+        "expression": "疲惫但高兴",
+        "costume": "各宗服饰"
+      }
+    ],
+    "visual_effects": {
+      "environment": "被摧毁的魔教总坛",
+      "lighting": "晨光",
+      "color_palette": "希望色调",
+      "special_effects": "魔教总坛大部分被摧毁,晨光洒落,白芷眼中黑光暂时消失但留下隐患"
+    },
+    "audio": {
+      "dialogue": "结束了...终于结束了...师兄,白芷她...暂时稳定了,但碎片还在她体内...总有一天会爆发的...至少现在,我们都还活着。谢谢你,顾道友!不,是我们一起做到的!",
+      "narration": "",
+      "internal_monologue": "更大的危机还在后面...",
+      "background_music": "悲壮转为希望",
+      "sound_effects": ["晨风", "远处救援声"],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "淡出",
+      "pacing": "舒缓",
+      "purpose": "胜利收尾+悬念"
+    },
+    "notes": {
+      "production_note": "废墟余韵",
+      "reference_style": "史诗收尾",
+      "difficulty_level": "中等"
+    }
   }
 ]

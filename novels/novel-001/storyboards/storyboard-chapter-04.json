@@ -3,256 +3,1216 @@
     "shot_id": "EP04-S001",
     "chapter_number": 4,
     "scene_number": 1,
-    "duration": 7,
-    "shot_type": "中景",
-    "location": "青云宗主殿",
-    "time_of_day": "清晨",
+    "duration": 6,
+    "shot_type": "远景",
+    "location": "回青云宗的山路",
+    "time_of_day": "白天",
     "composition": {
-      "camera_position": "正面拍摄",
-      "camera_movement": "轻微推拉",
-      "framing": "三人构图",
+      "camera_position": "侧面跟随",
+      "camera_movement": "平行跟拍",
+      "framing": "二人构图",
       "focus_type": "主体清晰"
     },
     "characters": [
       {
         "name": "顾玄",
-        "position": "画面中央",
-        "action": "展示炼丹成果",
-        "expression": "得意(内心虚)",
-        "costume": "粗布麻衣"
-      },
-      {
-        "name": "陆尘",
         "position": "画面左侧",
-        "action": "好奇观看",
-        "expression": "好奇 → 期待",
-        "costume": "布衣少女"
+        "action": "走路飘飘然",
+        "expression": "得意满足",
+        "costume": "破旧道袍"
       },
       {
         "name": "李道玄",
         "position": "画面右侧",
-        "action": "仔细检查丹药",
-        "expression": "怀疑 → 震惊",
-        "costume": "掌门袍"
+        "action": "摸着储物袋",
+        "expression": "喜不自胜",
+        "costume": "掌门袍(破旧)"
       }
     ],
     "visual_effects": {
-      "environment": "主殿内",
+      "environment": "山间小路",
       "lighting": "明亮自然光",
-      "color_palette": "温暖色调",
-      "special_effects": "丹药散发着微弱光芒,看起来很神奇"
+      "color_palette": "温暖明亮",
+      "special_effects": "两人步伐轻快,与平时沉重形成对比"
     },
     "audio": {
-      "dialogue": "顾玄: '此乃...特效丹,能大幅提升修为。'",
+      "dialogue": "李道玄: '徒儿啊,这五百上品灵石,定要用在宗门建设上。首先得修葺下祖师堂...'",
       "narration": "",
-      "internal_monologue": "其实就是用特效灵石做出来的...",
-      "background_music": "轻松神秘",
-      "sound_effects": [],
+      "internal_monologue": "",
+      "background_music": "轻松欢快",
+      "sound_effects": ["脚步轻快", "衣摆摩擦"],
       "volume_level": "对话清晰"
     },
     "editing": {
       "transition_to_next": "直接切",
       "pacing": "轻松",
-      "purpose": "引入炼丹情节"
+      "purpose": "开场展示喜悦"
     },
     "notes": {
-      "production_note": "道具设计",
-      "reference_style": "仙侠炼丹",
+      "production_note": "表现两人得意忘形的状态",
+      "reference_style": "轻松幽默",
       "difficulty_level": "简单"
     }
   },
   {
     "shot_id": "EP04-S002",
     "chapter_number": 4,
-    "scene_number": 2,
-    "duration": 6,
-    "shot_type": "特效特写",
-    "location": "青云宗丹房",
-    "time_of_day": "上午",
+    "scene_number": 1,
+    "duration": 5,
+    "shot_type": "近景",
+    "location": "回青云宗的山路",
+    "time_of_day": "白天",
     "composition": {
-      "camera_position": "环绕拍摄",
-      "camera_movement": "快速环绕",
-      "framing": "动态构图",
-      "focus_type": "特效突出"
+      "camera_position": "正面拍摄",
+      "camera_movement": "轻微推镜",
+      "framing": "单人构图",
+      "focus_type": "面部特写"
     },
     "characters": [
       {
         "name": "顾玄",
         "position": "画面中央",
-        "action": "炼丹中,特效加持",
-        "expression": "专注 → 慌乱",
-        "costume": "粗布麻衣"
+        "action": "点头附和,内心盘算",
+        "expression": "表面赞同,内心算计",
+        "costume": "破旧道袍"
       }
     ],
     "visual_effects": {
-      "environment": "丹房内",
-      "lighting": "炉火光芒+特效光",
-      "color_palette": "火光+特效色",
-      "special_effects": "丹炉火光冲天,特效加持下更加壮观,实则差点炸炉"
+      "environment": "山间小路",
+      "lighting": "自然光",
+      "color_palette": "自然色调",
+      "special_effects": ""
     },
     "audio": {
-      "dialogue": "",
+      "dialogue": "顾玄: '师父说得对。'",
       "narration": "",
-      "internal_monologue": "卧槽！要炸了！特效灵石稳住啊！",
-      "background_music": "紧张悬疑",
-      "sound_effects": ["炉火轰鸣", "系统警告音"],
-      "volume_level": "紧张氛围"
+      "internal_monologue": "终于可以买点像样的灵石了!下次施展光影术绝对不能再中途熄火!",
+      "background_music": "轻松幽默",
+      "sound_effects": [],
+      "volume_level": "内心独白突出"
     },
     "editing": {
-      "transition_to_next": "快速切",
-      "pacing": "紧张",
-      "purpose": "炼丹危机"
+      "transition_to_next": "直接切",
+      "pacing": "轻松",
+      "purpose": "展示顾玄真实想法"
     },
     "notes": {
-      "production_note": "大量特效",
-      "reference_style": "仙侠炼丹",
-      "difficulty_level": "中等"
+      "production_note": "对比表里不一",
+      "reference_style": "心理刻画",
+      "difficulty_level": "简单"
     }
   },
   {
     "shot_id": "EP04-S003",
     "chapter_number": 4,
-    "scene_number": 3,
-    "duration": 8,
-    "shot_type": "全景",
-    "location": "青云宗山门",
-    "time_of_day": "午后",
+    "scene_number": 2,
+    "duration": 5,
+    "shot_type": "中景",
+    "location": "青云宗主殿",
+    "time_of_day": "白天",
     "composition": {
-      "camera_position": "山门外拍摄",
+      "camera_position": "正面拍摄",
       "camera_movement": "固定镜头",
-      "framing": "对峙构图",
-      "focus_type": "双方清晰"
+      "framing": "四人构图",
+      "focus_type": "群体清晰"
     },
     "characters": [
       {
-        "name": "玄天剑宗弟子",
+        "name": "陆尘",
         "position": "画面左侧",
-        "action": "剑气凌厉,挑衅",
-        "expression": "傲慢 → 狂妄",
-        "costume": "玄天剑宗弟子服"
+        "action": "紧张地等待",
+        "expression": "忐忑不安",
+        "costume": "布衣"
+      },
+      {
+        "name": "王明",
+        "position": "画面右侧",
+        "action": "眼巴巴看着",
+        "expression": "期待担忧",
+        "costume": "布衣"
       },
       {
         "name": "顾玄",
-        "position": "画面右侧",
-        "action": "淡定应对",
-        "expression": "表面淡定",
-        "costume": "粗布麻衣"
+        "position": "后方左侧",
+        "action": "刚进门",
+        "expression": "轻松",
+        "costume": "破旧道袍"
+      },
+      {
+        "name": "李道玄",
+        "position": "后方右侧",
+        "action": "昂首挺胸",
+        "expression": "得意",
+        "costume": "掌门袍"
       }
     ],
     "visual_effects": {
-      "environment": "山门前",
-      "lighting": "午后阳光",
-      "color_palette": "明亮色调",
-      "special_effects": "剑宗弟子周身剑气缭绕"
+      "environment": "破旧主殿",
+      "lighting": "殿内光线昏暗",
+      "color_palette": "灰暗色调",
+      "special_effects": "主殿破败,透出贫穷气息"
     },
     "audio": {
-      "dialogue": "剑宗弟子: '听闻青云宗有特效丹,我等特来...学习。'",
+      "dialogue": "陆尘: '掌门,师兄,怎么样了?'",
       "narration": "",
-      "internal_monologue": "顾玄: 学习个鬼,明明是来抢的！",
-      "background_music": "紧张带幽默",
+      "internal_monologue": "",
+      "background_music": "期待感",
       "sound_effects": [],
-      "volume_level": "对话突出"
+      "volume_level": "对话清晰"
     },
     "editing": {
       "transition_to_next": "直接切",
-      "pacing": "紧张",
-      "purpose": "再次冲突"
+      "pacing": "中等",
+      "purpose": "展示宗门困境"
     },
     "notes": {
-      "production_note": "注重对峙感",
-      "reference_style": "仙侠对峙",
+      "production_note": "营造期待氛围",
+      "reference_style": "生活化场景",
       "difficulty_level": "简单"
     }
   },
   {
     "shot_id": "EP04-S004",
     "chapter_number": 4,
-    "scene_number": 3,
+    "scene_number": 2,
     "duration": 7,
-    "shot_type": "特效特写",
-    "location": "青云宗山门",
-    "time_of_day": "午后",
+    "shot_type": "特写",
+    "location": "青云宗主殿",
+    "time_of_day": "白天",
     "composition": {
-      "camera_position": "环绕顾玄",
-      "camera_movement": "快速环绕",
-      "framing": "动态构图",
-      "focus_type": "特效突出"
+      "camera_position": "俯拍桌面",
+      "camera_movement": "缓慢旋转",
+      "framing": "物体特写",
+      "focus_type": "主体突出"
     },
-    "characters": [
-      {
-        "name": "顾玄",
-        "position": "画面中央",
-        "action": "特效全开,展现实力",
-        "expression": "威严(内心慌)",
-        "costume": "粗布麻衣,特效加持"
-      }
-    ],
+    "characters": [],
     "visual_effects": {
-      "environment": "山门前",
-      "lighting": "自然光+特效光",
-      "color_palette": "高对比度",
-      "special_effects": "周身金光大盛,特效灵石全力输出,恐怖威压震撼全场"
+      "environment": "主殿桌面",
+      "lighting": "灵石光芒照亮",
+      "color_palette": "晶莹剔透",
+      "special_effects": "上品灵石堆成小山,灵气四溢,光芒照亮整个主殿"
     },
     "audio": {
-      "dialogue": "顾玄: '想学？先问问我手中的特效！'",
+      "dialogue": "",
       "narration": "",
-      "internal_monologue": "特效灵石快点！要撑不住了！",
-      "background_music": "震撼紧张",
-      "sound_effects": ["威压轰鸣", "金光爆发"],
-      "volume_level": "震撼突出"
+      "internal_monologue": "",
+      "background_music": "震撼壮观",
+      "sound_effects": ["哗啦声", "灵气共鸣"],
+      "volume_level": "音效突出"
     },
     "editing": {
       "transition_to_next": "直接切",
       "pacing": "震撼",
-      "purpose": "再次震慑敌人"
+      "purpose": "展示财富震撼"
     },
     "notes": {
-      "production_note": "大量特效",
-      "reference_style": "仙侠威压",
+      "production_note": "特效重点场景",
+      "reference_style": "仙侠特效",
       "difficulty_level": "中等"
     }
   },
   {
     "shot_id": "EP04-S005",
     "chapter_number": 4,
-    "scene_number": 4,
-    "duration": 8,
-    "shot_type": "全景",
-    "location": "青云宗后院",
-    "time_of_day": "黄昏",
+    "scene_number": 2,
+    "duration": 5,
+    "shot_type": "近景",
+    "location": "青云宗主殿",
+    "time_of_day": "白天",
     "composition": {
-      "camera_position": "远景拍摄",
-      "camera_movement": "缓慢拉远",
-      "framing": "广角",
-      "focus_type": "全景清晰"
+      "camera_position": "正面拍摄",
+      "camera_movement": "轻微推镜",
+      "framing": "双人构图",
+      "focus_type": "面部表情"
+    },
+    "characters": [
+      {
+        "name": "王明",
+        "position": "画面左侧",
+        "action": "眼睛发直",
+        "expression": "震惊呆滞",
+        "costume": "布衣"
+      },
+      {
+        "name": "李道玄",
+        "position": "画面右侧",
+        "action": "故作高深",
+        "expression": "淡定装逼",
+        "costume": "掌门袍"
+      }
+    ],
+    "visual_effects": {
+      "environment": "主殿内",
+      "lighting": "灵石光芒映照",
+      "color_palette": "光芒四射",
+      "special_effects": ""
+    },
+    "audio": {
+      "dialogue": "王明: '这、这么多灵石?咱们青云宗祖坟冒青烟了?'\n李道玄: '咳咳,此乃祖师爷留下的福泽...'",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "幽默轻松",
+      "sound_effects": [],
+      "volume_level": "对话清晰"
+    },
+    "editing": {
+      "transition_to_next": "快速切",
+      "pacing": "轻松",
+      "purpose": "幽默效果"
+    },
+    "notes": {
+      "production_note": "幽默对比",
+      "reference_style": "喜剧风格",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP04-S006",
+    "chapter_number": 4,
+    "scene_number": 2,
+    "duration": 3,
+    "shot_type": "特写",
+    "location": "青云宗主殿",
+    "time_of_day": "白天",
+    "composition": {
+      "camera_position": "侧面拍摄",
+      "camera_movement": "快速推镜",
+      "framing": "面部特写",
+      "focus_type": "表情突出"
     },
     "characters": [
       {
         "name": "顾玄",
-        "position": "画面一侧,查看系统",
-        "action": "查看商城,计算资源",
-        "expression": "担忧 → 思考",
-        "costume": "粗布麻衣"
-      },
-      {
-        "name": "陆尘",
-        "position": "画面中央,修炼中",
-        "action": "吸收丹药,修为提升",
-        "expression": "专注 → 喜悦",
-        "costume": "布衣少女"
+        "position": "画面中央",
+        "action": "默默翻白眼",
+        "expression": "无语吐槽",
+        "costume": "破旧道袍"
       }
     ],
     "visual_effects": {
-      "environment": "夕阳西下",
-      "lighting": "黄昏金光",
-      "color_palette": "温暖色调",
-      "special_effects": "陆尘周身灵力波动增强"
+      "environment": "主殿内",
+      "lighting": "灵石光芒",
+      "color_palette": "自然色调",
+      "special_effects": ""
     },
     "audio": {
       "dialogue": "",
-      "narration": "丹药效果显著,但顾玄知道,特效总有耗尽的一天...",
-      "internal_monologue": "得想办法搞更多资源了...",
-      "background_music": "轻松中带忧虑",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "轻松幽默",
+      "sound_effects": [],
+      "volume_level": "音乐为主"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "快速",
+      "purpose": "幽默吐槽"
+    },
+    "notes": {
+      "production_note": "细节表情",
+      "reference_style": "喜剧细节",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP04-S007",
+    "chapter_number": 4,
+    "scene_number": 3,
+    "duration": 8,
+    "shot_type": "全景",
+    "location": "青云宗各处",
+    "time_of_day": "白天到夜晚",
+    "composition": {
+      "camera_position": "多场景剪辑",
+      "camera_movement": "跟随拍摄",
+      "framing": "蒙太奇",
+      "focus_type": "叙事清晰"
+    },
+    "characters": [
+      {
+        "name": "李道玄",
+        "position": "多场景",
+        "action": "采购物资,分发物品",
+        "expression": "忙碌开心",
+        "costume": "掌门袍"
+      },
+      {
+        "name": "陆尘",
+        "position": "多场景",
+        "action": "接收物品,激动不已",
+        "expression": "喜悦感动",
+        "costume": "布衣"
+      },
+      {
+        "name": "王明",
+        "position": "多场景",
+        "action": "接收物品",
+        "expression": "开心",
+        "costume": "布衣"
+      }
+    ],
+    "visual_effects": {
+      "environment": "宗门各处",
+      "lighting": "多变",
+      "color_palette": "温暖明亮",
+      "special_effects": "宗门焕发新活力,物资分发场景温馨"
+    },
+    "audio": {
+      "dialogue": "李道玄: '这是给你的三块下品灵石和《基础炼气诀》'\n陆尘: '谢谢掌门!'",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "温馨欢快",
+      "sound_effects": ["物品传递", "欢笑声"],
+      "volume_level": "对话与音乐平衡"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "明快",
+      "purpose": "展示变化"
+    },
+    "notes": {
+      "production_note": "蒙太奇剪辑",
+      "reference_style": "生活蒙太奇",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP04-S008",
+    "chapter_number": 4,
+    "scene_number": 4,
+    "duration": 6,
+    "shot_type": "近景",
+    "location": "青云宗住处",
+    "time_of_day": "夜晚",
+    "composition": {
+      "camera_position": "正面拍摄",
+      "camera_movement": "轻微摇晃",
+      "framing": "单人构图",
+      "focus_type": "面部细节"
+    },
+    "characters": [
+      {
+        "name": "陆尘",
+        "position": "画面中央",
+        "action": "激动报告",
+        "expression": "兴奋,黑眼圈",
+        "costume": "新道袍"
+      }
+    ],
+    "visual_effects": {
+      "environment": "简陋房间",
+      "lighting": "烛光照明",
+      "color_palette": "暖黄色调",
+      "special_effects": ""
+    },
+    "audio": {
+      "dialogue": "陆尘: '师兄!我好像能引动一丝灵气了!虽然还是很微弱,但比昨天好多了!'",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "励志感人",
+      "sound_effects": [],
+      "volume_level": "对话清晰"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "温情",
+      "purpose": "展示努力成果"
+    },
+    "notes": {
+      "production_note": "情感表达",
+      "reference_style": "励志风格",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP04-S009",
+    "chapter_number": 4,
+    "scene_number": 4,
+    "duration": 5,
+    "shot_type": "特写",
+    "location": "青云宗住处",
+    "time_of_day": "夜晚",
+    "composition": {
+      "camera_position": "侧面拍摄",
+      "camera_movement": "推镜",
+      "framing": "面部特写",
+      "focus_type": "微表情"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "画面中央",
+        "action": "表面点头,内心吐槽",
+        "expression": "表面欣慰,内心怀疑",
+        "costume": "新道袍"
+      }
+    ],
+    "visual_effects": {
+      "environment": "简陋房间",
+      "lighting": "烛光",
+      "color_palette": "暖黄色调",
+      "special_effects": ""
+    },
+    "audio": {
+      "dialogue": "顾玄: '不错,继续努力。'",
+      "narration": "",
+      "internal_monologue": "这孩子怕不是练出幻觉了...没有灵根怎么可能引气?不过我自己都能瞎猫碰上死耗子引来天雷,说不定这世界就不讲基本法呢?",
+      "background_music": "轻松带思考",
+      "sound_effects": [],
+      "volume_level": "内心独白突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "反思",
+      "purpose": "心理刻画"
+    },
+    "notes": {
+      "production_note": "对比表里",
+      "reference_style": "心理描写",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP04-S010",
+    "chapter_number": 4,
+    "scene_number": 5,
+    "duration": 8,
+    "shot_type": "远景",
+    "location": "青云宗后院空地",
+    "time_of_day": "上午",
+    "composition": {
+      "camera_position": "侧面拍摄",
+      "camera_movement": "水平移动",
+      "framing": "双人构图",
+      "focus_type": "主体清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "画面左侧",
+        "action": "准备演示剑法",
+        "expression": "认真装逼",
+        "costume": "新道袍"
+      },
+      {
+        "name": "陆尘",
+        "position": "画面右侧",
+        "action": "认真观看学习",
+        "expression": "专注崇拜",
+        "costume": "新道袍"
+      }
+    ],
+    "visual_effects": {
+      "environment": "后院空地",
+      "lighting": "明亮日光",
+      "color_palette": "自然明亮",
+      "special_effects": ""
+    },
+    "audio": {
+      "dialogue": "顾玄: '既然已能引气,今日便传你剑法基础。我青云宗以剑修闻名,剑法乃是根本。'",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "正统武侠",
+      "sound_effects": [],
+      "volume_level": "对话清晰"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "稳重",
+      "purpose": "传授剑法"
+    },
+    "notes": {
+      "production_note": "正统风格",
+      "reference_style": "武侠教学",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP04-S011",
+    "chapter_number": 4,
+    "scene_number": 5,
+    "duration": 6,
+    "shot_type": "特写",
+    "location": "青云宗后院空地",
+    "time_of_day": "上午",
+    "composition": {
+      "camera_position": "俯拍",
+      "camera_movement": "跟随剑身",
+      "framing": "物体特写",
+      "focus_type": "剑身细节"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "手持佩剑",
+        "action": "展示佩剑",
+        "expression": "认真",
+        "costume": "新道袍"
+      }
+    ],
+    "visual_effects": {
+      "environment": "后院空地",
+      "lighting": "自然光",
+      "color_palette": "金属质感",
+      "special_effects": "锈迹斑斑的铁剑,剑柄镶嵌劣质灵石"
+    },
+    "audio": {
+      "dialogue": "",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "神秘感",
+      "sound_effects": ["剑出鞘声"],
+      "volume_level": "音效突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "沉稳",
+      "purpose": "展示装备"
+    },
+    "notes": {
+      "production_note": "细节展示",
+      "reference_style": "武侠风格",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP04-S012",
+    "chapter_number": 4,
+    "scene_number": 5,
+    "duration": 7,
+    "shot_type": "中景",
+    "location": "青云宗后院空地",
+    "time_of_day": "上午",
+    "composition": {
+      "camera_position": "正面拍摄",
+      "camera_movement": "轻微推拉",
+      "framing": "单人构图",
+      "focus_type": "动作流畅"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "画面中央",
+        "action": "演示第一式剑法",
+        "expression": "专注帅气",
+        "costume": "新道袍"
+      }
+    ],
+    "visual_effects": {
+      "environment": "后院空地",
+      "lighting": "自然光+剑光",
+      "color_palette": "明亮+微光",
+      "special_effects": "剑尖划出微弱白光,最低档光效但看起来飘逸如仙"
+    },
+    "audio": {
+      "dialogue": "顾玄: '看好了,此乃青云剑法起手式——云起青霄!'",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "仙侠武侠",
+      "sound_effects": ["剑划破空", "轻微灵力声"],
+      "volume_level": "对话与音效平衡"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "流畅",
+      "purpose": "展示剑法"
+    },
+    "notes": {
+      "production_note": "动作+特效",
+      "reference_style": "仙侠剑法",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP04-S013",
+    "chapter_number": 4,
+    "scene_number": 5,
+    "duration": 4,
+    "shot_type": "近景",
+    "location": "青云宗后院空地",
+    "time_of_day": "上午",
+    "composition": {
+      "camera_position": "侧面拍摄",
+      "camera_movement": "推镜",
+      "framing": "单人构图",
+      "focus_type": "崇拜表情"
+    },
+    "characters": [
+      {
+        "name": "陆尘",
+        "position": "画面中央",
+        "action": "由衷赞叹",
+        "expression": "崇拜震撼",
+        "costume": "新道袍"
+      }
+    ],
+    "visual_effects": {
+      "environment": "后院空地",
+      "lighting": "自然光",
+      "color_palette": "明亮",
+      "special_effects": ""
+    },
+    "audio": {
+      "dialogue": "陆尘: '好厉害!'",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "震撼感人",
+      "sound_effects": [],
+      "volume_level": "对话清晰"
+    },
+    "editing": {
+      "transition_to_next": "快速切",
+      "pacing": "快速",
+      "purpose": "崇拜反应"
+    },
+    "notes": {
+      "production_note": "反应镜头",
+      "reference_style": "师徒互动",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP04-S014",
+    "chapter_number": 4,
+    "scene_number": 5,
+    "duration": 5,
+    "shot_type": "特写",
+    "location": "青云宗后院空地",
+    "time_of_day": "上午",
+    "composition": {
+      "camera_position": "大特写",
+      "camera_movement": "固定",
+      "framing": "面部微表情",
+      "focus_type": "表情细节"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "画面中央",
+        "action": "表面淡定,内心苦笑",
+        "expression": "表面平静,内心崩溃",
+        "costume": "新道袍"
+      }
+    ],
+    "visual_effects": {
+      "environment": "后院空地",
+      "lighting": "自然光",
+      "color_palette": "自然",
+      "special_effects": ""
+    },
+    "audio": {
+      "dialogue": "",
+      "narration": "",
+      "internal_monologue": "厉害个鬼,这招我练了三年才勉强能看,实际杀伤力还不如扔块石头。",
+      "background_music": "轻松幽默",
+      "sound_effects": [],
+      "volume_level": "内心独白清晰"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "幽默",
+      "purpose": "对比反差"
+    },
+    "notes": {
+      "production_note": "内心独白",
+      "reference_style": "喜剧风格",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP04-S015",
+    "chapter_number": 4,
+    "scene_number": 5,
+    "duration": 8,
+    "shot_type": "中景",
+    "location": "青云宗后院空地",
+    "time_of_day": "上午",
+    "composition": {
+      "camera_position": "多角度拍摄",
+      "camera_movement": "快速切换",
+      "framing": "动态构图",
+      "focus_type": "动作连贯"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "画面中央",
+        "action": "演示第二式,险些失控",
+        "expression": "紧张强作镇定",
+        "costume": "新道袍"
+      }
+    ],
+    "visual_effects": {
+      "environment": "后院空地",
+      "lighting": "自然光+不稳定剑光",
+      "color_palette": "明暗变化",
+      "special_effects": "剑尖白光剧烈闪烁,差点脱手飞出"
+    },
+    "audio": {
+      "dialogue": "顾玄: '第二式,流云过峰!'... '此招重在变化,你初学不必追求形似,领会意境即可。'",
+      "narration": "",
+      "internal_monologue": "这招对灵力控制要求极高,我十次有八次会失控!",
+      "background_music": "紧张带幽默",
+      "sound_effects": ["剑光闪烁", "灵力不稳"],
+      "volume_level": "紧张氛围"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "紧张",
+      "purpose": "展示危险"
+    },
+    "notes": {
+      "production_note": "动作+紧张",
+      "reference_style": "惊险幽默",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP04-S016",
+    "chapter_number": 4,
+    "scene_number": 6,
+    "duration": 7,
+    "shot_type": "中景",
+    "location": "青云宗后院",
+    "time_of_day": "下午",
+    "composition": {
+      "camera_position": "侧面拍摄",
+      "camera_movement": "缓慢拉远",
+      "framing": "双人构图",
+      "focus_type": "主体清晰"
+    },
+    "characters": [
+      {
+        "name": "陆尘",
+        "position": "画面中央",
+        "action": "认真练习剑法",
+        "expression": "专注刻苦",
+        "costume": "新道袍"
+      },
+      {
+        "name": "顾玄",
+        "position": "树下",
+        "action": "打盹",
+        "expression": "睡眼惺忪",
+        "costume": "新道袍"
+      }
+    ],
+    "visual_effects": {
+      "environment": "后院树下",
+      "lighting": "午后阳光",
+      "color_palette": "温暖慵懒",
+      "special_effects": ""
+    },
+    "audio": {
+      "dialogue": "",
+      "narration": "陆尘天资一般,练起剑来格外吃力。顾玄则在树下打盹——昨晚数灵石数太晚。",
+      "internal_monologue": "",
+      "background_music": "轻松慵懒",
+      "sound_effects": ["剑挥舞声", "蝉鸣"],
+      "volume_level": "音乐与环境音平衡"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "舒缓",
+      "purpose": "日常场景"
+    },
+    "notes": {
+      "production_note": "生活化场景",
+      "reference_style": "轻松日常",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP04-S017",
+    "chapter_number": 4,
+    "scene_number": 7,
+    "duration": 8,
+    "shot_type": "特写",
+    "location": "青云宗后院",
+    "time_of_day": "下午",
+    "composition": {
+      "camera_position": "跟随拍摄",
+      "camera_movement": "快速跟随",
+      "framing": "动态特写",
+      "focus_type": "动作细节"
+    },
+    "characters": [
+      {
+        "name": "陆尘",
+        "position": "画面中央",
+        "action": "错误动作引发异象",
+        "expression": "沮丧→惊讶",
+        "costume": "新道袍"
+      }
+    ],
+    "visual_effects": {
+      "environment": "后院空地",
+      "lighting": "自然光+电光",
+      "color_palette": "明亮+电光蓝",
+      "special_effects": "木剑尖端爆出小簇电火花,灵气自行运转"
+    },
+    "audio": {
+      "dialogue": "陆尘: '这、这是...'",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "惊喜震撼",
+      "sound_effects": ["嗤啦声", "电流声"],
+      "volume_level": "音效突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "震撼",
+      "purpose": "异象发生"
+    },
+    "notes": {
+      "production_note": "特效重点",
+      "reference_style": "仙侠特效",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP04-S018",
+    "chapter_number": 4,
+    "scene_number": 8,
+    "duration": 10,
+    "shot_type": "中景",
+    "location": "青云宗后院",
+    "time_of_day": "下午",
+    "composition": {
+      "camera_position": "多角度拍摄",
+      "camera_movement": "环绕跟随",
+      "framing": "动态构图",
+      "focus_type": "动作与特效"
+    },
+    "characters": [
+      {
+        "name": "陆尘",
+        "position": "画面中央",
+        "action": "按感觉乱练剑法",
+        "expression": "投入兴奋",
+        "costume": "新道袍"
+      }
+    ],
+    "visual_effects": {
+      "environment": "后院空地",
+      "lighting": "自然光+电光",
+      "color_palette": "明亮+雷电蓝",
+      "special_effects": "剑尖迸发电火花越来越频繁,周身开始有细微电光流转"
+    },
+    "audio": {
+      "dialogue": "",
+      "narration": "陆尘开始不按剑谱练习,而是凭感觉出剑。剑招变得刚猛直接,甚至有些莽。但体内灵气反而运转越发顺畅。",
+      "internal_monologue": "",
+      "background_music": "震撼神秘",
+      "sound_effects": ["剑挥舞", "电火花", "轻微雷声"],
+      "volume_level": "音效与音乐平衡"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "明快",
+      "purpose": "展示异变"
+    },
+    "notes": {
+      "production_note": "动作+特效",
+      "reference_style": "仙侠修炼",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP04-S019",
+    "chapter_number": 4,
+    "scene_number": 9,
+    "duration": 6,
+    "shot_type": "特写",
+    "location": "青云宗后院",
+    "time_of_day": "下午",
+    "composition": {
+      "camera_position": "大特写",
+      "camera_movement": "推镜",
+      "framing": "面部表情",
+      "focus_type": "震惊细节"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "画面中央",
+        "action": "睡醒看见异象",
+        "expression": "震惊→怀疑人生",
+        "costume": "新道袍"
+      }
+    ],
+    "visual_effects": {
+      "environment": "树下",
+      "lighting": "自然光",
+      "color_palette": "自然",
+      "special_effects": ""
+    },
+    "audio": {
+      "dialogue": "",
+      "narration": "",
+      "internal_monologue": "我这教的是青云剑法还是王八剑法?等等...那是什么?不可能!没有灵根之人,怎么可能练出属性剑气!",
+      "background_music": "震惊悬疑",
+      "sound_effects": [],
+      "volume_level": "内心独白突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "震惊",
+      "purpose": "顾玄视角"
+    },
+    "notes": {
+      "production_note": "心理震惊",
+      "reference_style": "悬疑反应",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP04-S020",
+    "chapter_number": 4,
+    "scene_number": 9,
+    "duration": 8,
+    "shot_type": "中景",
+    "location": "青云宗后院",
+    "time_of_day": "下午",
+    "composition": {
+      "camera_position": "环绕拍摄",
+      "camera_movement": "缓慢环绕",
+      "framing": "单人构图",
+      "focus_type": "特效与动作"
+    },
+    "characters": [
+      {
+        "name": "陆尘",
+        "position": "画面中央",
+        "action": "完成一套剑法",
+        "expression": "兴奋满足",
+        "costume": "新道袍"
+      }
+    ],
+    "visual_effects": {
+      "environment": "后院空地",
+      "lighting": "自然光+电光环绕",
+      "color_palette": "雷电蓝",
+      "special_effects": "周身细微电光流转,空气中弥漫淡淡臭氧味"
+    },
+    "audio": {
+      "dialogue": "",
+      "narration": "只见陆尘越练越投入,木剑挥舞间竟隐隐有风雷之声!",
+      "internal_monologue": "",
+      "background_music": "震撼神秘",
+      "sound_effects": ["风雷之声", "电流声"],
+      "volume_level": "音效突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "震撼",
+      "purpose": "展示成果"
+    },
+    "notes": {
+      "production_note": "特效重点",
+      "reference_style": "仙侠特效",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP04-S021",
+    "chapter_number": 4,
+    "scene_number": 10,
+    "duration": 7,
+    "shot_type": "近景",
+    "location": "青云宗后院",
+    "time_of_day": "下午",
+    "composition": {
+      "camera_position": "侧面拍摄",
+      "camera_movement": "推镜",
+      "framing": "双人构图",
+      "focus_type": "对话互动"
+    },
+    "characters": [
+      {
+        "name": "陆尘",
+        "position": "画面左侧",
+        "action": "兴奋跑过来",
+        "expression": "兴奋期待",
+        "costume": "新道袍"
+      },
+      {
+        "name": "顾玄",
+        "position": "画面右侧",
+        "action": "强作镇定",
+        "expression": "表面淡定,内心震惊",
+        "costume": "新道袍"
+      }
+    ],
+    "visual_effects": {
+      "environment": "后院",
+      "lighting": "午后阳光",
+      "color_palette": "温暖明亮",
+      "special_effects": ""
+    },
+    "audio": {
+      "dialogue": "陆尘: '师兄!我好像摸到点门道了!虽然和您教的不太一样,但感觉特别顺畅!'\n顾玄: '嗯...不错。剑法本无定式,能悟出属于自己的道,才是正途。'",
+      "narration": "",
+      "internal_monologue": "顾玄: 难道...这才是青云剑法的正确打开方式?我苦练十几年练的是假剑法?",
+      "background_music": "轻松带思考",
+      "sound_effects": [],
+      "volume_level": "对话清晰"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "对话",
+      "purpose": "师徒互动"
+    },
+    "notes": {
+      "production_note": "对话场景",
+      "reference_style": "师徒情",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP04-S022",
+    "chapter_number": 4,
+    "scene_number": 11,
+    "duration": 6,
+    "shot_type": "近景",
+    "location": "青云宗后院",
+    "time_of_day": "下午",
+    "composition": {
+      "camera_position": "正面拍摄",
+      "camera_movement": "推镜",
+      "framing": "单人构图",
+      "focus_type": "期待表情"
+    },
+    "characters": [
+      {
+        "name": "陆尘",
+        "position": "画面中央",
+        "action": "期待询问",
+        "expression": "期待兴奋",
+        "costume": "新道袍"
+      }
+    ],
+    "visual_effects": {
+      "environment": "后院",
+      "lighting": "午后阳光",
+      "color_palette": "温暖明亮",
+      "special_effects": ""
+    },
+    "audio": {
+      "dialogue": "陆尘: '师兄,我感觉最后一招特别顺手,就是向前直刺那下,好像能引动雷电之力似的!这招叫什么名字啊?'",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "期待感",
+      "sound_effects": [],
+      "volume_level": "对话清晰"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "期待",
+      "purpose": "引出命名"
+    },
+    "notes": {
+      "production_note": "期待氛围",
+      "reference_style": "师徒互动",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP04-S023",
+    "chapter_number": 4,
+    "scene_number": 11,
+    "duration": 5,
+    "shot_type": "特写",
+    "location": "青云宗后院",
+    "time_of_day": "下午",
+    "composition": {
+      "camera_position": "大特写",
+      "camera_movement": "固定",
+      "framing": "面部表情",
+      "focus_type": "微表情"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "画面中央",
+        "action": "硬着头皮编名字",
+        "expression": "强装高深,内心慌乱",
+        "costume": "新道袍"
+      }
+    ],
+    "visual_effects": {
+      "environment": "后院",
+      "lighting": "午后阳光",
+      "color_palette": "自然",
+      "special_effects": ""
+    },
+    "audio": {
+      "dialogue": "顾玄: '此招...乃青云剑法隐藏绝学,名为...奔雷刺。'",
+      "narration": "",
+      "internal_monologue": "随便编了个名字,心想反正听起来够帅就行。",
+      "background_music": "幽默轻松",
+      "sound_effects": [],
+      "volume_level": "对话与内心平衡"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "幽默",
+      "purpose": "即兴发挥"
+    },
+    "notes": {
+      "production_note": "幽默细节",
+      "reference_style": "喜剧风格",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP04-S024",
+    "chapter_number": 4,
+    "scene_number": 12,
+    "duration": 7,
+    "shot_type": "远景",
+    "location": "青云宗后院",
+    "time_of_day": "下午",
+    "composition": {
+      "camera_position": "远景拍摄",
+      "camera_movement": "缓慢拉远",
+      "framing": "广角构图",
+      "focus_type": "全景清晰"
+    },
+    "characters": [
+      {
+        "name": "陆尘",
+        "position": "画面中央",
+        "action": "兴冲冲练习奔雷刺",
+        "expression": "兴奋投入",
+        "costume": "新道袍"
+      },
+      {
+        "name": "顾玄",
+        "position": "一旁站立",
+        "action": "风中凌乱",
+        "expression": "怀疑人生",
+        "costume": "新道袍"
+      },
+      {
+        "name": "李道玄",
+        "position": "远处观察",
+        "action": "捋须微笑",
+        "expression": "欣慰",
+        "costume": "掌门袍"
+      }
+    ],
+    "visual_effects": {
+      "environment": "后院全景",
+      "lighting": "午后阳光",
+      "color_palette": "温暖明亮",
+      "special_effects": "陆尘一剑刺出带起雷光"
+    },
+    "audio": {
+      "dialogue": "陆尘: '奔雷刺?好名字!谢谢师兄传授绝学!'",
+      "narration": "远处,李道玄掌门默默看着这一幕: '果然,顾玄的教学方法别具一格,竟能因材施教,激发弟子潜能。看来我青云宗复兴在望啊...'",
+      "internal_monologue": "顾玄: 到底是我在教他,还是他在教我?或者说...我们俩其实都在瞎练,只是运气好没练死?",
+      "background_music": "轻松带哲理",
       "sound_effects": [],
       "volume_level": "音乐为主"
     },
@@ -263,7 +1223,47 @@
     },
     "notes": {
       "production_note": "收尾场景",
-      "reference_style": "温馨场景",
+      "reference_style": "温馨收尾",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP04-S025",
+    "chapter_number": 4,
+    "scene_number": 12,
+    "duration": 8,
+    "shot_type": "全景",
+    "location": "青云宗",
+    "time_of_day": "黄昏",
+    "composition": {
+      "camera_position": "高角度俯拍",
+      "camera_movement": "缓慢拉升",
+      "framing": "宗门全景",
+      "focus_type": "广角清晰"
+    },
+    "characters": [],
+    "visual_effects": {
+      "environment": "青云宗全景",
+      "lighting": "黄昏金光",
+      "color_palette": "温暖金色",
+      "special_effects": "夕阳西下,宗门在暮色中显得安宁,暗示未来的风波"
+    },
+    "audio": {
+      "dialogue": "",
+      "narration": "就这样,青云宗大弟子继续着他的懵逼教学,而新入门的小师弟,则在一条谁也没料到的修炼道路上越走越远。至于这'奔雷剑意'将来会引发怎样的风波...那就是后话了。至少现在,顾玄很欣慰:看来暂时不用怕露馅了,这孩子比自己还能脑补!",
+      "internal_monologue": "",
+      "background_music": "轻松温馨带悬念",
+      "sound_effects": [],
+      "volume_level": "旁白清晰"
+    },
+    "editing": {
+      "transition_to_next": "淡出黑场",
+      "pacing": "舒缓",
+      "purpose": "章节结束"
+    },
+    "notes": {
+      "production_note": "完美收尾",
+      "reference_style": "叙事收尾",
       "difficulty_level": "简单"
     }
   }

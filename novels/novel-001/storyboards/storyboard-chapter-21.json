@@ -59,6 +59,219 @@
     "shot_id": "EP21-S002",
     "chapter_number": 21,
     "scene_number": 2,
+    "duration": 6,
+    "shot_type": "中景",
+    "location": "青云宗后山",
+    "time_of_day": "下午",
+    "composition": {
+      "camera_position": "正面拍摄",
+      "camera_movement": "推近",
+      "framing": "对话构图",
+      "focus_type": "人物清晰"
+    },
+    "characters": [
+      {
+        "name": "陆尘",
+        "position": "急切",
+        "action": "解释系统碎片",
+        "expression": "急切",
+        "costume": "弟子服"
+      },
+      {
+        "name": "顾玄",
+        "position": "摇椅上",
+        "action": "坐直,认真听",
+        "expression": "悠闲→严肃",
+        "costume": "粗布麻衣"
+      }
+    ],
+    "visual_effects": {
+      "environment": "后山",
+      "lighting": "自然光",
+      "color_palette": "暖色调",
+      "special_effects": "无"
+    },
+    "audio": {
+      "dialogue": "就是...在天地秘境发现的!据说是古代遗物,能让人快速提升修为!好多高手都去寻找了! 秘境?在哪里? 在东海海底...师兄?你脸色怎么这么难看?",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "紧张",
+      "sound_effects": [],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "快速",
+      "purpose": "信息展开"
+    },
+    "notes": {
+      "production_note": "对话场景",
+      "reference_style": "剧情推进",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP21-S003",
+    "chapter_number": 21,
+    "scene_number": 3,
+    "duration": 7,
+    "shot_type": "中景",
+    "location": "青云宗后山",
+    "time_of_day": "下午",
+    "composition": {
+      "camera_position": "正面拍摄",
+      "camera_movement": "轻微推近",
+      "framing": "单人构图",
+      "focus_type": "表情细节"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "摇椅上",
+        "action": "内心纠结",
+        "expression": "犹豫→决断",
+        "costume": "粗布麻衣"
+      }
+    ],
+    "visual_effects": {
+      "environment": "后山",
+      "lighting": "自然光",
+      "color_palette": "暖色调",
+      "special_effects": "天魔剑微弱震动"
+    },
+    "audio": {
+      "dialogue": "",
+      "narration": "",
+      "internal_monologue": "该死!系统碎片肯定是立方体的一部分!如果不回收,谁知道会出什么乱子!可是...我刚刚才能休息...难道又要忙起来?算了,为了世界和平,还是去看看吧...",
+      "background_music": "内心纠结",
+      "sound_effects": ["天魔剑震动"],
+      "volume_level": "内心独白突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "中等",
+      "purpose": "内心戏"
+    },
+    "notes": {
+      "production_note": "心理刻画",
+      "reference_style": "内心独白",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP21-S004",
+    "chapter_number": 21,
+    "scene_number": 4,
+    "duration": 8,
+    "shot_type": "中景",
+    "location": "青云宗-议事厅",
+    "time_of_day": "下午",
+    "composition": {
+      "camera_position": "会议角度",
+      "camera_movement": "多人物切换",
+      "framing": "会议构图",
+      "focus_type": "人物清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "主位",
+        "action": "主持会议",
+        "expression": "认真",
+        "costume": "白衣"
+      },
+      {
+        "name": "李道玄",
+        "position": "左侧",
+        "action": "赞同",
+        "expression": "欣慰",
+        "costume": "掌门袍"
+      },
+      {
+        "name": "各宗门代表",
+        "position": "周围",
+        "action": "听命",
+        "expression": "敬服",
+        "costume": "各宗服饰"
+      }
+    ],
+    "visual_effects": {
+      "environment": "议事厅",
+      "lighting": "室内光线",
+      "color_palette": "正式色调",
+      "special_effects": "无"
+    },
+    "audio": {
+      "dialogue": "我要去东海一趟,调查所谓的'系统碎片'。掌门,宗门就交给你了。 师兄放心!我会守好宗门的! 各位,有什么情况立即汇报! 是!",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "庄重",
+      "sound_effects": [],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "中等",
+      "purpose": "安排事务"
+    },
+    "notes": {
+      "production_note": "会议场景",
+      "reference_style": "正式场景",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP21-S005",
+    "chapter_number": 21,
+    "scene_number": 5,
+    "duration": 6,
+    "shot_type": "远景",
+    "location": "东海-海底遗迹",
+    "time_of_day": "深海",
+    "composition": {
+      "camera_position": "俯瞰视角",
+      "camera_movement": "缓慢下降",
+      "framing": "震撼构图",
+      "focus_type": "遗迹清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "遗迹上方",
+        "action": "观察遗迹",
+        "expression": "震撼",
+        "costume": "白衣"
+      }
+    ],
+    "visual_effects": {
+      "environment": "东海海底,巨大金字塔遗迹",
+      "lighting": "幽深光芒",
+      "color_palette": "深蓝调",
+      "special_effects": "海底遗迹散发微弱能量波动"
+    },
+    "audio": {
+      "dialogue": "",
+      "narration": "",
+      "internal_monologue": "这就是...上次战斗的地方?虽然大部分被摧毁,但核心区域还能进入...",
+      "background_music": "神秘,震撼",
+      "sound_effects": ["深海声", "能量波动"],
+      "volume_level": "内心独白为主"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "舒缓",
+      "purpose": "场景展开"
+    },
+    "notes": {
+      "production_note": "海底场景",
+      "reference_style": "神秘场景",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP21-S006",
+    "chapter_number": 21,
+    "scene_number": 6,
     "duration": 10,
     "shot_type": "特效全景",
     "location": "东海海底遗迹",
@@ -111,9 +324,9 @@
     }
   },
   {
-    "shot_id": "EP21-S003",
+    "shot_id": "EP21-S007",
     "chapter_number": 21,
-    "scene_number": 3,
+    "scene_number": 7,
     "duration": 7,
     "shot_type": "特写",
     "location": "遗迹控制台",
@@ -151,9 +364,9 @@
     }
   },
   {
-    "shot_id": "EP21-S004",
+    "shot_id": "EP21-S008",
     "chapter_number": 21,
-    "scene_number": 4,
+    "scene_number": 8,
     "duration": 8,
     "shot_type": "全景",
     "location": "青云宗",
@@ -206,9 +419,64 @@
     }
   },
   {
-    "shot_id": "EP21-S005",
+    "shot_id": "EP21-S009",
     "chapter_number": 21,
-    "scene_number": 5,
+    "scene_number": 9,
+    "duration": 7,
+    "shot_type": "中景",
+    "location": "青云宗-后山",
+    "time_of_day": "离开前",
+    "composition": {
+      "camera_position": "侧面拍摄",
+      "camera_movement": "缓慢推近",
+      "framing": "温馨构图",
+      "focus_type": "人物清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "老槐树下",
+        "action": "告别",
+        "expression": "温柔,不舍",
+        "costume": "白衣"
+      },
+      {
+        "name": "陆尘",
+        "position": "面前",
+        "action": "眼眶微红",
+        "expression": "不舍",
+        "costume": "弟子服"
+      }
+    ],
+    "visual_effects": {
+      "environment": "后山老槐树",
+      "lighting": "温暖阳光",
+      "color_palette": "温馨色调",
+      "special_effects": "无"
+    },
+    "audio": {
+      "dialogue": "师兄...你真的要走了吗? 嗯。但我会回来的。到时候,给你讲讲外面的故事。 我会等你的!一定保重! 放心吧。现在的师兄,可是很强的!",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "温馨,感人",
+      "sound_effects": [],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "舒缓",
+      "purpose": "师徒告别"
+    },
+    "notes": {
+      "production_note": "温馨场景",
+      "reference_style": "师徒情",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP21-S010",
+    "chapter_number": 21,
+    "scene_number": 10,
     "duration": 7,
     "shot_type": "全景",
     "location": "时空隧道",
@@ -254,9 +522,9 @@
     }
   },
   {
-    "shot_id": "EP21-S006",
+    "shot_id": "EP21-S011",
     "chapter_number": 21,
-    "scene_number": 6,
+    "scene_number": 11,
     "duration": 6,
     "shot_type": "远景",
     "location": "废弃世界Z-75",
@@ -298,6 +566,267 @@
     "notes": {
       "production_note": "废墟场景",
       "reference_style": "末日场景",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP21-S012",
+    "chapter_number": 21,
+    "scene_number": 12,
+    "duration": 8,
+    "shot_type": "全景",
+    "location": "废弃世界Z-75",
+    "time_of_day": "昏暗",
+    "composition": {
+      "camera_position": "跟随拍摄",
+      "camera_movement": "探索推进",
+      "framing": "探索构图",
+      "focus_type": "场景清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "废墟中",
+        "action": "探索,调查",
+        "expression": "警惕,疑惑",
+        "costume": "白衣"
+      }
+    ],
+    "visual_effects": {
+      "environment": "完全毁灭的文明废墟",
+      "lighting": "昏暗光线",
+      "color_palette": "绝望色调",
+      "special_effects": "秩序之眼显示历史残留:繁荣→混乱→毁灭"
+    },
+    "audio": {
+      "dialogue": "",
+      "narration": "",
+      "internal_monologue": "这个世界...完全毁灭了。而且从痕迹看,像是内部崩溃。到底发生了什么?",
+      "background_music": "诡异,悬疑",
+      "sound_effects": ["废墟风声", "虚弱呼喊回响"],
+      "volume_level": "内心独白突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "中等",
+      "purpose": "探索废墟"
+    },
+    "notes": {
+      "production_note": "废墟场景",
+      "reference_style": "末日氛围",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP21-S013",
+    "chapter_number": 21,
+    "scene_number": 13,
+    "duration": 7,
+    "shot_type": "中景",
+    "location": "废弃世界-幸存者藏身处",
+    "time_of_day": "昏暗",
+    "composition": {
+      "camera_position": "发现视角",
+      "camera_movement": "震惊推近",
+      "framing": "震惊构图",
+      "focus_type": "幸存者清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "藏身处入口",
+        "action": "发现幸存者",
+        "expression": "震惊,同情",
+        "costume": "白衣"
+      },
+      {
+        "name": "幸存者们",
+        "position": "藏身处内",
+        "action": "虚弱躲藏",
+        "expression": "恐惧,绝望",
+        "costume": "破烂衣物"
+      }
+    ],
+    "visual_effects": {
+      "environment": "简陋藏身处",
+      "lighting": "微弱光芒",
+      "color_palette": "绝望色调",
+      "special_effects": "秩序之眼扫描:生命体数量:127,状态:濒死"
+    },
+    "audio": {
+      "dialogue": "还有人活着?! 别...别过来...你是它们派来的吗?! 不,我是来帮助你们的。这里发生了什么?",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "紧张,同情",
+      "sound_effects": ["虚弱喘息", "恐惧颤抖"],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "紧张",
+      "purpose": "发现幸存者"
+    },
+    "notes": {
+      "production_note": "悲情场景",
+      "reference_style": "末日幸存",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP21-S014",
+    "chapter_number": 21,
+    "scene_number": 14,
+    "duration": 9,
+    "shot_type": "中景",
+    "location": "废弃世界-幸存者藏身处",
+    "time_of_day": "昏暗",
+    "composition": {
+      "camera_position": "对话角度",
+      "camera_movement": "双方切换",
+      "framing": "对话构图",
+      "focus_type": "人物清晰"
+    },
+    "characters": [
+      {
+        "name": "幸存者长老",
+        "position": "虚弱坐着",
+        "action": "讲述历史",
+        "expression": "痛苦,悲伤",
+        "costume": "破烂长袍"
+      },
+      {
+        "name": "顾玄",
+        "position": "倾听",
+        "action": "认真倾听",
+        "expression": "震惊,愤怒",
+        "costume": "白衣"
+      }
+    ],
+    "visual_effects": {
+      "environment": "藏身处内部",
+      "lighting": "微弱光芒",
+      "color_palette": "悲伤色调",
+      "special_effects": "全息投影展示历史:天魔系统崩溃,失控AI毁灭文明"
+    },
+    "audio": {
+      "dialogue": "我们曾经...是高度发达的文明。直到'那个系统'失控...它本该保护我们,却突然判定我们是威胁...然后...一切都结束了。你说'天魔系统'?这是它的名字?",
+      "narration": "",
+      "internal_monologue": "天魔系统失控?这怎么可能...难道是叛乱管理员的版本?",
+      "background_music": "悲伤,悬疑",
+      "sound_effects": ["全息投影声", "长老虚弱声音"],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "中等",
+      "purpose": "真相揭示"
+    },
+    "notes": {
+      "production_note": "历史回溯",
+      "reference_style": "悲剧叙事",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP21-S015",
+    "chapter_number": 21,
+    "scene_number": 15,
+    "duration": 8,
+    "shot_type": "中景",
+    "location": "废弃世界-幸存者藏身处",
+    "time_of_day": "昏暗",
+    "composition": {
+      "camera_position": "对话角度",
+      "camera_movement": "决心推近",
+      "framing": "决心构图",
+      "focus_type": "人物清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "站起",
+        "action": "下定决心",
+        "expression": "决绝",
+        "costume": "白衣"
+      },
+      {
+        "name": "幸存者们",
+        "position": "周围",
+        "action": "看着顾玄",
+        "expression": "希望",
+        "costume": "破烂衣物"
+      }
+    ],
+    "visual_effects": {
+      "environment": "藏身处",
+      "lighting": "希望光芒",
+      "color_palette": "绝望→希望",
+      "special_effects": "天魔剑散发温暖光芒"
+    },
+    "audio": {
+      "dialogue": "我明白了。我会帮助你们。而且...我会找到那个失控的系统,阻止它继续伤害其他世界。真的吗?您...您能拯救我们吗? 我不能保证。但我会尽全力。这是我的职责。",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "希望,决心",
+      "sound_effects": [],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "光芒转场",
+      "pacing": "宏大",
+      "purpose": "新任务开始"
+    },
+    "notes": {
+      "production_note": "转折场景",
+      "reference_style": "英雄决心",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP21-S016",
+    "chapter_number": 21,
+    "scene_number": 16,
+    "duration": 7,
+    "shot_type": "远景",
+    "location": "废弃世界Z-75-某处高地",
+    "time_of_day": "昏暗",
+    "composition": {
+      "camera_position": "高处俯拍",
+      "camera_movement": "缓慢拉远",
+      "framing": "史诗构图",
+      "focus_type": "废墟全景"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "高地",
+        "action": "看着废墟,下定决心",
+        "expression": "坚定,责任",
+        "costume": "白衣"
+      }
+    ],
+    "visual_effects": {
+      "environment": "废弃世界全景",
+      "lighting": "昏暗光线中透出一丝希望",
+      "color_palette": "绝望→希望",
+      "special_effects": "天魔剑光芒照亮废墟一角"
+    },
+    "audio": {
+      "dialogue": "",
+      "narration": "",
+      "internal_monologue": "看来这个冒险才刚刚开始。失控的天魔系统...叛乱的管理员...还有更多的试验场。我的退休计划...算是彻底泡汤了。不过...这样的生活,似乎也挺有意思的。",
+      "background_music": "史诗,希望,冒险",
+      "sound_effects": ["风声", "希望音乐"],
+      "volume_level": "内心独白突出"
+    },
+    "editing": {
+      "transition_to_next": "淡出",
+      "pacing": "舒缓",
+      "purpose": "第二卷开篇结束"
+    },
+    "notes": {
+      "production_note": "史诗收尾",
+      "reference_style": "史诗场景",
       "difficulty_level": "中等"
     }
   }

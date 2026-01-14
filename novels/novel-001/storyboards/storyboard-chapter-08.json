@@ -3,47 +3,47 @@
     "shot_id": "EP08-S001",
     "chapter_number": 8,
     "scene_number": 1,
-    "duration": 7,
-    "shot_type": "中景",
-    "location": "天衍宗客房",
-    "time_of_day": "夜晚",
+    "duration": 6,
+    "shot_type": "近景",
+    "location": "场景1",
+    "time_of_day": "白天",
     "composition": {
-      "camera_position": "客房内拍摄",
-      "camera_movement": "固定镜头",
-      "framing": "单人构图",
+      "camera_position": "正面拍摄",
+      "camera_movement": "轻微推镜",
+      "framing": "标准构图",
       "focus_type": "主体清晰"
     },
     "characters": [
       {
-        "name": "顾玄",
+        "name": "主要角色",
         "position": "画面中央",
-        "action": "独自研究天魔剑",
-        "expression": "困惑 → 惊讶",
-        "costume": "粗布麻衣"
+        "action": "推进剧情",
+        "expression": "根据情境",
+        "costume": "修仙服饰"
       }
     ],
     "visual_effects": {
-      "environment": "客房内",
-      "lighting": "烛光+剑光",
-      "color_palette": "神秘色调",
-      "special_effects": "天魔剑发光,系统界面浮现在剑上"
+      "environment": "根据场景",
+      "lighting": "自然光",
+      "color_palette": "自然色调",
+      "special_effects": "根据需要添加特效"
     },
     "audio": {
-      "dialogue": "",
+      "dialogue": "百宗宴的“社死变机缘”事件后，李道玄对后山秘境的执念达到了顶峰。",
       "narration": "",
-      "internal_monologue": "天魔剑居然有USB接口？！",
-      "background_music": "神秘带科技感",
-      "sound_effects": ["系统机械音"],
-      "volume_level": "机械音突出"
+      "internal_monologue": "",
+      "background_music": "对话",
+      "sound_effects": [],
+      "volume_level": "正常"
     },
     "editing": {
       "transition_to_next": "直接切",
-      "pacing": "神秘",
-      "purpose": "发现天魔剑的秘密"
+      "pacing": "对话",
+      "purpose": "推进剧情"
     },
     "notes": {
-      "production_note": "注重道具设计",
-      "reference_style": "科技感+仙侠",
+      "production_note": "根据实际内容调整",
+      "reference_style": "仙侠风格",
       "difficulty_level": "中等"
     }
   },
@@ -51,206 +51,816 @@
     "shot_id": "EP08-S002",
     "chapter_number": 8,
     "scene_number": 2,
-    "duration": 8,
-    "shot_type": "全景",
-    "location": "天衍宗",
-    "time_of_day": "次日清晨",
+    "duration": 6,
+    "shot_type": "中景",
+    "location": "场景2",
+    "time_of_day": "白天",
     "composition": {
-      "camera_position": "天衍宗山门拍摄",
-      "camera_movement": "缓慢推近",
-      "framing": "大场面",
-      "focus_type": "整体清晰"
+      "camera_position": "正面拍摄",
+      "camera_movement": "固定镜头",
+      "framing": "标准构图",
+      "focus_type": "主体清晰"
     },
     "characters": [
       {
-        "name": "各宗代表",
-        "position": "山门外,送礼",
-        "action": "络绎不绝送礼物",
-        "expression": "恭敬 → 讨好",
-        "costume": "各宗服饰"
-      },
-      {
-        "name": "顾玄",
-        "position": "客房内,无奈接受",
-        "action": "看着礼物堆成山",
-        "expression": "无奈 → 苦笑",
-        "costume": "粗布麻衣"
+        "name": "主要角色",
+        "position": "画面中央",
+        "action": "推进剧情",
+        "expression": "根据情境",
+        "costume": "修仙服饰"
       }
     ],
     "visual_effects": {
-      "environment": "山门外人来人往",
-      "lighting": "明亮晨光",
-      "color_palette": "热闹色调",
-      "special_effects": "各色法宝光芒闪烁"
+      "environment": "根据场景",
+      "lighting": "自然光",
+      "color_palette": "自然色调",
+      "special_effects": "根据需要添加特效"
     },
     "audio": {
-      "dialogue": "众代表: '顾前辈！这点心意请您务必收下！'",
+      "dialogue": "“徒儿啊，祖师爷既然显灵指引，我们绝不能辜负这番天意！”第二天一大早，掌门就兴冲冲地敲开顾玄的房门，手里还拿着铲子、镐头等工具。",
       "narration": "",
-      "internal_monologue": "顾玄: 这态度转变也太快了吧？！",
-      "background_music": "轻松带讽刺",
-      "sound_effects": ["嘈杂人声"],
-      "volume_level": "人声突出"
+      "internal_monologue": "",
+      "background_music": "中等",
+      "sound_effects": [],
+      "volume_level": "正常"
     },
     "editing": {
       "transition_to_next": "直接切",
-      "pacing": "轻松",
-      "purpose": "展现态度转变,幽默效果"
+      "pacing": "中等",
+      "purpose": "推进剧情"
     },
     "notes": {
-      "production_note": "注重讽刺效果",
-      "reference_style": "轻喜剧",
-      "difficulty_level": "简单"
+      "production_note": "根据实际内容调整",
+      "reference_style": "仙侠风格",
+      "difficulty_level": "中等"
     }
   },
   {
     "shot_id": "EP08-S003",
     "chapter_number": 8,
     "scene_number": 3,
-    "duration": 7,
+    "duration": 6,
     "shot_type": "中景",
-    "location": "天衍宗客房",
-    "time_of_day": "上午",
+    "location": "场景3",
+    "time_of_day": "白天",
     "composition": {
-      "camera_position": "客房内拍摄",
-      "camera_movement": "轻微推拉",
-      "framing": "双人构图",
-      "focus_type": "两人清晰"
+      "camera_position": "正面拍摄",
+      "camera_movement": "固定镜头",
+      "framing": "标准构图",
+      "focus_type": "主体清晰"
     },
     "characters": [
       {
-        "name": "天衍宗长老",
-        "position": "画面左侧",
-        "action": "小心翼翼地询问",
-        "expression": "恭敬 → 期待",
-        "costume": "天衍宗长老袍"
-      },
-      {
-        "name": "顾玄",
-        "position": "画面右侧",
-        "action": "淡定回应",
-        "expression": "表面淡定",
-        "costume": "粗布麻衣"
+        "name": "主要角色",
+        "position": "画面中央",
+        "action": "推进剧情",
+        "expression": "根据情境",
+        "costume": "修仙服饰"
       }
     ],
     "visual_effects": {
-      "environment": "客房内",
-      "lighting": "明亮自然光",
-      "color_palette": "温暖色调",
-      "special_effects": "无"
+      "environment": "根据场景",
+      "lighting": "自然光",
+      "color_palette": "自然色调",
+      "special_effects": "根据需要添加特效"
     },
     "audio": {
-      "dialogue": "长老: '顾前辈...您看我家孙女...能不能拜入您门下？'",
+      "dialogue": "顾玄顶着黑眼圈开门——他昨晚做噩梦，梦见自己变成人形霓虹灯在青州城巡游。",
       "narration": "",
-      "internal_monologue": "顾玄: 我特么要收徒？！",
-      "background_music": "轻松带尴尬",
+      "internal_monologue": "",
+      "background_music": "中等",
       "sound_effects": [],
-      "volume_level": "对话清晰"
+      "volume_level": "正常"
     },
     "editing": {
       "transition_to_next": "直接切",
-      "pacing": "轻松",
-      "purpose": "幽默场景,展现尴尬"
+      "pacing": "中等",
+      "purpose": "推进剧情"
     },
     "notes": {
-      "production_note": "注重喜剧效果",
-      "reference_style": "轻喜剧",
-      "difficulty_level": "简单"
+      "production_note": "根据实际内容调整",
+      "reference_style": "仙侠风格",
+      "difficulty_level": "中等"
     }
   },
   {
     "shot_id": "EP08-S004",
     "chapter_number": 8,
     "scene_number": 4,
-    "duration": 8,
-    "shot_type": "特写",
-    "location": "天衍宗客房",
-    "time_of_day": "夜晚",
+    "duration": 6,
+    "shot_type": "中景",
+    "location": "场景4",
+    "time_of_day": "白天",
     "composition": {
-      "camera_position": "聚焦顾玄和剑",
+      "camera_position": "正面拍摄",
       "camera_movement": "固定镜头",
-      "framing": "双人构图",
+      "framing": "标准构图",
       "focus_type": "主体清晰"
     },
     "characters": [
       {
-        "name": "顾玄",
+        "name": "主要角色",
         "position": "画面中央",
-        "action": "对着天魔剑发愁",
-        "expression": "忧虑 → 思考",
-        "costume": "粗布麻衣"
+        "action": "推进剧情",
+        "expression": "根据情境",
+        "costume": "修仙服饰"
       }
     ],
     "visual_effects": {
-      "environment": "客房内,夜深人静",
-      "lighting": "月光+剑光",
-      "color_palette": "清冷色调",
-      "special_effects": "天魔剑微微发光,系统界面隐约"
+      "environment": "根据场景",
+      "lighting": "自然光",
+      "color_palette": "自然色调",
+      "special_effects": "根据需要添加特效"
     },
     "audio": {
-      "dialogue": "",
+      "dialogue": "“掌门，那可能就是阵法故障产生的乱码...”顾玄试图挣扎一下。",
       "narration": "",
-      "internal_monologue": "这下彻底玩脱了...连天魔剑都出来了...",
-      "background_music": "忧虑带思考",
+      "internal_monologue": "",
+      "background_music": "中等",
       "sound_effects": [],
-      "volume_level": "音乐烘托情绪"
+      "volume_level": "正常"
     },
     "editing": {
       "transition_to_next": "直接切",
-      "pacing": "舒缓",
-      "purpose": "展现内心焦虑"
+      "pacing": "中等",
+      "purpose": "推进剧情"
     },
     "notes": {
-      "production_note": "注重情感表达",
-      "reference_style": "内心戏",
-      "difficulty_level": "简单"
+      "production_note": "根据实际内容调整",
+      "reference_style": "仙侠风格",
+      "difficulty_level": "中等"
     }
   },
   {
     "shot_id": "EP08-S005",
     "chapter_number": 8,
     "scene_number": 5,
-    "duration": 7,
-    "shot_type": "全景",
-    "location": "返回青云宗路上",
-    "time_of_day": "次日清晨",
+    "duration": 6,
+    "shot_type": "特写",
+    "location": "场景5",
+    "time_of_day": "白天",
     "composition": {
-      "camera_position": "航拍",
-      "camera_movement": "跟随飞舟",
-      "framing": "大场面",
-      "focus_type": "飞舟清晰"
+      "camera_position": "正面拍摄",
+      "camera_movement": "推镜",
+      "framing": "标准构图",
+      "focus_type": "主体清晰"
     },
     "characters": [
       {
-        "name": "顾玄一行",
-        "position": "飞舟上",
-        "action": "满载而归",
-        "expression": "各有所思",
-        "costume": "各色服饰"
+        "name": "主要角色",
+        "position": "画面中央",
+        "action": "推进剧情",
+        "expression": "根据情境",
+        "costume": "修仙服饰"
       }
     ],
     "visual_effects": {
-      "environment": "云海之上",
-      "lighting": "明亮晨光",
-      "color_palette": "清新明亮",
-      "special_effects": "飞舟破空而行"
+      "environment": "根据场景",
+      "lighting": "自然光",
+      "color_palette": "自然色调",
+      "special_effects": "根据需要添加特效"
     },
     "audio": {
-      "dialogue": "",
-      "narration": "满载而归,但顾玄知道,更大的风波还在后面...",
+      "dialogue": "“胡说！”李道玄眼睛一瞪，“那么多人都看见了，能是乱码？赶紧的，叫上陆尘，咱们去后山探探！”",
+      "narration": "",
       "internal_monologue": "",
-      "background_music": "悠扬带忧虑",
-      "sound_effects": ["飞舟破空声"],
-      "volume_level": "音乐为主"
+      "background_music": "震撼",
+      "sound_effects": [],
+      "volume_level": "正常"
     },
     "editing": {
-      "transition_to_next": "淡出",
-      "pacing": "舒缓",
-      "purpose": "章节收尾,为后续埋伏笔"
+      "transition_to_next": "直接切",
+      "pacing": "震撼",
+      "purpose": "推进剧情"
     },
     "notes": {
-      "production_note": "转场场景",
-      "reference_style": "场景过渡",
-      "difficulty_level": "简单"
+      "production_note": "根据实际内容调整",
+      "reference_style": "仙侠风格",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP08-S006",
+    "chapter_number": 8,
+    "scene_number": 6,
+    "duration": 6,
+    "shot_type": "中景",
+    "location": "场景6",
+    "time_of_day": "白天",
+    "composition": {
+      "camera_position": "正面拍摄",
+      "camera_movement": "固定镜头",
+      "framing": "标准构图",
+      "focus_type": "主体清晰"
+    },
+    "characters": [
+      {
+        "name": "主要角色",
+        "position": "画面中央",
+        "action": "推进剧情",
+        "expression": "根据情境",
+        "costume": "修仙服饰"
+      }
+    ],
+    "visual_effects": {
+      "environment": "根据场景",
+      "lighting": "自然光",
+      "color_palette": "自然色调",
+      "special_effects": "根据需要添加特效"
+    },
+    "audio": {
+      "dialogue": "于是片刻后，青云宗全员（也就三人）齐聚后山。",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "中等",
+      "sound_effects": [],
+      "volume_level": "正常"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "中等",
+      "purpose": "推进剧情"
+    },
+    "notes": {
+      "production_note": "根据实际内容调整",
+      "reference_style": "仙侠风格",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP08-S007",
+    "chapter_number": 8,
+    "scene_number": 7,
+    "duration": 6,
+    "shot_type": "近景",
+    "location": "场景7",
+    "time_of_day": "白天",
+    "composition": {
+      "camera_position": "正面拍摄",
+      "camera_movement": "轻微推镜",
+      "framing": "标准构图",
+      "focus_type": "主体清晰"
+    },
+    "characters": [
+      {
+        "name": "主要角色",
+        "position": "画面中央",
+        "action": "推进剧情",
+        "expression": "根据情境",
+        "costume": "修仙服饰"
+      }
+    ],
+    "visual_effects": {
+      "environment": "根据场景",
+      "lighting": "自然光",
+      "color_palette": "自然色调",
+      "special_effects": "根据需要添加特效"
+    },
+    "audio": {
+      "dialogue": "说是后山，其实就是个长满杂草的小土坡，上面零星长着几棵歪脖子树，平时宗门晾衣服都在这儿。",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "对话",
+      "sound_effects": [],
+      "volume_level": "正常"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "对话",
+      "purpose": "推进剧情"
+    },
+    "notes": {
+      "production_note": "根据实际内容调整",
+      "reference_style": "仙侠风格",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP08-S008",
+    "chapter_number": 8,
+    "scene_number": 8,
+    "duration": 6,
+    "shot_type": "中景",
+    "location": "场景8",
+    "time_of_day": "白天",
+    "composition": {
+      "camera_position": "正面拍摄",
+      "camera_movement": "固定镜头",
+      "framing": "标准构图",
+      "focus_type": "主体清晰"
+    },
+    "characters": [
+      {
+        "name": "主要角色",
+        "position": "画面中央",
+        "action": "推进剧情",
+        "expression": "根据情境",
+        "costume": "修仙服饰"
+      }
+    ],
+    "visual_effects": {
+      "environment": "根据场景",
+      "lighting": "自然光",
+      "color_palette": "自然色调",
+      "special_effects": "根据需要添加特效"
+    },
+    "audio": {
+      "dialogue": "“掌门，我们从哪开始挖？”陆尘跃跃欲试，手里拿着把破锄头——自从见识过师兄各种“神迹”后，他对寻宝充满了期待。",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "中等",
+      "sound_effects": [],
+      "volume_level": "正常"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "中等",
+      "purpose": "推进剧情"
+    },
+    "notes": {
+      "production_note": "根据实际内容调整",
+      "reference_style": "仙侠风格",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP08-S009",
+    "chapter_number": 8,
+    "scene_number": 9,
+    "duration": 6,
+    "shot_type": "近景",
+    "location": "场景9",
+    "time_of_day": "白天",
+    "composition": {
+      "camera_position": "正面拍摄",
+      "camera_movement": "轻微推镜",
+      "framing": "标准构图",
+      "focus_type": "主体清晰"
+    },
+    "characters": [
+      {
+        "name": "主要角色",
+        "position": "画面中央",
+        "action": "推进剧情",
+        "expression": "根据情境",
+        "costume": "修仙服饰"
+      }
+    ],
+    "visual_effects": {
+      "environment": "根据场景",
+      "lighting": "自然光",
+      "color_palette": "自然色调",
+      "special_effects": "根据需要添加特效"
+    },
+    "audio": {
+      "dialogue": "李道玄捋着胡须，故作高深地环顾四周：“嗯...依老夫看，灵气最浓郁之处应在...那边！”他随手指了处看起来比较平坦的地方。",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "对话",
+      "sound_effects": [],
+      "volume_level": "正常"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "对话",
+      "purpose": "推进剧情"
+    },
+    "notes": {
+      "production_note": "根据实际内容调整",
+      "reference_style": "仙侠风格",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP08-S010",
+    "chapter_number": 8,
+    "scene_number": 10,
+    "duration": 6,
+    "shot_type": "中景",
+    "location": "场景10",
+    "time_of_day": "白天",
+    "composition": {
+      "camera_position": "正面拍摄",
+      "camera_movement": "固定镜头",
+      "framing": "标准构图",
+      "focus_type": "主体清晰"
+    },
+    "characters": [
+      {
+        "name": "主要角色",
+        "position": "画面中央",
+        "action": "推进剧情",
+        "expression": "根据情境",
+        "costume": "修仙服饰"
+      }
+    ],
+    "visual_effects": {
+      "environment": "根据场景",
+      "lighting": "自然光",
+      "color_palette": "自然色调",
+      "special_effects": "根据需要添加特效"
+    },
+    "audio": {
+      "dialogue": "顾玄嘴角抽搐：这破后山哪有灵气浓郁的地方？连只耗子都不愿意在这儿打洞！",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "中等",
+      "sound_effects": [],
+      "volume_level": "正常"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "中等",
+      "purpose": "推进剧情"
+    },
+    "notes": {
+      "production_note": "根据实际内容调整",
+      "reference_style": "仙侠风格",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP08-S011",
+    "chapter_number": 8,
+    "scene_number": 11,
+    "duration": 6,
+    "shot_type": "远景",
+    "location": "场景11",
+    "time_of_day": "白天",
+    "composition": {
+      "camera_position": "正面拍摄",
+      "camera_movement": "缓慢拉远",
+      "framing": "标准构图",
+      "focus_type": "主体清晰"
+    },
+    "characters": [
+      {
+        "name": "主要角色",
+        "position": "画面中央",
+        "action": "推进剧情",
+        "expression": "根据情境",
+        "costume": "修仙服饰"
+      }
+    ],
+    "visual_effects": {
+      "environment": "根据场景",
+      "lighting": "自然光",
+      "color_palette": "自然色调",
+      "special_effects": "根据需要添加特效"
+    },
+    "audio": {
+      "dialogue": "但看着兴致勃勃的一老一少，他只能叹气跟上。",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "舒缓",
+      "sound_effects": [],
+      "volume_level": "正常"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "舒缓",
+      "purpose": "推进剧情"
+    },
+    "notes": {
+      "production_note": "根据实际内容调整",
+      "reference_style": "仙侠风格",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP08-S012",
+    "chapter_number": 8,
+    "scene_number": 12,
+    "duration": 6,
+    "shot_type": "中景",
+    "location": "场景12",
+    "time_of_day": "白天",
+    "composition": {
+      "camera_position": "正面拍摄",
+      "camera_movement": "固定镜头",
+      "framing": "标准构图",
+      "focus_type": "主体清晰"
+    },
+    "characters": [
+      {
+        "name": "主要角色",
+        "position": "画面中央",
+        "action": "推进剧情",
+        "expression": "根据情境",
+        "costume": "修仙服饰"
+      }
+    ],
+    "visual_effects": {
+      "environment": "根据场景",
+      "lighting": "自然光",
+      "color_palette": "自然色调",
+      "special_effects": "根据需要添加特效"
+    },
+    "audio": {
+      "dialogue": "三人在那块平地开挖。一炷香时间后，除了挖出几条蚯蚓和一块疑似前任掌门假牙的物体外，一无所获。",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "中等",
+      "sound_effects": [],
+      "volume_level": "正常"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "中等",
+      "purpose": "推进剧情"
+    },
+    "notes": {
+      "production_note": "根据实际内容调整",
+      "reference_style": "仙侠风格",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP08-S013",
+    "chapter_number": 8,
+    "scene_number": 13,
+    "duration": 6,
+    "shot_type": "近景",
+    "location": "场景13",
+    "time_of_day": "白天",
+    "composition": {
+      "camera_position": "正面拍摄",
+      "camera_movement": "轻微推镜",
+      "framing": "标准构图",
+      "focus_type": "主体清晰"
+    },
+    "characters": [
+      {
+        "name": "主要角色",
+        "position": "画面中央",
+        "action": "推进剧情",
+        "expression": "根据情境",
+        "costume": "修仙服饰"
+      }
+    ],
+    "visual_effects": {
+      "environment": "根据场景",
+      "lighting": "自然光",
+      "color_palette": "自然色调",
+      "special_effects": "根据需要添加特效"
+    },
+    "audio": {
+      "dialogue": "“莫非方位有误？”李道玄皱眉，“徒儿，你用阵法感应一下？”",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "对话",
+      "sound_effects": [],
+      "volume_level": "正常"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "对话",
+      "purpose": "推进剧情"
+    },
+    "notes": {
+      "production_note": "根据实际内容调整",
+      "reference_style": "仙侠风格",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP08-S014",
+    "chapter_number": 8,
+    "scene_number": 14,
+    "duration": 6,
+    "shot_type": "中景",
+    "location": "场景14",
+    "time_of_day": "白天",
+    "composition": {
+      "camera_position": "正面拍摄",
+      "camera_movement": "固定镜头",
+      "framing": "标准构图",
+      "focus_type": "主体清晰"
+    },
+    "characters": [
+      {
+        "name": "主要角色",
+        "position": "画面中央",
+        "action": "推进剧情",
+        "expression": "根据情境",
+        "costume": "修仙服饰"
+      }
+    ],
+    "visual_effects": {
+      "environment": "根据场景",
+      "lighting": "自然光",
+      "color_palette": "自然色调",
+      "special_effects": "根据需要添加特效"
+    },
+    "audio": {
+      "dialogue": "顾玄：“......”\n我感应个锤子啊感应！",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "中等",
+      "sound_effects": [],
+      "volume_level": "正常"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "中等",
+      "purpose": "推进剧情"
+    },
+    "notes": {
+      "production_note": "根据实际内容调整",
+      "reference_style": "仙侠风格",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP08-S015",
+    "chapter_number": 8,
+    "scene_number": 15,
+    "duration": 6,
+    "shot_type": "中景",
+    "location": "场景15",
+    "time_of_day": "白天",
+    "composition": {
+      "camera_position": "正面拍摄",
+      "camera_movement": "固定镜头",
+      "framing": "标准构图",
+      "focus_type": "主体清晰"
+    },
+    "characters": [
+      {
+        "name": "主要角色",
+        "position": "画面中央",
+        "action": "推进剧情",
+        "expression": "根据情境",
+        "costume": "修仙服饰"
+      }
+    ],
+    "visual_effects": {
+      "environment": "根据场景",
+      "lighting": "自然光",
+      "color_palette": "自然色调",
+      "special_effects": "根据需要添加特效"
+    },
+    "audio": {
+      "dialogue": "但被四只期待的眼睛盯着，他只能硬着头皮装模作样。只见他闭目凝神，手指胡乱掐诀，暗中却是在调动那点微末灵力准备弄个光效交差。",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "中等",
+      "sound_effects": [],
+      "volume_level": "正常"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "中等",
+      "purpose": "推进剧情"
+    },
+    "notes": {
+      "production_note": "根据实际内容调整",
+      "reference_style": "仙侠风格",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP08-S016",
+    "chapter_number": 8,
+    "scene_number": 16,
+    "duration": 6,
+    "shot_type": "中景",
+    "location": "场景16",
+    "time_of_day": "白天",
+    "composition": {
+      "camera_position": "正面拍摄",
+      "camera_movement": "固定镜头",
+      "framing": "标准构图",
+      "focus_type": "主体清晰"
+    },
+    "characters": [
+      {
+        "name": "主要角色",
+        "position": "画面中央",
+        "action": "推进剧情",
+        "expression": "根据情境",
+        "costume": "修仙服饰"
+      }
+    ],
+    "visual_effects": {
+      "environment": "根据场景",
+      "lighting": "自然光",
+      "color_palette": "自然色调",
+      "special_effects": "根据需要添加特效"
+    },
+    "audio": {
+      "dialogue": "“此地灵气...嗯...似乎聚集在...”顾玄随口胡诌，手指随意指向不远处一棵歪脖子树，“那树下应有玄机。”",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "中等",
+      "sound_effects": [],
+      "volume_level": "正常"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "中等",
+      "purpose": "推进剧情"
+    },
+    "notes": {
+      "production_note": "根据实际内容调整",
+      "reference_style": "仙侠风格",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP08-S017",
+    "chapter_number": 8,
+    "scene_number": 17,
+    "duration": 6,
+    "shot_type": "远景",
+    "location": "场景17",
+    "time_of_day": "白天",
+    "composition": {
+      "camera_position": "正面拍摄",
+      "camera_movement": "缓慢拉远",
+      "framing": "标准构图",
+      "focus_type": "主体清晰"
+    },
+    "characters": [
+      {
+        "name": "主要角色",
+        "position": "画面中央",
+        "action": "推进剧情",
+        "expression": "根据情境",
+        "costume": "修仙服饰"
+      }
+    ],
+    "visual_effects": {
+      "environment": "根据场景",
+      "lighting": "自然光",
+      "color_palette": "自然色调",
+      "special_effects": "根据需要添加特效"
+    },
+    "audio": {
+      "dialogue": "他纯粹是瞎指的，那棵树看起来最顺眼而已。",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "舒缓",
+      "sound_effects": [],
+      "volume_level": "正常"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "舒缓",
+      "purpose": "推进剧情"
+    },
+    "notes": {
+      "production_note": "根据实际内容调整",
+      "reference_style": "仙侠风格",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP08-S018",
+    "chapter_number": 8,
+    "scene_number": 18,
+    "duration": 6,
+    "shot_type": "中景",
+    "location": "场景18",
+    "time_of_day": "白天",
+    "composition": {
+      "camera_position": "正面拍摄",
+      "camera_movement": "固定镜头",
+      "framing": "标准构图",
+      "focus_type": "主体清晰"
+    },
+    "characters": [
+      {
+        "name": "主要角色",
+        "position": "画面中央",
+        "action": "推进剧情",
+        "expression": "根据情境",
+        "costume": "修仙服饰"
+      }
+    ],
+    "visual_effects": {
+      "environment": "根据场景",
+      "lighting": "自然光",
+      "color_palette": "自然色调",
+      "special_effects": "根据需要添加特效"
+    },
+    "audio": {
+      "dialogue": "然而就在他手指指向的瞬间，诡异的事情发生了——",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "中等",
+      "sound_effects": [],
+      "volume_level": "正常"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "中等",
+      "purpose": "推进剧情"
+    },
+    "notes": {
+      "production_note": "根据实际内容调整",
+      "reference_style": "仙侠风格",
+      "difficulty_level": "中等"
     }
   }
 ]

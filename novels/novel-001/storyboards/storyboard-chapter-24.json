@@ -3,61 +3,47 @@
     "shot_id": "EP24-S001",
     "chapter_number": 24,
     "scene_number": 1,
-    "duration": 7,
-    "shot_type": "中景",
-    "location": "天尊台底层",
-    "time_of_day": "无",
+    "duration": 6,
+    "shot_type": "近景",
+    "location": "场景1",
+    "time_of_day": "白天",
     "composition": {
       "camera_position": "正面拍摄",
-      "camera_movement": "固定镜头",
-      "framing": "中心构图",
+      "camera_movement": "轻微推镜",
+      "framing": "标准构图",
       "focus_type": "主体清晰"
     },
     "characters": [
       {
-        "name": "战穹",
-        "position": "守关者前",
-        "action": "被一拳砸进地里",
-        "expression": "痛苦",
-        "costume": "战袍"
-      },
-      {
-        "name": "顾玄",
-        "position": "上场",
-        "action": "接住三拳,使用规则减半",
-        "expression": "认真",
-        "costume": "白衣"
-      },
-      {
-        "name": "守关巨汉",
-        "position": "擂台",
-        "action": "连出三拳",
-        "expression": "憨厚",
-        "costume": "简单布衣"
+        "name": "主要角色",
+        "position": "画面中央",
+        "action": "推进剧情",
+        "expression": "根据情境",
+        "costume": "修仙服饰"
       }
     ],
     "visual_effects": {
-      "environment": "天尊台底层",
-      "lighting": "测试光芒",
-      "color_palette": "正常色调",
-      "special_effects": "巨汉力量规则大成,顾玄秩序之眼预判,规则附加威力减半"
+      "environment": "根据场景",
+      "lighting": "自然光",
+      "color_palette": "自然色调",
+      "special_effects": "根据需要添加特效"
     },
     "audio": {
-      "dialogue": "第一层,力之试炼。接我三拳不退,可过。我来! 可否用技巧?只要接住三拳! 你作弊! 规则允许用权限。 好像也是...过! 这就过了?",
+      "dialogue": "秩序之眼时灵时不灵，系统界面大部分功能灰暗，仅存的权限不足5%。每一次运转灵力，道基都传来撕裂般的痛楚。",
       "narration": "",
-      "internal_monologue": "这巨汉力量规则已然大成,蛮力对抗吃亏。",
-      "background_music": "轻松带战斗",
-      "sound_effects": ["拳风呼啸", "大地震动"],
-      "volume_level": "对话突出"
+      "internal_monologue": "",
+      "background_music": "对话",
+      "sound_effects": [],
+      "volume_level": "正常"
     },
     "editing": {
-      "transition_to_next": "快速切",
-      "pacing": "快速",
-      "purpose": "开始登顶"
+      "transition_to_next": "直接切",
+      "pacing": "对话",
+      "purpose": "推进剧情"
     },
     "notes": {
-      "production_note": "需要CG制作规则特效",
-      "reference_style": "幽默战斗",
+      "production_note": "根据实际内容调整",
+      "reference_style": "仙侠风格",
       "difficulty_level": "中等"
     }
   },
@@ -65,54 +51,47 @@
     "shot_id": "EP24-S002",
     "chapter_number": 24,
     "scene_number": 2,
-    "duration": 8,
-    "shot_type": "中景",
-    "location": "天尊台各层",
-    "time_of_day": "无",
+    "duration": 6,
+    "shot_type": "远景",
+    "location": "场景2",
+    "time_of_day": "白天",
     "composition": {
-      "camera_position": "快速切换",
-      "camera_movement": "快速剪辑",
-      "framing": "中心构图",
+      "camera_position": "正面拍摄",
+      "camera_movement": "缓慢拉远",
+      "framing": "标准构图",
       "focus_type": "主体清晰"
     },
     "characters": [
       {
-        "name": "顾玄",
-        "position": "各层",
-        "action": "各种奇葩方式过关",
-        "expression": "认真",
-        "costume": "白衣"
-      },
-      {
-        "name": "队友们",
-        "position": "围观",
-        "action": "下注赌方式",
-        "expression": "兴奋",
-        "costume": "各式服装"
+        "name": "主要角色",
+        "position": "画面中央",
+        "action": "推进剧情",
+        "expression": "根据情境",
+        "costume": "修仙服饰"
       }
     ],
     "visual_effects": {
-      "environment": "天尊台各层",
-      "lighting": "各种试炼光芒",
-      "color_palette": "变幻色调",
-      "special_effects": "规则修改光速降为每秒一米,真实显现打破幻阵,规则反转等"
+      "environment": "根据场景",
+      "lighting": "自然光",
+      "color_palette": "自然色调",
+      "special_effects": "根据需要添加特效"
     },
     "audio": {
-      "dialogue": "我赌兄弟会用'规则反转'!我赌'概念偷偷'!开盘开盘! 第二层速之试炼,抓住光速移动的灵蝶。规则修改:此地光速降为每秒一米。慢慢伸手抓住。第三层幻之试炼,识破万千幻象。规则附加:真实显现。 第五百层解答费马大定理。啥玩意?我能用火球砸出答案吗?过。",
+      "dialogue": "“兄弟，你真要登天尊台？”战穹担忧地看着他，“你这状态连第一层都难！”",
       "narration": "",
       "internal_monologue": "",
-      "background_music": "轻快带紧张",
+      "background_music": "舒缓",
       "sound_effects": [],
-      "volume_level": "对话突出"
+      "volume_level": "正常"
     },
     "editing": {
-      "transition_to_next": "快速切",
-      "pacing": "快速",
-      "purpose": "登塔蒙太奇"
+      "transition_to_next": "直接切",
+      "pacing": "舒缓",
+      "purpose": "推进剧情"
     },
     "notes": {
-      "production_note": "多场景拍摄",
-      "reference_style": "幽默场景",
+      "production_note": "根据实际内容调整",
+      "reference_style": "仙侠风格",
       "difficulty_level": "中等"
     }
   },
@@ -120,166 +99,527 @@
     "shot_id": "EP24-S003",
     "chapter_number": 24,
     "scene_number": 3,
-    "duration": 12,
-    "shot_type": "全景",
-    "location": "天尊台高层",
-    "time_of_day": "无",
+    "duration": 6,
+    "shot_type": "远景",
+    "location": "场景3",
+    "time_of_day": "白天",
     "composition": {
-      "camera_position": "环绕拍摄",
-      "camera_movement": "快速环绕",
-      "framing": "动态构图",
-      "focus_type": "战斗场景突出"
+      "camera_position": "正面拍摄",
+      "camera_movement": "缓慢拉远",
+      "framing": "标准构图",
+      "focus_type": "主体清晰"
     },
     "characters": [
       {
-        "name": "顾玄",
-        "position": "天尊台",
-        "action": "攀登最后九百九十九层,权限崩溃",
-        "expression": "痛苦,眼神越来越亮",
-        "costume": "白衣",
-        "props": "天魔剑"
-      },
-      {
-        "name": "主系统分身",
-        "position": "第二千层",
-        "action": "被规则覆盖,当场死机",
-        "expression": "冰冷",
-        "costume": "能量形态"
+        "name": "主要角色",
+        "position": "画面中央",
+        "action": "推进剧情",
+        "expression": "根据情境",
+        "costume": "修仙服饰"
       }
     ],
     "visual_effects": {
-      "environment": "天尊台高层",
-      "lighting": "威压光芒",
-      "color_palette": "高对比度",
-      "special_effects": "九千层时道基彻底崩碎,秩序之眼永久性损伤,但开启另一种视觉看到真相碎片,九千九百层看到办公室,九千九百九十九层进入电梯间"
+      "environment": "根据场景",
+      "lighting": "自然光",
+      "color_palette": "自然色调",
+      "special_effects": "根据需要添加特效"
     },
     "audio": {
-      "dialogue": "异常管理员,止步。规则覆盖:此地对主系统禁言! 此层试炼:赢我。老人家,咱打一架决定输赢行不?善。此层试炼:证明你自己存在。第九千九百层...第九千九百九十九层...这是我...我的办公室?!对了!我是Z区管理员!负责73-75号试验场!只有差最后一步了...上面有东西在呼唤我...",
+      "dialogue": "顾玄吞下苏瑶特制的疗伤丹药，感受着药力勉强压下伤势：“必须去。根源之海是我恢复的唯一希望。”",
       "narration": "",
-      "internal_monologue": "一步一吐血,肉身在崩解,神魂在燃烧。但眼神越来越亮—秩序之眼虽然损坏,却意外开启了另一种视觉。",
-      "background_music": "悲壮,震撼",
-      "sound_effects": ["威压轰鸣", "记忆流动"],
-      "volume_level": "内心独白为主"
+      "internal_monologue": "",
+      "background_music": "舒缓",
+      "sound_effects": [],
+      "volume_level": "正常"
     },
     "editing": {
       "transition_to_next": "直接切",
-      "pacing": "缓慢转快速",
-      "purpose": "艰难登顶"
+      "pacing": "舒缓",
+      "purpose": "推进剧情"
     },
     "notes": {
-      "production_note": "需要大量CG特效",
-      "reference_style": "史诗场景",
-      "difficulty_level": "复杂"
+      "production_note": "根据实际内容调整",
+      "reference_style": "仙侠风格",
+      "difficulty_level": "中等"
     }
   },
   {
     "shot_id": "EP24-S004",
     "chapter_number": 24,
     "scene_number": 4,
-    "duration": 12,
-    "shot_type": "全景",
-    "location": "根源之海",
-    "time_of_day": "无",
+    "duration": 6,
+    "shot_type": "近景",
+    "location": "场景4",
+    "time_of_day": "白天",
     "composition": {
-      "camera_position": "环绕拍摄",
-      "camera_movement": "快速环绕",
-      "framing": "动态构图",
-      "focus_type": "战斗场景突出"
+      "camera_position": "正面拍摄",
+      "camera_movement": "轻微推镜",
+      "framing": "标准构图",
+      "focus_type": "主体清晰"
     },
     "characters": [
       {
-        "name": "顾玄",
-        "position": "根源之海",
-        "action": "与叛乱者战斗,连接根源接口",
-        "expression": "决绝,燃烧生命",
-        "costume": "白衣",
-        "props": "天魔剑"
-      },
-      {
-        "name": "叛乱者",
-        "position": "根源接口前",
-        "action": "夺权限,被格式化",
-        "expression": "狂热→惊恐",
-        "costume": "和顾玄一模一样的脸"
+        "name": "主要角色",
+        "position": "画面中央",
+        "action": "推进剧情",
+        "expression": "根据情境",
+        "costume": "修仙服饰"
       }
     ],
     "visual_effects": {
-      "environment": "白色空间,根源之海能量海洋",
-      "lighting": "能量璀璨",
-      "color_palette": "至高光芒",
-      "special_effects": "叛乱者露出和顾玄一样的脸,顾玄被夺权限,吞下逆命丹爆发,三连规则修改夺回控制权,连接根源接口无穷能量涌入,道基修复权限疯狂提升,叛乱者被格式化消失,主系统退去"
+      "environment": "根据场景",
+      "lighting": "自然光",
+      "color_palette": "自然色调",
+      "special_effects": "根据需要添加特效"
     },
     "audio": {
-      "dialogue": "你来了。我是你的备份。或者说...你是我的备份。主系统在清除所有可能'污染'现实的文明。但我认为,文明的价值在于自由发展,不该被格式化!为什么?!因为我需要你的管理员身份!抱歉,但我会成为新的主系统!规则修改:权限转移终止!接口控制权归我!此地禁止背叛!申请根源连接!以管理员顾玄之名!连接成功!欢迎来到根源之海!管理员权限恢复:7级...8级...9级!解锁终极权限:根源代行者。不可能!你怎么能...格式化。清理门户完毕。检测到未授权根源访问...最终清除协议启动...休想!根源指令:保护所有文明!",
+      "dialogue": "天尊台，天竞界的绝对中心。一座看不见顶端的巨塔，共九千九百九十九层，每层都有守关者。登顶者可得“天尊”称号，据说能实现任何愿望。",
       "narration": "",
       "internal_monologue": "",
-      "background_music": "史诗,震撼",
-      "sound_effects": ["能量爆发", "格式化声", "系统对抗"],
-      "volume_level": "音效突出"
+      "background_music": "对话",
+      "sound_effects": [],
+      "volume_level": "正常"
     },
     "editing": {
       "transition_to_next": "直接切",
-      "pacing": "快速",
-      "purpose": "终极决战,获得根源权限"
+      "pacing": "对话",
+      "purpose": "推进剧情"
     },
     "notes": {
-      "production_note": "需要大量CG特效",
-      "reference_style": "史诗场景",
-      "difficulty_level": "复杂"
+      "production_note": "根据实际内容调整",
+      "reference_style": "仙侠风格",
+      "difficulty_level": "中等"
     }
   },
   {
     "shot_id": "EP24-S005",
     "chapter_number": 24,
     "scene_number": 5,
-    "duration": 7,
+    "duration": 6,
     "shot_type": "中景",
-    "location": "天尊台顶",
-    "time_of_day": "无",
+    "location": "场景5",
+    "time_of_day": "白天",
     "composition": {
       "camera_position": "正面拍摄",
-      "camera_movement": "缓慢推近",
-      "framing": "中心构图",
+      "camera_movement": "固定镜头",
+      "framing": "标准构图",
       "focus_type": "主体清晰"
     },
     "characters": [
       {
-        "name": "顾玄",
-        "position": "天尊台顶",
-        "action": "眼神坚定,准备主动出击",
-        "expression": "坚定,自信",
-        "costume": "白衣"
-      },
-      {
-        "name": "队友们",
-        "position": "周围",
-        "action": "惊喜发现",
-        "expression": "兴奋",
-        "costume": "各式服装"
+        "name": "主要角色",
+        "position": "画面中央",
+        "action": "推进剧情",
+        "expression": "根据情境",
+        "costume": "修仙服饰"
       }
     ],
     "visual_effects": {
-      "environment": "天尊台顶",
-      "lighting": "新力量光芒",
-      "color_palette": "希望色调",
-      "special_effects": "顾玄气息更深不可测,根源视界锁定清道夫据点"
+      "environment": "根据场景",
+      "lighting": "自然光",
+      "color_palette": "自然色调",
+      "special_effects": "根据需要添加特效"
     },
     "audio": {
-      "dialogue": "兄弟!你成功了?!嗯。现在...该解决一些问题了。首先,得给某些'清道夫'一点教训。然后...是时候拜访一下'主系统'了。",
+      "dialogue": "但古往今来，从未有人真正登顶。最高记录止步于第三千层。",
       "narration": "",
       "internal_monologue": "",
-      "background_music": "史诗,希望",
+      "background_music": "中等",
       "sound_effects": [],
-      "volume_level": "对话突出"
+      "volume_level": "正常"
     },
     "editing": {
-      "transition_to_next": "淡出",
-      "pacing": "舒缓",
-      "purpose": "收尾,准备下一阶段"
+      "transition_to_next": "直接切",
+      "pacing": "中等",
+      "purpose": "推进剧情"
     },
     "notes": {
-      "production_note": "需要CG制作新力量特效",
-      "reference_style": "史诗场景",
+      "production_note": "根据实际内容调整",
+      "reference_style": "仙侠风格",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP24-S006",
+    "chapter_number": 24,
+    "scene_number": 6,
+    "duration": 6,
+    "shot_type": "中景",
+    "location": "场景6",
+    "time_of_day": "白天",
+    "composition": {
+      "camera_position": "正面拍摄",
+      "camera_movement": "固定镜头",
+      "framing": "标准构图",
+      "focus_type": "主体清晰"
+    },
+    "characters": [
+      {
+        "name": "主要角色",
+        "position": "画面中央",
+        "action": "推进剧情",
+        "expression": "根据情境",
+        "costume": "修仙服饰"
+      }
+    ],
+    "visual_effects": {
+      "environment": "根据场景",
+      "lighting": "自然光",
+      "color_palette": "自然色调",
+      "special_effects": "根据需要添加特效"
+    },
+    "audio": {
+      "dialogue": "“我陪你！”战穹一拍胸膛，“正好活动活动筋骨！”",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "中等",
+      "sound_effects": [],
+      "volume_level": "正常"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "中等",
+      "purpose": "推进剧情"
+    },
+    "notes": {
+      "production_note": "根据实际内容调整",
+      "reference_style": "仙侠风格",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP24-S007",
+    "chapter_number": 24,
+    "scene_number": 7,
+    "duration": 6,
+    "shot_type": "中景",
+    "location": "场景7",
+    "time_of_day": "白天",
+    "composition": {
+      "camera_position": "正面拍摄",
+      "camera_movement": "快速跟随",
+      "framing": "标准构图",
+      "focus_type": "主体清晰"
+    },
+    "characters": [
+      {
+        "name": "主要角色",
+        "position": "画面中央",
+        "action": "推进剧情",
+        "expression": "根据情境",
+        "costume": "修仙服饰"
+      }
+    ],
+    "visual_effects": {
+      "environment": "根据场景",
+      "lighting": "自然光",
+      "color_palette": "自然色调",
+      "special_effects": "根据需要添加特效"
+    },
+    "audio": {
+      "dialogue": "法王赤炎搓着火球：“最近研究了个新法术，正好试试。”",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "激烈",
+      "sound_effects": [],
+      "volume_level": "正常"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "激烈",
+      "purpose": "推进剧情"
+    },
+    "notes": {
+      "production_note": "根据实际内容调整",
+      "reference_style": "仙侠风格",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP24-S008",
+    "chapter_number": 24,
+    "scene_number": 8,
+    "duration": 6,
+    "shot_type": "中景",
+    "location": "场景8",
+    "time_of_day": "白天",
+    "composition": {
+      "camera_position": "正面拍摄",
+      "camera_movement": "固定镜头",
+      "framing": "标准构图",
+      "focus_type": "主体清晰"
+    },
+    "characters": [
+      {
+        "name": "主要角色",
+        "position": "画面中央",
+        "action": "推进剧情",
+        "expression": "根据情境",
+        "costume": "修仙服饰"
+      }
+    ],
+    "visual_effects": {
+      "environment": "根据场景",
+      "lighting": "自然光",
+      "color_palette": "自然色调",
+      "special_effects": "根据需要添加特效"
+    },
+    "audio": {
+      "dialogue": "医仙苏瑶叹口气，递过来一大包丹药：“省着点用，很贵的。”",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "中等",
+      "sound_effects": [],
+      "volume_level": "正常"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "中等",
+      "purpose": "推进剧情"
+    },
+    "notes": {
+      "production_note": "根据实际内容调整",
+      "reference_style": "仙侠风格",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP24-S009",
+    "chapter_number": 24,
+    "scene_number": 9,
+    "duration": 6,
+    "shot_type": "中景",
+    "location": "场景9",
+    "time_of_day": "白天",
+    "composition": {
+      "camera_position": "正面拍摄",
+      "camera_movement": "固定镜头",
+      "framing": "标准构图",
+      "focus_type": "主体清晰"
+    },
+    "characters": [
+      {
+        "name": "主要角色",
+        "position": "画面中央",
+        "action": "推进剧情",
+        "expression": "根据情境",
+        "costume": "修仙服饰"
+      }
+    ],
+    "visual_effects": {
+      "environment": "根据场景",
+      "lighting": "自然光",
+      "color_palette": "自然色调",
+      "special_effects": "根据需要添加特效"
+    },
+    "audio": {
+      "dialogue": "一行人来到天尊台底层。那是一座直插云霄的白玉巨塔，塔身流转着玄奥符文，散发着令人敬畏的气息。",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "中等",
+      "sound_effects": [],
+      "volume_level": "正常"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "中等",
+      "purpose": "推进剧情"
+    },
+    "notes": {
+      "production_note": "根据实际内容调整",
+      "reference_style": "仙侠风格",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP24-S010",
+    "chapter_number": 24,
+    "scene_number": 10,
+    "duration": 6,
+    "shot_type": "近景",
+    "location": "场景10",
+    "time_of_day": "白天",
+    "composition": {
+      "camera_position": "正面拍摄",
+      "camera_movement": "轻微推镜",
+      "framing": "标准构图",
+      "focus_type": "主体清晰"
+    },
+    "characters": [
+      {
+        "name": "主要角色",
+        "position": "画面中央",
+        "action": "推进剧情",
+        "expression": "根据情境",
+        "costume": "修仙服饰"
+      }
+    ],
+    "visual_effects": {
+      "environment": "根据场景",
+      "lighting": "自然光",
+      "color_palette": "自然色调",
+      "special_effects": "根据需要添加特效"
+    },
+    "audio": {
+      "dialogue": "秩序之眼勉强反馈信息：【天尊台-本质：权限测试设施】、【通关可提升访问等级】",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "对话",
+      "sound_effects": [],
+      "volume_level": "正常"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "对话",
+      "purpose": "推进剧情"
+    },
+    "notes": {
+      "production_note": "根据实际内容调整",
+      "reference_style": "仙侠风格",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP24-S011",
+    "chapter_number": 24,
+    "scene_number": 11,
+    "duration": 6,
+    "shot_type": "中景",
+    "location": "场景11",
+    "time_of_day": "白天",
+    "composition": {
+      "camera_position": "正面拍摄",
+      "camera_movement": "固定镜头",
+      "framing": "标准构图",
+      "focus_type": "主体清晰"
+    },
+    "characters": [
+      {
+        "name": "主要角色",
+        "position": "画面中央",
+        "action": "推进剧情",
+        "expression": "根据情境",
+        "costume": "修仙服饰"
+      }
+    ],
+    "visual_effects": {
+      "environment": "根据场景",
+      "lighting": "自然光",
+      "color_palette": "自然色调",
+      "special_effects": "根据需要添加特效"
+    },
+    "audio": {
+      "dialogue": "顾玄恍然大悟：这根本不是比武台，是个权限电梯！每层都在测试管理员的权限等级！",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "中等",
+      "sound_effects": [],
+      "volume_level": "正常"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "中等",
+      "purpose": "推进剧情"
+    },
+    "notes": {
+      "production_note": "根据实际内容调整",
+      "reference_style": "仙侠风格",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP24-S012",
+    "chapter_number": 24,
+    "scene_number": 12,
+    "duration": 6,
+    "shot_type": "中景",
+    "location": "场景12",
+    "time_of_day": "白天",
+    "composition": {
+      "camera_position": "正面拍摄",
+      "camera_movement": "固定镜头",
+      "framing": "标准构图",
+      "focus_type": "主体清晰"
+    },
+    "characters": [
+      {
+        "name": "主要角色",
+        "position": "画面中央",
+        "action": "推进剧情",
+        "expression": "根据情境",
+        "costume": "修仙服饰"
+      }
+    ],
+    "visual_effects": {
+      "environment": "根据场景",
+      "lighting": "自然光",
+      "color_palette": "自然色调",
+      "special_effects": "根据需要添加特效"
+    },
+    "audio": {
+      "dialogue": "“第一层，力之试炼。”守关者是个肌肉虬结的巨汉，“接我三拳不退，可过。”",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "中等",
+      "sound_effects": [],
+      "volume_level": "正常"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "中等",
+      "purpose": "推进剧情"
+    },
+    "notes": {
+      "production_note": "根据实际内容调整",
+      "reference_style": "仙侠风格",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP24-S013",
+    "chapter_number": 24,
+    "scene_number": 13,
+    "duration": 6,
+    "shot_type": "中景",
+    "location": "场景13",
+    "time_of_day": "白天",
+    "composition": {
+      "camera_position": "正面拍摄",
+      "camera_movement": "固定镜头",
+      "framing": "标准构图",
+      "focus_type": "主体清晰"
+    },
+    "characters": [
+      {
+        "name": "主要角色",
+        "position": "画面中央",
+        "action": "推进剧情",
+        "expression": "根据情境",
+        "costume": "修仙服饰"
+      }
+    ],
+    "visual_effects": {
+      "environment": "根据场景",
+      "lighting": "自然光",
+      "color_palette": "自然色调",
+      "special_effects": "根据需要添加特效"
+    },
+    "audio": {
+      "dialogue": "顾玄嘴角抽搐：这巨汉力量规则已然大成，蛮力对抗吃亏。",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "中等",
+      "sound_effects": [],
+      "volume_level": "正常"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "中等",
+      "purpose": "推进剧情"
+    },
+    "notes": {
+      "production_note": "根据实际内容调整",
+      "reference_style": "仙侠风格",
       "difficulty_level": "中等"
     }
   }
