@@ -1,0 +1,387 @@
+[
+  {
+    "shot_id": "EP06-S001",
+    "chapter_number": 6,
+    "scene_number": 1,
+    "duration": 8,
+    "shot_type": "全景",
+    "location": "青云宗山门",
+    "time_of_day": "清晨",
+    "composition": {
+      "camera_position": "山门外仰拍",
+      "camera_movement": "缓慢推近",
+      "framing": "大场面",
+      "focus_type": "整体清晰"
+    },
+    "characters": [
+      {
+        "name": "天衍宗使者",
+        "position": "山门前",
+        "action": "递交鎏金请柬",
+        "expression": "恭敬",
+        "costume": "天衍宗礼服"
+      },
+      {
+        "name": "顾玄",
+        "position": "山门内",
+        "action": "接请柬,疑惑",
+        "expression": "疑惑 → 凝重",
+        "costume": "粗布麻衣"
+      }
+    ],
+    "visual_effects": {
+      "environment": "山门广场,请柬金光闪烁",
+      "lighting": "晨光+请柬金光",
+      "color_palette": "富丽堂皇",
+      "special_effects": "鎏金请柬散发着威压"
+    },
+    "audio": {
+      "dialogue": "使者: '十宗论道帖！恭请青云宗莅临！'",
+      "narration": "",
+      "internal_monologue": "顾玄: 十宗论道？那可是大场面！",
+      "background_music": "庄重带紧张",
+      "sound_effects": [],
+      "volume_level": "对话清晰"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "庄重",
+      "purpose": "引入重大事件"
+    },
+    "notes": {
+      "production_note": "注重请柬道具",
+      "reference_style": "仙侠礼仪",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP06-S002",
+    "chapter_number": 6,
+    "scene_number": 2,
+    "duration": 6,
+    "shot_type": "中景",
+    "location": "青云宗主殿",
+    "time_of_day": "上午",
+    "composition": {
+      "camera_position": "侧面拍摄",
+      "camera_movement": "固定镜头",
+      "framing": "三人构图",
+      "focus_type": "主体清晰"
+    },
+    "characters": [
+      {
+        "name": "李道玄",
+        "position": "画面中央",
+        "action": "捧请柬,手发抖",
+        "expression": "激动 → 紧张",
+        "costume": "掌门袍"
+      },
+      {
+        "name": "顾玄",
+        "position": "画面左侧",
+        "action": "安慰师尊",
+        "expression": "表面淡定",
+        "costume": "粗布麻衣"
+      },
+      {
+        "name": "陆尘",
+        "position": "画面右侧",
+        "action": "担忧地看着",
+        "expression": "忧虑",
+        "costume": "布衣少女"
+      }
+    ],
+    "visual_effects": {
+      "environment": "主殿内",
+      "lighting": "明亮自然光",
+      "color_palette": "庄重色调",
+      "special_effects": "请柬金光闪烁"
+    },
+    "audio": {
+      "dialogue": "李道玄: '这是青州最高级别的宗门盛会！往年只有十大宗门有资格！'",
+      "narration": "",
+      "internal_monologue": "顾玄: 这下麻烦大了...",
+      "background_music": "紧张带幽默",
+      "sound_effects": [],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "紧张",
+      "purpose": "展现危机"
+    },
+    "notes": {
+      "production_note": "注重演技",
+      "reference_style": "紧张场景",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP06-S003",
+    "chapter_number": 6,
+    "scene_number": 3,
+    "duration": 7,
+    "shot_type": "全景",
+    "location": "前往天衍宗路上",
+    "time_of_day": "次日清晨",
+    "composition": {
+      "camera_position": "航拍",
+      "camera_movement": "跟随飞舟",
+      "framing": "大场面",
+      "focus_type": "飞舟清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "飞舟上",
+        "action": "乘坐最便宜的飞舟",
+        "expression": "尴尬(强行淡定)",
+        "costume": "粗布麻衣"
+      },
+      {
+        "name": "陆尘",
+        "position": "顾玄身边",
+        "action": "好奇地看着云海",
+        "expression": "兴奋 → 期待",
+        "costume": "布衣少女"
+      },
+      {
+        "name": "李道玄",
+        "position": "飞舟另一侧",
+        "action": "紧张地整理衣服",
+        "expression": "紧张",
+        "costume": "掌门袍"
+      }
+    ],
+    "visual_effects": {
+      "environment": "云海之上,其他豪华飞舟穿梭",
+      "lighting": "明亮晨光",
+      "color_palette": "清新明亮",
+      "special_effects": "破旧飞舟与豪华飞舟形成对比"
+    },
+    "audio": {
+      "dialogue": "",
+      "narration": "青云宗三人乘坐最便宜的飞舟,寒酸得像来要饭的...",
+      "internal_monologue": "顾玄: 有钱谁不想坐好的？！",
+      "background_music": "轻松带尴尬",
+      "sound_effects": ["飞舟破空声"],
+      "volume_level": "音乐为主"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "轻松",
+      "purpose": "展示寒酸,制造笑点"
+    },
+    "notes": {
+      "production_note": "注重对比",
+      "reference_style": "轻喜剧",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP06-S004",
+    "chapter_number": 6,
+    "scene_number": 4,
+    "duration": 8,
+    "shot_type": "全景",
+    "location": "天衍宗山门",
+    "time_of_day": "正午",
+    "composition": {
+      "camera_position": "仰拍天衍宗",
+      "camera_movement": "缓慢推近",
+      "framing": "大场面",
+      "focus_type": "整体清晰"
+    },
+    "characters": [
+      {
+        "name": "各宗弟子",
+        "position": "山门前,锦衣华服",
+        "action": "嘲笑青云宗",
+        "expression": "轻蔑 → 嘲讽",
+        "costume": "各宗华丽服饰"
+      },
+      {
+        "name": "顾玄一行",
+        "position": "寒酸入场",
+        "action": "淡定应对嘲笑",
+        "expression": "表面淡定",
+        "costume": "朴素衣物"
+      }
+    ],
+    "visual_effects": {
+      "environment": "天衍宗山门,仙宫林立",
+      "lighting": "明亮日光",
+      "color_palette": "富丽堂皇",
+      "special_effects": "各宗法宝精良,光芒闪烁"
+    },
+    "audio": {
+      "dialogue": "众弟子: '看！青云宗的破飞舟！还好意思来？！'",
+      "narration": "",
+      "internal_monologue": "顾玄: 等着,早晚让你们好看！",
+      "background_music": "尴尬带紧张",
+      "sound_effects": ["嘲笑声"],
+      "volume_level": "嘲笑突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "尴尬紧张",
+      "purpose": "制造冲突,为后续打脸铺垫"
+    },
+    "notes": {
+      "production_note": "注重对比效果",
+      "reference_style": "仙侠场面",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP06-S005",
+    "chapter_number": 6,
+    "scene_number": 5,
+    "duration": 8,
+    "shot_type": "全景",
+    "location": "天衍宗论道会场",
+    "time_of_day": "下午",
+    "composition": {
+      "camera_position": "高角度俯拍",
+      "camera_movement": "缓慢推近",
+      "framing": "大场面",
+      "focus_type": "整体清晰"
+    },
+    "characters": [
+      {
+        "name": "各宗精英",
+        "position": "展示绝学",
+        "action": "依次登场表演",
+        "expression": "自信 → 狂傲",
+        "costume": "华丽服饰"
+      }
+    ],
+    "visual_effects": {
+      "environment": "论道会场,恢弘壮观",
+      "lighting": "明亮+特效光",
+      "color_palette": "绚丽多彩",
+      "special_effects": "各宗展示绝学,特效华丽"
+    },
+    "audio": {
+      "dialogue": "",
+      "narration": "各宗依次登场,绝学纷呈,轮到青云宗时...",
+      "internal_monologue": "",
+      "background_music": "恢弘震撼",
+      "sound_effects": ["掌声", "惊呼声"],
+      "volume_level": "震撼突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "震撼",
+      "purpose": "铺垫高潮"
+    },
+    "notes": {
+      "production_note": "大场面制作",
+      "reference_style": "仙侠盛会",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP06-S006",
+    "chapter_number": 6,
+    "scene_number": 5,
+    "duration": 10,
+    "shot_type": "特效特写",
+    "location": "天衍宗论道会场",
+    "time_of_day": "下午",
+    "composition": {
+      "camera_position": "环绕拍摄",
+      "camera_movement": "快速环绕",
+      "framing": "动态构图",
+      "focus_type": "特效突出"
+    },
+    "characters": [
+      {
+        "name": "陆尘",
+        "position": "画面中央",
+        "action": "天魔之力加持,剑法施展",
+        "expression": "茫然 → 威严",
+        "costume": "布衣少女,剑气缭绕"
+      }
+    ],
+    "visual_effects": {
+      "environment": "论道会场",
+      "lighting": "雷电亮光",
+      "color_palette": "高对比度",
+      "special_effects": "天魔之力加持,陆尘剑引天雷,古老剑意爆发,天地异象"
+    },
+    "audio": {
+      "dialogue": "",
+      "narration": "",
+      "internal_monologue": "顾玄: 卧槽！这么猛？！",
+      "background_music": "震撼恢弘",
+      "sound_effects": ["雷声轰鸣", "全场惊呼"],
+      "volume_level": "震撼突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "震撼",
+      "purpose": "打脸高潮,震撼全场"
+    },
+    "notes": {
+      "production_note": "大量特效",
+      "reference_style": "仙侠高潮",
+      "difficulty_level": "复杂"
+    }
+  },
+  {
+    "shot_id": "EP06-S007",
+    "chapter_number": 6,
+    "scene_number": 6,
+    "duration": 7,
+    "shot_type": "全景",
+    "location": "天衍宗论道会场",
+    "time_of_day": "下午",
+    "composition": {
+      "camera_position": "高角度俯拍",
+      "camera_movement": "固定镜头",
+      "framing": "大场面",
+      "focus_type": "全场震惊"
+    },
+    "characters": [
+      {
+        "name": "各大宗门长老",
+        "position": "贵宾席",
+        "action": "齐齐起身,面色骇然",
+        "expression": "震惊 → 敬畏",
+        "costume": "长老服饰"
+      },
+      {
+        "name": "顾玄",
+        "position": "台下,表面淡定",
+        "action": "强装镇定",
+        "expression": "表面淡定,内心慌乱",
+        "costume": "粗布麻衣"
+      }
+    ],
+    "visual_effects": {
+      "environment": "会场死寂,然后爆发出惊呼",
+      "lighting": "自然光",
+      "color_palette": "震撼色调",
+      "special_effects": "无"
+    },
+    "audio": {
+      "dialogue": "众长老: '此剑意...古老而霸道！青云宗到底什么来头？！'",
+      "narration": "",
+      "internal_monologue": "顾玄: 完了,玩大了...",
+      "background_music": "震撼后转为紧张",
+      "sound_effects": ["全场哗然"],
+      "volume_level": "惊呼突出"
+    },
+    "editing": {
+      "transition_to_next": "淡出",
+      "pacing": "震撼",
+      "purpose": "章节高潮,留下悬念"
+    },
+    "notes": {
+      "production_note": "注重氛围",
+      "reference_style": "震撼场景",
+      "difficulty_level": "简单"
+    }
+  }
+]

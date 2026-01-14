@@ -1,0 +1,256 @@
+[
+  {
+    "shot_id": "EP09-S001",
+    "chapter_number": 9,
+    "scene_number": 1,
+    "duration": 7,
+    "shot_type": "全景",
+    "location": "青云宗主殿",
+    "time_of_day": "清晨",
+    "composition": {
+      "camera_position": "主殿内拍摄",
+      "camera_movement": "缓慢推近",
+      "framing": "大场面",
+      "focus_type": "整体清晰"
+    },
+    "characters": [
+      {
+        "name": "李道玄",
+        "position": "掌门座上",
+        "action": "激动地询问天魔剑",
+        "expression": "好奇 → 激动",
+        "costume": "掌门袍"
+      },
+      {
+        "name": "顾玄",
+        "position": "下方,无奈解释",
+        "action": "强装高深",
+        "expression": "表面淡定,内心崩溃",
+        "costume": "粗布麻衣"
+      }
+    ],
+    "visual_effects": {
+      "environment": "主殿内",
+      "lighting": "明亮自然光",
+      "color_palette": "温暖色调",
+      "special_effects": "天魔剑微光闪烁"
+    },
+    "audio": {
+      "dialogue": "李道玄: '徒儿！那天魔剑是怎么回事？'",
+      "narration": "",
+      "internal_monologue": "顾玄: 我哪知道啊！",
+      "background_music": "轻松带幽默",
+      "sound_effects": [],
+      "volume_level": "对话清晰"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "轻松",
+      "purpose": "揭示部分真相(误)"
+    },
+    "notes": {
+      "production_note": "注重喜剧效果",
+      "reference_style": "轻喜剧",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP09-S002",
+    "chapter_number": 9,
+    "scene_number": 2,
+    "duration": 8,
+    "shot_type": "中景",
+    "location": "青云宗密室",
+    "time_of_day": "上午",
+    "composition": {
+      "camera_position": "密室内拍摄",
+      "camera_movement": "环绕拍摄",
+      "framing": "特写构图",
+      "focus_type": "细节清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "画面中央",
+        "action": "研究天魔剑铭文",
+        "expression": "困惑 → 震惊",
+        "costume": "粗布麻衣"
+      }
+    ],
+    "visual_effects": {
+      "environment": "密室内",
+      "lighting": "昏暗灯光+剑光",
+      "color_palette": "神秘色调",
+      "special_effects": "剑身铭文发光: '批量生产型天魔剑-第七代'"
+    },
+    "audio": {
+      "dialogue": "",
+      "narration": "",
+      "internal_monologue": "批量生产？！第七代？！",
+      "background_music": "神秘带科技感",
+      "sound_effects": ["系统机械音"],
+      "volume_level": "机械音突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "神秘",
+      "purpose": "揭示天魔剑的真相"
+    },
+    "notes": {
+      "production_note": "注重铭文特效",
+      "reference_style": "科技感+仙侠",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP09-S003",
+    "chapter_number": 9,
+    "scene_number": 3,
+    "duration": 7,
+    "shot_type": "特写",
+    "location": "青云宗密室",
+    "time_of_day": "上午",
+    "composition": {
+      "camera_position": "聚焦剑柄",
+      "camera_movement": "缓慢推近",
+      "framing": "特写",
+      "focus_type": "细节清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "画面背景",
+        "action": "震惊地看着剑柄",
+        "expression": "三观尽碎",
+        "costume": "粗布麻衣"
+      }
+    ],
+    "visual_effects": {
+      "environment": "密室内",
+      "lighting": "剑柄显示屏光",
+      "color_palette": "科技感色调",
+      "special_effects": "剑柄显示屏: '电量:87%', USB接口清晰可见"
+    },
+    "audio": {
+      "dialogue": "",
+      "narration": "",
+      "internal_monologue": "这画风不对啊！",
+      "background_music": "科技感音乐",
+      "sound_effects": ["系统提示音"],
+      "volume_level": "机械音突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "幽默",
+      "purpose": "强化科幻元素,制造笑点"
+    },
+    "notes": {
+      "production_note": "注重细节设计",
+      "reference_style": "科幻+仙侠",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP09-S004",
+    "chapter_number": 9,
+    "scene_number": 4,
+    "duration": 8,
+    "shot_type": "全景",
+    "location": "魔教总坛",
+    "time_of_day": "夜晚",
+    "composition": {
+      "camera_position": "魔教总坛俯拍",
+      "camera_movement": "缓慢推近",
+      "framing": "阴暗大场面",
+      "focus_type": "整体清晰"
+    },
+    "characters": [
+      {
+        "name": "魔教右使",
+        "position": "总坛中央",
+        "action": "查看情报,面色凝重",
+        "expression": "凝重 → 阴狠",
+        "costume": "黑袍,戴青铜面具"
+      },
+      {
+        "name": "魔教徒",
+        "position": "四周,跪地聆听",
+        "action": "恭敬听令",
+        "expression": "恐惧 → 狂热",
+        "costume": "魔教黑袍"
+      }
+    ],
+    "visual_effects": {
+      "environment": "魔教总坛,阴暗压抑",
+      "lighting": "幽暗灯光+魔气",
+      "color_palette": "冷色调",
+      "special_effects": "魔气缭绕,情报影像浮现在空中"
+    },
+    "audio": {
+      "dialogue": "右使: '天魔大人不仅找回天魔剑,连制式魔剑都激活了...'",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "阴暗悬疑",
+      "sound_effects": [],
+      "volume_level": "对话清晰"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "压抑",
+      "purpose": "引入反派视角,营造危机"
+    },
+    "notes": {
+      "production_note": "注重氛围营造",
+      "reference_style": "暗黑场景",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP09-S005",
+    "chapter_number": 9,
+    "scene_number": 5,
+    "duration": 7,
+    "shot_type": "中景",
+    "location": "青云宗后院",
+    "time_of_day": "夜晚",
+    "composition": {
+      "camera_position": "后院拍摄",
+      "camera_movement": "缓慢拉远",
+      "framing": "宁静夜景",
+      "focus_type": "整体清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "后院独自一人",
+        "action": "仰望星空,思考未来",
+        "expression": "忧虑 → 坚定",
+        "costume": "粗布麻衣"
+      }
+    ],
+    "visual_effects": {
+      "environment": "后院夜景,星空璀璨",
+      "lighting": "月光+星光",
+      "color_palette": "清冷色调",
+      "special_effects": "无"
+    },
+    "audio": {
+      "dialogue": "",
+      "narration": "风波将至,顾玄知道,平静的日子结束了...",
+      "internal_monologue": "得做好准备,迎接挑战了...",
+      "background_music": "悠扬带忧虑",
+      "sound_effects": [],
+      "volume_level": "音乐为主"
+    },
+    "editing": {
+      "transition_to_next": "淡出",
+      "pacing": "舒缓",
+      "purpose": "章节收尾,为后续埋伏笔"
+    },
+    "notes": {
+      "production_note": "收尾场景",
+      "reference_style": "场景过渡",
+      "difficulty_level": "简单"
+    }
+  }
+]

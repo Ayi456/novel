@@ -1,0 +1,270 @@
+[
+  {
+    "shot_id": "EP35-S001",
+    "chapter_number": 35,
+    "scene_number": 1,
+    "duration": 10,
+    "shot_type": "全景蒙太奇",
+    "location": "宇宙各处",
+    "time_of_day": "无",
+    "composition": {
+      "camera_position": "多地点",
+      "camera_movement": "快速切换",
+      "framing": "庆祝构图",
+      "focus_type": "庆祝清晰"
+    },
+    "characters": [
+      {
+        "name": "各文明",
+        "position": "宇宙各处",
+        "action": "庆祝三天三夜",
+        "expression": "狂喜",
+        "costume": "各异"
+      }
+    ],
+    "visual_effects": {
+      "environment": "庆祝的多元宇宙",
+      "lighting": "庆祝光芒",
+      "color_palette": "绚丽多彩",
+      "special_effects": "精灵魔法派对、AI算法狂欢、蘑菇人72小时光合作用庆祝"
+    },
+    "audio": {
+      "dialogue": "宇宙通过大过滤器预考的消息传开,所有文明沸腾了三天三夜",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "欢乐庆祝",
+      "sound_effects": ["狂欢声"],
+      "volume_level": "环境音突出"
+    },
+    "editing": {
+      "transition_to_next": "快速切",
+      "pacing": "快速",
+      "purpose": "庆祝蒙太奇"
+    },
+    "notes": {
+      "production_note": "多场景特效",
+      "reference_style": "欢乐庆祝",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP35-S002",
+    "chapter_number": 35,
+    "scene_number": 2,
+    "duration": 11,
+    "shot_type": "蒙太奇",
+    "location": "宇宙各处-补习班",
+    "time_of_day": "无",
+    "composition": {
+      "camera_position": "多教学点",
+      "camera_movement": "流畅切换",
+      "framing": "教学构图",
+      "focus_type": "教学清晰"
+    },
+    "characters": [
+      {
+        "name": "各文明学生",
+        "position": "各处学习",
+        "action": "补习学习",
+        "expression": "痛苦→努力",
+        "costume": "各异"
+      },
+      {
+        "name": "顾玄",
+        "position": "教学总导师",
+        "action": "编写教材,教学",
+        "expression": "认真,无奈",
+        "costume": "教师长袍"
+      }
+    ],
+    "visual_effects": {
+      "environment": "宇宙教室",
+      "lighting": "教学光芒",
+      "color_palette": "学习色调",
+      "special_effects": "补习班教学,科技文明学魔法,精灵学物理,实景模拟考场,恒星答题板,黑洞错题本,超新星答对庆祝,各种教学方法"
+    },
+    "audio": {
+      "dialogue": "必须因材施教!成立宇宙补习班!老师!量子力学太难了!教授!时间魔法会让我长皱纹!蘑菇拒绝考试!让AI用游戏方式教魔法,精灵用诗歌形式教物理,蘑菇人菌丝网络共享知识(但都是蘑菇食谱)",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "欢乐学习",
+      "sound_effects": ["教学声", "学生哀嚎"],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "快速切",
+      "pacing": "快速",
+      "purpose": "补习蒙太奇"
+    },
+    "notes": {
+      "production_note": "多场景",
+      "reference_style": "欢乐教学",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP35-S003",
+    "chapter_number": 35,
+    "scene_number": 3,
+    "duration": 10,
+    "shot_type": "全景",
+    "location": "宇宙-文明交流",
+    "time_of_day": "无",
+    "composition": {
+      "camera_position": "多文明相遇",
+      "camera_movement": "快速切换",
+      "framing": "交流冲突构图",
+      "focus_type": "交流清晰"
+    },
+    "characters": [
+      {
+        "name": "异宇宙文明",
+        "position": "来访",
+        "action": "交流,冲突",
+        "expression": "傲慢→惊讶",
+        "costume": "各异形态"
+      },
+      {
+        "name": "本宇宙文明",
+        "position": "接待",
+        "action": "应对",
+        "expression": "无奈,反击",
+        "costume": "各异"
+      }
+    ],
+    "visual_effects": {
+      "environment": "文明交流场景",
+      "lighting": "交流光芒",
+      "color_palette": "多彩冲突",
+      "special_effects": "机械蜂巢宇宙AI死机,能量生命宇宙差点蒸发,概念宇宙重推导1+1=3,知识污染反促进发展,监考者通知考试提前"
+    },
+    "audio": {
+      "dialogue": "逻辑错误!魔法不科学!太物质了...能量化...不完美的公式...重新推导...这是你们的'文明交流'?!麻烦成了助力。正式考试提前!10年后举行!说好的百年呢?!检测到宇宙进化加速,符合提前条件",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "冲突混乱",
+      "sound_effects": ["交流冲突声"],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "快速切",
+      "pacing": "极快",
+      "purpose": "交流冲突"
+    },
+    "notes": {
+      "production_note": "特效+冲突",
+      "reference_style": "文明冲突",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP35-S004",
+    "chapter_number": 35,
+    "scene_number": 4,
+    "duration": 11,
+    "shot_type": "蒙太奇",
+    "location": "宇宙-魔鬼训练",
+    "time_of_day": "无",
+    "composition": {
+      "camera_position": "多训练点",
+      "camera_movement": "高强度切换",
+      "framing": "训练构图",
+      "focus_type": "训练清晰"
+    },
+    "characters": [
+      {
+        "name": "各文明",
+        "position": "极限训练",
+        "action": "魔鬼训练",
+        "expression": "痛苦,坚持",
+        "costume": "各异"
+      },
+      {
+        "name": "顾玄",
+        "position": "总指挥",
+        "action": "极限训练",
+        "expression": "严厉",
+        "costume": "教官形态"
+      }
+    ],
+    "visual_effects": {
+      "environment": "宇宙训练场",
+      "lighting": "训练光芒",
+      "color_palette": "高强度色调",
+      "special_effects": "五年学完必修,三年模拟考,两年专项突破,精灵边施法边背物理,AI算题练情感表达,蘑菇人学微积分,骗子宇宙卖答案被惩,十年转瞬即逝"
+    },
+    "audio": {
+      "dialogue": "五年学完必修,三年模拟考,最后两年专项突破!魔鬼训练计划启动!十年转瞬即逝。正式考试来临!考试内容:应对未知!没有题目,没有标准,只有...未知!整个宇宙陷入绝对'未知状态'!记住,未知不是终点,而是创造的开始!",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "紧张训练",
+      "sound_effects": ["训练声", "十年流逝"],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "快速切",
+      "pacing": "极快",
+      "purpose": "魔鬼训练蒙太奇"
+    },
+    "notes": {
+      "production_note": "多场景压缩",
+      "reference_style": "高强度训练",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP35-S005",
+    "chapter_number": 35,
+    "scene_number": 5,
+    "duration": 13,
+    "shot_type": "特效全景",
+    "location": "宇宙-正式考试",
+    "time_of_day": "无",
+    "composition": {
+      "camera_position": "宇宙视角",
+      "camera_movement": "宏大运动",
+      "framing": "考试构图",
+      "focus_type": "应对清晰"
+    },
+    "characters": [
+      {
+        "name": "各文明",
+        "position": "宇宙中",
+        "action": "应对未知",
+        "expression": "冷静,协作",
+        "costume": "各异"
+      },
+      {
+        "name": "监考者",
+        "position": "观测",
+        "action": "评分",
+        "expression": "无",
+        "costume": "巨大结构体"
+      }
+    ],
+    "visual_effects": {
+      "environment": "未知状态的宇宙",
+      "lighting": "应对光芒",
+      "color_palette": "创造色彩",
+      "special_effects": "规则消失逻辑失效,科技文明概率学构建临时规则,魔法文明直觉引导,AI创造力想象新逻辑,蘑菇人蘑菇感应,共同构建新宇宙规则,监考者评分95分通过"
+    },
+    "audio": {
+      "dialogue": "适应性95分!协作性90分!创造性99分!综合评分95分!通过大过滤器!宇宙沸腾了!他们真的做到了!通过只是开始。真正的挑战在过滤器之外...欢迎来到'升华之域',新成员。这里是?所有通过考试的文明聚集地。原来,大过滤器不是终点,而是...入学考试?警报!原生宇宙过度进化失控!所以...毕业才是开始?当然。宇宙管理是终身学习。下一堂课开始了",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "史诗升华",
+      "sound_effects": ["通过声", "宇宙沸腾"],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "光芒转场",
+      "pacing": "宏大",
+      "purpose": "通过考试+新阶段"
+    },
+    "notes": {
+      "production_note": "大量CG特效",
+      "reference_style": "史诗级升华",
+      "difficulty_level": "非常复杂"
+    }
+  }
+]

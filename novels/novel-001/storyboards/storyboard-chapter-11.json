@@ -1,0 +1,502 @@
+[
+  {
+    "shot_id": "EP11-S001",
+    "chapter_number": 11,
+    "scene_number": 1,
+    "duration": 6,
+    "shot_type": "中景",
+    "location": "青云宗外门弟子房",
+    "time_of_day": "夜晚",
+    "composition": {
+      "camera_position": "侧面拍摄",
+      "camera_movement": "缓慢环绕",
+      "framing": "三分法",
+      "focus_type": "主体清晰,背景虚化"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "画面中央",
+        "action": "研究七彩流光石,光影变幻",
+        "expression": "专注 → 惊讶",
+        "costume": "粗布麻衣",
+        "props": "七彩流光石"
+      }
+    ],
+    "visual_effects": {
+      "environment": "简陋木屋,油灯昏暗",
+      "lighting": "七彩光芒从流光石散发,照亮房间",
+      "color_palette": "七彩色调,梦幻效果",
+      "special_effects": "流光石散发七种颜色光晕,轮流变换,营造出神秘氛围"
+    },
+    "audio": {
+      "dialogue": "这要是去搞特效电影,绝对能拿奥斯卡...",
+      "narration": "",
+      "internal_monologue": "又来了?这次又是谁?",
+      "background_music": "轻快带点悬疑",
+      "sound_effects": ["流光石嗡鸣声", "窗外树叶沙沙声"],
+      "volume_level": "内心独白为主,环境音为辅"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "中等",
+      "purpose": "展现主角研究新道具,埋下伏笔"
+    },
+    "notes": {
+      "production_note": "需要CG制作七彩光效",
+      "reference_style": "现代修仙轻喜剧",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP11-S002",
+    "chapter_number": 11,
+    "scene_number": 2,
+    "duration": 8,
+    "shot_type": "远景转中景",
+    "location": "青云宗后山密林",
+    "time_of_day": "深夜",
+    "composition": {
+      "camera_position": "树后侧拍",
+      "camera_movement": "缓慢推进",
+      "framing": "三分法",
+      "focus_type": "主体清晰,背景虚化"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "画面右侧树后",
+        "action": "小心翼翼潜行,环顾四周",
+        "expression": "警惕",
+        "costume": "粗布麻衣"
+      },
+      {
+        "name": "影煞",
+        "position": "画面左侧,背对镜头",
+        "action": "手持罗盘,四处搜索",
+        "expression": "专注",
+        "costume": "黑衣夜行衣",
+        "props": "罗盘法器"
+      }
+    ],
+    "visual_effects": {
+      "environment": "月黑风高,树林阴影斑驳",
+      "lighting": "昏暗月光透过树叶,罗盘发出微弱光芒",
+      "color_palette": "冷色调,蓝黑色为主",
+      "special_effects": "罗盘指针发光,指向密室方向"
+    },
+    "audio": {
+      "dialogue": "",
+      "narration": "",
+      "internal_monologue": "果然有人...是在找密室?",
+      "background_music": "紧张悬疑",
+      "sound_effects": ["树叶沙沙声", "虫鸣声", "咔嚓枯枝断裂声"],
+      "volume_level": "环境音为主,营造紧张感"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "中等",
+      "purpose": "建立场景,展现主角发现入侵者"
+    },
+    "notes": {
+      "production_note": "夜景拍摄",
+      "reference_style": "悬疑风格",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP11-S003",
+    "chapter_number": 11,
+    "scene_number": 2,
+    "duration": 5,
+    "shot_type": "特写",
+    "location": "青云宗后山密林",
+    "time_of_day": "深夜",
+    "composition": {
+      "camera_position": "正面拍摄",
+      "camera_movement": "固定镜头",
+      "framing": "中心构图",
+      "focus_type": "人物表情清晰"
+    },
+    "characters": [
+      {
+        "name": "影煞",
+        "position": "画面中央",
+        "action": "单膝跪地,恭敬行礼",
+        "expression": "激动,狂热",
+        "costume": "黑衣夜行衣",
+        "props": "罗盘法器"
+      }
+    ],
+    "visual_effects": {
+      "environment": "树林背景",
+      "lighting": "月光,罗盘指针疯狂闪烁",
+      "color_palette": "冷色调",
+      "special_effects": "罗盘指针疯狂指向顾玄,整个罗盘微微震动"
+    },
+    "audio": {
+      "dialogue": "属下影煞,参见天魔大人!",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "紧张",
+      "sound_effects": ["罗盘嗡鸣声"],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "快速",
+      "purpose": "关键转折,展现误会开始"
+    },
+    "notes": {
+      "production_note": "特写拍摄表情",
+      "reference_style": "悬疑+幽默",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP11-S004",
+    "chapter_number": 11,
+    "scene_number": 2,
+    "duration": 7,
+    "shot_type": "近景",
+    "location": "青云宗后山密林",
+    "time_of_day": "深夜",
+    "composition": {
+      "camera_position": "侧面拍摄",
+      "camera_movement": "轻微推近",
+      "framing": "三分法",
+      "focus_type": "主体清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "画面中央",
+        "action": "强作镇定,保持高人风范",
+        "expression": "表面淡定,内心慌乱",
+        "costume": "粗布麻衣"
+      },
+      {
+        "name": "影煞",
+        "position": "画面左侧,跪地",
+        "action": "恭敬献上玉简",
+        "expression": "崇拜",
+        "costume": "黑衣夜行衣",
+        "props": "黑色玉简"
+      }
+    ],
+    "visual_effects": {
+      "environment": "树林夜景",
+      "lighting": "昏暗月光",
+      "color_palette": "冷色调",
+      "special_effects": "玉简散发幽幽黑光"
+    },
+    "audio": {
+      "dialogue": "你认错人了吧?",
+      "narration": "",
+      "internal_monologue": "完蛋,露馅了!这家伙真有检测天魔的设备!",
+      "background_music": "悬疑",
+      "sound_effects": [],
+      "volume_level": "对话为主"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "中等",
+      "purpose": "展现主角内心恐慌与表面淡定"
+    },
+    "notes": {
+      "production_note": "需要演员表现反差",
+      "reference_style": "幽默风格",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP11-S005",
+    "chapter_number": 11,
+    "scene_number": 2,
+    "duration": 10,
+    "shot_type": "特效特写",
+    "location": "青云宗后山密林",
+    "time_of_day": "深夜",
+    "composition": {
+      "camera_position": "环绕拍摄",
+      "camera_movement": "快速环绕",
+      "framing": "动态构图",
+      "focus_type": "主体清晰,特效突出"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "画面中央",
+        "action": "周身七色光芒流转,气势暴涨",
+        "expression": "高冷,威严",
+        "costume": "粗布麻衣,被光芒笼罩"
+      }
+    ],
+    "visual_effects": {
+      "environment": "树林被光芒照亮",
+      "lighting": "七色光芒璀璨夺目,天魔威压黑气缭绕",
+      "color_palette": "高对比度,七彩+黑色",
+      "special_effects": "周身七色光芒流转,融入天魔威压黑气,气势节节攀升,突破金丹直达元婴,眼中闪过妖异紫芒"
+    },
+    "audio": {
+      "dialogue": "你觉得...我需要保护吗?",
+      "narration": "",
+      "internal_monologue": "吓死我了...差点就露馅了!",
+      "background_music": "震撼,压迫感强",
+      "sound_effects": ["能量涌动声", "威压扩散声", "系统提示音"],
+      "volume_level": "音效突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "快速",
+      "purpose": "展示主角实力伪装,制造震撼效果"
+    },
+    "notes": {
+      "production_note": "需要大量CG特效",
+      "reference_style": "夸张特效风格",
+      "difficulty_level": "复杂"
+    }
+  },
+  {
+    "shot_id": "EP11-S006",
+    "chapter_number": 11,
+    "scene_number": 3,
+    "duration": 6,
+    "shot_type": "中景",
+    "location": "青云宗外门弟子房",
+    "time_of_day": "深夜",
+    "composition": {
+      "camera_position": "正面拍摄",
+      "camera_movement": "固定镜头",
+      "framing": "中心构图",
+      "focus_type": "主体清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "画面中央",
+        "action": "长舒一口气,腿软差点坐倒,抹冷汗",
+        "expression": "放松,后怕",
+        "costume": "粗布麻衣",
+        "props": "黑色玉简"
+      }
+    ],
+    "visual_effects": {
+      "environment": "木屋内景",
+      "lighting": "昏暗油灯光线",
+      "color_palette": "暖色调,偏暗",
+      "special_effects": "无"
+    },
+    "audio": {
+      "dialogue": "",
+      "narration": "",
+      "internal_monologue": "吓死我了...不过...看来我真是天魔转世啊...",
+      "background_music": "轻快带点紧张后的放松",
+      "sound_effects": ["椅子嘎吱声"],
+      "volume_level": "内心独白为主"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "舒缓",
+      "purpose": "展现主角危机解除后的放松"
+    },
+    "notes": {
+      "production_note": "实景拍摄",
+      "reference_style": "轻松幽默",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP11-S007",
+    "chapter_number": 11,
+    "scene_number": 4,
+    "duration": 8,
+    "shot_type": "特写",
+    "location": "顾玄脑海/眼前",
+    "time_of_day": "深夜",
+    "composition": {
+      "camera_position": "主观视角",
+      "camera_movement": "界面浮入",
+      "framing": "中心构图",
+      "focus_type": "界面文字清晰,背景模糊"
+    },
+    "characters": [],
+    "visual_effects": {
+      "environment": "黑暗虚空",
+      "lighting": "冰冷声音的光芒",
+      "color_palette": "冷色调",
+      "special_effects": "虚空中浮现声音具象化的波纹,传达冰冷感觉"
+    },
+    "audio": {
+      "dialogue": "",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "空灵,神秘",
+      "sound_effects": ["冰冷回响声音: '何必抗拒?这本就是你的力量...'"],
+      "volume_level": "声音突出"
+    },
+    "editing": {
+      "transition_to_next": "淡出",
+      "pacing": "缓慢",
+      "purpose": "展现内心冲突,神秘感"
+    },
+    "notes": {
+      "production_note": "需要CG制作声音具象化效果",
+      "reference_style": "神秘氛围",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP11-S008",
+    "chapter_number": 11,
+    "scene_number": 5,
+    "duration": 7,
+    "shot_type": "中景转特写",
+    "location": "青云宗外门弟子房",
+    "time_of_day": "深夜",
+    "composition": {
+      "camera_position": "正面拍摄",
+      "camera_movement": "缓慢推近",
+      "framing": "中心构图",
+      "focus_type": "主体清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "画面中央",
+        "action": "按照玉简方法运转灵力,身体渐渐融入阴影",
+        "expression": "惊讶,欣喜",
+        "costume": "粗布麻衣"
+      }
+    ],
+    "visual_effects": {
+      "environment": "木屋内景",
+      "lighting": "昏暗光线",
+      "color_palette": "冷色调",
+      "special_effects": "身体渐渐半透明,融入阴影,气息完全消失,最终化为无形"
+    },
+    "audio": {
+      "dialogue": "这么简单?",
+      "narration": "",
+      "internal_monologue": "天魔秘法...果然厉害...既有获得强大技能的喜悦,又有坠入魔道的担忧。",
+      "background_music": "神秘,轻快",
+      "sound_effects": ["能量流动声", "阴影化声"],
+      "volume_level": "内心独白为主"
+    },
+    "editing": {
+      "transition_to_next": "淡出",
+      "pacing": "舒缓",
+      "purpose": "展现主角获得新技能"
+    },
+    "notes": {
+      "production_note": "需要CG制作隐身效果",
+      "reference_style": "修仙特效",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP11-S009",
+    "chapter_number": 11,
+    "scene_number": 6,
+    "duration": 6,
+    "shot_type": "远景",
+    "location": "魔教总坛",
+    "time_of_day": "夜晚",
+    "composition": {
+      "camera_position": "俯视",
+      "camera_movement": "缓慢下降",
+      "framing": "中心构图",
+      "focus_type": "全景清晰"
+    },
+    "characters": [
+      {
+        "name": "魔教右使",
+        "position": "画面中央大殿",
+        "action": "听取汇报,面露疑惑",
+        "expression": "疑惑,沉思",
+        "costume": "华贵黑袍",
+        "props": "权杖"
+      },
+      {
+        "name": "影煞",
+        "position": "右使面前",
+        "action": "跪地汇报",
+        "expression": "恭敬",
+        "costume": "黑衣夜行衣"
+      }
+    ],
+    "visual_effects": {
+      "environment": "魔教总坛大殿,阴森华贵",
+      "lighting": "幽暗火把,魔气缭绕",
+      "color_palette": "冷色调,紫黑色",
+      "special_effects": "魔教图腾闪烁"
+    },
+    "audio": {
+      "dialogue": "已经恢复元婴修为了?这么快?难道...天魔大人找到了更快的恢复方法?",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "阴森,压抑",
+      "sound_effects": ["大殿回声"],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "淡出",
+      "pacing": "中等",
+      "purpose": "展现魔教反应,埋下后续伏笔"
+    },
+    "notes": {
+      "production_note": "实景+特效",
+      "reference_style": "传统魔教场景",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP11-S010",
+    "chapter_number": 11,
+    "scene_number": 7,
+    "duration": 8,
+    "shot_type": "中景",
+    "location": "青云宗外门弟子房",
+    "time_of_day": "深夜",
+    "composition": {
+      "camera_position": "侧面拍摄",
+      "camera_movement": "轻微摇摄",
+      "framing": "三分法",
+      "focus_type": "主体清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "画面中央",
+        "action": "练习化影诀,同时研究天魔剑",
+        "expression": "认真,发愁",
+        "costume": "粗布麻衣",
+        "props": "天魔剑"
+      }
+    ],
+    "visual_effects": {
+      "environment": "木屋内景",
+      "lighting": "昏暗油灯",
+      "color_palette": "暖色调",
+      "special_effects": "天魔剑微光,化影诀偶尔触发"
+    },
+    "audio": {
+      "dialogue": "",
+      "narration": "",
+      "internal_monologue": "这功法好是好,就是耗灵石太快了...得想办法搞钱买更多特效灵石啊!",
+      "background_music": "轻快幽默",
+      "sound_effects": [],
+      "volume_level": "内心独白为主"
+    },
+    "editing": {
+      "transition_to_next": "淡出",
+      "pacing": "舒缓",
+      "purpose": "收尾,留下悬念"
+    },
+    "notes": {
+      "production_note": "实景拍摄",
+      "reference_style": "轻松幽默",
+      "difficulty_level": "简单"
+    }
+  }
+]

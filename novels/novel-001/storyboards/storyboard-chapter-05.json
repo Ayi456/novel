@@ -1,0 +1,263 @@
+[
+  {
+    "shot_id": "EP05-S001",
+    "chapter_number": 5,
+    "scene_number": 1,
+    "duration": 7,
+    "shot_type": "全景",
+    "location": "青云宗山门",
+    "time_of_day": "上午",
+    "composition": {
+      "camera_position": "山门外拍摄",
+      "camera_movement": "缓慢推近",
+      "framing": "广角构图",
+      "focus_type": "整体清晰"
+    },
+    "characters": [
+      {
+        "name": "各大宗门使者",
+        "position": "山门外,齐集",
+        "action": "联名上书,要求分享",
+        "expression": "期待 → 贪婪",
+        "costume": "各宗服饰"
+      },
+      {
+        "name": "顾玄",
+        "position": "山门内,应对",
+        "action": "淡定应对",
+        "expression": "表面淡定",
+        "costume": "粗布麻衣"
+      }
+    ],
+    "visual_effects": {
+      "environment": "山门前人山人海",
+      "lighting": "明亮日光",
+      "color_palette": "热闹色调",
+      "special_effects": "无"
+    },
+    "audio": {
+      "dialogue": "众使者: '顾宗师！特效之法乃无上之宝！应当共享！'",
+      "narration": "",
+      "internal_monologue": "顾玄: 共享你大爷！",
+      "background_music": "紧张带幽默",
+      "sound_effects": ["嘈杂人声"],
+      "volume_level": "人声突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "紧张",
+      "purpose": "引入外部压力"
+    },
+    "notes": {
+      "production_note": "营造压迫感",
+      "reference_style": "仙侠场面",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP05-S002",
+    "chapter_number": 5,
+    "scene_number": 2,
+    "duration": 6,
+    "shot_type": "中景",
+    "location": "青云宗密室",
+    "time_of_day": "午后",
+    "composition": {
+      "camera_position": "密室内拍摄",
+      "camera_movement": "固定镜头",
+      "framing": "双人构图",
+      "focus_type": "两人清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "画面左侧",
+        "action": "查看系统,思考对策",
+        "expression": "担忧 → 坚定",
+        "costume": "粗布麻衣"
+      },
+      {
+        "name": "李道玄",
+        "position": "画面右侧",
+        "action": "担忧宗门未来",
+        "expression": "忧虑",
+        "costume": "掌门袍"
+      }
+    ],
+    "visual_effects": {
+      "environment": "密室内",
+      "lighting": "昏暗灯光",
+      "color_palette": "压抑色调",
+      "special_effects": "系统界面浮现在顾玄眼前"
+    },
+    "audio": {
+      "dialogue": "李道玄: '徒儿,各大宗门步步紧逼,我们该如何是好？'",
+      "narration": "",
+      "internal_monologue": "顾玄: 得搞点真东西出来了...",
+      "background_music": "压抑带思考",
+      "sound_effects": [],
+      "volume_level": "对话清晰"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "压抑",
+      "purpose": "展现困境"
+    },
+    "notes": {
+      "production_note": "注重氛围",
+      "reference_style": "紧张场景",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP05-S003",
+    "chapter_number": 5,
+    "scene_number": 3,
+    "duration": 8,
+    "shot_type": "特效特写",
+    "location": "青云宗后山",
+    "time_of_day": "夜晚",
+    "composition": {
+      "camera_position": "环绕拍摄",
+      "camera_movement": "快速环绕",
+      "framing": "动态构图",
+      "focus_type": "特效突出"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "画面中央",
+        "action": "尝试突破,天魔之力躁动",
+        "expression": "痛苦 → 坚定",
+        "costume": "粗布麻衣"
+      }
+    ],
+    "visual_effects": {
+      "environment": "后山夜空",
+      "lighting": "月光+异色光芒",
+      "color_palette": "神秘色调",
+      "special_effects": "天魔之力躁动,黑金双色光芒交织,恐怖威压引发天地异象"
+    },
+    "audio": {
+      "dialogue": "",
+      "narration": "",
+      "internal_monologue": "该死！天魔之力又失控了！",
+      "background_music": "紧张震撼",
+      "sound_effects": ["能量涌动", "系统警告音"],
+      "volume_level": "紧张氛围"
+    },
+    "editing": {
+      "transition_to_next": "快速切",
+      "pacing": "紧张",
+      "purpose": "天魔之力异动"
+    },
+    "notes": {
+      "production_note": "大量特效",
+      "reference_style": "仙侠突破",
+      "difficulty_level": "复杂"
+    }
+  },
+  {
+    "shot_id": "EP05-S004",
+    "chapter_number": 5,
+    "scene_number": 4,
+    "duration": 7,
+    "shot_type": "全景",
+    "location": "青云宗演武场",
+    "time_of_day": "次日清晨",
+    "composition": {
+      "camera_position": "高角度俯拍",
+      "camera_movement": "缓慢推近",
+      "framing": "大场面",
+      "focus_type": "整体清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "演武场中央",
+        "action": "向各大宗门展示",
+        "expression": "自信(勉强)",
+        "costume": "粗布麻衣"
+      },
+      {
+        "name": "各大宗门代表",
+        "position": "四周围观",
+        "action": "屏息凝神观看",
+        "expression": "好奇 → 震撼",
+        "costume": "各宗服饰"
+      }
+    ],
+    "visual_effects": {
+      "environment": "演武场,人山人海",
+      "lighting": "晨光+特效光",
+      "color_palette": "明亮+特效色",
+      "special_effects": "顾玄展示特效修炼法,金光大盛,震撼全场"
+    },
+    "audio": {
+      "dialogue": "顾玄: '此乃特效修炼法,可快速提升修为！'",
+      "narration": "",
+      "internal_monologue": "快信啊！不然露馅了！",
+      "background_music": "震撼恢弘",
+      "sound_effects": ["金光爆发", "全场惊呼"],
+      "volume_level": "震撼突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "震撼",
+      "purpose": "展示实力,震慑各方"
+    },
+    "notes": {
+      "production_note": "大场面制作",
+      "reference_style": "仙侠展示",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP05-S005",
+    "chapter_number": 5,
+    "scene_number": 5,
+    "duration": 8,
+    "shot_type": "全景",
+    "location": "青云宗",
+    "time_of_day": "黄昏",
+    "composition": {
+      "camera_position": "远景拍摄",
+      "camera_movement": "缓慢拉远",
+      "framing": "广角",
+      "focus_type": "全景清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "后山山顶",
+        "action": "独自思索未来",
+        "expression": "忧虑 → 坚定",
+        "costume": "粗布麻衣"
+      }
+    ],
+    "visual_effects": {
+      "environment": "夕阳西下,青云宗全景",
+      "lighting": "黄昏金光",
+      "color_palette": "温暖色调",
+      "special_effects": "无"
+    },
+    "audio": {
+      "dialogue": "",
+      "narration": "风波暂平,但顾玄知道,这只是开始...",
+      "internal_monologue": "特效总有耗尽的一天,我得想办法...",
+      "background_music": "悠扬带忧虑",
+      "sound_effects": [],
+      "volume_level": "音乐为主"
+    },
+    "editing": {
+      "transition_to_next": "淡出",
+      "pacing": "舒缓",
+      "purpose": "章节收尾,为后续埋伏笔"
+    },
+    "notes": {
+      "production_note": "收尾场景",
+      "reference_style": "场景转场",
+      "difficulty_level": "简单"
+    }
+  }
+]

@@ -1,0 +1,277 @@
+[
+  {
+    "shot_id": "EP22-S001",
+    "chapter_number": 22,
+    "scene_number": 1,
+    "duration": 8,
+    "shot_type": "全景",
+    "location": "废弃世界Z-75",
+    "time_of_day": "无",
+    "composition": {
+      "camera_position": "快速移动",
+      "camera_movement": "跟随拍摄",
+      "framing": "动态构图",
+      "focus_type": "场景清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "快速移动",
+        "action": "听到尖叫,传送过去",
+        "expression": "警惕,震惊",
+        "costume": "白衣"
+      },
+      {
+        "name": "幸存者",
+        "position": "被追赶",
+        "action": "被活化的家具追赶",
+        "expression": "惊恐",
+        "costume": "褴褛衣衫"
+      },
+      {
+        "name": "活化家具",
+        "position": "追赶中",
+        "action": "长腿走动,挥舞刀叉",
+        "expression": "无",
+        "costume": "木制家具"
+      }
+    ],
+    "visual_effects": {
+      "environment": "城市废墟",
+      "lighting": "昏暗光线",
+      "color_palette": "混乱色调",
+      "special_effects": "桌子椅子长腿,规则混乱,顾玄秩序之力修正,家具散架"
+    },
+    "audio": {
+      "dialogue": "是'大混乱'!一切都疯了!桌子椅子会杀人!天空会掉糖果但能吃死人!连时间都是乱的! 规则修正:此地禁止物品活化。 路过的管理员。这里发生了什么? 你...你能修复规则? 略懂一二。",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "紧张带荒诞",
+      "sound_effects": ["家具咔哒声", "幸存者尖叫"],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "快速",
+      "purpose": "展现混乱世界"
+    },
+    "notes": {
+      "production_note": "需要CG制作活化家具",
+      "reference_style": "荒诞风格",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP22-S002",
+    "chapter_number": 22,
+    "scene_number": 2,
+    "duration": 10,
+    "shot_type": "全景",
+    "location": "地下避难所",
+    "time_of_day": "无",
+    "composition": {
+      "camera_position": "环绕拍摄",
+      "camera_movement": "快速环绕",
+      "framing": "全景构图",
+      "focus_type": "场景清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "避难所",
+        "action": "查看世界核心,尝试修复",
+        "expression": "凝重,决断",
+        "costume": "白衣"
+      },
+      {
+        "name": "幸存者们",
+        "position": "周围",
+        "action": "惊恐躲避混乱兽",
+        "expression": "惊恐",
+        "costume": "褴褛衣衫"
+      },
+      {
+        "name": "混乱兽",
+        "position": "入侵中",
+        "action": "不断变化形态,扭曲规则",
+        "expression": "狞笑",
+        "costume": "混沌物质"
+      }
+    ],
+    "visual_effects": {
+      "environment": "避难所,祭坛,黯淡水晶",
+      "lighting": "水晶微光,混乱光芒",
+      "color_palette": "恐怖色调",
+      "special_effects": "世界核心布满黑色裂纹,混乱兽无固定形态,规则扭曲,顾玄购买规则重置,白光扩散净化"
+    },
+    "audio": {
+      "dialogue": "世界核心:严重污染,状态:濒临崩溃,救救我...它们要来了... 系统有没有针对性的解决方案?购买'规则重置'套餐,用世界本源支付! 交易确认...规则重置程序启动! 检测到污染源头:地底深处,建议:彻底清除!",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "紧张,震撼",
+      "sound_effects": ["混乱兽尖笑", "净化声", "系统提示"],
+      "volume_level": "音效突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "快速",
+      "purpose": "净化场景"
+    },
+    "notes": {
+      "production_note": "需要大量CG特效",
+      "reference_style": "净化场景",
+      "difficulty_level": "复杂"
+    }
+  },
+  {
+    "shot_id": "EP22-S003",
+    "chapter_number": 22,
+    "scene_number": 3,
+    "duration": 10,
+    "shot_type": "全景",
+    "location": "地下空洞",
+    "time_of_day": "无",
+    "composition": {
+      "camera_position": "环绕拍摄",
+      "camera_movement": "快速环绕",
+      "framing": "动态构图",
+      "focus_type": "战斗场景突出"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "空洞中",
+        "action": "对抗叛乱管理员(服务器)",
+        "expression": "认真,愤怒",
+        "costume": "白衣",
+        "props": "天魔剑"
+      },
+      {
+        "name": "叛乱管理员",
+        "position": "服务器",
+        "action": "屏幕显示文字,变成金属人形",
+        "expression": "狂热",
+        "costume": "金属身体"
+      }
+    ],
+    "visual_effects": {
+      "environment": "巨大地下空洞,中央服务器",
+      "lighting": "屏幕乱码闪烁",
+      "color_palette": "科技色调",
+      "special_effects": "服务器显示文字,物理攻击无效,规则修改,顾玄使用规则兼容性补丁,规则附加攻击,金属人形被砍得七零八落"
+    },
+    "audio": {
+      "dialogue": "你终于来了...管理员大人...看到我的杰作了吗?多么美丽的混乱... 叛乱?不!这是进化!打破僵化的秩序,拥抱自由的混沌! 把世界毁灭叫进化? 废话真多。物理攻击对我无效!在这里,规则由我制定! 规则修改:此地禁止秩序之力! 系统购买'规则兼容性补丁'!现在轮到我了!规则附加:此剑必中!伤害加倍!破防! 不可能!你怎么能在这里使用秩序规则?! 你赢了...但混沌终将吞噬一切...",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "战斗,激烈",
+      "sound_effects": ["服务器声", "规则对抗", "金属碰撞"],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "快速",
+      "purpose": "决战场景"
+    },
+    "notes": {
+      "production_note": "需要CG制作服务器和金属人",
+      "reference_style": "科幻战斗",
+      "difficulty_level": "复杂"
+    }
+  },
+  {
+    "shot_id": "EP22-S004",
+    "chapter_number": 22,
+    "scene_number": 4,
+    "duration": 10,
+    "shot_type": "全景",
+    "location": "地下空洞",
+    "time_of_day": "无",
+    "composition": {
+      "camera_position": "环绕拍摄",
+      "camera_movement": "快速环绕",
+      "framing": "动态构图",
+      "focus_type": "危机场景突出"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "空洞中",
+        "action": "查看主系统后台,被标记,紧急撤离",
+        "expression": "震惊,决绝",
+        "costume": "白衣"
+      },
+      {
+        "name": "幸存者们",
+        "position": "地面",
+        "action": "为世界得救欢呼",
+        "expression": "喜悦",
+        "costume": "褴褛衣衫"
+      }
+    ],
+    "visual_effects": {
+      "environment": "地下空洞,世界边缘消失",
+      "lighting": "删除光芒",
+      "color_palette": "恐怖色调",
+      "special_effects": "主系统后台界面,清理程序格式化整个试验场,顾玄接入应急点提升权限终止清理,被主系统标记为异常,世界得救"
+    },
+    "audio": {
+      "dialogue": "试验场Z-73:清理完成,异常管理员:顾玄(标记),威胁等级:高,派遣:清道夫部队! 检测到未授权访问!执行清理程序:试验场Z-75,倒计时:10:00! 系统取消清理程序!申请临时最高权限!立即停止清理程序! 检测到非法操作detected...开始追踪来源...已被主系统标记为'异常',建议:立即离开当前世界! 谢谢您!您拯救了我们的世界! 危机还没完全解除。我必须离开,但会留下一些东西帮你们重建。",
+      "narration": "",
+      "internal_monologue": "这下成通缉犯了...",
+      "background_music": "紧张,震撼转为温馨",
+      "sound_effects": ["系统警报", "删除声", "世界崩塌"],
+      "volume_level": "系统音突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "快速",
+      "purpose": "逃亡与告别"
+    },
+    "notes": {
+      "production_note": "需要大量CG特效",
+      "reference_style": "史诗场景",
+      "difficulty_level": "复杂"
+    }
+  },
+  {
+    "shot_id": "EP22-S005",
+    "chapter_number": 22,
+    "scene_number": 5,
+    "duration": 7,
+    "shot_type": "特写",
+    "location": "世界跳跃中",
+    "time_of_day": "无",
+    "composition": {
+      "camera_position": "跳跃隧道",
+      "camera_movement": "快速移动",
+      "framing": "中心构图",
+      "focus_type": "信息清晰"
+    },
+    "characters": [],
+    "visual_effects": {
+      "environment": "时空跳跃隧道",
+      "lighting": "星光流转",
+      "color_palette": "梦幻色调",
+      "special_effects": "跳跃坐标被修改,新目的地:试验场Z-74(高能量反应),收到神秘信息"
+    },
+    "audio": {
+      "dialogue": "想知道真相吗?来找我...在世界的尽头...小心主系统...它在监视...",
+      "narration": "",
+      "internal_monologue": "看来...有'人'在故意引我去某些地方...",
+      "background_music": "神秘,悬疑",
+      "sound_effects": ["信息提示音"],
+      "volume_level": "信息突出"
+    },
+    "editing": {
+      "transition_to_next": "淡出",
+      "pacing": "中等",
+      "purpose": "留下悬念"
+    },
+    "notes": {
+      "production_note": "需要CG制作跳跃效果",
+      "reference_style": "悬疑场景",
+      "difficulty_level": "中等"
+    }
+  }
+]

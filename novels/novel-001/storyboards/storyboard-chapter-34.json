@@ -1,0 +1,278 @@
+[
+  {
+    "shot_id": "EP34-S001",
+    "chapter_number": 34,
+    "scene_number": 1,
+    "duration": 11,
+    "shot_type": "全景",
+    "location": "全宇宙文明大会",
+    "time_of_day": "无",
+    "composition": {
+      "camera_position": "宏大场景",
+      "camera_movement": "缓慢扫视",
+      "framing": "史诗构图",
+      "focus_type": "众生态清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "大会主持",
+        "action": "演讲,布置任务",
+        "expression": "庄重",
+        "costume": "管理者长袍"
+      },
+      {
+        "name": "各文明代表",
+        "position": "大会各处",
+        "action": "聆听,提问",
+        "expression": "各异",
+        "costume": "各种形态"
+      }
+    ],
+    "visual_effects": {
+      "environment": "维度间隙特殊空间",
+      "lighting": "宇宙光芒",
+      "color_palette": "绚丽多彩",
+      "special_effects": "容纳所有形态生命,全息屏展示文明指数72分、通过标准90分、剩余时间99年"
+    },
+    "audio": {
+      "dialogue": "各位,大过滤器不是灾难,而是宇宙的'升学考试'。具体考什么?是否有模拟试题?咕噜(能补考吗)?考核三个方面:文明协作度、规则理解度、以及...创造力。成立'宇宙备考委员会',开始特训!",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "庄重带希望",
+      "sound_effects": ["众生态议论声"],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "中等",
+      "purpose": "建立备考主题"
+    },
+    "notes": {
+      "production_note": "宏大场景+CG",
+      "reference_style": "史诗备考",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP34-S002",
+    "chapter_number": 34,
+    "scene_number": 2,
+    "duration": 10,
+    "shot_type": "蒙太奇",
+    "location": "宇宙各处",
+    "time_of_day": "多时段",
+    "composition": {
+      "camera_position": "多地点教学",
+      "camera_movement": "快速切换",
+      "framing": "教学构图",
+      "focus_type": "教学场景清晰"
+    },
+    "characters": [
+      {
+        "name": "各文明学生",
+        "position": "各处学习",
+        "action": "学习,协作",
+        "expression": "困惑→顿悟",
+        "costume": "各异"
+      },
+      {
+        "name": "顾玄及教师团",
+        "position": "教学",
+        "action": "教学,调解",
+        "expression": "无奈,欣慰",
+        "costume": "各异"
+      }
+    ],
+    "visual_effects": {
+      "environment": "宇宙学习场景",
+      "lighting": "教学光芒",
+      "color_palette": "多彩学习",
+      "special_effects": "第一课协作乱子,第二课规则理解混乱,第三课创造力发明,模拟考规则变化"
+    },
+    "audio": {
+      "dialogue": "协作期间禁止过敏反应!1+1=蘑菇?蘑菇拒绝考试!文明交换生计划...魔法计算机、APP咒语、会发光蘑菇路灯...偏科不行!全面发展!模拟考:金属变棉花糖、时间倒流、蘑菇人变聪明",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "欢乐学习",
+      "sound_effects": ["教学声", "发明声"],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "快速切",
+      "pacing": "快速",
+      "purpose": "学习蒙太奇"
+    },
+    "notes": {
+      "production_note": "多场景",
+      "reference_style": "欢乐学习",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP34-S003",
+    "chapter_number": 34,
+    "scene_number": 3,
+    "duration": 11,
+    "shot_type": "中景",
+    "location": "宇宙某处",
+    "time_of_day": "无",
+    "composition": {
+      "camera_position": "对抗构图",
+      "camera_movement": "快速切换",
+      "framing": "战斗构图",
+      "focus_type": "对抗清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄及各文明",
+        "position": "联合对抗",
+        "action": "对抗抵抗军",
+        "expression": "坚定",
+        "costume": "各异"
+      },
+      {
+        "name": "复制体零残党",
+        "position": "对立面",
+        "action": "破坏,攻击",
+        "expression": "狂热",
+        "costume": "抵抗军形态"
+      }
+    ],
+    "visual_effects": {
+      "environment": "抵抗军据点",
+      "lighting": "对抗光芒",
+      "color_palette": "高对比度",
+      "special_effects": "抵抗军用魔法病毒黑客攻击,教科书掺假1+1=3,试图偷遗物,顾玄苦战,各文明支援,围困抵抗军"
+    },
+    "audio": {
+      "dialogue": "又是你!过滤器会毁灭所有文明!只有抵抗才能生存!但那也是我们自己选择的路。此乃众生之志!小心...监考者...检测到'反文明势力'!复制体零的残党!过滤器抵抗军!你们都被骗了!通过过滤器只会成为更高级文明的养料!",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "激烈对抗",
+      "sound_effects": ["战斗声", "净化声"],
+      "volume_level": "音效突出"
+    },
+    "editing": {
+      "transition_to_next": "快速切",
+      "pacing": "极快",
+      "purpose": "对抗高潮"
+    },
+    "notes": {
+      "production_note": "战斗+特效",
+      "reference_style": "激烈对抗",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP34-S004",
+    "chapter_number": 34,
+    "scene_number": 4,
+    "duration": 12,
+    "shot_type": "特效全景",
+    "location": "宇宙-监考者出现",
+    "time_of_day": "无",
+    "composition": {
+      "camera_position": "宇宙视角",
+      "camera_movement": "宏大运动",
+      "framing": "震撼构图",
+      "focus_type": "监考者清晰"
+    },
+    "characters": [
+      {
+        "name": "监考者",
+        "position": "宇宙各处",
+        "action": "出题,评分",
+        "expression": "无表情",
+        "costume": "巨大结构体"
+      },
+      {
+        "name": "各文明",
+        "position": "宇宙中",
+        "action": "应对考试",
+        "expression": "紧张,协作",
+        "costume": "各异"
+      }
+    ],
+    "visual_effects": {
+      "environment": "宇宙震动",
+      "lighting": "考试光芒",
+      "color_palette": "高对比度",
+      "special_effects": "巨大结构体出现,维度震荡,规则崩溃,文明协作应对,恒星变答题板,黑洞变错题本,资源危机能量枯竭,证明存在展示"
+    },
+    "audio": {
+      "dialogue": "预考开始。应对维度震荡!协作度85分!规则运用80分!创造力70分!应对资源危机!效率75分!可持续性80分!创新性90分!证明你们值得存在!存在无需证明。我们选择共同前行,这就是意义。文明指数89分,差1分通过!梦想机器...+1分创造力!最终分90分,通过!恭喜通过预考。百年后正式考试,请继续努力",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "史诗考试",
+      "sound_effects": ["宇宙震动", "评分声"],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "光芒转场",
+      "pacing": "宏大",
+      "purpose": "预考高潮"
+    },
+    "notes": {
+      "production_note": "大量CG特效",
+      "reference_style": "史诗级考试",
+      "difficulty_level": "非常复杂"
+    }
+  },
+  {
+    "shot_id": "EP34-S005",
+    "chapter_number": 34,
+    "scene_number": 5,
+    "duration": 9,
+    "shot_type": "远景",
+    "location": "宇宙-庆祝",
+    "time_of_day": "无",
+    "composition": {
+      "camera_position": "宇宙视角",
+      "camera_movement": "缓慢拉远",
+      "framing": "庆祝构图",
+      "focus_type": "庆祝清晰"
+    },
+    "characters": [
+      {
+        "name": "各文明",
+        "position": "宇宙各处",
+        "action": "欢呼庆祝",
+        "expression": "狂喜",
+        "costume": "各异"
+      },
+      {
+        "name": "顾玄",
+        "position": "观察",
+        "action": "欣慰微笑",
+        "expression": "欣慰,警觉",
+        "costume": "管理者长袍"
+      }
+    ],
+    "visual_effects": {
+      "environment": "庆祝的宇宙",
+      "lighting": "庆祝光芒",
+      "color_palette": "绚丽多彩",
+      "special_effects": "宇宙沸腾,各文明欢呼,小浩梦想机器,顾玄欣慰笑容"
+    },
+    {
+      "audio": {
+        "dialogue": "虽然前路漫长,但至少...他们正在正确的道路上。这还只是预考,正式大过滤器还在后面!宇宙沸腾了!他们真的做到了!通过只是开始。真正的挑战在过滤器之外...",
+        "narration": "",
+        "internal_monologue": "",
+        "background_music": "欢乐史诗",
+        "sound_effects": ["欢呼"],
+        "volume_level": "对话突出"
+      },
+      "editing": {
+        "transition_to_next": "淡出",
+        "pacing": "舒缓",
+        "purpose": "欢乐结尾+延续"
+      },
+      "notes": {
+        "production_note": "宏大场景",
+        "reference_style": "欢乐史诗",
+        "difficulty_level": "中等"
+      }
+    }
+  ]

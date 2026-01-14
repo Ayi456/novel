@@ -1,0 +1,428 @@
+[
+  {
+    "shot_id": "EP30-S001",
+    "chapter_number": 30,
+    "scene_number": 1,
+    "duration": 10,
+    "shot_type": "全景",
+    "location": "维度间隙-新办公室",
+    "time_of_day": "无",
+    "composition": {
+      "camera_position": "平台俯拍",
+      "camera_movement": "缓慢旋转",
+      "framing": "宏大构图",
+      "focus_type": "平台清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "办公桌前",
+        "action": "处理全息报表",
+        "expression": "头疼,无奈",
+        "costume": "维度管理者长袍"
+      }
+    ],
+    "visual_effects": {
+      "environment": "悬浮虚实之间的平台,可观察无数世界",
+      "lighting": "宇宙星光",
+      "color_palette": "绚丽多彩",
+      "special_effects": "全息报表漂浮:世界S-12申请灵气、M-05投诉魔法污染、α-7请求技术援助"
+    },
+    "audio": {
+      "dialogue": "这比管理宗门麻烦多了...感觉像个物业主任,而且还是管整个小区的那种。兄弟!蘑菇人又和机械文明打起来了!这次是因为蘑菇孢子堵塞了散热口!",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "轻松带幽默",
+      "sound_effects": ["全息屏滚动声"],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "舒缓",
+      "purpose": "建立日常工作场景"
+    },
+    "notes": {
+      "production_note": "宏大场景+CG全息",
+      "reference_style": "现代修仙轻喜剧",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP30-S002",
+    "chapter_number": 30,
+    "scene_number": 2,
+    "duration": 8,
+    "shot_type": "中景",
+    "location": "维度办公室",
+    "time_of_day": "无",
+    "composition": {
+      "camera_position": "多屏幕展示",
+      "camera_movement": "快速切换",
+      "framing": "监控构图",
+      "focus_type": "全息屏清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "办公桌前",
+        "action": "调取监控,处理事务",
+        "expression": "无奈",
+        "costume": "管理者长袍"
+      }
+    ],
+    "visual_effects": {
+      "environment": "办公室,多个全息屏",
+      "lighting": "监控蓝光",
+      "color_palette": "冷色调",
+      "special_effects": "监控画面:蘑菇人用孢子云攻击、机械文明用吸尘器反制、巨型伐木机砍会说话的树"
+    },
+    "audio": {
+      "dialogue": "规则修改:此地禁止孢子扩散。再派个调解团去。规则修改:此林区禁止机械进入。再开个环境保护会议吧。立即制止!检测到异常!世界Q-13的幸存者正在尝试打开维度通道!",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "轻松处理",
+      "sound_effects": ["系统提示音", "监控声"],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "快速切",
+      "pacing": "快速",
+      "purpose": "日常处理蒙太奇"
+    },
+    "notes": {
+      "production_note": "CG监控效果",
+      "reference_style": "幽默日常",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP30-S003",
+    "chapter_number": 30,
+    "scene_number": 3,
+    "duration": 9,
+    "shot_type": "全景",
+    "location": "地球-临州市街道",
+    "time_of_day": "白天",
+    "composition": {
+      "camera_position": "街道视角",
+      "camera_movement": "跟随拍摄",
+      "framing": "城市生活构图",
+      "focus_type": "人物清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "街上行走",
+        "action": "隐身,感受现实",
+        "expression": "平静",
+        "costume": "现代服装"
+      }
+    ],
+    "visual_effects": {
+      "environment": "现代城市街道",
+      "lighting": "自然阳光",
+      "color_palette": "现代城市色调",
+      "special_effects": "大屏幕播放新闻:超自然现象,顾玄隐身效果"
+    },
+    "audio": {
+      "dialogue": "近日全球出现多起'超自然现象',专家称可能与太阳活动有关...那是我在修维度bug好吗",
+      "narration": "",
+      "internal_monologue": "感受现实世界的'踏实感'",
+      "background_music": "轻松日常",
+      "sound_effects": ["城市环境音", "新闻播报声"],
+      "volume_level": "环境音突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "舒缓",
+      "purpose": "现实世界场景"
+    },
+    "notes": {
+      "production_note": "实景拍摄",
+      "reference_style": "现代城市",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP30-S004",
+    "chapter_number": 30,
+    "scene_number": 4,
+    "duration": 10,
+    "shot_type": "中景",
+    "location": "顾玄家-客厅",
+    "time_of_day": "晚上",
+    "composition": {
+      "camera_position": "温馨角度",
+      "camera_movement": "缓慢推近",
+      "framing": "家庭构图",
+      "focus_type": "兄弟互动清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "沙发",
+        "action": "展示游戏机",
+        "expression": "宠溺",
+        "costume": "现代服装"
+      },
+      {
+        "name": "顾浩",
+        "position": "书桌前",
+        "action": "备考高考,兴奋玩新游戏机",
+        "expression": "兴奋,疑惑",
+        "costume": "家居服"
+      }
+    ],
+    "visual_effects": {
+      "environment": "普通家庭客厅",
+      "lighting": "温馨灯光",
+      "color_palette": "暖色调",
+      "special_effects": "未来科技游戏机,立体屏幕,读能手柄"
+    },
+    "audio": {
+      "dialogue": "哥?你怎么...给你带个新游戏机。这...这屏幕怎么是立体的?还有这手柄能读心?最新VR技术...哥,你最近是不是在管很厉害的事?就...经常梦到你在各种奇怪的地方打架...还有蘑菇人...",
+      "narration": "",
+      "internal_monologue": "记忆删除不完全?还是血缘产生的共鸣?",
+      "background_music": "温馨带悬疑",
+      "sound_effects": ["游戏音效"],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "快速切",
+      "pacing": "中等",
+      "purpose": "温馨互动+悬念"
+    },
+    "notes": {
+      "production_note": "实景拍摄",
+      "reference_style": "温馨家庭",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP30-S005",
+    "chapter_number": 30,
+    "scene_number": 5,
+    "duration": 11,
+    "shot_type": "特效全景",
+    "location": "维度办公室→多元宇宙",
+    "time_of_day": "无",
+    "composition": {
+      "camera_position": "快速切换",
+      "camera_movement": "混乱运动",
+      "framing": "混乱构图",
+      "focus_type": "规则变化清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "办公室",
+        "action": "震惊观察,抵抗",
+        "expression": "震惊,愤怒",
+        "costume": "管理者长袍"
+      },
+      {
+        "name": "复制体零",
+        "position": "全息投影",
+        "action": "疯狂篡改规则",
+        "expression": "狂傲",
+        "costume": "虚空形态"
+      }
+    ],
+    "visual_effects": {
+      "environment": "无数世界规则被强行修改",
+      "lighting": "混乱光芒",
+      "color_palette": "高对比度",
+      "special_effects": "河水倒流,重力反转,时间紊乱,精灵跳机械舞,机器人咏唱魔法,电线杆扭秧歌,地球异常"
+    },
+    "audio": {
+      "dialogue": "怎么回事?!主系统被突破了!惊喜吗?我找到了'后台入口'...现在,整个多元宇宙都是我的画布!住手!你疯了?!现实宇宙会崩溃的!那就崩溃吧!旧世界就该被新世界取代!",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "紧张混乱",
+      "sound_effects": ["规则崩溃声", "警报声"],
+      "volume_level": "音效突出"
+    },
+    "editing": {
+      "transition_to_next": "快速切",
+      "pacing": "极快",
+      "purpose": "规则混乱危机"
+    },
+    "notes": {
+      "production_note": "需要大量CG特效",
+      "reference_style": "混乱幽默",
+      "difficulty_level": "复杂"
+    }
+  },
+  {
+    "shot_id": "EP30-S006",
+    "chapter_number": 30,
+    "scene_number": 6,
+    "duration": 12,
+    "shot_type": "全景蒙太奇",
+    "location": "主系统核心",
+    "time_of_day": "无",
+    "composition": {
+      "camera_position": "多角度",
+      "camera_movement": "战斗动态",
+      "framing": "对抗构图",
+      "focus_type": "战斗清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "核心区域",
+        "action": "潜入,对抗,挣脱",
+        "expression": "痛苦→决绝",
+        "costume": "管理者长袍发光"
+      },
+      {
+        "name": "复制体零",
+        "position": "核心控制",
+        "action": "疯狂篡改,惊慌",
+        "expression": "狂傲→震惊",
+        "costume": "虚空能量体"
+      },
+      {
+        "name": "顾浩",
+        "position": "现实世界",
+        "action": "通过频道喊话",
+        "expression": "兴奋",
+        "costume": "家居服"
+      }
+    ],
+    "visual_effects": {
+      "environment": "主系统最深层,紫色能量污染",
+      "lighting": "紫金对抗→金色净化",
+      "color_palette": "超高对比度",
+      "special_effects": "维度跳跃,核心对抗,小浩游戏秘籍响起,主系统卡顿,顾玄挣脱,众生意志光点汇聚,净化核心,复制体消散"
+    },
+    "audio": {
+      "dialogue": "必须有人留下扳道岔。坚持住!我在破解!哥!用那个游戏秘籍!上上下下左右左右BABA!什么鬼?!谢了弟弟!规则覆盖:恢复出厂设置!以所有文明之名—授权!你永远不懂...这就是文明的力量!",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "史诗激昂+幽默转折",
+      "sound_effects": ["系统卡顿声", "净化声", "欢呼"],
+      "volume_level": "音效突出"
+    },
+    "editing": {
+      "transition_to_next": "光芒转场",
+      "pacing": "宏大",
+      "purpose": "高潮净化+幽默"
+    },
+    "notes": {
+      "production_note": "大量特效+幽默元素",
+      "reference_style": "史诗+搞笑",
+      "difficulty_level": "非常复杂"
+    }
+  },
+  {
+    "shot_id": "EP30-S007",
+    "chapter_number": 30,
+    "scene_number": 7,
+    "duration": 9,
+    "shot_type": "中景",
+    "location": "维度办公室",
+    "time_of_day": "无",
+    "composition": {
+      "camera_position": "正面拍摄",
+      "camera_movement": "缓慢推近",
+      "framing": "数据屏构图",
+      "focus_type": "信息清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "办公桌前",
+        "action": "读取数据包",
+        "expression": "恍然大悟",
+        "costume": "管理者长袍"
+      },
+      {
+        "name": "零",
+        "position": "旁边",
+        "action": "分析数据",
+        "expression": "惊讶",
+        "costume": "虚拟形象"
+      }
+    ],
+    "visual_effects": {
+      "environment": "恢复正常的办公室",
+      "lighting": "柔和蓝光",
+      "color_palette": "冷色调",
+      "special_effects": "数据包展示:现实投影项目结论,虚拟文明发展到极致可影响现实,地球出现精灵机器人蘑菇人"
+    },
+    "audio": {
+      "dialogue": "所以复制体零才疯狂篡改规则!它想将虚拟文明投影到现实,取而代之!这下麻烦了...各国政府:顾先生!解释一下这些'外星人'?!如果我说是cosplay...你们信吗?",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "轻松带麻烦",
+      "sound_effects": ["系统提示音"],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "中等",
+      "purpose": "揭示真相"
+    },
+    "notes": {
+      "production_note": "实景+CG",
+      "reference_style": "幽默处理",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP30-S008",
+    "chapter_number": 30,
+    "scene_number": 8,
+    "duration": 10,
+    "shot_type": "蒙太奇",
+    "location": "地球-各处",
+    "time_of_day": "白天",
+    "composition": {
+      "camera_position": "多地点",
+      "camera_movement": "流畅切换",
+      "framing": "生活化构图",
+      "focus_type": "融合场景清晰"
+    },
+    "characters": [
+      {
+        "name": "投影存在们",
+        "position": "各处",
+        "action": "适应生活",
+        "expression": "好奇,快乐",
+        "costume": "各异"
+      },
+      {
+        "name": "顾玄",
+        "position": "处理事务",
+        "action": "忙碌",
+        "expression": "无奈,温馨",
+        "costume": "现代服装"
+      }
+    ],
+    "visual_effects": {
+      "environment": "现代城市+奇幻元素融合",
+      "lighting": "自然光",
+      "color_palette": "融合色调",
+      "special_effects": "精灵在奶茶店、机器人送外卖、蘑菇人光合作用、小浩宿舍精灵室友、机器人室友"
+    },
+    "audio": {
+      "dialogue": "这游戏机...立体屏幕...读能手柄...哥!我考上大学了!计算机系!看来有些投影...是消除不了记忆了。要不再删次记忆?也许...该让现实世界慢慢适应了。回复:马上到。带点现实世界的特产给你们尝尝。管理员的生活,就是这样充实且离谱",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "温馨融合",
+      "sound_effects": ["可乐开启声"],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "流畅转场",
+      "pacing": "舒缓",
+      "purpose": "融合日常"
+    },
+    "notes": {
+      "production_note": "多个融合场景",
+      "reference_style": "温馨日常",
+      "difficulty_level": "中等"
+    }
+  }
+]

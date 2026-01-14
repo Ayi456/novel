@@ -1,0 +1,258 @@
+[
+  {
+    "shot_id": "EP23-S001",
+    "chapter_number": 23,
+    "scene_number": 1,
+    "duration": 7,
+    "shot_type": "全景",
+    "location": "天竞界浮空平台",
+    "time_of_day": "白天",
+    "composition": {
+      "camera_position": "高处俯拍",
+      "camera_movement": "环绕拍摄",
+      "framing": "全景构图",
+      "focus_type": "全景清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "浮空平台",
+        "action": "被修士攻击,轻松应对",
+        "expression": "淡定",
+        "costume": "白衣"
+      },
+      {
+        "name": "天竞界修士",
+        "position": "各浮台",
+        "action": "激烈战斗,修炼",
+        "expression": "狂热",
+        "costume": "各式修炼服"
+      }
+    ],
+    "visual_effects": {
+      "environment": "云海之上,无数浮台悬浮",
+      "lighting": "能量光芒闪烁",
+      "color_palette": "高能量色调",
+      "special_effects": "修士最低元婴期,化神炼虚随处可见,甚至大乘期在远处对决,法宝对轰剑气纵横"
+    },
+    "audio": {
+      "dialogue": "这什么神仙局?人均大佬啊! 兄弟连这都不知道?这里是'天竞界',以武为尊!看到那些浮台了吗?打赢就能往上爬!顶层的'天尊台'有莫大机缘! 最近有点不对劲...听说好些高手莫名其妙失踪! 生不见人死不见尸!",
+      "narration": "",
+      "internal_monologue": "这世界的人都这么会玩吗?想起主系统的'清理程序'...",
+      "background_music": "激烈,战斗",
+      "sound_effects": ["法宝轰鸣", "剑气破空"],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "快速",
+      "purpose": "天竞界展开"
+    },
+    "notes": {
+      "production_note": "需要大量CG特效",
+      "reference_style": "修仙战斗",
+      "difficulty_level": "复杂"
+    }
+  },
+  {
+    "shot_id": "EP23-S002",
+    "chapter_number": 23,
+    "scene_number": 2,
+    "duration": 8,
+    "shot_type": "中景",
+    "location": "天竞界队伍浮台",
+    "time_of_day": "白天",
+    "composition": {
+      "camera_position": "快速切换",
+      "camera_movement": "快速剪辑",
+      "framing": "中心构图",
+      "focus_type": "主体清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "浮台",
+        "action": "与队友切磋,被认可",
+        "expression": "认真",
+        "costume": "白衣"
+      },
+      {
+        "name": "战穹",
+        "position": "一旁",
+        "action": "爽朗大笑",
+        "expression": "豪爽",
+        "costume": "战袍"
+      },
+      {
+        "name": "剑痴",
+        "position": "切磋",
+        "action": "剑招对决",
+        "expression": "求败中",
+        "costume": "剑服"
+      },
+      {
+        "name": "赤炎",
+        "position": "实验法术",
+        "action": "搓火球",
+        "expression": "兴奋",
+        "costume": "法袍"
+      },
+      {
+        "name": "苏瑶",
+        "position": "观察",
+        "action": "皱眉查看",
+        "expression": "疑惑",
+        "costume": "医仙服"
+      }
+    ],
+    "visual_effects": {
+      "environment": "浮台场景",
+      "lighting": "切磋光芒",
+      "color_palette": "战斗色调",
+      "special_effects": "秩序之眼预判,各种法术剑气"
+    },
+    "audio": {
+      "dialogue": "兄弟可以!这次秘境稳了! 你身上...有股奇怪的气息。像是...被标记了? 可能最近修炼出了点岔子。 新来的?过两招? 你能看破我的剑?再来! 兄弟一起走! 不用,我有办法脱身!",
+      "narration": "",
+      "internal_monologue": "好敏锐的感知!",
+      "background_music": "轻快战斗",
+      "sound_effects": ["切磋声", "能量碰撞"],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "快速切",
+      "pacing": "快速",
+      "purpose": "组队蒙太奇"
+    },
+    "notes": {
+      "production_note": "多角色拍摄",
+      "reference_style": "团队场景",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP23-S003",
+    "chapter_number": 23,
+    "scene_number": 3,
+    "duration": 12,
+    "shot_type": "全景",
+    "location": "天地秘境迷宫",
+    "time_of_day": "无",
+    "composition": {
+      "camera_position": "环绕拍摄",
+      "camera_movement": "快速环绕",
+      "framing": "动态构图",
+      "focus_type": "战斗场景突出"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "迷宫中",
+        "action": "使用权限对抗清道夫,购买场景重置",
+        "expression": "决绝",
+        "costume": "白衣",
+        "props": "天魔剑"
+      },
+      {
+        "name": "清道夫",
+        "position": "攻击",
+        "action": "T-1000型号,释放金属巨人",
+        "expression": "冰冷",
+        "costume": "金属身体"
+      },
+      {
+        "name": "队友们",
+        "position": "抵抗",
+        "action": "结阵苦战",
+        "expression": "惊恐",
+        "costume": "各式服装"
+      }
+    ],
+    "visual_effects": {
+      "environment": "秘境迷宫",
+      "lighting": "警报红光",
+      "color_palette": "战斗色调",
+      "special_effects": "无数金属傀儡冒出,专门针对灵魂,区域规则被修改禁止权限能力,顾玄燃烧生命力突破压制,规则附加必灭傀儡,金属巨人T-1000出现,场景重置卷入清道夫"
+    },
+    "audio": {
+      "dialogue": "检测到异常个体...执行清理程序... 区域规则被修改:禁止权限能力! 是针对我的陷阱! 系统购买'场景重置'!所有能量,重置当前区域! 异常管理员,投降可格式化处理。 你们到底在隐藏什么?为什么屠杀试验场? 无关信息无需知晓。最后警告:投降。 兄弟一起走! 我是冲我来的!你们快走!我有办法脱身! 异常管理员,优先级提升...释放清道夫...T-1000型号,威胁等级:极高!",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "激烈战斗",
+      "sound_effects": ["傀儡攻击", "能量爆炸", "系统警报"],
+      "volume_level": "音效突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "快速",
+      "purpose": "高潮战斗"
+    },
+    "notes": {
+      "production_note": "需要大量CG特效",
+      "reference_style": "科幻战斗",
+      "difficulty_level": "复杂"
+    }
+  },
+  {
+    "shot_id": "EP23-S004",
+    "chapter_number": 23,
+    "scene_number": 4,
+    "duration": 10,
+    "shot_type": "全景",
+    "location": "避世桃源小世界",
+    "time_of_day": "无",
+    "composition": {
+      "camera_position": "环绕拍摄",
+      "camera_movement": "快速环绕",
+      "framing": "动态构图",
+      "focus_type": "战斗场景突出"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "小世界",
+        "action": "使用最终协议,对抗清道夫大军",
+        "expression": "决绝,力量爆发",
+        "costume": "白衣"
+      },
+      {
+        "name": "清道夫大军",
+        "position": "入侵",
+        "action": "撕裂天空涌入",
+        "expression": "无",
+        "costume": "金属身体"
+      },
+      {
+        "name": "幸存修士",
+        "position": "抵抗",
+        "action": "拼死抵抗",
+        "expression": "绝望",
+        "costume": "修炼服"
+      }
+    ],
+    "visual_effects": {
+      "environment": "避世桃源被撕裂",
+      "lighting": "战斗光芒",
+      "color_palette": "高对比度",
+      "special_effects": "清道夫大军涌入,顾玄启用最终协议获得9级权限,规则修改禁止清理程序关闭清道夫修复损伤,权限崩溃,清道夫主机上报最高系统等待仲裁"
+    },
+    "audio": {
+      "dialogue": "发现异常聚集点!执行净化! 你们连避难所都不放过?! 系统申请启用'最终协议'!最终协议:以管理员权限为代价,暂时获得主系统同级权限!警告:此操作可能导致权限永久丢失! 启用!规则修改:此地禁止清理程序!清道夫立即关机!修复所有损伤! 权限冲突...上报最高系统...等待仲裁... 快走...它们还会回来... 他'道基'在崩溃...除非找到'根源之海'...那就...成为天尊!",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "史诗,悲壮",
+      "sound_effects": ["能量爆发", "规则对抗", "系统提示"],
+      "volume_level": "音效突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "快速",
+      "purpose": "牺牲与希望"
+    },
+    "notes": {
+      "production_note": "需要大量CG特效",
+      "reference_style": "史诗场景",
+      "difficulty_level": "复杂"
+    }
+  }
+]

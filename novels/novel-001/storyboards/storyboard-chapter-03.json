@@ -1,0 +1,372 @@
+[
+  {
+    "shot_id": "EP03-S001",
+    "chapter_number": 3,
+    "scene_number": 1,
+    "duration": 6,
+    "shot_type": "中景",
+    "location": "青云宗后院",
+    "time_of_day": "清晨",
+    "composition": {
+      "camera_position": "侧面拍摄",
+      "camera_movement": "固定镜头",
+      "framing": "双人构图",
+      "focus_type": "两人清晰"
+    },
+    "characters": [
+      {
+        "name": "陆尘",
+        "position": "画面左侧,盘膝修炼",
+        "action": "努力引气入体,满头大汗",
+        "expression": "专注 → 疲惫",
+        "costume": "布衣少女"
+      },
+      {
+        "name": "顾玄",
+        "position": "画面右侧,指导中",
+        "action": "无奈地看着陆尘",
+        "expression": "担忧 → 思考",
+        "costume": "粗布麻衣"
+      }
+    ],
+    "visual_effects": {
+      "environment": "后院空地,晨光微曦",
+      "lighting": "柔和晨光",
+      "color_palette": "清新色调",
+      "special_effects": "陆尘周身微弱灵力波动"
+    },
+    "audio": {
+      "dialogue": "陆尘: '师兄...我怎么还是感觉不到灵气？'",
+      "narration": "",
+      "internal_monologue": "顾玄: 系统有没有什么快速修炼的方法？",
+      "background_music": "轻柔带点焦虑",
+      "sound_effects": [],
+      "volume_level": "对话清晰"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "舒缓",
+      "purpose": "展现修炼困境"
+    },
+    "notes": {
+      "production_note": "注重情感表达",
+      "reference_style": "温馨场景",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP03-S002",
+    "chapter_number": 3,
+    "scene_number": 1,
+    "duration": 5,
+    "shot_type": "特写",
+    "location": "顾玄眼前/脑海",
+    "time_of_day": "清晨",
+    "composition": {
+      "camera_position": "主观视角",
+      "camera_movement": "界面浮现",
+      "framing": "中心构图",
+      "focus_type": "界面清晰"
+    },
+    "characters": [],
+    "visual_effects": {
+      "environment": "半透明蓝色界面",
+      "lighting": "界面自发光",
+      "color_palette": "冷色调",
+      "special_effects": "系统界面显示:【商城功能已激活】【推荐商品:特效灵石(初级)】"
+    },
+    "audio": {
+      "dialogue": "",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "科技感机械音",
+      "sound_effects": ["系统提示音"],
+      "volume_level": "机械音突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "中等",
+      "purpose": "系统商城开启"
+    },
+    "notes": {
+      "production_note": "CG制作界面",
+      "reference_style": "科技感+仙侠",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP03-S003",
+    "chapter_number": 3,
+    "scene_number": 2,
+    "duration": 7,
+    "shot_type": "中景",
+    "location": "青云宗后院",
+    "time_of_day": "上午",
+    "composition": {
+      "camera_position": "三人全景",
+      "camera_movement": "轻微跟随",
+      "framing": "三人构图",
+      "focus_type": "主体清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "画面中央",
+        "action": "拿出特效灵石,展示给众人",
+        "expression": "神秘 → 期待",
+        "costume": "粗布麻衣"
+      },
+      {
+        "name": "陆尘",
+        "position": "画面左侧",
+        "action": "好奇地看着灵石",
+        "expression": "好奇 → 期待",
+        "costume": "布衣少女"
+      },
+      {
+        "name": "李道玄",
+        "position": "画面右侧",
+        "action": "惊讶地看着灵石",
+        "expression": "震惊 → 思疑",
+        "costume": "掌门袍"
+      }
+    ],
+    "visual_effects": {
+      "environment": "后院空地",
+      "lighting": "自然光",
+      "color_palette": "明亮色调",
+      "special_effects": "特效灵石散发着微弱光芒,看起来很神奇"
+    },
+    "audio": {
+      "dialogue": "顾玄: '此乃...特效灵石,能助你快速引气入体。'",
+      "narration": "",
+      "internal_monologue": "其实就是个发光的石头...",
+      "background_music": "轻松神秘",
+      "sound_effects": [],
+      "volume_level": "对话为主"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "中等",
+      "purpose": "引入特效灵石设定"
+    },
+    "notes": {
+      "production_note": "注重道具设计",
+      "reference_style": "仙侠道具",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP03-S004",
+    "chapter_number": 3,
+    "scene_number": 2,
+    "duration": 8,
+    "shot_type": "特效特写",
+    "location": "青云宗后院",
+    "time_of_day": "上午",
+    "composition": {
+      "camera_position": "环绕拍摄",
+      "camera_movement": "缓慢环绕",
+      "framing": "动态构图",
+      "focus_type": "特效突出"
+    },
+    "characters": [
+      {
+        "name": "陆尘",
+        "position": "画面中央",
+        "action": "吸收灵石能量,灵力波动",
+        "expression": "惊讶 → 喜悦",
+        "costume": "布衣少女"
+      }
+    ],
+    "visual_effects": {
+      "environment": "后院空地",
+      "lighting": "灵石光芒+自然光",
+      "color_palette": "柔和光效",
+      "special_effects": "特效灵石化作光芒钻入陆尘体内,周身灵力波动,终于成功引气入体"
+    },
+    "audio": {
+      "dialogue": "陆尘: '我...我感受到了！灵气！'",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "轻快喜悦",
+      "sound_effects": ["灵力涌动声", "系统提示音"],
+      "volume_level": "音乐烘托喜悦"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "轻松",
+      "purpose": "成功引气,喜悦时刻"
+    },
+    "notes": {
+      "production_note": "适度特效",
+      "reference_style": "仙侠成长",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP03-S005",
+    "chapter_number": 3,
+    "scene_number": 3,
+    "duration": 6,
+    "shot_type": "全景",
+    "location": "青云宗山门",
+    "time_of_day": "午后",
+    "composition": {
+      "camera_position": "山门外,仰视",
+      "camera_movement": "缓慢推近",
+      "framing": "对称构图",
+      "focus_type": "整体清晰"
+    },
+    "characters": [
+      {
+        "name": "烈阳宗弟子",
+        "position": "山门外,气势汹汹",
+        "action": "挑衅,叫嚣",
+        "expression": "嚣张 → 狂妄",
+        "costume": "烈阳宗弟子服"
+      },
+      {
+        "name": "顾玄",
+        "position": "山门内,淡定应对",
+        "action": "负手而立",
+        "expression": "淡定(内心慌得一批)",
+        "costume": "粗布麻衣"
+      }
+    ],
+    "visual_effects": {
+      "environment": "青云宗山门",
+      "lighting": "午后阳光",
+      "color_palette": "明亮色调",
+      "special_effects": "无"
+    },
+    "audio": {
+      "dialogue": "烈阳宗弟子: '青云宗！速速交出灵石秘法！'",
+      "narration": "",
+      "internal_monologue": "顾玄: 我哪有什么秘法！",
+      "background_music": "紧张带幽默",
+      "sound_effects": [],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "紧张",
+      "purpose": "引入冲突"
+    },
+    "notes": {
+      "production_note": "注重对比效果",
+      "reference_style": "仙侠对峙",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP03-S006",
+    "chapter_number": 3,
+    "scene_number": 3,
+    "duration": 7,
+    "shot_type": "中景",
+    "location": "青云宗山门",
+    "time_of_day": "午后",
+    "composition": {
+      "camera_position": "侧面拍摄",
+      "camera_movement": "固定镜头",
+      "framing": "对峙构图",
+      "focus_type": "双方清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "画面左侧",
+        "action": "开启特效模式,气场全开",
+        "expression": "淡定 → 威严",
+        "costume": "粗布麻衣,特效加持"
+      },
+      {
+        "name": "烈阳宗弟子",
+        "position": "画面右侧",
+        "action": "被震慑,后退",
+        "expression": "嚣张 → 震惊 → 恐惧",
+        "costume": "烈阳宗弟子服"
+      }
+    ],
+    "visual_effects": {
+      "environment": "山门前",
+      "lighting": "自然光+特效光",
+      "color_palette": "高对比度",
+      "special_effects": "顾玄周身金光大盛,特效加持,恐怖威压释放,烈阳宗弟子被震慑"
+    },
+    "audio": {
+      "dialogue": "顾玄: '区区烈阳宗,也敢在我青云宗撒野？'",
+      "narration": "",
+      "internal_monologue": "特效灵石快撑住啊！",
+      "background_music": "紧张→震撼",
+      "sound_effects": ["威压轰鸣", "金光爆发"],
+      "volume_level": "威压突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "紧张→震撼",
+      "purpose": "展现实力,震慑敌人"
+    },
+    "notes": {
+      "production_note": "特效展示",
+      "reference_style": "仙侠威压",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP03-S007",
+    "chapter_number": 3,
+    "scene_number": 4,
+    "duration": 8,
+    "shot_type": "全景",
+    "location": "青云宗后院",
+    "time_of_day": "黄昏",
+    "composition": {
+      "camera_position": "远景拍摄",
+      "camera_movement": "缓慢拉远",
+      "framing": "广角",
+      "focus_type": "全景清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "画面一侧,查看系统",
+        "action": "查看系统商城,思考对策",
+        "expression": "担忧 → 坚定",
+        "costume": "粗布麻衣"
+      },
+      {
+        "name": "陆尘",
+        "position": "画面中央,继续修炼",
+        "action": "刻苦修炼,不知疲倦",
+        "expression": "专注 → 坚定",
+        "costume": "布衣少女"
+      }
+    ],
+    "visual_effects": {
+      "environment": "夕阳西下,后院宁静",
+      "lighting": "黄昏金光",
+      "color_palette": "温暖色调",
+      "special_effects": "陆尘周身灵力波动渐强"
+    },
+    "audio": {
+      "dialogue": "",
+      "narration": "风波暂平,但更大的挑战还在后面...",
+      "internal_monologue": "得准备更多特效灵石了...",
+      "background_music": "轻松中带点忧虑",
+      "sound_effects": [],
+      "volume_level": "音乐为主"
+    },
+    "editing": {
+      "transition_to_next": "淡出",
+      "pacing": "舒缓",
+      "purpose": "章节收尾,为后续埋伏笔"
+    },
+    "notes": {
+      "production_note": "收尾场景",
+      "reference_style": "温馨场景",
+      "difficulty_level": "简单"
+    }
+  }
+]

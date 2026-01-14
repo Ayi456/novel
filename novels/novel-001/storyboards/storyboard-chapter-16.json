@@ -1,0 +1,257 @@
+[
+  {
+    "shot_id": "EP16-S001",
+    "chapter_number": 16,
+    "scene_number": 1,
+    "duration": 7,
+    "shot_type": "特写",
+    "location": "青云宗外门弟子房",
+    "time_of_day": "夜晚",
+    "composition": {
+      "camera_position": "主观视角",
+      "camera_movement": "界面浮入",
+      "framing": "中心构图",
+      "focus_type": "界面文字清晰"
+    },
+    "characters": [],
+    "visual_effects": {
+      "environment": "半透明界面浮现",
+      "lighting": "界面自发光",
+      "color_palette": "蓝白色科技感",
+      "special_effects": "天魔执法APP界面:欢迎使用天魔执法系统V3.0,当前权限:临时工,可用功能:违规检测、轻微惩戒、举报上传,违规列表显示:弟子张三随地吐痰(-1功德),掌门李道玄私藏小金库(-50功德)"
+    },
+    "audio": {
+      "dialogue": "",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "科技感机械音",
+      "sound_effects": ["系统提示音", "数据流动声"],
+      "volume_level": "系统音突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "中等",
+      "purpose": "展示新功能,幽默"
+    },
+    "notes": {
+      "production_note": "需要CG制作APP界面",
+      "reference_style": "科幻UI",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP16-S002",
+    "chapter_number": 16,
+    "scene_number": 2,
+    "duration": 6,
+    "shot_type": "中景",
+    "location": "云州边境",
+    "time_of_day": "白天",
+    "composition": {
+      "camera_position": "侧面拍摄",
+      "camera_movement": "固定镜头",
+      "framing": "三分法",
+      "focus_type": "主体清晰"
+    },
+    "characters": [
+      {
+        "name": "魔教小队",
+        "position": "巡逻中",
+        "action": "突然集体僵住,被扇巴掌",
+        "expression": "困惑,惊恐",
+        "costume": "魔教服饰"
+      },
+      {
+        "name": "顾玄",
+        "position": "远处",
+        "action": "用天魔剑扫描",
+        "expression": "惊讶",
+        "costume": "白衣",
+        "props": "天魔剑"
+      }
+    ],
+    "visual_effects": {
+      "environment": "云州边境",
+      "lighting": "自然光",
+      "color_palette": "正常色调",
+      "special_effects": "天魔剑射出无形波动,笼罩魔教小队,魔教徒集体被无形巴掌击中"
+    },
+    "audio": {
+      "dialogue": "天魔执法!尔等违反《天魔治安管理处罚法》第N条,现予以警告处分!再有下次,扣留法器! 天、天魔执法?!",
+      "narration": "",
+      "internal_monologue": "这APP威力这么大?!",
+      "background_music": "紧张搞笑",
+      "sound_effects": ["巴掌声", "威严声音", "惊呼声"],
+      "volume_level": "音效突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "快速",
+      "purpose": "展示执法功能,幽默"
+    },
+    "notes": {
+      "production_note": "需要CG制作无形巴掌",
+      "reference_style": "搞笑+特效",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP16-S003",
+    "chapter_number": 16,
+    "scene_number": 3,
+    "duration": 8,
+    "shot_type": "全景",
+    "location": "云州某城市",
+    "time_of_day": "白天",
+    "composition": {
+      "camera_position": "高处俯拍",
+      "camera_movement": "环绕拍摄",
+      "framing": "全景构图",
+      "focus_type": "全景清晰"
+    },
+    "characters": [
+      {
+        "name": "执法傀儡",
+        "position": "城市中",
+        "action": "T-800造型,大杀四方",
+        "expression": "电子眼红光",
+        "costume": "金属机身,胸前印'天魔执法'"
+      },
+      {
+        "name": "魔教长老们",
+        "position": "被攻击",
+        "action": "攻击傀儡,被拖走",
+        "expression": "惊恐",
+        "costume": "魔教服饰"
+      }
+    ],
+    "visual_effects": {
+      "environment": "被占领的城市",
+      "lighting": "战斗光芒",
+      "color_palette": "高对比度",
+      "special_effects": "傀儡如虎入羊群,攻击打在身上无效果,掏出本本记录,用特制手铐铐住魔修"
+    },
+    "audio": {
+      "dialogue": "临时工9527,执法傀儡008前来协助!请指示! 里面有三个重大违规者,逮捕他们! 遵命! 抗法袭击,罪加一等!",
+      "narration": "",
+      "internal_monologue": "这执法傀儡什么级别?化神期?还是更高?!",
+      "background_music": "机械感,战斗",
+      "sound_effects": ["金属撞击声", "电子音", "能量爆炸"],
+      "volume_level": "音效突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "快速",
+      "purpose": "展示傀儡威力"
+    },
+    "notes": {
+      "production_note": "需要CG制作傀儡",
+      "reference_style": "科幻+修仙",
+      "difficulty_level": "复杂"
+    }
+  },
+  {
+    "shot_id": "EP16-S004",
+    "chapter_number": 16,
+    "scene_number": 4,
+    "duration": 10,
+    "shot_type": "特效全景",
+    "location": "云州地下实验室",
+    "time_of_day": "无照明",
+    "composition": {
+      "camera_position": "环绕拍摄",
+      "camera_movement": "快速环绕",
+      "framing": "动态构图",
+      "focus_type": "恐怖场景突出"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "实验室入口",
+        "action": "震惊,操作控制台",
+        "expression": "愤怒,震惊",
+        "costume": "白衣"
+      },
+      {
+        "name": "执法傀儡",
+        "position": "实验室中",
+        "action": "暴力拆除",
+        "expression": "红光闪烁",
+        "costume": "金属机身"
+      }
+    ],
+    "visual_effects": {
+      "environment": "巨大地下实验室,血池,囚禁容器",
+      "lighting": "血腥红光",
+      "color_palette": "恐怖色调",
+      "special_effects": "无数生灵被囚禁在透明容器,中央血池浸泡恐怖生物,傀儡暴力拆除,自毁程序启动,整个实验室剧烈震动"
+    },
+    "audio": {
+      "dialogue": "摧毁这里!解救所有生灵! 警告!自毁程序启动!倒计时60秒! 检测到'天魔之种'信号!目标已逃离!",
+      "narration": "",
+      "internal_monologue": "魔教竟然在进行这种实验!必须阻止他们!",
+      "background_music": "紧张,恐怖",
+      "sound_effects": ["爆炸声", "警报", "哀嚎声"],
+      "volume_level": "音效突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "快速",
+      "purpose": "高潮战斗"
+    },
+    "notes": {
+      "production_note": "需要大量CG特效",
+      "reference_style": "恐怖场景",
+      "difficulty_level": "复杂"
+    }
+  },
+  {
+    "shot_id": "EP16-S005",
+    "chapter_number": 16,
+    "scene_number": 5,
+    "duration": 7,
+    "shot_type": "远景转中景",
+    "location": "深山峡谷洞穴",
+    "time_of_day": "夜晚",
+    "composition": {
+      "camera_position": "从远景推至洞口",
+      "camera_movement": "快速推进",
+      "framing": "从大到小",
+      "focus_type": "逐渐清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "洞口",
+        "action": "扫描洞穴,脸色骤变",
+        "expression": "震惊,凝重",
+        "costume": "白衣",
+        "props": "天魔剑"
+      }
+    ],
+    "visual_effects": {
+      "environment": "深山峡谷,洞穴散发不祥气息",
+      "lighting": "幽暗光线",
+      "color_palette": "恐怖色调",
+      "special_effects": "APP扫描显示:检测到非法worship场所,违规供奉伪神(-100000功德),洞穴深处传来狂热呼喊"
+    },
+    "audio": {
+      "dialogue": "恭迎圣子降临!我等愿奉献一切!",
+      "narration": "",
+      "internal_monologue": "魔教在这里还有据点!他们在迎接那个'天魔之种'!事情大条了!",
+      "background_music": "紧张,悬疑",
+      "sound_effects": ["狂热呼喊", "能量波动"],
+      "volume_level": "音效突出"
+    },
+    "editing": {
+      "transition_to_next": "淡出",
+      "pacing": "中等",
+      "purpose": "留下悬念"
+    },
+    "notes": {
+      "production_note": "夜景+特效",
+      "reference_style": "悬疑场景",
+      "difficulty_level": "中等"
+    }
+  }
+]

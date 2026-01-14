@@ -1,0 +1,263 @@
+[
+  {
+    "shot_id": "EP18-S001",
+    "chapter_number": 18,
+    "scene_number": 1,
+    "duration": 10,
+    "shot_type": "特效全景",
+    "location": "后山密室",
+    "time_of_day": "夜晚",
+    "composition": {
+      "camera_position": "环绕拍摄",
+      "camera_movement": "缓慢环绕",
+      "framing": "动态构图",
+      "focus_type": "特效突出"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "密室中央",
+        "action": "盘膝而坐,接受系统更新",
+        "expression": "痛苦,震惊",
+        "costume": "白衣"
+      }
+    ],
+    "visual_effects": {
+      "environment": "密室被能量照亮",
+      "lighting": "机械音光芒+能量流动",
+      "color_palette": "科技蓝为主",
+      "special_effects": "密室中响起机械音,庞大信息流涌入脑海,身体被改造,三天后更新完成,系统界面重新亮起,显示版本更新V2.0→V3.0,管理员权限恢复"
+    },
+    "audio": {
+      "dialogue": "检测到管理员权限激活...开始系统更新...当前版本:V1.0(残缺),更新至:V2.0(完整版),预计时间:72小时... 版本更新完成:V2.0→V3.0,欢迎使用天魔执法系统完整版,管理员:顾玄(正式),权限等级:7级(解锁全部功能)",
+      "narration": "",
+      "internal_monologue": "还真特么是系统更新啊!",
+      "background_music": "科幻感,震撼",
+      "sound_effects": ["机械音", "数据流动声", "能量涌动"],
+      "volume_level": "系统音突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "缓慢转快速",
+      "purpose": "系统更新,重大转折"
+    },
+    "notes": {
+      "production_note": "需要大量CG特效",
+      "reference_style": "科幻风格",
+      "difficulty_level": "复杂"
+    }
+  },
+  {
+    "shot_id": "EP18-S002",
+    "chapter_number": 18,
+    "scene_number": 2,
+    "duration": 8,
+    "shot_type": "特写",
+    "location": "顾玄眼前/脑海",
+    "time_of_day": "夜晚",
+    "composition": {
+      "camera_position": "主观视角",
+      "camera_movement": "界面切换",
+      "framing": "中心构图",
+      "focus_type": "界面清晰"
+    },
+    "characters": [],
+    "visual_effects": {
+      "environment": "数据流背景",
+      "lighting": "界面自发光",
+      "color_palette": "科技蓝白",
+      "special_effects": "秩序之眼界面:李道玄-生命值87%/100%,状态:焦虑(担心徒弟闭关),陆尘-修为:筑基初期,状态:崇拜(觉得师兄更厉害了),宗门大阵-完整度23%,建议维修"
+    },
+    "audio": {
+      "dialogue": "",
+      "narration": "",
+      "internal_monologue": "这功能太实用了!简直是人形检测仪!",
+      "background_music": "科技感",
+      "sound_effects": ["数据流动声"],
+      "volume_level": "内心独白为主"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "中等",
+      "purpose": "展示新功能"
+    },
+    "notes": {
+      "production_note": "需要CG制作UI界面",
+      "reference_style": "科幻UI",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP18-S003",
+    "chapter_number": 18,
+    "scene_number": 3,
+    "duration": 7,
+    "shot_type": "中景",
+    "location": "荒州小村庄",
+    "time_of_day": "白天",
+    "composition": {
+      "camera_position": "正面拍摄",
+      "camera_movement": "左右摇摄",
+      "framing": "中心构图",
+      "focus_type": "主体清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "村中水井旁",
+        "action": "使用净化程序",
+        "expression": "认真",
+        "costume": "白衣"
+      },
+      {
+        "name": "村民们",
+        "position": "周围",
+        "action": "跪地感谢",
+        "expression": "感激",
+        "costume": "布衣"
+      }
+    ],
+    "visual_effects": {
+      "environment": "荒凉小村庄",
+      "lighting": "净化白光",
+      "color_palette": "从暗淡转为明亮",
+      "special_effects": "井水泛起白光恢复清澈,村民饮用后生命值回升"
+    },
+    "audio": {
+      "dialogue": "多谢仙师! 拯救一村生灵,功德+1000",
+      "narration": "",
+      "internal_monologue": "原来赚功德这么简单?那之前扶老奶奶过马路是在搞笑吗?",
+      "background_music": "温暖,励志",
+      "sound_effects": ["净化声", "村民感谢声"],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "中等",
+      "purpose": "展示主角做好事"
+    },
+    "notes": {
+      "production_note": "需要CG制作净化效果",
+      "reference_style": "温馨场景",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP18-S004",
+    "chapter_number": 18,
+    "scene_number": 4,
+    "duration": 10,
+    "shot_type": "全景",
+    "location": "荒州峡谷祭坛",
+    "time_of_day": "白天",
+    "composition": {
+      "camera_position": "高处俯拍",
+      "camera_movement": "缓慢下降",
+      "framing": "全景构图",
+      "focus_type": "全景清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "混入祭坛",
+        "action": "推着血烛车,进入控制室",
+        "expression": "淡定",
+        "costume": "白衣",
+        "props": "血烛车"
+      },
+      {
+        "name": "朱寿",
+        "position": "右使房间",
+        "action": "被说服,协助",
+        "expression": "犹豫→坚定",
+        "costume": "助理服"
+      },
+      {
+        "name": "右使",
+        "position": "祭坛外",
+        "action": "被重力修改影响",
+        "expression": "惊怒",
+        "costume": "华贵黑袍"
+      }
+    ],
+    "visual_effects": {
+      "environment": "巨大祭坛堪比城市",
+      "lighting": "血光+能量光芒",
+      "color_palette": "恐怖色调",
+      "special_effects": "血池大如湖泊,能量收集装置悬浮,顾玄修改重力所有魔教徒飘起,右使被格式化半条手臂消失"
+    },
+    "audio": {
+      "dialogue": "送祭品的。这是右使大人特订的极品血烛。 路上遇到天魔执法队了,差点被扣下! 朱寿,魔教倒行逆施,残害生灵,你还要助纣为虐吗? 我...我帮你们! 此地禁止魔族存在! 此地禁止空间传送! 这是什么力量?!",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "紧张,震撼",
+      "sound_effects": ["重力修改声", "能量爆炸", "右使惨叫"],
+      "volume_level": "音效突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "快速",
+      "purpose": "高潮 infiltration"
+    },
+    "notes": {
+      "production_note": "需要大量CG特效",
+      "reference_style": "震撼场景",
+      "difficulty_level": "复杂"
+    }
+  },
+  {
+    "shot_id": "EP18-S005",
+    "chapter_number": 18,
+    "scene_number": 5,
+    "duration": 8,
+    "shot_type": "特写",
+    "location": "祭坛深处",
+    "time_of_day": "白天",
+    "composition": {
+      "camera_position": "正面拍摄",
+      "camera_movement": "缓慢推近",
+      "framing": "中心构图",
+      "focus_type": "细节清晰"
+    },
+    "characters": [
+      {
+        "name": "白芷",
+        "position": "昏迷中",
+        "action": "突然坐起,眼中黑光闪烁",
+        "expression": "惊恐",
+        "costume": "布衣"
+      },
+      {
+        "name": "顾玄",
+        "position": "一旁",
+        "action": "震惊",
+        "expression": "惊骇",
+        "costume": "白衣"
+      }
+    ],
+    "visual_effects": {
+      "environment": "返回青云宗的飞舟",
+      "lighting": "昏暗光线",
+      "color_palette": "冷色调",
+      "special_effects": "白芷眼中黑光狂闪"
+    },
+    "audio": {
+      "dialogue": "我看到了...祭坛下面...还有个更大的装置! 他们在收集能量不是为了血祭...是为了激活某个...远古兵器! 那兵器一旦激活,整个世界都会...",
+      "narration": "",
+      "internal_monologue": "远古兵器?灭世?!事情远比想象的严重!",
+      "background_music": "紧张,悬疑",
+      "sound_effects": [],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "淡出",
+      "pacing": "中等",
+      "purpose": "留下悬念"
+    },
+    "notes": {
+      "production_note": "需要CG制作眼中黑光",
+      "reference_style": "悬疑场景",
+      "difficulty_level": "中等"
+    }
+  }
+]

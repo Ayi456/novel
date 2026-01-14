@@ -509,6 +509,7 @@ interface StoryboardShot {
       "difficulty_level": "复杂"
     }
   }
+  //...后续根据章节内容补充
 ]
 ```
 

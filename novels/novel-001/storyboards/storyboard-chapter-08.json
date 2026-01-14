@@ -1,0 +1,256 @@
+[
+  {
+    "shot_id": "EP08-S001",
+    "chapter_number": 8,
+    "scene_number": 1,
+    "duration": 7,
+    "shot_type": "中景",
+    "location": "天衍宗客房",
+    "time_of_day": "夜晚",
+    "composition": {
+      "camera_position": "客房内拍摄",
+      "camera_movement": "固定镜头",
+      "framing": "单人构图",
+      "focus_type": "主体清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "画面中央",
+        "action": "独自研究天魔剑",
+        "expression": "困惑 → 惊讶",
+        "costume": "粗布麻衣"
+      }
+    ],
+    "visual_effects": {
+      "environment": "客房内",
+      "lighting": "烛光+剑光",
+      "color_palette": "神秘色调",
+      "special_effects": "天魔剑发光,系统界面浮现在剑上"
+    },
+    "audio": {
+      "dialogue": "",
+      "narration": "",
+      "internal_monologue": "天魔剑居然有USB接口？！",
+      "background_music": "神秘带科技感",
+      "sound_effects": ["系统机械音"],
+      "volume_level": "机械音突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "神秘",
+      "purpose": "发现天魔剑的秘密"
+    },
+    "notes": {
+      "production_note": "注重道具设计",
+      "reference_style": "科技感+仙侠",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP08-S002",
+    "chapter_number": 8,
+    "scene_number": 2,
+    "duration": 8,
+    "shot_type": "全景",
+    "location": "天衍宗",
+    "time_of_day": "次日清晨",
+    "composition": {
+      "camera_position": "天衍宗山门拍摄",
+      "camera_movement": "缓慢推近",
+      "framing": "大场面",
+      "focus_type": "整体清晰"
+    },
+    "characters": [
+      {
+        "name": "各宗代表",
+        "position": "山门外,送礼",
+        "action": "络绎不绝送礼物",
+        "expression": "恭敬 → 讨好",
+        "costume": "各宗服饰"
+      },
+      {
+        "name": "顾玄",
+        "position": "客房内,无奈接受",
+        "action": "看着礼物堆成山",
+        "expression": "无奈 → 苦笑",
+        "costume": "粗布麻衣"
+      }
+    ],
+    "visual_effects": {
+      "environment": "山门外人来人往",
+      "lighting": "明亮晨光",
+      "color_palette": "热闹色调",
+      "special_effects": "各色法宝光芒闪烁"
+    },
+    "audio": {
+      "dialogue": "众代表: '顾前辈！这点心意请您务必收下！'",
+      "narration": "",
+      "internal_monologue": "顾玄: 这态度转变也太快了吧？！",
+      "background_music": "轻松带讽刺",
+      "sound_effects": ["嘈杂人声"],
+      "volume_level": "人声突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "轻松",
+      "purpose": "展现态度转变,幽默效果"
+    },
+    "notes": {
+      "production_note": "注重讽刺效果",
+      "reference_style": "轻喜剧",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP08-S003",
+    "chapter_number": 8,
+    "scene_number": 3,
+    "duration": 7,
+    "shot_type": "中景",
+    "location": "天衍宗客房",
+    "time_of_day": "上午",
+    "composition": {
+      "camera_position": "客房内拍摄",
+      "camera_movement": "轻微推拉",
+      "framing": "双人构图",
+      "focus_type": "两人清晰"
+    },
+    "characters": [
+      {
+        "name": "天衍宗长老",
+        "position": "画面左侧",
+        "action": "小心翼翼地询问",
+        "expression": "恭敬 → 期待",
+        "costume": "天衍宗长老袍"
+      },
+      {
+        "name": "顾玄",
+        "position": "画面右侧",
+        "action": "淡定回应",
+        "expression": "表面淡定",
+        "costume": "粗布麻衣"
+      }
+    ],
+    "visual_effects": {
+      "environment": "客房内",
+      "lighting": "明亮自然光",
+      "color_palette": "温暖色调",
+      "special_effects": "无"
+    },
+    "audio": {
+      "dialogue": "长老: '顾前辈...您看我家孙女...能不能拜入您门下？'",
+      "narration": "",
+      "internal_monologue": "顾玄: 我特么要收徒？！",
+      "background_music": "轻松带尴尬",
+      "sound_effects": [],
+      "volume_level": "对话清晰"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "轻松",
+      "purpose": "幽默场景,展现尴尬"
+    },
+    "notes": {
+      "production_note": "注重喜剧效果",
+      "reference_style": "轻喜剧",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP08-S004",
+    "chapter_number": 8,
+    "scene_number": 4,
+    "duration": 8,
+    "shot_type": "特写",
+    "location": "天衍宗客房",
+    "time_of_day": "夜晚",
+    "composition": {
+      "camera_position": "聚焦顾玄和剑",
+      "camera_movement": "固定镜头",
+      "framing": "双人构图",
+      "focus_type": "主体清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "画面中央",
+        "action": "对着天魔剑发愁",
+        "expression": "忧虑 → 思考",
+        "costume": "粗布麻衣"
+      }
+    ],
+    "visual_effects": {
+      "environment": "客房内,夜深人静",
+      "lighting": "月光+剑光",
+      "color_palette": "清冷色调",
+      "special_effects": "天魔剑微微发光,系统界面隐约"
+    },
+    "audio": {
+      "dialogue": "",
+      "narration": "",
+      "internal_monologue": "这下彻底玩脱了...连天魔剑都出来了...",
+      "background_music": "忧虑带思考",
+      "sound_effects": [],
+      "volume_level": "音乐烘托情绪"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "舒缓",
+      "purpose": "展现内心焦虑"
+    },
+    "notes": {
+      "production_note": "注重情感表达",
+      "reference_style": "内心戏",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP08-S005",
+    "chapter_number": 8,
+    "scene_number": 5,
+    "duration": 7,
+    "shot_type": "全景",
+    "location": "返回青云宗路上",
+    "time_of_day": "次日清晨",
+    "composition": {
+      "camera_position": "航拍",
+      "camera_movement": "跟随飞舟",
+      "framing": "大场面",
+      "focus_type": "飞舟清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄一行",
+        "position": "飞舟上",
+        "action": "满载而归",
+        "expression": "各有所思",
+        "costume": "各色服饰"
+      }
+    ],
+    "visual_effects": {
+      "environment": "云海之上",
+      "lighting": "明亮晨光",
+      "color_palette": "清新明亮",
+      "special_effects": "飞舟破空而行"
+    },
+    "audio": {
+      "dialogue": "",
+      "narration": "满载而归,但顾玄知道,更大的风波还在后面...",
+      "internal_monologue": "",
+      "background_music": "悠扬带忧虑",
+      "sound_effects": ["飞舟破空声"],
+      "volume_level": "音乐为主"
+    },
+    "editing": {
+      "transition_to_next": "淡出",
+      "pacing": "舒缓",
+      "purpose": "章节收尾,为后续埋伏笔"
+    },
+    "notes": {
+      "production_note": "转场场景",
+      "reference_style": "场景过渡",
+      "difficulty_level": "简单"
+    }
+  }
+]

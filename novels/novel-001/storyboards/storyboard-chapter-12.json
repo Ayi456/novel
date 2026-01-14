@@ -1,0 +1,519 @@
+[
+  {
+    "shot_id": "EP12-S001",
+    "chapter_number": 12,
+    "scene_number": 1,
+    "duration": 7,
+    "shot_type": "远景",
+    "location": "青云宗山门前",
+    "time_of_day": "清晨",
+    "composition": {
+      "camera_position": "高处俯拍",
+      "camera_movement": "缓慢下降",
+      "framing": "全景构图",
+      "focus_type": "人群清晰"
+    },
+    "characters": [
+      {
+        "name": "排队人群",
+        "position": "山门广场",
+        "action": "排队等候,人头攒动",
+        "expression": "兴奋,期待",
+        "costume": "各式各样,带着礼物"
+      },
+      {
+        "name": "王明",
+        "position": "山门前",
+        "action": "敲破锣维持秩序",
+        "expression": "满头大汗",
+        "costume": "弟子服",
+        "props": "破锣"
+      }
+    ],
+    "visual_effects": {
+      "environment": "天还没亮就排起长队,喧闹鼎沸",
+      "lighting": "晨光微亮,灯火通明",
+      "color_palette": "暖色调,热闹氛围",
+      "special_effects": "无"
+    },
+    "audio": {
+      "dialogue": "都别挤!排队排队!",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "热闹喜庆",
+      "sound_effects": ["锣声", "人声鼎沸", "脚步声"],
+      "volume_level": "环境音突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "中等",
+      "purpose": "展现招新盛况"
+    },
+    "notes": {
+      "production_note": "需要大量群演",
+      "reference_style": "热闹场景",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP12-S002",
+    "chapter_number": 12,
+    "scene_number": 1,
+    "duration": 5,
+    "shot_type": "中景",
+    "location": "青云宗山门前",
+    "time_of_day": "清晨",
+    "composition": {
+      "camera_position": "侧面拍摄",
+      "camera_movement": "固定镜头",
+      "framing": "三分法",
+      "focus_type": "主体清晰"
+    },
+    "characters": [
+      {
+        "name": "李道玄",
+        "position": "主殿前",
+        "action": "捋须大笑,喜笑颜开",
+        "expression": "开心,激动",
+        "costume": "掌门华服"
+      },
+      {
+        "name": "顾玄",
+        "position": "李道玄身旁",
+        "action": "腿肚子发软,表面淡定",
+        "expression": "表面淡然,内心慌乱",
+        "costume": "白衣"
+      }
+    ],
+    "visual_effects": {
+      "environment": "修缮一新的主殿前",
+      "lighting": "自然晨光",
+      "color_palette": "暖色调",
+      "special_effects": "无"
+    },
+    "audio": {
+      "dialogue": "好啊,好啊!我青云宗复兴在望!",
+      "narration": "",
+      "internal_monologue": "这么多人...万一哪个眼尖的看出我是个水货怎么办?",
+      "background_music": "轻快",
+      "sound_effects": [],
+      "volume_level": "对话和内心独白交替"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "中等",
+      "purpose": "对比师徒两人的反应"
+    },
+    "notes": {
+      "production_note": "实景拍摄",
+      "reference_style": "幽默对比",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP12-S003",
+    "chapter_number": 12,
+    "scene_number": 2,
+    "duration": 6,
+    "shot_type": "中景",
+    "location": "青云宗山门广场",
+    "time_of_day": "上午",
+    "composition": {
+      "camera_position": "正面拍摄",
+      "camera_movement": "左右摇摄",
+      "framing": "中心构图",
+      "focus_type": "主体清晰"
+    },
+    "characters": [
+      {
+        "name": "林小凡",
+        "position": "测灵碑前",
+        "action": "紧张地将手按在碑上",
+        "expression": "紧张,失望",
+        "costume": "布衣,略显破旧"
+      },
+      {
+        "name": "李道玄",
+        "position": "碑旁",
+        "action": "查看碑身反应",
+        "expression": "遗憾摇头",
+        "costume": "掌门华服"
+      }
+    ],
+    "visual_effects": {
+      "environment": "山门广场,众人围观",
+      "lighting": "自然光",
+      "color_palette": "正常色调",
+      "special_effects": "测灵碑毫无反应,甚至比之前更暗淡"
+    },
+    "audio": {
+      "dialogue": "无灵根,下下等。",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "遗憾,低沉",
+      "sound_effects": ["人群议论声"],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "缓慢",
+      "purpose": "展现悲剧场景"
+    },
+    "notes": {
+      "production_note": "实景拍摄",
+      "reference_style": "情感场景",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP12-S004",
+    "chapter_number": 12,
+    "scene_number": 2,
+    "duration": 8,
+    "shot_type": "近景",
+    "location": "青云宗山门广场",
+    "time_of_day": "上午",
+    "composition": {
+      "camera_position": "正面拍摄",
+      "camera_movement": "缓慢推近",
+      "framing": "中心构图",
+      "focus_type": "主体清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "画面中央",
+        "action": "走到少年面前,伸手按额头探查",
+        "expression": "认真,若有所思",
+        "costume": "白衣"
+      },
+      {
+        "name": "林小凡",
+        "position": "顾玄面前",
+        "action": "低声回答,怯生生",
+        "expression": "失望转为惊讶",
+        "costume": "布衣"
+      }
+    ],
+    "visual_effects": {
+      "environment": "山门广场背景",
+      "lighting": "自然光",
+      "color_palette": "暖色调",
+      "special_effects": "顾玄指尖微不可查的黑气探查,天魔之力感应"
+    },
+    "audio": {
+      "dialogue": "你为何想修仙? 我娘病了,大夫说需要灵丹才能治...你叫什么名字? 林小凡...",
+      "narration": "",
+      "internal_monologue": "药灵体!虽然现在不起眼,但有独特潜力。",
+      "background_music": "温暖,希望",
+      "sound_effects": [],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "中等",
+      "purpose": "展现主角慧眼识人"
+    },
+    "notes": {
+      "production_note": "需要CG制作天魔之力效果",
+      "reference_style": "温情场景",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP12-S005",
+    "chapter_number": 12,
+    "scene_number": 3,
+    "duration": 5,
+    "shot_type": "特写",
+    "location": "新弟子入门仪式现场",
+    "time_of_day": "夜晚",
+    "composition": {
+      "camera_position": "正面特写",
+      "camera_movement": "固定镜头",
+      "framing": "中心构图",
+      "focus_type": "细节清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "台上",
+        "action": "讲话时突然停顿,感受体内异常",
+        "expression": "惊讶,警觉",
+        "costume": "白衣"
+      }
+    ],
+    "visual_effects": {
+      "environment": "入门仪式现场",
+      "lighting": "灯火通明",
+      "color_palette": "暖色调",
+      "special_effects": "微不可查的黑气从指尖溢出,射入人群中,钻入朱寿体内"
+    },
+    "audio": {
+      "dialogue": "",
+      "narration": "",
+      "internal_monologue": "完蛋!要闯祸!天魔之力在自动甄别弟子?那个矮胖弟子有问题?",
+      "background_music": "突然紧张",
+      "sound_effects": ["黑气流动声"],
+      "volume_level": "内心独白为主"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "快速",
+      "purpose": "埋下伏笔"
+    },
+    "notes": {
+      "production_note": "需要CG特效",
+      "reference_style": "悬疑",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP12-S006",
+    "chapter_number": 12,
+    "scene_number": 4,
+    "duration": 7,
+    "shot_type": "中景",
+    "location": "青云宗后山密室",
+    "time_of_day": "深夜",
+    "composition": {
+      "camera_position": "侧面拍摄",
+      "camera_movement": "轻微摇摄",
+      "framing": "三分法",
+      "focus_type": "主体清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "画面中央",
+        "action": "露出高深莫测的笑容",
+        "expression": "自信,谋划",
+        "costume": "白衣"
+      },
+      {
+        "name": "李道玄",
+        "position": "顾玄身旁",
+        "action": "大惊失色",
+        "expression": "担忧",
+        "costume": "掌门服"
+      }
+    ],
+    "visual_effects": {
+      "environment": "密室场景",
+      "lighting": "昏暗灯光",
+      "color_palette": "冷色调",
+      "special_effects": "无"
+    },
+    "audio": {
+      "dialogue": "不必。将计就计,正好借此给魔教传递些...错误信息。",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "智慧,谋划",
+      "sound_effects": [],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "中等",
+      "purpose": "展现主角智慧"
+    },
+    "notes": {
+      "production_note": "实景拍摄",
+      "reference_style": "智谋场景",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP12-S007",
+    "chapter_number": 12,
+    "scene_number": 5,
+    "duration": 6,
+    "shot_type": "特写",
+    "location": "朱寿藏身处",
+    "time_of_day": "深夜",
+    "composition": {
+      "camera_position": "偷窥视角",
+      "camera_movement": "固定",
+      "framing": "中心构图",
+      "focus_type": "主体清晰"
+    },
+    "characters": [
+      {
+        "name": "朱寿",
+        "position": "画面中央",
+        "action": "用秘法偷偷传递信息",
+        "expression": "紧张,认真",
+        "costume": "弟子服"
+      }
+    ],
+    "visual_effects": {
+      "environment": "夜间宿舍",
+      "lighting": "昏暗",
+      "color_palette": "冷色调",
+      "special_effects": "秘法传递的微光信息"
+    },
+    "audio": {
+      "dialogue": "",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "紧张,悬疑",
+      "sound_effects": ["秘法嗡鸣声"],
+      "volume_level": "音效突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "中等",
+      "purpose": "展现卧底活动"
+    },
+    "notes": {
+      "production_note": "需要CG特效",
+      "reference_style": "间谍场景",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP12-S008",
+    "chapter_number": 12,
+    "scene_number": 6,
+    "duration": 8,
+    "shot_type": "远景转近景",
+    "location": "青云宗夜空",
+    "time_of_day": "深夜",
+    "composition": {
+      "camera_position": "仰拍",
+      "camera_movement": "缓慢上升",
+      "framing": "中心构图",
+      "focus_type": "主体清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "房顶",
+        "action": "独自坐着,仰望星空,眼神逐渐坚定",
+        "expression": "纠结 → 坚定",
+        "costume": "白衣",
+        "props": "黑色玉简"
+      }
+    ],
+    "visual_effects": {
+      "environment": "夜晚星空,山下万家灯火",
+      "lighting": "月光,星光",
+      "color_palette": "冷色调转为温暖",
+      "special_effects": "天魔之力微光"
+    },
+    "audio": {
+      "dialogue": "",
+      "narration": "",
+      "internal_monologue": "力量没有正邪之分,关键在于如何使用。就用这天魔之力,守护该守护的一切。顺便...把青云宗打造成天下第一宗!",
+      "background_music": "励志,温暖",
+      "sound_effects": ["夜风声"],
+      "volume_level": "内心独白为主"
+    },
+    "editing": {
+      "transition_to_next": "淡出",
+      "pacing": "舒缓",
+      "purpose": "收尾,展现主角成长"
+    },
+    "notes": {
+      "production_note": "夜景拍摄",
+      "reference_style": "励志场景",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP12-S009",
+    "chapter_number": 12,
+    "scene_number": 7,
+    "duration": 5,
+    "shot_type": "中景",
+    "location": "魔教秘密据点",
+    "time_of_day": "夜晚",
+    "composition": {
+      "camera_position": "侧面拍摄",
+      "camera_movement": "固定镜头",
+      "framing": "三分法",
+      "focus_type": "主体清晰"
+    },
+    "characters": [
+      {
+        "name": "魔教徒甲",
+        "position": "据点内",
+        "action": "接收信息,表情震惊",
+        "expression": "震惊,困惑",
+        "costume": "黑袍"
+      }
+    ],
+    "visual_effects": {
+      "environment": "阴暗据点",
+      "lighting": "幽暗火光",
+      "color_palette": "冷色调",
+      "special_effects": "信息传输微光"
+    },
+    "audio": {
+      "dialogue": "顾玄可能是上界剑仙转世! 青云宗后山有上古神器! 每日寅时是偷袭最佳时机!",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "讽刺,幽默",
+      "sound_effects": [],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "淡出",
+      "pacing": "快速",
+      "purpose": "展现误会加深,制造笑点"
+    },
+    "notes": {
+      "production_note": "实景拍摄",
+      "reference_style": "幽默反差",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP12-S010",
+    "chapter_number": 12,
+    "scene_number": 8,
+    "duration": 6,
+    "shot_type": "近景",
+    "location": "青云宗外门弟子房",
+    "time_of_day": "深夜",
+    "composition": {
+      "camera_position": "正面拍摄",
+      "camera_movement": "轻微推近",
+      "framing": "中心构图",
+      "focus_type": "主体清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "画面中央",
+        "action": "发愁,盘算经费",
+        "expression": "头痛,无奈",
+        "costume": "粗布麻衣"
+      }
+    ],
+    "visual_effects": {
+      "environment": "简陋木屋",
+      "lighting": "昏暗油灯",
+      "color_palette": "暖色调",
+      "special_effects": "无"
+    },
+    "audio": {
+      "dialogue": "",
+      "narration": "",
+      "internal_monologue": "这么多弟子...得盖多少宿舍啊...经费又要不够了! 要不...再卖几张'祖传藏宝图'?",
+      "background_music": "轻快幽默",
+      "sound_effects": [],
+      "volume_level": "内心独白为主"
+    },
+    "editing": {
+      "transition_to_next": "淡出",
+      "pacing": "舒缓",
+      "purpose": "收尾,留下笑点"
+    },
+    "notes": {
+      "production_note": "实景拍摄",
+      "reference_style": "轻松幽默",
+      "difficulty_level": "简单"
+    }
+  }
+]

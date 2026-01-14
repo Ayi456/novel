@@ -1,0 +1,311 @@
+[
+  {
+    "shot_id": "EP07-S001",
+    "chapter_number": 7,
+    "scene_number": 1,
+    "duration": 8,
+    "shot_type": "全景",
+    "location": "天衍宗论道会场",
+    "time_of_day": "下午",
+    "composition": {
+      "camera_position": "高角度俯拍",
+      "camera_movement": "缓慢推近",
+      "framing": "大场面",
+      "focus_type": "整体清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "论道台上",
+        "action": "天魔之力加持,语出惊人",
+        "expression": "表面威严",
+        "costume": "粗布麻衣"
+      },
+      {
+        "name": "各宗长老",
+        "position": "台下,认真聆听",
+        "action": "被顾玄的话震撼",
+        "expression": "震惊 → 思考",
+        "costume": "长老服饰"
+      }
+    ],
+    "visual_effects": {
+      "environment": "论道会场",
+      "lighting": "自然光",
+      "color_palette": "庄重色调",
+      "special_effects": "顾玄周身隐约威压"
+    },
+    "audio": {
+      "dialogue": "顾玄: '天道？不过是弱肉强食的借口。真正的强者,当逆天而行！'",
+      "narration": "",
+      "internal_monologue": "卧槽！我说了啥？！",
+      "background_music": "震撼深沉",
+      "sound_effects": [],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "震撼",
+      "purpose": "论道高潮,语出惊人"
+    },
+    "notes": {
+      "production_note": "注重台词演绎",
+      "reference_style": "仙侠论道",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP07-S002",
+    "chapter_number": 7,
+    "scene_number": 2,
+    "duration": 7,
+    "shot_type": "特写",
+    "location": "论道会场",
+    "time_of_day": "下午",
+    "composition": {
+      "camera_position": "聚焦顾玄",
+      "camera_movement": "轻微推近",
+      "framing": "特写",
+      "focus_type": "面部表情"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "画面中央",
+        "action": "天魔之力自动回答",
+        "expression": "表面淡定,内心慌乱",
+        "costume": "粗布麻衣"
+      }
+    ],
+    "visual_effects": {
+      "environment": "论道会场",
+      "lighting": "明亮灯光",
+      "color_palette": "庄重色调",
+      "special_effects": "系统界面隐约可见"
+    },
+    "audio": {
+      "dialogue": "顾玄: '剑不过是工具。真正的剑道,当斩断因果,超脱轮回！'",
+      "narration": "",
+      "internal_monologue": "这台词谁写的？！太中二了吧！",
+      "background_music": "深沉震撼",
+      "sound_effects": [],
+      "volume_level": "对话为主"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "中等",
+      "purpose": "展现天魔之力的自动功能"
+    },
+    "notes": {
+      "production_note": "注重表情细节",
+      "reference_style": "内心戏",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP07-S003",
+    "chapter_number": 7,
+    "scene_number": 3,
+    "duration": 8,
+    "shot_type": "中景",
+    "location": "论道会场",
+    "time_of_day": "下午",
+    "composition": {
+      "camera_position": "侧面拍摄",
+      "camera_movement": "固定镜头",
+      "framing": "对峙构图",
+      "focus_type": "双方清晰"
+    },
+    "characters": [
+      {
+        "name": "烈阳宗长老",
+        "position": "画面左侧",
+        "action": "展示残阵,刁难",
+        "expression": "得意 → 狡黠",
+        "costume": "烈阳宗长老袍"
+      },
+      {
+        "name": "顾玄",
+        "position": "画面右侧",
+        "action": "看一眼,随手补全",
+        "expression": "淡定",
+        "costume": "粗布麻衣"
+      }
+    ],
+    "visual_effects": {
+      "environment": "论道会场",
+      "lighting": "明亮灯光",
+      "color_palette": "对比色调",
+      "special_effects": "残阵浮现,顾玄天魔之力自动解析"
+    },
+    "audio": {
+      "dialogue": "烈阳宗长老: '听闻顾道友擅长阵法？不知可识得此阵？'",
+      "narration": "",
+      "internal_monologue": "顾玄: 系统快解析！",
+      "background_music": "紧张带幽默",
+      "sound_effects": [],
+      "volume_level": "对话清晰"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "紧张",
+      "purpose": "刁难与打脸"
+    },
+    "notes": {
+      "production_note": "注重对比",
+      "reference_style": "仙侠对峙",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP07-S004",
+    "chapter_number": 7,
+    "scene_number": 4,
+    "duration": 7,
+    "shot_type": "特效特写",
+    "location": "论道会场法宝展示区",
+    "time_of_day": "下午",
+    "composition": {
+      "camera_position": "环绕拍摄",
+      "camera_movement": "快速环绕",
+      "framing": "动态构图",
+      "focus_type": "法宝特效突出"
+    },
+    "characters": [
+      {
+        "name": "各宗代表",
+        "position": "展示法宝",
+        "action": "依次展示镇派之宝",
+        "expression": "自豪 → 炫耀",
+        "costume": "华丽服饰"
+      }
+    ],
+    "visual_effects": {
+      "environment": "法宝展示区",
+      "lighting": "法宝光芒",
+      "color_palette": "绚丽多彩",
+      "special_effects": "各宗法宝光彩夺目,威压惊人"
+    },
+    "audio": {
+      "dialogue": "",
+      "narration": "各宗拿出镇派之宝,光彩夺目...",
+      "internal_monologue": "",
+      "background_music": "恢弘震撼",
+      "sound_effects": ["法宝嗡鸣"],
+      "volume_level": "震撼突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "震撼",
+      "purpose": "法宝展示高潮"
+    },
+    "notes": {
+      "production_note": "大量法宝特效",
+      "reference_style": "仙侠法宝",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP07-S005",
+    "chapter_number": 7,
+    "scene_number": 5,
+    "duration": 10,
+    "shot_type": "特效特写",
+    "location": "论道会场法宝展示区",
+    "time_of_day": "下午",
+    "composition": {
+      "camera_position": "环绕天魔剑",
+      "camera_movement": "快速环绕",
+      "framing": "动态构图",
+      "focus_type": "特效突出"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "画面中央",
+        "action": "取出天魔剑,特效全开",
+        "expression": "表面淡定,内心慌乱",
+        "costume": "粗布麻衣"
+      }
+    ],
+    "visual_effects": {
+      "environment": "展示区",
+      "lighting": "剑光冲天",
+      "color_palette": "高对比度",
+      "special_effects": "天魔剑锈迹脱落,雷电缠绕,剑冲冲天,魔神虚影,天衍宗护山大阵被触动"
+    },
+    "audio": {
+      "dialogue": "",
+      "narration": "",
+      "internal_monologue": "卧槽！这么大动静？！",
+      "background_music": "震撼恢弘",
+      "sound_effects": ["剑气轰鸣", "雷声", "全场惊呼"],
+      "volume_level": "震撼突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "震撼",
+      "purpose": "最高潮,天魔剑现世"
+    },
+    "notes": {
+      "production_note": "大量特效",
+      "reference_style": "仙侠高潮",
+      "difficulty_level": "复杂"
+    }
+  },
+  {
+    "shot_id": "EP07-S006",
+    "chapter_number": 7,
+    "scene_number": 6,
+    "duration": 8,
+    "shot_type": "全景",
+    "location": "论道会场",
+    "time_of_day": "下午",
+    "composition": {
+      "camera_position": "高角度俯拍",
+      "camera_movement": "固定镜头",
+      "framing": "大场面",
+      "focus_type": "全场震撼"
+    },
+    "characters": [
+      {
+        "name": "各宗长老",
+        "position": "台下,震撼跪拜",
+        "action": "齐齐行礼",
+        "expression": "敬畏 → 恐惧",
+        "costume": "长老服饰"
+      },
+      {
+        "name": "顾玄",
+        "position": "台上,表面淡定",
+        "action": "强装镇定",
+        "expression": "表面淡定,内心崩溃",
+        "costume": "粗布麻衣"
+      }
+    ],
+    "visual_effects": {
+      "environment": "会场震撼",
+      "lighting": "剑光余威",
+      "color_palette": "震撼色调",
+      "special_effects": "无"
+    },
+    "audio": {
+      "dialogue": "天衍宗主: '原来如此...天魔剑现世,想必大劫将至...'",
+      "narration": "",
+      "internal_monologue": "顾玄: 什么大劫？我不知道啊！",
+      "background_music": "震撼后转为紧张",
+      "sound_effects": [],
+      "volume_level": "对话为主"
+    },
+    "editing": {
+      "transition_to_next": "淡出",
+      "pacing": "震撼",
+      "purpose": "章节高潮,留下悬念"
+    },
+    "notes": {
+      "production_note": "注重氛围",
+      "reference_style": "震撼场景",
+      "difficulty_level": "简单"
+    }
+  }
+]

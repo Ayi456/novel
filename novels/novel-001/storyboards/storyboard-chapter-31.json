@@ -1,0 +1,332 @@
+[
+  {
+    "shot_id": "EP31-S001",
+    "chapter_number": 31,
+    "scene_number": 1,
+    "duration": 11,
+    "shot_type": "全景",
+    "location": "地球-临州市大学城",
+    "time_of_day": "白天",
+    "composition": {
+      "camera_position": "街道广角",
+      "camera_movement": "缓慢推近",
+      "framing": "融合城市构图",
+      "focus_type": "融合场景清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "街上行走",
+        "action": "隐身观察",
+        "expression": "感慨",
+        "costume": "现代服装"
+      },
+      {
+        "name": "投影存在们",
+        "position": "各处",
+        "action": "融入生活",
+        "expression": "好奇,快乐",
+        "costume": "各异"
+      }
+    ],
+    "visual_effects": {
+      "environment": "现代城市与奇幻融合",
+      "lighting": "自然阳光",
+      "color_palette": "融合色调",
+      "special_effects": "精灵女生奶茶店纠结、机器人悬浮送外卖、蘑菇人光合作用、AEM处理事务"
+    },
+    "audio": {
+      "dialogue": "管理者大人!这个世界的'奶茶'太好喝了!就是糖分有点高...适量就好...你一个能量生命在乎什么糖分?这一个月,现实投影现象愈演愈烈。最初只有零星几个,现在每天都有新'移民'",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "轻松融合",
+      "sound_effects": ["城市融合环境音"],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "舒缓",
+      "purpose": "建立融合世界"
+    },
+    "notes": {
+      "production_note": "实景+特效",
+      "reference_style": "现代奇幻融合",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP31-S002",
+    "chapter_number": 31,
+    "scene_number": 2,
+    "duration": 10,
+    "shot_type": "中景",
+    "location": "维度办公室",
+    "time_of_day": "无",
+    "composition": {
+      "camera_position": "会议角度",
+      "camera_movement": "多人物切换",
+      "framing": "会议构图",
+      "focus_type": "争论清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "主持会议",
+        "action": "拍桌子,定规则",
+        "expression": "严厉",
+        "costume": "管理者长袍"
+      },
+      {
+        "name": "各文明代表",
+        "position": "全息投影",
+        "action": "争论",
+        "expression": "各抒己见",
+        "costume": "各异"
+      }
+    ],
+    "visual_effects": {
+      "environment": "全息会议室",
+      "lighting": "会议蓝光",
+      "color_palette": "冷色调",
+      "special_effects": "各代表全息投影:精灵、AI、蘑菇人,激烈争论"
+    },
+    "audio": {
+      "dialogue": "必须制定《现实世界行为守则》。我们要求保留魔法使用权!我们需要接入互联网权限!咕噜咕噜(俺要晒太阳)!都听我的!第一条:禁止在现实世界使用超自然能力!那活着还有什么意思?!",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "紧张协商",
+      "sound_effects": ["争论声", "翻译声"],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "快速切",
+      "pacing": "快速",
+      "purpose": "建立规则"
+    },
+    "notes": {
+      "production_note": "全息会议",
+      "reference_style": "政治协商",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP31-S003",
+    "chapter_number": 31,
+    "scene_number": 3,
+    "duration": 11,
+    "shot_type": "全景蒙太奇",
+    "location": "地球-全球各地",
+    "time_of_day": "多时段",
+    "composition": {
+      "camera_position": "全球多地点",
+      "camera_movement": "快速切换",
+      "framing": "混乱蒙太奇",
+      "focus_type": "异常清晰"
+    },
+    "characters": [
+      {
+        "name": "人类",
+        "position": "各地",
+        "action": "震惊,混乱",
+        "expression": "不可置信",
+        "costume": "现代服装"
+      },
+      {
+        "name": "投影存在们",
+        "position": "各地",
+        "action": "实体化",
+        "expression": "惊讶",
+        "costume": "各异"
+      }
+    ],
+    "visual_effects": {
+      "environment": "全球投影现象爆发",
+      "lighting": "魔法光芒",
+      "color_palette": "高对比度",
+      "special_effects": "金字塔旁魔法塔、高速公路飞天扫帚、小镇变蘑菇村、AEM热线被打爆、人类获得虚拟能力"
+    },
+    "audio": {
+      "dialogue": "喂?我家冰箱在唱精灵歌谣!报告!楼下的狗在说龙语!紧急!特朗普在联合国会议上变成了地精!立即暂停公测!停不了!主系统认为这是'计划内更新'!哥!我能看到游戏UI了!还有血条!我现在是LV2高中生!这都什么跟什么!",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "欢乐混乱",
+      "sound_effects": ["各种异常声"],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "快速切",
+      "pacing": "极快",
+      "purpose": "混乱蒙太奇"
+    },
+    "notes": {
+      "production_note": "大量特效",
+      "reference_style": "欢乐混乱",
+      "difficulty_level": "复杂"
+    }
+  },
+  {
+    "shot_id": "EP31-S004",
+    "chapter_number": 31,
+    "scene_number": 4,
+    "duration": 12,
+    "shot_type": "特效全景",
+    "location": "地球-首都上空",
+    "time_of_day": "白天",
+    "composition": {
+      "camera_position": "仰视+俯视",
+      "camera_movement": "环绕拍摄",
+      "framing": "震撼构图",
+      "focus_type": "巨龙清晰"
+    },
+    "characters": [
+      {
+        "name": "太古巨龙",
+        "position": "首都上空",
+        "action": "喷火",
+        "expression": "傲慢",
+        "costume": "终极BOSS形态"
+      },
+      {
+        "name": "军队",
+        "position": "地面",
+        "action": "攻击无效",
+        "expression": "惊慌",
+        "costume": "军装"
+      },
+      {
+        "name": "顾玄",
+        "position": "空中",
+        "action": "出手,覆盖规则",
+        "expression": "决绝",
+        "costume": "管理者长袍"
+      }
+    ],
+    "visual_effects": {
+      "environment": "首都上空",
+      "lighting": "龙火光芒",
+      "color_palette": "高对比度",
+      "special_effects": "太古巨龙投影,喷火,导弹无效,魔法协会封印失败,顾玄规则覆盖,耀眼光芒笼罩世界,投影存在彻底实体化遵守现实规则"
+    },
+    "audio": {
+      "dialogue": "卑微的存在!迎接新时代吧!规则修改:此生物禁止存在!修改失败!既然现实拒绝虚拟...那就让虚拟更现实!规则覆盖:承认所有存在为真实!现在!它遵守物理法则了!导弹终于起作用!",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "史诗战斗",
+      "sound_effects": ["龙吼", "导弹声", "规则建立声"],
+      "volume_level": "音效突出"
+    },
+    "editing": {
+      "transition_to_next": "光芒转场",
+      "pacing": "宏大",
+      "purpose": "融合高潮"
+    },
+    "notes": {
+      "production_note": "大量CG特效",
+      "reference_style": "史诗级场景",
+      "difficulty_level": "非常复杂"
+    }
+  },
+  {
+    "shot_id": "EP31-S005",
+    "chapter_number": 31,
+    "scene_number": 5,
+    "duration": 10,
+    "shot_type": "全景",
+    "location": "联合国-新世界峰会",
+    "time_of_day": "白天",
+    "composition": {
+      "camera_position": "会场广角",
+      "camera_movement": "缓慢扫视",
+      "framing": "宏大会议构图",
+      "focus_type": "会议全景清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "主持台",
+        "action": "主持大会",
+        "expression": "庄重",
+        "costume": "管理者长袍"
+      },
+      {
+        "name": "各文明代表",
+        "position": "会场各处",
+        "action": "参与会议",
+        "expression": "各异",
+        "costume": "各异"
+      }
+    ],
+    "visual_effects": {
+      "environment": "联合国会议厅",
+      "lighting": "会议灯光",
+      "color_palette": "正式色调",
+      "special_effects": "精灵议员和科学家争论、AI代表和律师修改宪法、蘑菇人种蘑菇"
+    },
+    "audio": {
+      "dialogue": "1.所有存在平等 2.禁止非法修改现实 3.建立跨宇宙教育部(教魔法和科学)。哥!我有个想法!基于现实投影技术的'梦想成真机'...等你先学会负责任!虽然混乱...但挺有意思的。也许这就是文明该有的样子",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "庄重带希望",
+      "sound_effects": ["会议声"],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "中等",
+      "purpose": "建立新秩序"
+    },
+    "notes": {
+      "production_note": "实景拍摄",
+      "reference_style": "正式会议",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP31-S006",
+    "chapter_number": 31,
+    "scene_number": 6,
+    "duration": 8,
+    "shot_type": "远景",
+    "location": "维度间隙",
+    "time_of_day": "无",
+    "composition": {
+      "camera_position": "大远景",
+      "camera_movement": "缓慢拉远",
+      "framing": "诗意构图",
+      "focus_type": "宇宙清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "维度间隙",
+        "action": "看着焕然一新的地球",
+        "expression": "欣慰",
+        "costume": "管理者长袍"
+      }
+    ],
+    "visual_effects": {
+      "environment": "维度间隙,地球新面貌",
+      "lighting": "宇宙星光",
+      "color_palette": "绚丽多彩",
+      "special_effects": "魔法塔与摩天楼并存,扫帚与汽车共舞,警报响起,未知信号"
+    },
+    "audio": {
+      "dialogue": "检测到未知信号...来源:其他宇宙块。翻译:欢迎加入'多元宇宙联盟'...附:入盟申请表格(需填写5000页)。先处理眼前的吧...蘑菇人好像在和熊猫打架...还有那个学会火球术的老太太把消防队点着了...",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "温馨带新冒险",
+      "sound_effects": ["警报声"],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "淡出",
+      "pacing": "舒缓",
+      "purpose": "新冒险开始"
+    },
+    "notes": {
+      "production_note": "宏大场景",
+      "reference_style": "史诗温馨",
+      "difficulty_level": "中等"
+    }
+  }
+]

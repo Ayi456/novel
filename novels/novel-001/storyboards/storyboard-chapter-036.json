@@ -1,0 +1,346 @@
+[
+  {
+    "shot_id": "EP36-S001",
+    "chapter_number": 36,
+    "scene_number": 1,
+    "duration": 10,
+    "shot_type": "中景",
+    "location": "升华之域",
+    "time_of_day": "无",
+    "composition": {
+      "camera_position": "对话角度",
+      "camera_movement": "缓慢推近",
+      "framing": "对话构图",
+      "focus_type": "对话清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "升华之域",
+        "action": "理解新身份",
+        "expression": "困惑→接受",
+        "costume": "管理者长袍"
+      },
+      {
+        "name": "引导者",
+        "position": "光之生命体",
+        "action": "解释,发放徽章",
+        "expression": "温和",
+        "costume": "光之形态"
+      }
+    ],
+    "visual_effects": {
+      "environment": "升华之域",
+      "lighting": "柔和光芒",
+      "color_palette": "神圣色调",
+      "special_effects": "光之生命体,徽章【初级宇宙管理者】【权限等级:幼儿园小班】"
+    },
+    "audio": {
+      "dialogue": "所以...我现在是...宇宙管理员plus pro max版?可以这么说。你的宇宙刚刚'毕业',需要学习如何与其他成熟宇宙相处。这是...我这算是降级了?管理单个宇宙和管理多元宇宙是两回事。首先你要参加...警报!原生宇宙正在发生巨变!",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "轻松转为紧张",
+      "sound_effects": ["徽章声", "警报"],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "快速切",
+      "pacing": "中等转快速",
+      "purpose": "新身份+危机"
+    },
+    "notes": {
+      "production_note": "实景+CG",
+      "reference_style": "幽默转折紧张",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP36-S002",
+    "chapter_number": 36,
+    "scene_number": 2,
+    "duration": 11,
+    "shot_type": "全景蒙太奇",
+    "location": "原生宇宙-各处",
+    "time_of_day": "无",
+    "composition": {
+      "camera_position": "多地点",
+      "camera_movement": "快速切换",
+      "framing": "混乱进化构图",
+      "focus_type": "进化清晰"
+    },
+    "characters": [
+      {
+        "name": "进化后的文明",
+        "position": "宇宙各处",
+        "action": "过度进化",
+        "expression": "兴奋,失控",
+        "costume": "进化形态"
+      },
+      {
+        "name": "顾玄",
+        "position": "返回宇宙",
+        "action": "稳定规则",
+        "expression": "头疼",
+        "costume": "管理者长袍"
+      }
+    ],
+    "visual_effects": {
+      "environment": "过度进化的宇宙",
+      "lighting": "进化光芒",
+      "color_palette": "高对比度",
+      "special_effects": "科技文明突破维度科技,魔法文明领悟创世魔法,蘑菇人光合小型宇宙,AI宇宙化,精灵创造多余维度,星系长满可食用蘑菇"
+    },
+    "audio": {
+      "dialogue": "我们在探索无限可能!这是魔法的自由!蘑菇要自由生长!规则稳定!都给我冷静下来!这不叫降级,新生宇宙文明就像熊孩子,有能力却没分寸!管理员plus pro max版现在当幼儿园园长...",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "混乱幽默",
+      "sound_effects": ["进化混乱声"],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "快速切",
+      "pacing": "极快",
+      "purpose": "进化混乱蒙太奇"
+    },
+    "notes": {
+      "production_note": "大量特效",
+      "reference_style": "混乱幽默",
+      "difficulty_level": "复杂"
+    }
+  },
+  {
+    "shot_id": "EP36-S003",
+    "chapter_number": 36,
+    "scene_number": 3,
+    "duration": 10,
+    "shot_type": "中景",
+    "location": "原生宇宙-各处",
+    "time_of_day": "无",
+    "composition": {
+      "camera_position": "多管理者",
+      "camera_movement": "流畅切换",
+      "framing": "家访构图",
+      "focus_type": "互动清晰"
+    },
+    "characters": [
+      {
+        "name": "成熟宇宙管理者",
+        "position": "来访",
+        "action": "家访,指导",
+        "expression": "严肃→尴尬",
+        "costume": "各异形态"
+      },
+      {
+        "name": "顾玄",
+        "position": "调解",
+        "action": "调解纠纷",
+        "expression": "崩溃",
+        "costume": "园长形态"
+      },
+      {
+        "name": "新生文明",
+        "position": "被指导",
+        "action": "反抗,学习",
+        "expression": "不满→接受",
+        "costume": "各异"
+      }
+    ],
+    "visual_effects": {
+      "environment": "多元宇宙",
+      "lighting": "指导光芒",
+      "color_palette": "多彩互动",
+      "special_effects": "机械至尊批评AI,魔法老法师教精灵标准姿势,生态花要求修剪蘑菇人,顾玄调解如园长,宇宙互助小组成立"
+    },
+    "audio": {
+      "dialogue": "不规范!缺乏安全协议!缺乏优雅!破坏生态平衡!不许给同学装芯片!别强迫别人摆姿势!蘑菇人有权利长成自己喜欢的样子!看到问题了吗?新生宇宙需要指导,而非管制",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "混乱转和谐",
+      "sound_effects": ["指导冲突声"],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "快速切",
+      "pacing": "快速",
+      "purpose": "家访冲突转和谐"
+    },
+    "notes": {
+      "production_note": "多角色+特效",
+      "reference_style": "幽默指导",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP36-S004",
+    "chapter_number": 36,
+    "scene_number": 4,
+    "duration": 11,
+    "shot_type": "全景蒙太奇",
+    "location": "宇宙边界-各处",
+    "time_of_day": "无",
+    "composition": {
+      "camera_position": "多边界点",
+      "camera_movement": "快速切换",
+      "framing": "边界摩擦构图",
+      "focus_type": "摩擦清晰"
+    },
+    "characters": [
+      {
+        "name": "各宇宙文明",
+        "position": "边界处",
+        "action": "摩擦,冲突",
+        "expression": "冲突",
+        "costume": "各异"
+      },
+      {
+        "name": "顾玄",
+        "position": "主持会议",
+        "action": "制定公约",
+        "expression": "头疼,负责",
+        "costume": "管理者长袍"
+      }
+    ],
+    "visual_effects": {
+      "environment": "宇宙边界",
+      "lighting": "边界光芒",
+      "color_palette": "多彩冲突",
+      "special_effects": "科技飞船误入魔法宇宙被当成金属龙,魔法咒语泄漏让电脑说谜语,蘑菇孢子飘到其他宇宙长唱歌蘑菇,宇宙边界会议制定《维度邻里公约》"
+    },
+    "audio": {
+      "dialogue": "设立边界标识!建立跨宇宙交警!蘑菇孢子需经过灭菌处理!咕噜(抗议)!无效!检测到'虚空残余'正在聚集!它们进化了!必须用超越规则的力量!文明多样性!科技文明演奏恒星交响乐,魔法文明编织命运织锦,蘑菇人举办史诗级蘑菇展!",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "冲突转文明",
+      "sound_effects": ["边界冲突声", "文明展示声"],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "快速切",
+      "pacing": "极快",
+      "purpose": "边界摩擦转对抗"
+    },
+    "notes": {
+      "production_note": "大量特效",
+      "reference_style": "冲突文明",
+      "difficulty_level": "复杂"
+    }
+  },
+  {
+    "shot_id": "EP36-S005",
+    "chapter_number": 36,
+    "scene_number": 5,
+    "duration": 12,
+    "shot_type": "特效全景",
+    "location": "多元宇宙",
+    "time_of_day": "无",
+    "composition": {
+      "camera_position": "宇宙视角",
+      "camera_movement": "宏大运动",
+      "framing": "文明多样性构图",
+      "focus_type": "展示清晰"
+    },
+    "characters": [
+      {
+        "name": "各文明",
+        "position": "宇宙各处",
+        "action": "展示独特一面",
+        "expression": "自豪,创作",
+        "costume": "各异"
+      },
+      {
+        "name": "虚空残余",
+        "position": "被驱散",
+        "action": "无法理解,消散",
+        "expression": "困惑,失败",
+        "costume": "虚空形态"
+      }
+    ],
+    "visual_effects": {
+      "environment": "多元宇宙",
+      "lighting": "文明光芒",
+      "color_palette": "绚丽多彩",
+      "special_effects": "恒星交响乐,命运织锦,史诗蘑菇展,虚空在文明多样性前无法理解无法侵蚀被驱散,宇宙成熟度飙升60%"
+    },
+    "audio": {
+      "dialogue": "这就是通过过滤器的意义!不是变得强大,而是变得...丰富!你终于明白了。管理宇宙不是控制,而是守护可能性。创始者去哪了?他们去了'源头'...探索所有宇宙之外的未知。也许有一天,你也会去。还是先当好幼儿园园长吧",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "智慧史诗",
+      "sound_effects": ["文明展示声", "虚空消散"],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "光芒转场",
+      "pacing": "宏大",
+      "purpose": "文明胜利"
+    },
+    "notes": {
+      "production_note": "大量CG特效",
+      "reference_style": "史诗级文明",
+      "difficulty_level": "非常复杂"
+    }
+  },
+  {
+    "shot_id": "EP36-S006",
+    "chapter_number": 36,
+    "scene_number": 6,
+    "duration": 10,
+    "shot_type": "中景",
+    "location": "维度办公室",
+    "time_of_day": "无",
+    "composition": {
+      "camera_position": "办公桌角度",
+      "camera_movement": "缓慢推近",
+      "framing": "日常构图",
+      "focus_type": "文件清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "办公桌前",
+        "action": "处理文件,微笑",
+        "expression": "无奈,满足",
+        "costume": "管理者长袍"
+      },
+      {
+        "name": "零",
+        "position": "跳出来",
+        "action": "报告新事务",
+        "expression": "习惯性",
+        "costume": "虚拟形象"
+      },
+      {
+        "name": "塔克,蘑菇人代表",
+        "position": "汇报",
+        "action": "各自报告",
+        "expression": "习惯性",
+        "costume": "各异"
+      }
+    ],
+    "visual_effects": {
+      "environment": "维度办公室",
+      "lighting": "日常办公光芒",
+      "color_palette": "温馨色调",
+      "special_effects": "桌上堆满文件:关于蘑菇孢子过敏的投诉、跨宇宙交通法修订案、如何防止AI给自己宇宙化指南,零跳出来,塔克哭诉,蘑菇人咕噜"
+    },
+    "audio": {
+      "dialogue": "兄弟!新来的几个宇宙打起来了!因为争论哪个物理定律更优美!阁下!有文明投诉我们的章鱼语是噪音污染!咕噜(申请更多花盆)!...开始工作吧。全书阶段性完结。感谢陪伴顾玄从特效仙人到宇宙园长的旅程。也许某天,新的冒险还会开始...",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "温馨日常",
+      "sound_effects": ["日常事务声"],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "淡出",
+      "pacing": "舒缓",
+      "purpose": "温馨完结"
+    },
+    "notes": {
+      "production_note": "温馨日常场景",
+      "reference_style": "温馨完结",
+      "difficulty_level": "简单"
+    }
+  }
+]

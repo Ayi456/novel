@@ -1,0 +1,742 @@
+[
+  {
+    "shot_id": "EP01-S001",
+    "chapter_number": 1,
+    "scene_number": 1,
+    "duration": 8,
+    "shot_type": "特写",
+    "location": "青云宗外门弟子房",
+    "time_of_day": "清晨",
+    "composition": {
+      "camera_position": "床榻正上方,俯视",
+      "camera_movement": "缓慢拉远",
+      "framing": "中心构图",
+      "focus_type": "主体清晰,周围环境逐渐入画"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "画面中央,躺在床上",
+        "action": "缓缓睁眼,眼神迷茫,然后猛地坐起",
+        "expression": "困惑 → 震惊",
+        "costume": "粗布麻衣"
+      }
+    ],
+    "visual_effects": {
+      "environment": "窗外云雾缭绕,远处青山如黛,晨光微亮",
+      "lighting": "自然光从窗户斜射,柔和昏暗",
+      "color_palette": "暖色调,晨光金",
+      "special_effects": "无"
+    },
+    "audio": {
+      "dialogue": "",
+      "narration": "",
+      "internal_monologue": "这是……哪里？",
+      "background_music": "轻柔神秘,缓慢引入",
+      "sound_effects": ["鸟鸣声", "木床轻微嘎吱声"],
+      "volume_level": "环境音为主,营造陌生感"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "舒缓",
+      "purpose": "建立开场场景,展现主角困惑"
+    },
+    "notes": {
+      "production_note": "实景拍摄,晨光效果",
+      "reference_style": "传统仙侠场景",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP01-S002",
+    "chapter_number": 1,
+    "scene_number": 1,
+    "duration": 6,
+    "shot_type": "中景",
+    "location": "青云宗外门弟子房",
+    "time_of_day": "清晨",
+    "composition": {
+      "camera_position": "房间角落,面向床榻",
+      "camera_movement": "固定镜头",
+      "framing": "三分法",
+      "focus_type": "主体清晰,背景略虚化"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "画面右侧,坐在床边",
+        "action": "环顾四周,揉太阳穴,表情凝重",
+        "expression": "困惑 → 思考",
+        "costume": "粗布麻衣"
+      }
+    ],
+    "visual_effects": {
+      "environment": "简陋的木屋,陈设简单",
+      "lighting": "昏暗自然光",
+      "color_palette": "暖色调,偏暗",
+      "special_effects": "无"
+    },
+    "audio": {
+      "dialogue": "",
+      "narration": "",
+      "internal_monologue": "所以……我穿越了？而且是那种开局就是废材流的老套剧情？",
+      "background_music": "轻柔带点幽默感",
+      "sound_effects": [],
+      "volume_level": "内心独白为主"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "舒缓",
+      "purpose": "展现主角的认知过程,带吐槽风格"
+    },
+    "notes": {
+      "production_note": "实景拍摄",
+      "reference_style": "现代修仙轻喜剧",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP01-S003",
+    "chapter_number": 1,
+    "scene_number": 1,
+    "duration": 5,
+    "shot_type": "特写",
+    "location": "顾玄脑海/眼前",
+    "time_of_day": "清晨",
+    "composition": {
+      "camera_position": "主观视角",
+      "camera_movement": "界面浮入",
+      "framing": "中心构图",
+      "focus_type": "界面文字清晰,背景模糊"
+    },
+    "characters": [],
+    "visual_effects": {
+      "environment": "半透明蓝色界面浮现",
+      "lighting": "界面自发光",
+      "color_palette": "冷色调,蓝白色",
+      "special_effects": "半透明界面,文字清晰显示:【天魔系统已激活】【正在绑定宿主……绑定完成】"
+    },
+    "audio": {
+      "dialogue": "",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "科技感机械音背景",
+      "sound_effects": ["系统机械音: '天魔系统已激活'"],
+      "volume_level": "机械音突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "中等",
+      "purpose": "系统登场,关键设定"
+    },
+    "notes": {
+      "production_note": "需要CG制作系统界面",
+      "reference_style": "科技感+仙侠结合",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP01-S004",
+    "chapter_number": 1,
+    "scene_number": 1,
+    "duration": 7,
+    "shot_type": "近景",
+    "location": "青云宗外门弟子房",
+    "time_of_day": "清晨",
+    "composition": {
+      "camera_position": "正面拍摄",
+      "camera_movement": "轻微推近",
+      "framing": "中心构图",
+      "focus_type": "主体清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "画面中央",
+        "action": "看着眼前界面,表情震惊",
+        "expression": "震惊 → 疑惑",
+        "costume": "粗布麻衣"
+      }
+    ],
+    "visual_effects": {
+      "environment": "木屋内景",
+      "lighting": "昏暗自然光 + 界面蓝光",
+      "color_palette": "冷暖对比",
+      "special_effects": "系统界面浮现在眼前,显示详细信息"
+    },
+    "audio": {
+      "dialogue": "等等,什么天魔系统？什么管理员？",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "轻快带悬疑",
+      "sound_effects": ["系统机械音持续"],
+      "volume_level": "对话为主"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "中等",
+      "purpose": "展示主角对系统的困惑"
+    },
+    "notes": {
+      "production_note": "实景+CG界面",
+      "reference_style": "现代修仙轻喜剧",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP01-S005",
+    "chapter_number": 1,
+    "scene_number": 1,
+    "duration": 10,
+    "shot_type": "特效特写",
+    "location": "青云宗外门弟子房",
+    "time_of_day": "清晨",
+    "composition": {
+      "camera_position": "环绕拍摄",
+      "camera_movement": "快速环绕",
+      "framing": "动态构图",
+      "focus_type": "主体清晰,特效突出"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "画面中央",
+        "action": "激活特效,周身金光大盛,被自己的特效吓一跳",
+        "expression": "期待 → 震惊 → 慌乱",
+        "costume": "粗布麻衣"
+      }
+    ],
+    "visual_effects": {
+      "environment": "木屋被金光照亮,如白昼",
+      "lighting": "金色光芒璀璨夺目",
+      "color_palette": "高对比度,金色为主",
+      "special_effects": "周身金光大盛,雷电游走,视觉效果拉满,整个木屋被照得亮如白昼"
+    },
+    "audio": {
+      "dialogue": "卧槽！",
+      "narration": "",
+      "internal_monologue": "这特效也太夸张了吧！跟不要钱似的！",
+      "background_music": "恢弘震撼",
+      "sound_effects": ["能量涌动声", "雷电噼啪声", "系统提示音"],
+      "volume_level": "音效突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "快速",
+      "purpose": "展示系统特效的震撼,制造笑点"
+    },
+    "notes": {
+      "production_note": "需要大量CG特效",
+      "reference_style": "夸张特效风格",
+      "difficulty_level": "复杂"
+    }
+  },
+  {
+    "shot_id": "EP01-S006",
+    "chapter_number": 1,
+    "scene_number": 2,
+    "duration": 6,
+    "shot_type": "远景→跟拍",
+    "location": "青云宗上空",
+    "time_of_day": "清晨",
+    "composition": {
+      "camera_position": "空中跟拍",
+      "camera_movement": "跟随飞剑移动",
+      "framing": "动态构图",
+      "focus_type": "主体清晰,背景虚化"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "画面中央,踩飞剑飞行",
+        "action": "御剑飞行,周身光晕缭绕",
+        "expression": "陶醉 → 慌张",
+        "costume": "白衣飘逸,特效加持"
+      }
+    ],
+    "visual_effects": {
+      "environment": "云海之上,青山如画",
+      "lighting": "金色晨光 + 特效光晕",
+      "color_palette": "明亮清新",
+      "special_effects": "飞剑拖出长长的光尾,宛如流星划过天际,周身金光护体"
+    },
+    "audio": {
+      "dialogue": "",
+      "narration": "",
+      "internal_monologue": "爽！这才是修仙嘛！",
+      "background_music": "轻快悠扬",
+      "sound_effects": ["风声呼啸", "飞剑破空声"],
+      "volume_level": "音效烘托氛围"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "中等偏快",
+      "purpose": "展示御剑飞行,视觉效果"
+    },
+    "notes": {
+      "production_note": "航拍+特效",
+      "reference_style": "传统仙侠风",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP01-S007",
+    "chapter_number": 1,
+    "scene_number": 3,
+    "duration": 8,
+    "shot_type": "全景→特写",
+    "location": "青云宗山门广场",
+    "time_of_day": "清晨",
+    "composition": {
+      "camera_position": "山门广场上方,俯拍",
+      "camera_movement": "从高空俯冲至近景",
+      "framing": "中心构图",
+      "focus_type": "从全景聚焦至主体"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "从空中坠落",
+        "action": "御剑飞行时突然特效耗尽,狗啃泥摔落",
+        "expression": "陶醉 → 惊恐 → 尴尬",
+        "costume": "白衣变粗布麻衣(特效消失)"
+      }
+    ],
+    "visual_effects": {
+      "environment": "山门广场,聚集众多弟子",
+      "lighting": "明亮晨光",
+      "color_palette": "从金色光芒(特效)→平淡自然光",
+      "special_effects": "周身金光突然熄灭,如接触不良的灯泡,最后'噗'的一声全灭"
+    },
+    "audio": {
+      "dialogue": "",
+      "narration": "",
+      "internal_monologue": "卧槽！没电了？！",
+      "background_music": "恢弘音乐突然中断",
+      "sound_effects": ["特效消失的噗声", "摔跤的咚声", "全场寂静"],
+      "volume_level": "突然静音制造尴尬"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "先震撼后搞笑",
+      "purpose": "制造反差笑点,积分耗尽设定"
+    },
+    "notes": {
+      "production_note": "特效对比要强烈",
+      "reference_style": "现代修仙轻喜剧",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP01-S008",
+    "chapter_number": 1,
+    "scene_number": 3,
+    "duration": 5,
+    "shot_type": "全景",
+    "location": "青云宗山门广场",
+    "time_of_day": "清晨",
+    "composition": {
+      "camera_position": "广场边缘,面向顾玄",
+      "camera_movement": "固定镜头",
+      "framing": "广角",
+      "focus_type": "全景清晰"
+    },
+    "characters": [
+      {
+        "name": "众弟子",
+        "position": "广场四周,围观",
+        "action": "先震惊后哄堂大笑",
+        "expression": "震惊 → 忍俊不禁",
+        "costume": "各色弟子服"
+      }
+    ],
+    "visual_effects": {
+      "environment": "山门广场,顾玄趴在地上",
+      "lighting": "明亮自然光",
+      "color_palette": "自然色调",
+      "special_effects": "无"
+    },
+    "audio": {
+      "dialogue": "哈哈哈哈！",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "突然爆发的笑声",
+      "sound_effects": ["哄堂大笑", "窃窃私语"],
+      "volume_level": "笑声突出"
+    },
+    "editing": {
+      "transition_to_next": "淡出",
+      "pacing": "幽默",
+      "purpose": "强化喜剧效果"
+    },
+    "notes": {
+      "production_note": "实景拍摄",
+      "reference_style": "轻喜剧",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP01-S009",
+    "chapter_number": 1,
+    "scene_number": 4,
+    "duration": 7,
+    "shot_type": "中景",
+    "location": "青云宗山门广场",
+    "time_of_day": "清晨",
+    "composition": {
+      "camera_position": "平视,两人之间",
+      "camera_movement": "轻微推拉",
+      "framing": "双人构图",
+      "focus_type": "两人都清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "画面左侧",
+        "action": "拍拍尘土,恢复淡定,强装镇定",
+        "expression": "尴尬 → 强行淡定",
+        "costume": "粗布麻衣"
+      },
+      {
+        "name": "陆尘",
+        "position": "画面右侧",
+        "action": "崇拜地看着顾玄,眼中闪烁光芒",
+        "expression": "崇拜 → 期待",
+        "costume": "布衣少女"
+      }
+    ],
+    "visual_effects": {
+      "environment": "山门广场",
+      "lighting": "明亮晨光",
+      "color_palette": "温暖色调",
+      "special_effects": "无"
+    },
+    "audio": {
+      "dialogue": "陆尘: '前辈！收我为徒吧！'",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "温情轻快",
+      "sound_effects": [],
+      "volume_level": "对话清晰"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "温情",
+      "purpose": "展现陆尘的执着和顾玄的认可"
+    },
+    "notes": {
+      "production_note": "实景拍摄",
+      "reference_style": "温情场景",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP01-S010",
+    "chapter_number": 1,
+    "scene_number": 4,
+    "duration": 8,
+    "shot_type": "近景",
+    "location": "青云宗山门广场",
+    "time_of_day": "清晨",
+    "composition": {
+      "camera_position": "侧面,聚焦顾玄",
+      "camera_movement": "缓慢推近",
+      "framing": "单人构图",
+      "focus_type": "主体清晰,背景略虚"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "画面中央",
+        "action": "看着陆尘坚定的眼神,最终点头",
+        "expression": "犹豫 → 认可 → 温和",
+        "costume": "粗布麻衣"
+      },
+      {
+        "name": "陆尘",
+        "position": "画面背景",
+        "action": "跪地行礼,眼中含泪",
+        "expression": "感激",
+        "costume": "布衣少女"
+      }
+    ],
+    "visual_effects": {
+      "environment": "山门广场",
+      "lighting": "柔和晨光",
+      "color_palette": "温暖色调",
+      "special_effects": "无"
+    },
+    "audio": {
+      "dialogue": "顾玄: '好吧。从今天起,你就是我顾玄的弟子。'",
+      "narration": "",
+      "internal_monologue": "希望别给我惹麻烦...",
+      "background_music": "温情悠扬",
+      "sound_effects": [],
+      "volume_level": "对话为主"
+    },
+    "editing": {
+      "transition_to_next": "淡出",
+      "pacing": "舒缓",
+      "purpose": "重要情节转折,师徒关系确立"
+    },
+    "notes": {
+      "production_note": "注重情感表达",
+      "reference_style": "温情场景",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP01-S011",
+    "chapter_number": 1,
+    "scene_number": 5,
+    "duration": 6,
+    "shot_type": "特效特写",
+    "location": "青云宗山门广场",
+    "time_of_day": "正午",
+    "composition": {
+      "camera_position": "仰拍天空",
+      "camera_movement": "跟随雷霆移动",
+      "framing": "动态构图",
+      "focus_type": "雷霆清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "画面下方,抬头望天",
+        "action": "看到雷霆降下,下意识抬手",
+        "expression": "震惊 → 慌乱",
+        "costume": "粗布麻衣"
+      }
+    ],
+    "visual_effects": {
+      "environment": "乌云密布,雷蛇游走",
+      "lighting": "昏暗天空+雷电亮光",
+      "color_palette": "高对比度",
+      "special_effects": "一道粗大雷霆劈下,被顾玄手中吸收,然后反向射出"
+    },
+    "audio": {
+      "dialogue": "",
+      "narration": "",
+      "internal_monologue": "卧槽！雷劫？！我才刚入门啊！",
+      "background_music": "紧张悬疑",
+      "sound_effects": ["雷声轰隆", "电流滋滋声"],
+      "volume_level": "雷声突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "紧张",
+      "purpose": "展现实力,埋下伏笔"
+    },
+    "notes": {
+      "production_note": "需要CG制作雷霆特效",
+      "reference_style": "仙侠特效",
+      "difficulty_level": "复杂"
+    }
+  },
+  {
+    "shot_id": "EP01-S012",
+    "chapter_number": 1,
+    "scene_number": 5,
+    "duration": 7,
+    "shot_type": "近景",
+    "location": "青云宗山门广场",
+    "time_of_day": "正午",
+    "composition": {
+      "camera_position": "正面拍摄顾玄",
+      "camera_movement": "轻微环绕",
+      "framing": "中心构图",
+      "focus_type": "主体清晰,特效突出"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "画面中央",
+        "action": "周身雷电缠绕,一脸淡定(内心慌得一批)",
+        "expression": "表面淡定,内心慌乱",
+        "costume": "粗布麻衣,电弧缭绕"
+      }
+    ],
+    "visual_effects": {
+      "environment": "乌云消散,阳光重现",
+      "lighting": "自然光 + 电光",
+      "color_palette": "明亮+电光蓝",
+      "special_effects": "系统自动防御,周身电弧游走,吸收的雷霆反向射出击碎云层"
+    },
+    "audio": {
+      "dialogue": "",
+      "narration": "",
+      "internal_monologue": "系统你大爷的！吓死爹了！",
+      "background_music": "紧张后转为恢弘",
+      "sound_effects": ["系统机械音", "电流声"],
+      "volume_level": "音效突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "紧张刺激",
+      "purpose": "展示系统自动防御"
+    },
+    "notes": {
+      "production_note": "大量特效",
+      "reference_style": "仙侠特效",
+      "difficulty_level": "复杂"
+    }
+  },
+  {
+    "shot_id": "EP01-S013",
+    "chapter_number": 1,
+    "scene_number": 6,
+    "duration": 8,
+    "shot_type": "远景→特写",
+    "location": "青云宗上空",
+    "time_of_day": "正午",
+    "composition": {
+      "camera_position": "从高空俯冲至近景",
+      "camera_movement": "急速推近",
+      "framing": "从全景聚焦至顾玄",
+      "focus_type": "突出主体压迫感"
+    },
+    "characters": [
+      {
+        "name": "天魔使者",
+        "position": "画面上方,黑影笼罩",
+        "action": "释放恐怖威压,黑气缭绕",
+        "expression": "冷漠 → 震惊",
+        "costume": "黑袍,若隐若现"
+      },
+      {
+        "name": "顾玄",
+        "position": "画面下方,独自面对",
+        "action": "强撑不跪,暗中催动系统",
+        "expression": "痛苦 → 愤怒",
+        "costume": "粗布麻衣,冷汗直流"
+      }
+    ],
+    "visual_effects": {
+      "environment": "天空被黑气笼罩",
+      "lighting": "昏暗压抑",
+      "color_palette": "冷色调,黑白灰",
+      "special_effects": "天魔威压黑气缭绕,恐怖威压让地面龟裂,系统自动激活防御"
+    },
+    "audio": {
+      "dialogue": "天魔使者: '找到你了...天魔的叛徒...'",
+      "narration": "",
+      "internal_monologue": "叛徒你大爷！我都不知道发生了什么！",
+      "background_music": "压抑悬疑",
+      "sound_effects": ["威压轰鸣", "黑气涌动"],
+      "volume_level": "压抑氛围"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "压抑紧张",
+      "purpose": "引入危机,系统真实性的考验"
+    },
+    "notes": {
+      "production_note": "大量CG特效",
+      "reference_style": "暗黑仙侠风",
+      "difficulty_level": "复杂"
+    }
+  },
+  {
+    "shot_id": "EP01-S014",
+    "chapter_number": 1,
+    "scene_number": 6,
+    "duration": 6,
+    "shot_type": "特写",
+    "location": "青云宗山门广场",
+    "time_of_day": "正午",
+    "composition": {
+      "camera_position": "正面特写顾玄",
+      "camera_movement": "固定镜头",
+      "framing": "中心构图",
+      "focus_type": "面部特写,眼神坚定"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "画面中央",
+        "action": "强忍威压,厉喝一声",
+        "expression": "痛苦 → 愤怒 → 爆发",
+        "costume": "粗布麻衣"
+      }
+    ],
+    "visual_effects": {
+      "environment": "威压与系统之力对抗",
+      "lighting": "黑气 vs 金光",
+      "color_palette": "高对比度",
+      "special_effects": "系统之力爆发,金光冲天,与黑气对抗,顾玄身后隐约出现天魔虚影"
+    },
+    "audio": {
+      "dialogue": "顾玄: '滚！！！'",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "压抑后突然爆发",
+      "sound_effects": ["威压破碎声", "金光爆发"],
+      "volume_level": "爆发突出"
+    },
+    "editing": {
+      "transition_to_next": "淡出",
+      "pacing": "压抑→爆发",
+      "purpose": "高潮场景,展现力量"
+    },
+    "notes": {
+      "production_note": "大量特效",
+      "reference_style": "仙侠高潮场景",
+      "difficulty_level": "复杂"
+    }
+  },
+  {
+    "shot_id": "EP01-S015",
+    "chapter_number": 1,
+    "scene_number": 7,
+    "duration": 10,
+    "shot_type": "全景",
+    "location": "青云宗山门广场",
+    "time_of_day": "午后",
+    "composition": {
+      "camera_position": "高角度俯拍",
+      "camera_movement": "缓慢拉远",
+      "framing": "大广角",
+      "focus_type": "全景清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "画面中央,独自站立",
+        "action": "看着天魔使者消散,长舒一口气",
+        "expression": "疲惫 → 释然",
+        "costume": "粗布麻衣"
+      },
+      {
+        "name": "众弟子",
+        "position": "四周围观",
+        "action": "敬畏地看着顾玄",
+        "expression": "震撼 → 崇拜",
+        "costume": "各色弟子服"
+      }
+    ],
+    "visual_effects": {
+      "environment": "乌云散去,阳光重现",
+      "lighting": "明亮自然光",
+      "color_palette": "温暖色调",
+      "special_effects": "黑气消散,金光渐隐"
+    },
+    "audio": {
+      "dialogue": "",
+      "narration": "从今天起,青云宗有了一位'特效仙人'...",
+      "internal_monologue": "总算糊弄过去了...这坑爹系统！",
+      "background_music": "恢弘逐渐转为轻松",
+      "sound_effects": [],
+      "volume_level": "音乐为主"
+    },
+    "editing": {
+      "transition_to_next": "淡出",
+      "pacing": "舒缓",
+      "purpose": "章节结尾,为后续埋伏笔"
+    },
+    "notes": {
+      "production_note": "收尾场景",
+      "reference_style": "传统仙侠+现代元素",
+      "difficulty_level": "简单"
+    }
+  }
+]

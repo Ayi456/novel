@@ -1,0 +1,475 @@
+[
+  {
+    "shot_id": "EP02-S001",
+    "chapter_number": 2,
+    "scene_number": 1,
+    "duration": 7,
+    "shot_type": "全景",
+    "location": "青云宗主殿",
+    "time_of_day": "清晨",
+    "composition": {
+      "camera_position": "主殿门口,仰视",
+      "camera_movement": "缓慢推入",
+      "framing": "对称构图",
+      "focus_type": "整体清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "殿内,站在破旧主殿中",
+        "action": "环顾四周,看着破旧的主殿",
+        "expression": "无奈 → 接受",
+        "costume": "粗布麻衣"
+      },
+      {
+        "name": "陆尘",
+        "position": "跟在顾玄身后",
+        "action": "好奇地四处打量",
+        "expression": "好奇 → 期待",
+        "costume": "布衣少女"
+      }
+    ],
+    "visual_effects": {
+      "environment": "破旧的主殿,四处漏风,庄重仪式与简陋环境形成反差",
+      "lighting": "晨光从破洞射入",
+      "color_palette": "暖色调,略显破败",
+      "special_effects": "无"
+    },
+    "audio": {
+      "dialogue": "",
+      "narration": "",
+      "internal_monologue": "就这？青云宗主殿？",
+      "background_music": "轻快带幽默感",
+      "sound_effects": ["风声呼啸", "木门嘎吱声"],
+      "volume_level": "环境音为主"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "幽默舒缓",
+      "purpose": "建立场景,展现宗门寒酸"
+    },
+    "notes": {
+      "production_note": "实景拍摄,突出破败感",
+      "reference_style": "现代修仙轻喜剧",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP02-S002",
+    "chapter_number": 2,
+    "scene_number": 1,
+    "duration": 6,
+    "shot_type": "中景",
+    "location": "青云宗主殿",
+    "time_of_day": "清晨",
+    "composition": {
+      "camera_position": "侧面拍摄",
+      "camera_movement": "固定镜头",
+      "framing": "双人构图",
+      "focus_type": "两人清晰"
+    },
+    "characters": [
+      {
+        "name": "李道玄",
+        "position": "画面左侧,坐在破旧掌门座上",
+        "action": "清嗓子,努力维持威严",
+        "expression": "严肃 → 破功",
+        "costume": "略显陈旧的掌门袍"
+      },
+      {
+        "name": "顾玄",
+        "position": "画面右侧",
+        "action": "站在下方,看着师尊演戏",
+        "expression": "忍俊不禁",
+        "costume": "粗布麻衣"
+      }
+    ],
+    "visual_effects": {
+      "environment": "破旧主殿,掌门座都有点摇晃",
+      "lighting": "晨光斜射",
+      "color_palette": "温暖色调",
+      "special_effects": "无"
+    },
+    "audio": {
+      "dialogue": "李道玄: '咳咳...从今日起,陆尘便是我青云宗正式弟子。'",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "庄重中带点滑稽",
+      "sound_effects": ["椅子嘎吱声"],
+      "volume_level": "对话清晰"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "幽默",
+      "purpose": "入门仪式,寒酸但温馨"
+    },
+    "notes": {
+      "production_note": "注重幽默感",
+      "reference_style": "轻喜剧",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP02-S003",
+    "chapter_number": 2,
+    "scene_number": 2,
+    "duration": 8,
+    "shot_type": "中景",
+    "location": "青云宗后院空地",
+    "time_of_day": "上午",
+    "composition": {
+      "camera_position": "侧面拍摄",
+      "camera_movement": "轻微跟随",
+      "framing": "三人构图",
+      "focus_type": "主体清晰"
+    },
+    "characters": [
+      {
+        "name": "陆尘",
+        "position": "画面中央,盘膝而坐",
+        "action": "尝试引气入体,满脸通红",
+        "expression": "专注 → 疲惫 → 失望",
+        "costume": "布衣少女"
+      },
+      {
+        "name": "顾玄",
+        "position": "画面左侧,指导中",
+        "action": "看着陆尘修炼,暗自着急",
+        "expression": "担忧 → 无奈",
+        "costume": "粗布麻衣"
+      },
+      {
+        "name": "李道玄",
+        "position": "画面右侧,观望",
+        "action": "捋须沉思",
+        "expression": "凝重",
+        "costume": "掌门袍"
+      }
+    ],
+    "visual_effects": {
+      "environment": "后院空地,老槐树下",
+      "lighting": "自然光",
+      "color_palette": "清新色调",
+      "special_effects": "无"
+    },
+    "audio": {
+      "dialogue": "顾玄: '放松...感受天地灵气...'",
+      "narration": "",
+      "internal_monologue": "这丫头真的没有灵根啊！怎么办？",
+      "background_music": "轻柔带点焦虑",
+      "sound_effects": [],
+      "volume_level": "对话为主"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "缓慢,尴尬",
+      "purpose": "展现无灵根的困境"
+    },
+    "notes": {
+      "production_note": "注重情感表达",
+      "reference_style": "温馨场景",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP02-S004",
+    "chapter_number": 2,
+    "scene_number": 3,
+    "duration": 6,
+    "shot_type": "仰拍特效",
+    "location": "青云宗上空",
+    "time_of_day": "午后",
+    "composition": {
+      "camera_position": "从地面仰拍天空",
+      "camera_movement": "跟随乌云移动",
+      "framing": "天空为主",
+      "focus_type": "乌云雷电清晰"
+    },
+    "characters": [],
+    "visual_effects": {
+      "environment": "乌云密布,电蛇游走",
+      "lighting": "昏暗天空,雷电闪烁",
+      "color_palette": "高对比度",
+      "special_effects": "乌云突然聚集,雷声滚滚,电蛇在云中游走,营造危机感"
+    },
+    "audio": {
+      "dialogue": "",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "紧张悬疑",
+      "sound_effects": ["雷声隆隆", "风声呼啸"],
+      "volume_level": "雷声突出"
+    },
+    "editing": {
+      "transition_to_next": "快速切",
+      "pacing": "紧张",
+      "purpose": "危机降临,雷劫将至"
+    },
+    "notes": {
+      "production_note": "CG制作乌云雷电",
+      "reference_style": "仙侠危机场景",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP02-S005",
+    "chapter_number": 2,
+    "scene_number": 3,
+    "duration": 7,
+    "shot_type": "近景",
+    "location": "青云宗后院",
+    "time_of_day": "午后",
+    "composition": {
+      "camera_position": "聚焦陆尘",
+      "camera_movement": "快速推近",
+      "framing": "特写",
+      "focus_type": "主体清晰"
+    },
+    "characters": [
+      {
+        "name": "陆尘",
+        "position": "画面中央",
+        "action": "走火入魔,周身灵力紊乱",
+        "expression": "痛苦 → 意识模糊",
+        "costume": "布衣少女"
+      }
+    ],
+    "visual_effects": {
+      "environment": "后院空地",
+      "lighting": "昏暗天光+灵力紊乱的光芒",
+      "color_palette": "紧张色调",
+      "special_effects": "陆尘周身灵力失控,紫色电弧乱窜,表情痛苦"
+    },
+    "audio": {
+      "dialogue": "",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "紧张急促",
+      "sound_effects": ["灵力紊乱声", "痛苦的闷哼"],
+      "volume_level": "紧张氛围"
+    },
+    "editing": {
+      "transition_to_next": "快速切",
+      "pacing": "紧张",
+      "purpose": "危机爆发"
+    },
+    "notes": {
+      "production_note": "注重表情演技",
+      "reference_style": "危机场景",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP02-S006",
+    "chapter_number": 2,
+    "scene_number": 3,
+    "duration": 8,
+    "shot_type": "特效特写",
+    "location": "青云宗后院",
+    "time_of_day": "午后",
+    "composition": {
+      "camera_position": "环绕拍摄",
+      "camera_movement": "快速环绕",
+      "framing": "动态构图",
+      "focus_type": "特效突出"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "画面中央",
+        "action": "下意识抬手引雷",
+        "expression": "惊慌 → 本能反应",
+        "costume": "粗布麻衣"
+      }
+    ],
+    "visual_effects": {
+      "environment": "雷劫降临",
+      "lighting": "雷电亮光",
+      "color_palette": "高对比度",
+      "special_effects": "落雷直劈后院,老槐树瞬间化为焦炭,顾玄手上缠绕电弧,将雷电引导分散"
+    },
+    "audio": {
+      "dialogue": "",
+      "narration": "",
+      "internal_monologue": "卧槽！这么大？！",
+      "background_music": "震撼紧张",
+      "sound_effects": ["落雷轰鸣", "电流滋滋", "树木燃烧声"],
+      "volume_level": "雷声突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "震撼",
+      "purpose": "引雷淬体,误打误撞"
+    },
+    "notes": {
+      "production_note": "大量CG特效",
+      "reference_style": "仙侠特效",
+      "difficulty_level": "复杂"
+    }
+  },
+  {
+    "shot_id": "EP02-S007",
+    "chapter_number": 2,
+    "scene_number": 4,
+    "duration": 7,
+    "shot_type": "中景",
+    "location": "青云宗后院",
+    "time_of_day": "午后",
+    "composition": {
+      "camera_position": "三人全景",
+      "camera_movement": "固定镜头",
+      "framing": "三人构图",
+      "focus_type": "全体清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "画面左侧",
+        "action": "手上电弧缭绕,一脸懵逼",
+        "expression": "懵逼 → 强行镇定",
+        "costume": "粗布麻衣"
+      },
+      {
+        "name": "陆尘",
+        "position": "画面中央",
+        "action": "昏迷后苏醒,感觉身体变化",
+        "expression": "茫然 → 惊喜",
+        "costume": "布衣少女"
+      },
+      {
+        "name": "李道玄",
+        "position": "画面右侧",
+        "action": "震撼地看着这一切",
+        "expression": "震惊 → 崇拜",
+        "costume": "掌门袍"
+      }
+    ],
+    "visual_effects": {
+      "environment": "雷劫过后的后院,老槐树成焦炭",
+      "lighting": "自然光恢复",
+      "color_palette": "略带灰暗",
+      "special_effects": "顾玄手上电弧游走,陆尘体内隐约有雷光闪烁"
+    },
+    "audio": {
+      "dialogue": "李道玄: '引雷淬体？！这是传说中的淬体之法！'",
+      "narration": "",
+      "internal_monologue": "顾玄: 我哪知道什么引雷淬体！系统你出来！",
+      "background_music": "震撼后转为轻松",
+      "sound_effects": [],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "幽默",
+      "purpose": "真相误解,强行挽尊"
+    },
+    "notes": {
+      "production_note": "注重喜剧效果",
+      "reference_style": "现代修仙轻喜剧",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP02-S008",
+    "chapter_number": 2,
+    "scene_number": 4,
+    "duration": 6,
+    "shot_type": "近景",
+    "location": "青云宗后院",
+    "time_of_day": "午后",
+    "composition": {
+      "camera_position": "聚焦顾玄",
+      "camera_movement": "轻微推近",
+      "framing": "单人构图",
+      "focus_type": "面部特写"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "画面中央",
+        "action": "强行淡定,一本正经地胡说",
+        "expression": "表面淡定,内心崩溃",
+        "costume": "粗布麻衣"
+      }
+    ],
+    "visual_effects": {
+      "environment": "后院",
+      "lighting": "自然光",
+      "color_palette": "温暖色调",
+      "special_effects": "无"
+    },
+    "audio": {
+      "dialogue": "顾玄: '咳咳...为师早看出师妹体质特殊,特以雷劫淬体...'",
+      "narration": "",
+      "internal_monologue": "瞎编呢我...他们居然信了？！",
+      "background_music": "轻松幽默",
+      "sound_effects": [],
+      "volume_level": "对话为主"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "幽默",
+      "purpose": "强化误会,喜剧效果"
+    },
+    "notes": {
+      "production_note": "注重表情演技",
+      "reference_style": "轻喜剧",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP02-S009",
+    "chapter_number": 2,
+    "scene_number": 5,
+    "duration": 7,
+    "shot_type": "全景",
+    "location": "青云宗后院",
+    "time_of_day": "黄昏",
+    "composition": {
+      "camera_position": "远景拍摄",
+      "camera_movement": "缓慢拉远",
+      "framing": "广角",
+      "focus_type": "全景清晰"
+    },
+    "characters": [
+      {
+        "name": "陆尘",
+        "position": "画面中央,继续修炼",
+        "action": "尝试引雷淬体后的修炼",
+        "expression": "专注 → 期待",
+        "costume": "布衣少女"
+      },
+      {
+        "name": "顾玄",
+        "position": "画面一侧,暗中观察",
+        "action": "偷偷查看系统界面",
+        "expression": "担忧 → 思考",
+        "costume": "粗布麻衣"
+      }
+    ],
+    "visual_effects": {
+      "environment": "夕阳西下,后院宁静",
+      "lighting": "黄昏金光",
+      "color_palette": "温暖色调",
+      "special_effects": "陆尘周身隐约可见微弱电弧"
+    },
+    "audio": {
+      "dialogue": "",
+      "narration": "从此,青云宗有了一位特殊的弟子,和一个被迫装逼的师兄...",
+      "internal_monologue": "",
+      "background_music": "轻松悠扬",
+      "sound_effects": [],
+      "volume_level": "音乐为主"
+    },
+    "editing": {
+      "transition_to_next": "淡出",
+      "pacing": "舒缓",
+      "purpose": "章节收尾,为后续埋伏笔"
+    },
+    "notes": {
+      "production_note": "收尾场景",
+      "reference_style": "温馨场景",
+      "difficulty_level": "简单"
+    }
+  }
+]
