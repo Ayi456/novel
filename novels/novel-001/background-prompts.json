@@ -1,0 +1,290 @@
+{
+  "scenes": [
+    {
+      "id": "scene-001",
+      "name": "青云宗外门弟子房-清晨",
+      "location_type": "室内",
+      "time_of_day": "清晨",
+      "main_prompt": "Chinese xianxia style, humble wooden room in cultivation sect, simple wooden furniture, wooden bed, wooden table, paper window, morning sunlight through window, misty mountains visible outside window, warm golden lighting, peaceful cultivation atmosphere, high quality, detailed, 8k resolution, no people, no text, no UI elements",
+      "sub_scenes": [
+        {
+          "name": "青云宗外门弟子房-夜晚",
+          "prompt": "Chinese xianxia style, humble wooden room in cultivation sect, night time, moonlight through window, stars visible in sky, cool blue lighting, oil lamp on wooden table, paper window, quiet and serene cultivation atmosphere, high quality, detailed, 8k resolution, no people, no text, no UI elements"
+        },
+        {
+          "name": "青云宗外门弟子房-雨天",
+          "prompt": "Chinese xianxia style, humble wooden room in cultivation sect, rainy day, raindrops on paper window, gloomy but cozy lighting, wooden floor wet with rain reflection, melancholic cultivation atmosphere, simple wooden furniture, high quality, detailed, 8k resolution, no people, no text, no UI elements"
+        },
+        {
+          "name": "青云宗外门弟子房-黄昏",
+          "prompt": "Chinese xianxia style, humble wooden room in cultivation sect, sunset golden hour, warm orange light through paper window, long shadows, peaceful evening cultivation atmosphere, simple wooden bed and table, high quality, detailed, 8k resolution, no people, no text, no UI elements"
+        }
+      ],
+      "tags": ["室内", "木屋", "简陋", "弟子房", "修仙", "清晨"],
+      "usage_count": 8,
+      "description": "青云宗外门弟子的简陋木屋房间,陈设简单,有木床和木桌,透过窗户可以看到云雾缭绕的远山"
+    },
+    {
+      "id": "scene-002",
+      "name": "青云宗主殿-清晨",
+      "location_type": "室内",
+      "time_of_day": "清晨",
+      "main_prompt": "Chinese xianxia style, dilapidated main hall of cultivation sect, worn-out wooden pillars, damaged roof letting light through, old stone floor, cracked walls, morning light streaming through holes, warm golden rays, solemn but humble atmosphere, high quality, detailed, 8k resolution, no people, no text, no UI elements",
+      "sub_scenes": [
+        {
+          "name": "青云宗主殿-白天",
+          "prompt": "Chinese xianxia style, dilapidated main hall of cultivation sect, daytime, bright natural light, worn wooden pillars, damaged roof, old stone floor, cracked walls showing age, humble sect atmosphere, high quality, detailed, 8k resolution, no people, no text, no UI elements"
+        },
+        {
+          "name": "青云宗主殿-夜晚",
+          "prompt": "Chinese xianxia style, dilapidated main hall of cultivation sect, night time, moonlight through cracks in roof, cool blue lighting, old stone pillars, ancient worn floor, mysterious cultivation atmosphere, high quality, detailed, 8k resolution, no people, no text, no UI elements"
+        }
+      ],
+      "tags": ["室内", "主殿", "破旧", "宗门", "修仙", "清晨"],
+      "usage_count": 7,
+      "description": "青云宗破旧的主殿,四处漏风,屋顶有破洞,晨光从破洞射入,庄重但简陋"
+    },
+    {
+      "id": "scene-003",
+      "name": "青云宗山门广场-清晨",
+      "location_type": "室外",
+      "time_of_day": "清晨",
+      "main_prompt": "Chinese xianxia style, cultivation sect mountain gate plaza, traditional Chinese architecture, stone pavement, mountain gate in background, misty mountains in distance, morning sunlight, soft dawn light, fresh atmosphere, sect gathering place, high quality, detailed, 8k resolution, no people, no text, no UI elements",
+      "sub_scenes": [
+        {
+          "name": "青云宗山门广场-正午",
+          "prompt": "Chinese xianxia style, cultivation sect mountain gate plaza, bright noon sunlight, strong shadows, traditional Chinese architecture, stone ground, mountain gate standing tall, clear day, bustling sect atmosphere, high quality, detailed, 8k resolution, no people, no text, no UI elements"
+        },
+        {
+          "name": "青云宗山门广场-黄昏",
+          "prompt": "Chinese xianxia style, cultivation sect mountain gate plaza, sunset golden hour, warm orange glow, long shadows, traditional architecture silhouetted against setting sun, peaceful evening atmosphere, mountain gate plaza, high quality, detailed, 8k resolution, no people, no text, no UI elements"
+        }
+      ],
+      "tags": ["室外", "山门", "广场", "宗门", "修仙", "清晨"],
+      "usage_count": 12,
+      "description": "青云宗山门前的广场,传统中式建筑,石板地面,远处可见云山雾罩的群峰"
+    },
+    {
+      "id": "scene-004",
+      "name": "青云宗后院空地-上午",
+      "location_type": "室外",
+      "time_of_day": "上午",
+      "main_prompt": "Chinese xianxia style, cultivation sect backyard clearing, old locust tree, stone pavement, simple open training area, natural morning light, fresh green atmosphere, peaceful cultivation environment, wooden fence in background, high quality, detailed, 8k resolution, no people, no text, no UI elements",
+      "sub_scenes": [
+        {
+          "name": "青云宗后院空地-下午",
+          "prompt": "Chinese xianxia style, cultivation sect backyard clearing, afternoon sunlight, old locust tree casting shadows, stone training ground, warm natural light, peaceful cultivation atmosphere, wooden fence, simple sect environment, high quality, detailed, 8k resolution, no people, no text, no UI elements"
+        },
+        {
+          "name": "青云宗后院空地-黄昏",
+          "prompt": "Chinese xianxia style, cultivation sect backyard clearing, sunset golden hour, old tree silhouetted against orange sky, stone ground, warm lighting, peaceful evening cultivation atmosphere, tranquil backyard setting, high quality, detailed, 8k resolution, no people, no text, no UI elements"
+        }
+      ],
+      "tags": ["室外", "后院", "练功场", "宗门", "修仙", "上午"],
+      "usage_count": 15,
+      "description": "青云宗后院的空地,有一棵老槐树,石板铺地,是弟子们修炼的场所"
+    },
+    {
+      "id": "scene-005",
+      "name": "青云宗上空-清晨",
+      "location_type": "室外",
+      "time_of_day": "清晨",
+      "main_prompt": "Chinese xianxia style, aerial view above cultivation sect, sea of clouds below, mountain peaks emerging from mist, golden sunrise light, flying sword trail in sky, ethereal cultivation atmosphere, vast mountain range, high quality, detailed, 8k resolution, no people, no text, no UI elements",
+      "sub_scenes": [
+        {
+          "name": "青云宗上空-正午",
+          "prompt": "Chinese xianxia style, aerial view above cultivation sect, bright noon sunlight, sea of clouds, mountain peaks, clear blue sky, cultivation sect buildings below, majestic mountain landscape, high quality, detailed, 8k resolution, no people, no text, no UI elements"
+        },
+        {
+          "name": "青云宗上空-夜晚",
+          "prompt": "Chinese xianxia style, aerial view above cultivation sect at night, moonlight over sea of clouds, starry sky, mountain peaks silhouetted, mysterious cultivation atmosphere, ethereal night landscape, high quality, detailed, 8k resolution, no people, no text, no UI elements"
+        }
+      ],
+      "tags": ["室外", "云海", "山岳", "御剑", "修仙", "清晨"],
+      "usage_count": 4,
+      "description": "青云宗上空的云海景象,山峰从云雾中浮现,金色晨光洒满云海"
+    },
+    {
+      "id": "scene-006",
+      "name": "天衍宗论道会场-下午",
+      "location_type": "特殊空间",
+      "time_of_day": "下午",
+      "main_prompt": "Chinese xianxia style, grand cultivation debate arena, magnificent pavilions, golden light, grand architecture, opulent decoration, bright natural lighting, solemn atmosphere, sect gathering venue, ornate pillars and banners, high quality, detailed, 8k resolution, no people, no text, no UI elements",
+      "sub_scenes": [
+        {
+          "name": "天衍宗论道会场-法宝展示区",
+          "prompt": "Chinese xianxia style, treasure exhibition area in cultivation debate arena, magical artifacts display, glowing treasures, ornate pedestals, mysterious light effects, rich sect atmosphere, golden and colorful lighting, high quality, detailed, 8k resolution, no people, no text, no UI elements"
+        }
+      ],
+      "tags": ["特殊空间", "论道会场", "宏伟", "盛会", "修仙", "下午"],
+      "usage_count": 10,
+      "description": "天衍宗的论道会场,恢弘壮观,楼台亭阁林立,金碧辉煌"
+    },
+    {
+      "id": "scene-007",
+      "name": "秘境入口-清晨",
+      "location_type": "室外",
+      "time_of_day": "清晨",
+      "main_prompt": "Chinese xianxia style, mysterious secret realm entrance, ancient stone archway glowing with magical runes, dimensional barrier shimmering, mysterious fog surrounding, morning light, enchanting and dangerous atmosphere, ancient cultivation site, high quality, detailed, 8k resolution, no people, no text, no UI elements",
+      "sub_scenes": [
+        {
+          "name": "秘境内部-荒古丛林",
+          "prompt": "Chinese xianxia style, primordial forest inside secret realm, ancient towering trees, mysterious mist, dim lighting, dangerous cultivation environment, exotic plants and flowers, mysterious atmosphere, no time concept, high quality, detailed, 8k resolution, no people, no text, no UI elements"
+        },
+        {
+          "name": "秘境深处祭坛",
+          "prompt": "Chinese xianxia style, ancient altar deep in secret realm, mystical treasures glowing, ancient stone carvings, mysterious light, precious spiritual stones and herbs, sacred cultivation site, ethereal atmosphere, high quality, detailed, 8k resolution, no people, no text, no UI elements"
+        }
+      ],
+      "tags": ["室外", "秘境", "神秘", "禁制", "修仙", "清晨"],
+      "usage_count": 5,
+      "description": "秘境入口处,古老的石门禁制闪烁着神秘光芒"
+    },
+    {
+      "id": "scene-008",
+      "name": "青州城中心广场-白天",
+      "location_type": "室外",
+      "time_of_day": "白天",
+      "main_prompt": "Chinese xianxia style, grand cultivation tournament plaza in Qingzhou city, massive crowd gathering, sect banners flying, magical artifacts gleaming, bustling atmosphere, bright natural light, grand square architecture, cultivation sect competition venue, high quality, detailed, 8k resolution, no people, no text, no UI elements",
+      "sub_scenes": [
+        {
+          "name": "青州城演武场",
+          "prompt": "Chinese xianxia style, grand martial arts arena in Qingzhou city, competition platforms, sect flags waving, bright daylight, cultivation tournament venue, impressive architecture, lively atmosphere, traditional Chinese martial arts arena, high quality, detailed, 8k resolution, no people, no text, no UI elements"
+        }
+      ],
+      "tags": ["室外", "广场", "城市", "比武", "修仙", "白天"],
+      "usage_count": 8,
+      "description": "青州城最大的中心广场,人山人海,各宗门旗帜飘扬"
+    },
+    {
+      "id": "scene-009",
+      "name": "回青云宗的山路-白天",
+      "location_type": "室外",
+      "time_of_day": "白天",
+      "main_prompt": "Chinese xianxia style, mountain path leading back to cultivation sect, winding trail through mountains, lush green trees, natural scenery, bright daylight, peaceful journey atmosphere, stone steps, mountain landscape, high quality, detailed, 8k resolution, no people, no text, no UI elements",
+      "sub_scenes": [
+        {
+          "name": "山间小路-黄昏",
+          "prompt": "Chinese xianxia style, mountain path at sunset, golden hour light, winding trail, mountain scenery, long shadows, peaceful evening atmosphere, lush trees and stones, warm orange lighting, high quality, detailed, 8k resolution, no people, no text, no UI elements"
+        }
+      ],
+      "tags": ["室外", "山路", "自然", "旅途", "修仙", "白天"],
+      "usage_count": 4,
+      "description": "回青云宗的山间小路,蜿蜒曲折,两侧绿树成荫"
+    },
+    {
+      "id": "scene-010",
+      "name": "青云宗后山密林-深夜",
+      "location_type": "室外",
+      "time_of_day": "深夜",
+      "main_prompt": "Chinese xianxia style, dense forest behind cultivation sect at night, dark mysterious atmosphere, moonlight through tree canopy, shadows and moonbeams on forest floor, ancient trees, secretive cultivation environment, cool blue lighting, mysterious and dangerous, high quality, detailed, 8k resolution, no people, no text, no UI elements",
+      "sub_scenes": [
+        {
+          "name": "青云宗后山-白天",
+          "prompt": "Chinese xianxia style, hillside behind cultivation sect, small slope with weeds, crooked trees, humble sect backyard area, natural daylight, simple and plain, peaceful atmosphere, high quality, detailed, 8k resolution, no people, no text, no UI elements"
+        }
+      ],
+      "tags": ["室外", "密林", "后山", "神秘", "修仙", "深夜"],
+      "usage_count": 6,
+      "description": "青云宗后山的密林,月黑风高,树影斑驳,充满神秘气息"
+    },
+    {
+      "id": "scene-011",
+      "name": "青云宗全景-黄昏",
+      "location_type": "室外",
+      "time_of_day": "黄昏",
+      "main_prompt": "Chinese xianxia style, panoramic view of cultivation sect at sunset, traditional Chinese architecture on mountainside, golden light, sect buildings, wooden structures, mountain landscape, peaceful evening atmosphere, sect restoration visible, warm orange lighting, high quality, detailed, 8k resolution, no people, no text, no UI elements",
+      "sub_scenes": [
+        {
+          "name": "青云宗全景-白天",
+          "prompt": "Chinese xianxia style, panoramic view of cultivation sect, traditional Chinese architecture on mountain, bright natural light, sect buildings with renovated roofs, mountain landscape, thriving sect atmosphere, clear blue sky, high quality, detailed, 8k resolution, no people, no text, no UI elements"
+        },
+        {
+          "name": "青云宗夜空",
+          "prompt": "Chinese xianxia style, panoramic view of cultivation sect at night, moonlight over mountain, stars in sky, traditional architecture silhouettes, peaceful night atmosphere, warm lights from buildings, mysterious cultivation sect landscape, high quality, detailed, 8k resolution, no people, no text, no UI elements"
+        }
+      ],
+      "tags": ["室外", "宗门全景", "山岳", "建筑", "修仙", "黄昏"],
+      "usage_count": 5,
+      "description": "青云宗全景,夕阳西下,宗门在暮色中显得安宁"
+    },
+    {
+      "id": "scene-012",
+      "name": "魔教总坛-夜晚",
+      "location_type": "室内",
+      "time_of_day": "夜晚",
+      "main_prompt": "Chinese xianxia style, demon cult grand hall, dark and ornate interior, black stone pillars, purple and black magical energy, flickering torches, cult banners, mysterious and oppressive atmosphere, grand evil architecture, cold lighting, high quality, detailed, 8k resolution, no people, no text, no UI elements",
+      "sub_scenes": [
+        {
+          "name": "魔教秘密据点",
+          "prompt": "Chinese xianxia style, demon cult secret hideout, dark underground space, dim torchlight, cold stone walls, mysterious atmosphere, evil cult lair, dark purple lighting, secretive environment, high quality, detailed, 8k resolution, no people, no text, no UI elements"
+        }
+      ],
+      "tags": ["室内", "魔教", "阴森", "神秘", "修仙", "夜晚"],
+      "usage_count": 3,
+      "description": "魔教总坛的大殿,阴森华贵,魔气缭绕"
+    },
+    {
+      "id": "scene-013",
+      "name": "天衍宗山门-正午",
+      "location_type": "室外",
+      "time_of_day": "正午",
+      "main_prompt": "Chinese xianxia style, grand cultivation sect mountain gate, magnificent traditional architecture, tall ornate gate, bright noon sunlight, wealthy sect atmosphere, golden decorations, stone steps, impressive sect entrance, high quality, detailed, 8k resolution, no people, no text, no UI elements",
+      "sub_scenes": [
+        {
+          "name": "天衍宗论道会场外-傍晚",
+          "prompt": "Chinese xianxia style, outside grand debate arena at sunset, magnificent pavilions silhouetted, warm orange twilight light, sect representatives leaving, grand architecture, peaceful evening atmosphere, high quality, detailed, 8k resolution, no people, no text, no UI elements"
+        }
+      ],
+      "tags": ["室外", "山门", "宏伟", "大宗门", "修仙", "正午"],
+      "usage_count": 4,
+      "description": "天衍宗的山门,气势恢宏,仙宫林立"
+    },
+    {
+      "id": "scene-014",
+      "name": "系统空间-无时间",
+      "location_type": "特殊空间",
+      "time_of_day": "无",
+      "main_prompt": "Chinese xianxia style, translucent blue holographic system interface floating in dark void, digital space elements, glowing runes and data streams, mix of ancient cultivation and modern technology, mysterious system space, cool blue lighting, ethereal atmosphere, high quality, detailed, 8k resolution, no people, no text, no UI elements",
+      "sub_scenes": [
+        {
+          "name": "系统界面特写",
+          "prompt": "Chinese xianxia style, close-up of translucent holographic system panel, blue digital interface, floating technological elements, glowing text and symbols, mix of ancient and modern, cool blue light, mysterious system interface, high quality, detailed, 8k resolution, no people, no text, no UI elements"
+        }
+      ],
+      "tags": ["特殊空间", "系统界面", "科技感", "数字化", "修仙", "无时间"],
+      "usage_count": 5,
+      "description": "天魔系统的虚拟空间,半透明蓝色界面,科技感与仙侠结合"
+    },
+    {
+      "id": "scene-015",
+      "name": "前往天衍宗的云海-次日凌晨",
+      "location_type": "室外",
+      "time_of_day": "清晨",
+      "main_prompt": "Chinese xianxia style, sea of clouds above mountains, flying boat journey, morning mist, golden sunrise light, multiple flying boats in sky, journey between cultivation sects, ethereal cloudscape, bright refreshing atmosphere, high quality, detailed, 8k resolution, no people, no text, no UI elements",
+      "sub_scenes": [
+        {
+          "name": "返回青云宗的云海",
+          "prompt": "Chinese xianxia style, return journey over sea of clouds, flying boat leaving in distance, bright daylight, peaceful cloudscape, mountain peaks below, journey back to sect, relaxed atmosphere, high quality, detailed, 8k resolution, no people, no text, no UI elements"
+        }
+      ],
+      "tags": ["室外", "云海", "旅途", "飞舟", "修仙", "清晨"],
+      "usage_count": 3,
+      "description": "前往天衍宗路上的云海,其他豪华飞舟穿梭其间"
+    }
+  ],
+  "metadata": {
+    "version": "1.0",
+    "created_date": "2026-01-14",
+    "total_scenes": 15,
+    "description": "Background scene prompts for cultivation novel '天魔系统', featuring various locations from humble sect to grand gatherings, all in Chinese xianxia style without people or text",
+    "prompt_style": "Chinese xianxia cultivation style, detailed visual descriptions, 8k resolution quality",
+    "usage_guideline": "All prompts specify 'no people, no text, no UI elements' to ensure clean background images suitable for composition with characters later",
+    "scene_categories": {
+      "indoor": 4,
+      "outdoor": 9,
+      "special": 2
+    },
+    "notes": "Generated based on storyboard chapters 1-12, covering main locations and time variations. Each scene includes 2-3 sub-scenes with different times or weather conditions."
+  }
+}
