@@ -6,22 +6,27 @@
       "location_type": "室内",
       "time_of_day": "清晨",
       "main_prompt": "Chinese xianxia style, humble wooden room in cultivation sect, simple wooden furniture, wooden bed, wooden table, paper window, morning sunlight through window, misty mountains visible outside window, warm golden lighting, peaceful cultivation atmosphere, high quality, detailed, 8k resolution, no people, no text, no UI elements",
+      "main_prompt_cn": "中国仙侠风格，修仙宗门简陋木屋房间，简单木制家具，木床木桌，纸窗，晨光透过窗户射入，窗外可见云雾缭绕的远山，温暖金光照光，宁静修炼氛围，高质量，细节丰富，8k分辨率，无人物，无文字，无UI元素",
       "sub_scenes": [
         {
           "name": "青云宗外门弟子房-夜晚",
-          "prompt": "Chinese xianxia style, humble wooden room in cultivation sect, night time, moonlight through window, stars visible in sky, cool blue lighting, oil lamp on wooden table, paper window, quiet and serene cultivation atmosphere, high quality, detailed, 8k resolution, no people, no text, no UI elements"
+          "prompt": "Chinese xianxia style, humble wooden room in cultivation sect, night time, moonlight through window, stars visible in sky, cool blue lighting, oil lamp on wooden table, paper window, quiet and serene cultivation atmosphere, high quality, detailed, 8k resolution, no people, no text, no UI elements",
+          "prompt_cn": "中国仙侠风格，修仙宗门简陋木屋房间，夜晚，月光透过窗户，天空可见星辰，冷蓝色调，木桌上的油灯，纸窗，宁静祥和的修炼氛围，高质量，细节丰富，8k分辨率，无人物，无文字，无UI元素"
         },
         {
           "name": "青云宗外门弟子房-雨天",
-          "prompt": "Chinese xianxia style, humble wooden room in cultivation sect, rainy day, raindrops on paper window, gloomy but cozy lighting, wooden floor wet with rain reflection, melancholic cultivation atmosphere, simple wooden furniture, high quality, detailed, 8k resolution, no people, no text, no UI elements"
+          "prompt": "Chinese xianxia style, humble wooden room in cultivation sect, rainy day, raindrops on paper window, gloomy but cozy lighting, wooden floor wet with rain reflection, melancholic cultivation atmosphere, simple wooden furniture, high quality, detailed, 8k resolution, no people, no text, no UI elements",
+          "prompt_cn": "中国仙侠风格，修仙宗门简陋木屋房间，雨天，雨滴打在纸窗上，阴郁但温馨的灯光，木地板有雨水反光，忧郁的修炼氛围，简单木制家具，高质量，细节丰富，8k分辨率，无人物，无文字，无UI元素"
         },
         {
           "name": "青云宗外门弟子房-黄昏",
-          "prompt": "Chinese xianxia style, humble wooden room in cultivation sect at sunset, warm orange light through paper window, long shadows across room, cozy evening atmosphere, wooden furniture silhouetted, peaceful cultivation environment, high quality, detailed, 8k resolution, no people, no text, no UI elements"
+          "prompt": "Chinese xianxia style, humble wooden room in cultivation sect at sunset, warm orange light through paper window, long shadows across room, cozy evening atmosphere, wooden furniture silhouetted, peaceful cultivation environment, high quality, detailed, 8k resolution, no people, no text, no UI elements",
+          "prompt_cn": "中国仙侠风格，修仙宗门简陋木屋房间，黄昏时分，温暖橙色光线透过纸窗，房间内投下长影，舒适的傍晚氛围，木家具剪影，宁静的修炼环境，高质量，细节丰富，8k分辨率，无人物，无文字，无UI元素"
         },
         {
           "name": "青云宗外门弟子房-雪天",
-          "prompt": "Chinese xianxia style, humble wooden room in cultivation sect, snowing outside, white frost on paper window, cold blue lighting, warm oil lamp glow inside, winter cultivation atmosphere, simple wooden furniture, peaceful snowy day, high quality, detailed, 8k resolution, no people, no text, no UI elements"
+          "prompt": "Chinese xianxia style, humble wooden room in cultivation sect, snowing outside, white frost on paper window, cold blue lighting, warm oil lamp glow inside, winter cultivation atmosphere, simple wooden furniture, peaceful snowy day, high quality, detailed, 8k resolution, no people, no text, no UI elements",
+          "prompt_cn": "中国仙侠风格，修仙宗门简陋木屋房间，外面下雪，纸窗上有白霜，冷蓝色调，室内温暖的油灯光芒，冬季修炼氛围，简单木制家具，宁静的雪天，高质量，细节丰富，8k分辨率，无人物，无文字，无UI元素"
         }
       ],
       "tags": ["室内", "木屋", "简陋", "弟子房", "修仙", "清晨"],
