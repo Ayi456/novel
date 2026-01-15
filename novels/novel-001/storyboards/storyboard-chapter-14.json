@@ -1,368 +1,525 @@
-[
-  {
-    "shot_id": "EP14-S001",
-    "chapter_number": 14,
-    "scene_number": 1,
-    "duration": 8,
-    "shot_type": "中景",
-    "location": "秘境入口",
-    "time_of_day": "白天",
-    "composition": {
-      "camera_position": "侧面拍摄",
-      "camera_movement": "固定镜头",
-      "framing": "中心构图",
-      "focus_type": "主体清晰"
-    },
-    "characters": [
-      {
-        "name": "顾玄",
-        "position": "入口前",
-        "action": "天魔之力自行涌向禁制",
-        "expression": "惊讶",
-        "costume": "白衣"
+{
+  "chapter": 14,
+  "title": "秘境寻宝",
+  "episode_number": "EP14",
+  "story_summary": "青云宗受邀探索秘境，从自动开门、萌兔带路、排队领宝到科技版天魔剑现世，世界观崩塌。",
+  "total_scenes": 12,
+  "scenes": [
+    {
+      "shot_id": "EP14-S001",
+      "chapter_number": 14,
+      "scene_number": 1,
+      "duration": 10,
+      "shot_type": "中景",
+      "location": "青云宗正殿",
+      "time_of_day": "日",
+      "composition": "天衍宗主亲自到访，态度恭敬，展示秘境地图和资源",
+      "characters": [
+        {
+          "name": "天衍宗主",
+          "action": "躬身行礼，展示地图",
+          "expression": "恭敬诚恳",
+          "costume": "宗主法袍"
+        },
+        {
+          "name": "李道玄",
+          "action": "激动得胡子发抖",
+          "expression": "激动兴奋",
+          "costume": "掌门道袍"
+        },
+        {
+          "name": "顾玄",
+          "action": "听着，内心打鼓",
+          "expression": "表面淡定，内心忐忑",
+          "costume": "青色道袍"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "秘境地图全息投影、大量资源堆叠特效",
+        "color_grading": "金光闪闪"
       },
-      {
-        "name": "天衍长老",
-        "position": "身旁",
-        "action": "震惊,目瞪口呆",
-        "expression": "难以置信",
-        "costume": "长老服"
-      }
-    ],
-    "visual_effects": {
-      "environment": "秘境入口处",
-      "lighting": "禁制光芒闪烁",
-      "color_palette": "神秘色调",
-      "special_effects": "天魔之力接触禁制,禁制自动打开并形成稳定光门"
-    },
-    "audio": {
-      "dialogue": "这就开了?顾前辈果然神通广大!",
-      "narration": "",
-      "internal_monologue": "我不是,我没有,它自己开的啊!",
-      "background_music": "神秘,轻快",
-      "sound_effects": ["禁制开启声", "能量流动声"],
-      "volume_level": "对话突出"
-    },
-    "editing": {
-      "transition_to_next": "直接切",
-      "pacing": "中等",
-      "purpose": "展现主角被动的神通"
-    },
-    "notes": {
-      "production_note": "需要CG制作禁制特效",
-      "reference_style": "神秘+幽默",
-      "difficulty_level": "中等"
-    }
-  },
-  {
-    "shot_id": "EP14-S002",
-    "chapter_number": 14,
-    "scene_number": 2,
-    "duration": 7,
-    "shot_type": "全景",
-    "location": "秘境丛林",
-    "time_of_day": "白天",
-    "composition": {
-      "camera_position": "远景拍摄",
-      "camera_movement": "缓慢推进",
-      "framing": "全景构图",
-      "focus_type": "全景清晰"
-    },
-    "characters": [
-      {
-        "name": "巨兔",
-        "position": "画面中央",
-        "action": "蹦蹦跳跳出现,打喷嚏",
-        "expression": "可爱",
-        "costume": "毛茸茸"
+      "audio": {
+        "dialogue": "天衍宗主：此秘境乃我宗偶然发现，内有上古遗迹，疑似某大能洞府。为表诚意，特邀青云宗共同探索，所得五五分成。\n\n李道玄：（激动得胡子发抖）\n\n顾玄（内心）：秘境探索？那不是小说里死人最多的地方吗？我这水货进去不是送菜？",
+        "background_music": "轻松转紧张",
+        "sound_effects": "地图展开声、环境音"
       },
-      {
-        "name": "众修士",
-        "position": "四周",
-        "action": "结阵,如临大敌",
-        "expression": "惊呆",
-        "costume": "各式修炼服"
-      }
-    ],
-    "visual_effects": {
-      "environment": "荒古丛林",
-      "lighting": "自然光",
-      "color_palette": "正常色调",
-      "special_effects": "巨兔打喷嚏产生气浪,吹得众人东倒西歪"
-    },
-    "audio": {
-      "dialogue": "阿嚏!",
-      "narration": "",
-      "internal_monologue": "",
-      "background_music": "紧张转为搞笑",
-      "sound_effects": ["兔子叫声", "气浪声", "众人惊呼"],
-      "volume_level": "音效突出"
-    },
-    "editing": {
-      "transition_to_next": "直接切",
-      "pacing": "中等",
-      "purpose": "幽默反差"
-    },
-    "notes": {
-      "production_note": "需要CG制作巨兔",
-      "reference_style": "可爱反差",
-      "difficulty_level": "中等"
-    }
-  },
-  {
-    "shot_id": "EP14-S003",
-    "chapter_number": 14,
-    "scene_number": 3,
-    "duration": 8,
-    "shot_type": "中景",
-    "location": "秘境藏宝洞",
-    "time_of_day": "白天",
-    "composition": {
-      "camera_position": "正面拍摄",
-      "camera_movement": "左右摇摄",
-      "framing": "中心构图",
-      "focus_type": "主体清晰"
-    },
-    "characters": [
-      {
-        "name": "顾玄",
-        "position": "洞中",
-        "action": "随手捡起锈剑",
-        "expression": "随意",
-        "costume": "白衣",
-        "props": "锈剑"
+      "editing": {
+        "transition": "切",
+        "pacing": "moderate"
       },
-      {
-        "name": "天衍长老",
-        "position": "身旁",
-        "action": "立即奉承",
-        "expression": "崇拜",
-        "costume": "长老服"
+      "notes": "开篇展示地位反转后的好处，埋下危险伏笔"
+    },
+    {
+      "shot_id": "EP14-S002",
+      "chapter_number": 14,
+      "scene_number": 2,
+      "duration": 12,
+      "shot_type": "全景→特写",
+      "location": "秘境入口处",
+      "time_of_day": "日",
+      "composition": "各宗精英全副武装，青云宗寒酸对比，顾玄天魔之力自动开启禁制",
+      "characters": [
+        {
+          "name": "顾玄",
+          "action": "天魔之力自动涌出",
+          "expression": "惊讶→强作镇定",
+          "costume": "青色道袍"
+        },
+        {
+          "name": "陆尘",
+          "action": "站在顾玄身旁",
+          "expression": "紧张",
+          "costume": "弟子服"
+        },
+        {
+          "name": "石猛",
+          "action": "手持重兵器",
+          "expression": "憨厚紧张",
+          "costume": "粗布武者服"
+        },
+        {
+          "name": "天衍长老",
+          "action": "恭敬行礼",
+          "expression": "敬畏",
+          "costume": "长老法袍"
+        },
+        {
+          "name": "各宗弟子",
+          "action": "全副武装",
+          "expression": "自信",
+          "costume": "精良法器"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "天魔之力自动涌向禁制特效、禁制自动打开、稳定光门形成、众人目瞪口呆表情特效",
+        "color_grading": "神秘紫色调"
       },
-      {
-        "name": "巨兔",
-        "position": "洞口",
-        "action": "虎视眈眈",
-        "expression": "警告",
-        "costume": "毛茸茸"
-      }
-    ],
-    "visual_effects": {
-      "environment": "满地天材地宝",
-      "lighting": "宝光闪烁",
-      "color_palette": "金碧辉煌",
-      "special_effects": "灵石堆成小山,灵草遍地,法器散落"
-    },
-    "audio": {
-      "dialogue": "顾前辈果然眼光独到!此剑看似平凡,定非凡品!",
-      "narration": "",
-      "internal_monologue": "我就是随便拿的啊!",
-      "background_music": "轻快,搞笑",
-      "sound_effects": [],
-      "volume_level": "对话突出"
-    },
-    "editing": {
-      "transition_to_next": "直接切",
-      "pacing": "中等",
-      "purpose": "排队领奖的搞笑场面"
-    },
-    "notes": {
-      "production_note": "需要大量宝物道具",
-      "reference_style": "搞笑场景",
-      "difficulty_level": "中等"
-    }
-  },
-  {
-    "shot_id": "EP14-S004",
-    "chapter_number": 14,
-    "scene_number": 4,
-    "duration": 10,
-    "shot_type": "特效全景",
-    "location": "秘境祭坛",
-    "time_of_day": "白天",
-    "composition": {
-      "camera_position": "环绕拍摄",
-      "camera_movement": "快速环绕",
-      "framing": "动态构图",
-      "focus_type": "特效突出"
-    },
-    "characters": [
-      {
-        "name": "顾玄",
-        "position": "祭坛前",
-        "action": "举剑格挡,剑与魔爪碰撞",
-        "expression": "震惊",
-        "costume": "白衣",
-        "props": "锈剑"
+      "audio": {
+        "dialogue": "天衍长老：秘境入口有禁制，需集众人之力方能开启。请...\n\n（禁制自动打开）\n\n天衍长老：这...这就开了？顾前辈果然神通广大！\n\n顾玄：区区禁制，何足挂齿。走吧。（内心：我不是，我没有，它自己开的啊！）",
+        "background_music": "神秘紧张",
+        "sound_effects": "禁制开启声、天魔之力嗡鸣、人群惊呼"
       },
-      {
-        "name": "上古魔物",
-        "position": "顾玄对面",
-        "action": "扑向顾玄,被剑击中后惨叫",
-        "expression": "狂妄→惊恐",
-        "costume": "狰狞形态"
-      }
-    ],
-    "visual_effects": {
-      "environment": "祭坛,能量震荡",
-      "lighting": "黑暗与光芒交织",
-      "color_palette": "高对比度",
-      "special_effects": "魔物冲天而起,剑与魔爪碰撞刺耳巨响,魔物被烫到缩回,发现天魔剑后惊恐下跪"
+      "editing": {
+        "transition": "慢动作部分",
+        "pacing": "moderate"
+      },
+      "notes": "第一个爽点：意外自动开门"
     },
-    "audio": {
-      "dialogue": "孽畜!见到本座还敢放肆? 天、天魔大人饶命!小的不知是您驾到!",
-      "narration": "",
-      "internal_monologue": "这把也是天魔剑?你们天魔是批发剑的吗?",
-      "background_music": "紧张震撼转为搞笑",
-      "sound_effects": ["碰撞巨响", "魔物惨叫", "能量波动"],
-      "volume_level": "音效突出"
+    {
+      "shot_id": "EP14-S003",
+      "chapter_number": 14,
+      "scene_number": 3,
+      "duration": 15,
+      "shot_type": "全景",
+      "location": "秘境内荒古丛林",
+      "time_of_day": "昏暗",
+      "composition": "丛林深处传来兽吼，众人结阵，巨兔冲出，反差萌",
+      "characters": [
+        {
+          "name": "巨兔",
+          "action": "冲出丛林，蹦蹦跳跳",
+          "expression": "歪头眨眼，打喷嚏",
+          "costume": "毛茸茸外表，体型如小山"
+        },
+        {
+          "name": "众人",
+          "action": "结阵如临大敌",
+          "expression": "紧张→懵逼",
+          "costume": "各色法袍"
+        },
+        {
+          "name": "顾玄",
+          "action": "运转天魔之力护体",
+          "expression": "紧张→惊讶",
+          "costume": "青色道袍"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "地面震动特效、树木倒伏、巨兔打喷嚏气浪席卷、毛茸茸细节特写",
+        "color_grading": "昏暗丛林色调"
+      },
+      "audio": {
+        "dialogue": "天衍长老：大家小心，此地有上古凶兽，务必...\n\n（巨兔冲出）\n\n天衍长老：这、这是...上古凶兽'裂天兎'？记载中能吞日月的凶物？怎么长得...这么可爱？\n\n巨兔：阿嚏！（气浪席卷）",
+        "background_music": "紧张转搞笑",
+        "sound_effects": "兽吼、地面震动、喷嚏声"
+      },
+      "editing": {
+        "transition": "紧张到搞笑的快速转换",
+        "pacing": "moderate"
+      },
+      "notes": "第二个爽点：萌兔养成，反差萌"
     },
-    "editing": {
-      "transition_to_next": "直接切",
-      "pacing": "快速",
-      "purpose": "高潮反转"
+    {
+      "shot_id": "EP14-S004",
+      "chapter_number": 14,
+      "scene_number": 4,
+      "duration": 10,
+      "shot_type": "中景→特写",
+      "location": "秘境丛林",
+      "time_of_day": "昏暗",
+      "composition": "巨兔蹭顾玄，撒娇，众人震惊",
+      "characters": [
+        {
+          "name": "巨兔",
+          "action": "蹭顾玄，咕噜咕噜撒娇",
+          "expression": "撒娇卖萌",
+          "costume": "毛茸茸外表"
+        },
+        {
+          "name": "顾玄",
+          "action": "摸兔头",
+          "expression": "懵逼",
+          "costume": "青色道袍"
+        },
+        {
+          "name": "众人",
+          "action": "目瞪口呆",
+          "expression": "震惊",
+          "costume": "各色法袍"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "巨兔撒娇特效、顾玄懵逼表情特写、众人震惊表情",
+        "color_grading": "温馨可爱色调"
+      },
+      "audio": {
+        "dialogue": "顾玄：？？？这兔子...在撒娇？\n\n众人：！！！上古凶兽在撒娇？！\n\n天衍长老：裂天兎乃上古凶兽，性情暴戾，见人就吞...怎么会...\n\n顾玄：万物有灵，以诚相待即可。（内心：这兔子该不会也是天魔养的吧？！）",
+        "background_music": "搞笑轻松",
+        "sound_effects": "撒娇声、人群低语"
+      },
+      "editing": {
+        "transition": "切",
+        "pacing": "moderate"
+      },
+      "notes": "展示主角与上古凶兽的意外互动"
     },
-    "notes": {
-      "production_note": "需要大量CG特效",
-      "reference_style": "震撼+搞笑",
-      "difficulty_level": "复杂"
+    {
+      "shot_id": "EP14-S005",
+      "chapter_number": 14,
+      "scene_number": 5,
+      "duration": 12,
+      "shot_type": "全景",
+      "location": "秘境悬崖洞穴",
+      "time_of_day": "昏暗",
+      "composition": "巨兔带路，洞穴藏宝，禁制自动消散",
+      "characters": [
+        {
+          "name": "巨兔",
+          "action": "蹦蹦跳跳带路",
+          "expression": "得意",
+          "costume": "毛茸茸外表"
+        },
+        {
+          "name": "众人",
+          "action": "战战兢兢跟随",
+          "expression": "紧张→兴奋",
+          "costume": "各色法袍"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "洞穴宝光、禁制自动消散特效、满地天材地宝、灵石小山、法器散落",
+        "color_grading": "金光闪闪"
+      },
+      "audio": {
+        "dialogue": "天衍长老：看来是藏宝洞！但洞口有禁制...咦？禁制呢？\n\n（进洞看到宝物）\n\n各宗弟子：发财了！\n\n巨兔：吼！（恐怖威压，示意顾玄先拿）",
+        "background_music": "兴奋激昂",
+        "sound_effects": "禁制消散声、人群惊呼"
+      },
+      "editing": {
+        "transition": "切",
+        "pacing": "fast"
+      },
+      "notes": "第三个爽点：排队领宝"
+    },
+    {
+      "shot_id": "EP14-S006",
+      "chapter_number": 14,
+      "scene_number": 6,
+      "duration": 10,
+      "shot_type": "中景",
+      "location": "藏宝洞穴",
+      "time_of_day": "昏暗",
+      "composition": "顾玄随手捡剑，众人奉承，排队领宝井然有序",
+      "characters": [
+        {
+          "name": "顾玄",
+          "action": "随手捡起锈剑",
+          "expression": "随意→尴尬",
+          "costume": "青色道袍"
+        },
+        {
+          "name": "天衍长老",
+          "action": "立即奉承",
+          "expression": "崇拜",
+          "costume": "长老法袍"
+        },
+        {
+          "name": "各宗弟子",
+          "action": "排队挑选宝物",
+          "expression": "兴奋",
+          "costume": "各色法袍"
+        },
+        {
+          "name": "巨兔",
+          "action": "当保安，低吼警告",
+          "expression": "严肃",
+          "costume": "毛茸茸外表"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "锈剑特写、众人排队特效、巨兔低吼威压",
+        "color_grading": "温馨搞笑色调"
+      },
+      "audio": {
+        "dialogue": "顾玄随手捡起锈剑。\n\n天衍长老：顾前辈果然眼光独到！此剑看似平凡，定非凡品！\n\n顾玄：......（我就是随便拿的啊！）\n\n（巨兔低吼警告，众人排队领宝）",
+        "background_music": "轻松诙谐",
+        "sound_effects": "人群低语、巨兔低吼"
+      },
+      "editing": {
+        "transition": "切",
+        "pacing": "moderate"
+      },
+      "notes": "展示荒诞的排队领宝场景"
+    },
+    {
+      "shot_id": "EP14-S007",
+      "chapter_number": 14,
+      "scene_number": 7,
+      "duration": 12,
+      "shot_type": "特效全景",
+      "location": "秘境核心祭坛",
+      "time_of_day": "昏暗",
+      "composition": "古老石碑，天魔之力激活，陆尘获得《九霄雷典》传承",
+      "characters": [
+        {
+          "name": "顾玄",
+          "action": "天魔之力自动响应",
+          "expression": "惊讶",
+          "costume": "青色道袍"
+        },
+        {
+          "name": "陆尘",
+          "action": "被光柱笼罩",
+          "expression": "惊呼→茫然",
+          "costume": "弟子服，光柱环绕"
+        },
+        {
+          "name": "众人",
+          "action": "眼红但不敢抢",
+          "expression": "羡慕嫉妒",
+          "costume": "各色法袍"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "石碑大放光明、古老符文飞舞、光柱笼罩陆尘、传承信息流入特效",
+        "color_grading": "神秘金色调"
+      },
+      "audio": {
+        "dialogue": "天衍长老：这似乎是某种传承...但需要特殊方法激活...\n\n（光柱笼罩陆尘）\n\n陆尘：啊！\n\n天衍长老：《九霄雷典》...传说中雷道至高法典...居然就这么...\n\n顾玄（内心）：又来了！这天魔之力怎么老自动送机缘啊！",
+        "background_music": "神秘震撼",
+        "sound_effects": "石碑嗡鸣、符文流动声"
+      },
+      "editing": {
+        "transition": "慢动作部分",
+        "pacing": "moderate"
+      },
+      "notes": "陆尘获得传承，实力提升"
+    },
+    {
+      "shot_id": "EP14-S008",
+      "chapter_number": 14,
+      "scene_number": 8,
+      "duration": 10,
+      "shot_type": "特效全景",
+      "location": "秘境核心祭坛",
+      "time_of_day": "昏暗",
+      "composition": "祭坛震动，黑影冲天，上古魔物现身，恐怖魔威",
+      "characters": [
+        {
+          "name": "上古魔物",
+          "action": "冲天而起，狰狞咆哮",
+          "expression": "狂妄",
+          "costume": "狰狞魔形，黑气环绕"
+        },
+        {
+          "name": "众人",
+          "action": "瑟瑟发抖",
+          "expression": "惊恐",
+          "costume": "各色法袍"
+        },
+        {
+          "name": "巨兔",
+          "action": "龇牙低吼",
+          "expression": "如临大敌",
+          "costume": "毛茸茸外表"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "祭坛震动、地面裂开、黑影冲天、魔物虚影、恐怖魔威笼罩全场",
+        "color_grading": "黑暗恐怖色调"
+      },
+      "audio": {
+        "dialogue": "魔物：哈哈哈！本座终于脱困了！蝼蚁们，成为本座脱困的第一个祭品吧！\n\n天衍长老：是上古魔物！快结阵！",
+        "background_music": "紧张恐怖",
+        "sound_effects": "祭坛震动、魔物咆哮"
+      },
+      "editing": {
+        "transition": "快速剪辑",
+        "pacing": "fast"
+      },
+      "notes": "危机升级，上古魔物出现"
+    },
+    {
+      "shot_id": "EP14-S009",
+      "chapter_number": 14,
+      "scene_number": 9,
+      "duration": 12,
+      "shot_type": "中景→特写",
+      "location": "秘境核心祭坛",
+      "time_of_day": "昏暗",
+      "composition": "魔物扑向顾玄，锈剑格挡，魔物认出天魔剑",
+      "characters": [
+        {
+          "name": "魔物",
+          "action": "扑向顾玄，被剑格挡后惨叫",
+          "expression": "狂妄→惊恐",
+          "costume": "狰狞魔形"
+        },
+        {
+          "name": "顾玄",
+          "action": "举剑格挡",
+          "expression": "吓傻→强作镇定",
+          "costume": "青色道袍，持锈剑"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "魔爪与锈剑相撞火花、魔物惨叫、天魔之力特效、锈剑异动",
+        "color_grading": "紧张对比色调"
+      },
+      "audio": {
+        "dialogue": "魔物：先从最弱的开始...就你吧！\n\n（铛！魔爪与锈剑相撞）\n\n魔物：天、天魔剑？！不可能！天魔剑怎么会在你手里？！\n\n顾玄（内心）：这把也是天魔剑？你们天魔是批发剑的吗？",
+        "background_music": "紧张转搞笑",
+        "sound_effects": "碰撞声、魔物惨叫"
+      },
+      "editing": {
+        "transition": "快速切换",
+        "pacing": "fast"
+      },
+      "notes": "反转：魔物被天魔剑吓跑"
+    },
+    {
+      "shot_id": "EP14-S010",
+      "chapter_number": 14,
+      "scene_number": 10,
+      "duration": 10,
+      "shot_type": "中景",
+      "location": "秘境核心祭坛",
+      "time_of_day": "昏暗",
+      "composition": "顾玄装逼，魔物跪地求饶，众人世界观受冲击",
+      "characters": [
+        {
+          "name": "顾玄",
+          "action": "持剑而立，厉喝",
+          "expression": "表面威严，内心懵逼",
+          "costume": "青色道袍，持剑"
+        },
+        {
+          "name": "魔物",
+          "action": "跪地求饶",
+          "expression": "惊恐",
+          "costume": "狰狞魔形"
+        },
+        {
+          "name": "众人",
+          "action": "目瞪口呆",
+          "expression": "世界观受冲击",
+          "costume": "各色法袍"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "天魔之力震慑特效、魔物跪地、众人震惊表情特写",
+        "color_grading": "震撼色调"
+      },
+      "audio": {
+        "dialogue": "顾玄：孽畜！见到本座还敢放肆？！\n\n魔物：天、天魔大人饶命！小的不知是您驾到！（扑通跪下）\n\n顾玄：念你初犯，滚回封印去！\n\n魔物：是是是！小的这就滚！（自己钻回地底，顺手合上裂缝）",
+        "background_music": "震撼搞笑",
+        "sound_effects": "魔物求饶、地底裂缝声"
+      },
+      "editing": {
+        "transition": "切",
+        "pacing": "moderate"
+      },
+      "notes": "展示主角装逼成功，魔物被吓跑"
+    },
+    {
+      "shot_id": "EP14-S011",
+      "chapter_number": 14,
+      "scene_number": 11,
+      "duration": 15,
+      "shot_type": "特写→系统界面",
+      "location": "秘境核心祭坛→顾玄视野",
+      "time_of_day": "昏暗",
+      "composition": "系统提示，天魔剑使用说明书，锈迹脱落，显示屏显示",
+      "characters": [
+        {
+          "name": "顾玄",
+          "action": "看着剑，运转天魔之力",
+          "expression": "恍然大悟→懵逼",
+          "costume": "青色道袍"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "系统界面特效、信息流入脑海、锈迹脱落、剑身显示屏显示'电量：87%'、'模式：标准'、'连接中...'、USB接口特写",
+        "color_grading": "科技感色调"
+      },
+      "audio": {
+        "dialogue": "系统提示：检测到辅助装备'制式魔剑-7型'，开始同步升级数据...\n\n顾玄：原来如此...这天魔剑就是个标准装备！难怪那魔物认得！\n\n（运转天魔之力，剑身锈迹脱落，露出显示屏）\n\n顾玄：......这画风是不是哪里不对？！更离谱的是，剑柄侧面居然有个USB接口！",
+        "background_music": "科技感电子乐",
+        "sound_effects": "系统提示音、锈迹脱落声"
+      },
+      "editing": {
+        "transition": "特效转场",
+        "pacing": "moderate"
+      },
+      "notes": "第四个爽点：科技版天魔剑，世界观崩塌"
+    },
+    {
+      "shot_id": "EP14-S012",
+      "chapter_number": 14,
+      "scene_number": 12,
+      "duration": 12,
+      "shot_type": "全景→特写",
+      "location": "秘境出口→青云宗临时住处",
+      "time_of_day": "夜",
+      "composition": "顾玄尝试给手机充电，世界观崩塌，魔教右使收到情报",
+      "characters": [
+        {
+          "name": "顾玄",
+          "action": "用天魔剑给手机充电",
+          "expression": "震惊→沉思",
+          "costume": "青色道袍"
+        },
+        {
+          "name": "魔教右使",
+          "action": "看着情报，面色凝重",
+          "expression": "凝重",
+          "costume": "魔教法袍"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "手机充电特效、天魔剑充电指示、世界观崩塌具象化、魔教情报界面",
+        "color_grading": "对比色调"
+      },
+      "audio": {
+        "dialogue": "顾玄：居然真的能充？！这输出还是快充模式？！所以这其实是个大型充电宝？！那我以后出门是不是不用带充电器了？!\n\n顾玄：我穿越的...真的是修仙世界吗？该不会是什么高科技文明伪装成修仙吧？或者...天魔其实是个科技种族？\n\n魔教右使：天魔大人不仅找回天魔剑，连'制式魔剑'都激活了...看来复苏进度远超预期...计划必须提前了！",
+        "background_music": "悬疑电子乐",
+        "sound_effects": "充电提示音、情报传输声"
+      },
+      "editing": {
+        "transition": "平行剪辑",
+        "pacing": "moderate"
+      },
+      "notes": "结尾钩子：天魔的科技属性暗示，魔教计划提前"
     }
-  },
-  {
-    "shot_id": "EP14-S005",
-    "chapter_number": 14,
-    "scene_number": 5,
-    "duration": 8,
-    "shot_type": "特写",
-    "location": "青云宗外门弟子房",
-    "time_of_day": "夜晚",
-    "composition": {
-      "camera_position": "主观视角",
-      "camera_movement": "固定镜头",
-      "framing": "中心构图",
-      "focus_type": "细节清晰"
-    },
-    "characters": [],
-    "visual_effects": {
-      "environment": "黑暗背景",
-      "lighting": "剑身自发光",
-      "color_palette": "科技蓝",
-      "special_effects": "剑身显示文字:批量生产型天魔剑-第七代-产品编号9527,注意事项:避免潮湿环境,剑柄显示屏显示电量87%,USB接口可见"
-    },
-    "audio": {
-      "dialogue": "",
-      "narration": "",
-      "internal_monologue": "批量生产?第七代?还有注意事项?!你们天魔界这么工业化的吗?!",
-      "background_music": "科幻感",
-      "sound_effects": ["系统机械音", "数据流动声"],
-      "volume_level": "内心独白为主"
-    },
-    "editing": {
-      "transition_to_next": "直接切",
-      "pacing": "中等",
-      "purpose": "揭示真相,世界观崩塌"
-    },
-    "notes": {
-      "production_note": "需要CG制作UI界面",
-      "reference_style": "科幻风格",
-      "difficulty_level": "中等"
-    }
-  },
-  {
-    "shot_id": "EP14-S006",
-    "chapter_number": 14,
-    "scene_number": 6,
-    "duration": 7,
-    "shot_type": "中景",
-    "location": "魔教总坛",
-    "time_of_day": "夜晚",
-    "composition": {
-      "camera_position": "俯视",
-      "camera_movement": "缓慢下降",
-      "framing": "中心构图",
-      "focus_type": "全景清晰"
-    },
-    "characters": [
-      {
-        "name": "魔教右使",
-        "position": "大殿中央",
-        "action": "听取情报,面色凝重",
-        "expression": "凝重",
-        "costume": "华贵黑袍"
-      }
-    ],
-    "visual_effects": {
-      "environment": "魔教总坛大殿",
-      "lighting": "幽暗火光",
-      "color_palette": "冷色调",
-      "special_effects": "魔气缭绕"
-    },
-    "audio": {
-      "dialogue": "天魔大人不仅找回天魔剑,连'制式魔剑'都激活了...看来复苏进度远超预期...计划必须提前了!",
-      "narration": "",
-      "internal_monologue": "",
-      "background_music": "阴森,紧张",
-      "sound_effects": [],
-      "volume_level": "对话突出"
-    },
-    "editing": {
-      "transition_to_next": "淡出",
-      "pacing": "中等",
-      "purpose": "埋下伏笔"
-    },
-    "notes": {
-      "production_note": "实景拍摄",
-      "reference_style": "压抑氛围",
-      "difficulty_level": "简单"
-    }
-  },
-  {
-    "shot_id": "EP14-S007",
-    "chapter_number": 14,
-    "scene_number": 7,
-    "duration": 6,
-    "shot_type": "近景",
-    "location": "青云宗外门弟子房",
-    "time_of_day": "夜晚",
-    "composition": {
-      "camera_position": "正面拍摄",
-      "camera_movement": "轻微推近",
-      "framing": "中心构图",
-      "focus_type": "主体清晰"
-    },
-    "characters": [
-      {
-        "name": "顾玄",
-        "position": "画面中央",
-        "action": "尝试用天魔剑给手机充电",
-        "expression": "惊讶,欣喜",
-        "costume": "粗布麻衣",
-        "props": "天魔剑,手机"
-      }
-    ],
-    "visual_effects": {
-      "environment": "木屋内景",
-      "lighting": "昏暗光线",
-      "color_palette": "暖色调",
-      "special_effects": "手机显示充电图标,快充提示"
-    },
-    "audio": {
-      "dialogue": "",
-      "narration": "",
-      "internal_monologue": "居然真的能充?!这输出还是快充模式?!所以这其实是个大型充电宝?!那我以后出门是不是不用带充电器了?!",
-      "background_music": "轻快幽默",
-      "sound_effects": ["充电提示音"],
-      "volume_level": "内心独白为主"
-    },
-    "editing": {
-      "transition_to_next": "淡出",
-      "pacing": "舒缓",
-      "purpose": "收尾,留下笑点"
-    },
-    "notes": {
-      "production_note": "实景拍摄",
-      "reference_style": "轻松幽默",
-      "difficulty_level": "简单"
-    }
-  }
-]
+  ]
+}

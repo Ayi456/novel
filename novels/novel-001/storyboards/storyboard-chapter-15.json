@@ -1,678 +1,421 @@
-[
-  {
-    "shot_id": "EP15-S001",
-    "chapter_number": 15,
-    "scene_number": 1,
-    "duration": 7,
-    "shot_type": "中景",
-    "location": "青云宗外门弟子房",
-    "time_of_day": "夜晚",
-    "composition": {
-      "camera_position": "正面拍摄",
-      "camera_movement": "固定镜头",
-      "framing": "中心构图",
-      "focus_type": "主体清晰"
-    },
-    "characters": [
-      {
-        "name": "顾玄",
-        "position": "画面中央",
-        "action": "研究天魔剑,投影全息影像",
-        "expression": "兴奋,惊讶",
-        "costume": "粗布麻衣",
-        "props": "天魔剑"
+{
+  "chapter": 15,
+  "title": "魔教夜袭",
+  "episode_number": "EP15",
+  "story_summary": "顾玄研究天魔剑发现科技属性，魔教夜袭青云宗，通过密码锁、激光防御、团建模式等沙雕装置成功吓退魔教。",
+  "total_scenes": 11,
+  "scenes": [
+    {
+      "shot_id": "EP15-S001",
+      "chapter_number": 15,
+      "scene_number": 1,
+      "duration": 12,
+      "shot_type": "特写→中景",
+      "location": "青云宗密室",
+      "time_of_day": "夜",
+      "composition": "天魔剑投影全息影像，USB接口读取U盘，显示屏显示各项功能",
+      "characters": [
+        {
+          "name": "顾玄",
+          "action": "研究天魔剑功能",
+          "expression": "震惊→三观尽碎",
+          "costume": "青色道袍"
+        },
+        {
+          "name": "陆尘",
+          "action": "好奇凑过来",
+          "expression": "似懂非懂",
+          "costume": "弟子服"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "天魔剑投影全息影像（1080P高清）、USB接口特写、显示屏显示'电量'、'WIFI热点'、'投影'、'语音助手'等功能、投影《星际穿越》画面",
+        "color_grading": "科技感蓝色调"
       },
-      {
-        "name": "陆尘",
-        "position": "门口",
-        "action": "好奇凑过来",
-        "expression": "好奇",
-        "costume": "布衣"
-      }
-    ],
-    "visual_effects": {
-      "environment": "木屋内景",
-      "lighting": "昏暗光线+全息投影",
-      "color_palette": "暖色调+投影蓝光",
-      "special_effects": "天魔剑投射1080P全息影像,播放电影"
+      "audio": {
+        "dialogue": "顾玄：所以天魔其实是个科技文明？那修炼算什么？生物改造？基因优化？\n\n（投影《星际穿越》）\n\n陆尘：师兄！你在看什么？\n\n顾玄：咳咳，为师在参悟无上大道...\n\n陆尘：师兄参悟大道的方式真特别...",
+        "background_music": "科技感电子乐转轻快",
+        "sound_effects": "投影启动声、全息影像音效"
+      },
+      "editing": {
+        "transition": "特效转场",
+        "pacing": "moderate"
+      },
+      "notes": "开篇展示天魔剑的科技属性，冲击世界观"
     },
-    "audio": {
-      "dialogue": "师兄!你在看什么? 咳咳,为师在参悟无上大道...",
-      "narration": "",
-      "internal_monologue": "这玩意儿太危险了,万一被人发现天魔剑其实是个多媒体播放器,我的人设就崩了!",
-      "background_music": "电影原声+轻快背景",
-      "sound_effects": ["电影音效", "关机声"],
-      "volume_level": "对话突出"
+    {
+      "shot_id": "EP15-S002",
+      "chapter_number": 15,
+      "scene_number": 2,
+      "duration": 8,
+      "shot_type": "中景",
+      "location": "青云宗密室",
+      "time_of_day": "夜",
+      "composition": "魔教卧底传来紧急情报，顾玄接到情报",
+      "characters": [
+        {
+          "name": "顾玄",
+          "action": "接到传讯符",
+          "expression": "心里一咯噔",
+          "costume": "青色道袍"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "系统提示界面特效、情报内容滚动显示、紧急警报特效",
+        "color_grading": "紧张红色调"
+      },
+      "audio": {
+        "dialogue": "系统提示：【魔教卧底传来紧急情报】【内容：右使大人即将亲自带队来袭！】【目标：试探您的真实实力！】\n\n顾玄：右使？听起来就是大佬啊！我这水货怎么扛？",
+        "background_music": "紧张急促",
+        "sound_effects": "传讯符破空声、系统提示音"
+      },
+      "editing": {
+        "transition": "硬切",
+        "pacing": "fast"
+      },
+      "notes": "危机降临，魔教右使来袭"
     },
-    "editing": {
-      "transition_to_next": "直接切",
-      "pacing": "中等",
-      "purpose": "展现天魔剑多功能属性,幽默"
+    {
+      "shot_id": "EP15-S003",
+      "chapter_number": 15,
+      "scene_number": 3,
+      "duration": 10,
+      "shot_type": "中景",
+      "location": "青云宗正殿",
+      "time_of_day": "夜",
+      "composition": "顾玄与李道玄商量对策，决定空城计",
+      "characters": [
+        {
+          "name": "李道玄",
+          "action": "听完情报，慌了",
+          "expression": "慌张",
+          "costume": "掌门道袍"
+        },
+        {
+          "name": "顾玄",
+          "action": "表面淡定",
+          "expression": "表面淡定，内心呐喊",
+          "costume": "青色道袍"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "顾玄内心戏特效（元婴后期、吹口气就没了）",
+        "color_grading": "紧张色调"
+      },
+      "audio": {
+        "dialogue": "李道玄：右使？那可是魔教二把手！据说有元婴后期修为！徒儿你能应付吗？\n\n顾玄：师尊放心，弟子自有分寸。（内心：我有个屁的分寸啊！元婴后期！吹口气我就没了！）\n\n顾玄：只能智取了！来个空城计——假装宗门空虚，引敌深入！",
+        "background_music": "紧张但轻松",
+        "sound_effects": "环境音"
+      },
+      "editing": {
+        "transition": "切",
+        "pacing": "moderate"
+      },
+      "notes": "主角决定用空城计应对"
     },
-    "notes": {
-      "production_note": "需要CG制作全息投影",
-      "reference_style": "科幻+修仙混搭",
-      "difficulty_level": "中等"
+    {
+      "shot_id": "EP15-S004",
+      "chapter_number": 15,
+      "scene_number": 4,
+      "duration": 10,
+      "shot_type": "夜景全景",
+      "location": "青云宗山门→山内",
+      "time_of_day": "深夜",
+      "composition": "月黑风高，魔教右使带队潜入，神识扫描",
+      "characters": [
+        {
+          "name": "魔教右使",
+          "action": "带队潜入，神识扫描",
+          "expression": "冷笑",
+          "costume": "黑袍，青铜面具"
+        },
+        {
+          "name": "魔教徒",
+          "action": "悄无声息跟随",
+          "expression": "阴森",
+          "costume": "黑衣"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "月黑风高氛围、黑影潜入特效、神识扫描波、阴森恐怖色调",
+        "color_grading": "黑暗蓝绿色调"
+      },
+      "audio": {
+        "dialogue": "魔教右使：果然空虚。看来那天魔转世的小子真的在闭关。搜！找出密室和传承！",
+        "background_music": "阴森紧张",
+        "sound_effects": "夜风声、潜行声"
+      },
+      "editing": {
+        "transition": "淡入",
+        "pacing": "slow"
+      },
+      "notes": "营造夜袭氛围"
+    },
+    {
+      "shot_id": "EP15-S005",
+      "chapter_number": 15,
+      "scene_number": 5,
+      "duration": 15,
+      "shot_type": "中景→特写",
+      "location": "青云宗后山密室入口",
+      "time_of_day": "深夜",
+      "composition": "密室入口亮起强光，机械女声响起，全息数字键盘出现，右使尝试密码",
+      "characters": [
+        {
+          "name": "魔教右使",
+          "action": "尝试输入密码",
+          "expression": "???",
+          "costume": "黑袍，青铜面具"
+        },
+        {
+          "name": "魔教徒",
+          "action": "懵逼",
+          "expression": "？？？",
+          "costume": "黑衣"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "入口亮起刺目强光、机械女声音波特效、全息数字键盘浮现、密码输入特效、错误警告红光",
+        "color_grading": "科技感荧光色调"
+      },
+      "audio": {
+        "dialogue": "机械女声：欢迎光临青云宗密室！请输入密码！\n\n魔教右使：？？？\n\n右使尝试密码：666666...888888...天魔万岁...\n\n机械女声：密码错误！还剩2次尝试机会！\n\n右使：强行破开！",
+        "background_music": "搞笑科技感",
+        "sound_effects": "机械女声、密码错误提示音"
+      },
+      "editing": {
+        "transition": "切",
+        "pacing": "moderate"
+      },
+      "notes": "第一个搞笑点：密室密码锁"
+    },
+    {
+      "shot_id": "EP15-S006",
+      "chapter_number": 15,
+      "scene_number": 6,
+      "duration": 10,
+      "shot_type": "特效全景",
+      "location": "青云宗后山密室入口",
+      "time_of_day": "深夜",
+      "composition": "密码锁变形，伸出炮口，激光射击，魔教徒抱头鼠窜",
+      "characters": [
+        {
+          "name": "魔教右使",
+          "action": "脸色铁青",
+          "expression": "恼羞成怒",
+          "costume": "黑袍，青铜面具"
+        },
+        {
+          "name": "魔教徒",
+          "action": "被激光追，抱头鼠窜",
+          "expression": "惊恐",
+          "costume": "黑衣"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "密码锁机械变形、炮口伸出特效、激光射击（当然是特效）、激光轨迹光效、魔教徒被追的搞笑场面",
+        "color_grading": "科幻激光色调"
+      },
+      "audio": {
+        "dialogue": "机械女声：检测到暴力破解！启动防御模式！\n\n（biu biu biu——激光射出）\n\n魔教右使：这是什么上古禁制？如此古怪！",
+        "background_music": "搞笑科幻",
+        "sound_effects": "激光声、机械变形声、魔教徒惊呼"
+      },
+      "editing": {
+        "transition": "快速剪辑",
+        "pacing": "fast"
+      },
+      "notes": "第二个搞笑点：激光防御"
+    },
+    {
+      "shot_id": "EP15-S007",
+      "chapter_number": 15,
+      "scene_number": 7,
+      "duration": 12,
+      "shot_type": "中景蒙太奇",
+      "location": "青云宗各处",
+      "time_of_day": "深夜",
+      "composition": "魔教众人在各处"淘宝"：藏经阁找话本、厨房找剩粥、宿舍找笔记",
+      "characters": [
+        {
+          "name": "魔教右使",
+          "action": "看小说封面",
+          "expression": "......",
+          "costume": "黑袍，青铜面具"
+        },
+        {
+          "name": "魔教徒",
+          "action": "兴奋地捧着书、粥、笔记",
+          "expression": "兴奋→尴尬",
+          "costume": "黑衣"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "话本封面特写、《霸道仙尊爱上我》、《穿越之我是魔尊》、《修仙之极品家丁》等书名、剩粥冒热气、笔记术语特效（RGB光效调节、功耗优化）",
+        "color_grading": "荒诞搞笑色调"
+      },
+      "audio": {
+        "dialogue": "魔教徒：右使！发现大量秘籍！\n\n右使看封面：《霸道仙尊爱上我》、《穿越之我是魔尊》、《修仙之极品家丁》...\n\n右使：......这都什么跟什么？！\n\n另一魔教徒：右使！发现疑似丹药！蕴含奇特灵气！\n\n右使：带回去研究！（郑重收起一锅剩粥）",
+        "background_music": "荒诞搞笑",
+        "sound_effects": "书本翻动声、环境音"
+      },
+      "editing": {
+        "transition": "平行蒙太奇",
+        "pacing": "moderate"
+      },
+      "notes": "第三个搞笑点：魔教淘宝"
+    },
+    {
+      "shot_id": "EP15-S008",
+      "chapter_number": 15,
+      "scene_number": 8,
+      "duration": 12,
+      "shot_type": "特效全景",
+      "location": "青云宗山门区域",
+      "time_of_day": "深夜",
+      "composition": "无数光效亮起，"欢迎光临"大字，魔性音乐响起，魔教徒被迫跳舞",
+      "characters": [
+        {
+          "name": "魔教右使",
+          "action": "大怒，一剑劈向光效",
+          "expression": "！！！",
+          "costume": "黑袍，青铜面具"
+        },
+        {
+          "name": "魔教徒",
+          "action": "被光影控制，扭动跳舞",
+          "expression": "？？？",
+          "costume": "黑衣"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "无数光效亮起、'欢迎光临'四个大字、魔性《最炫民族风》音符特效、光影引导跳舞、剑气与屏障碰撞爆出绚烂火花",
+        "color_grading": "彩虹光效色调"
+      },
+      "audio": {
+        "dialogue": "机械女声：检测到贵宾来访！启动团建模式！第一项：破冰游戏！请跟着节奏跳舞！\n\n（魔性《最炫民族风》响起）\n\n魔教徒：？？？\n\n魔教右使：！！！成何体统！\n\n（剑气与屏障碰撞，砰！爆出绚烂火花）",
+        "background_music": "《最炫民族风》魔性版",
+        "sound_effects": "光效亮起声、机械女声、音乐响起、碰撞爆炸声"
+      },
+      "editing": {
+        "transition": "混乱剪辑",
+        "pacing": "fast"
+      },
+      "notes": "第四个搞笑点：团建模式"
+    },
+    {
+      "shot_id": "EP15-S009",
+      "chapter_number": 15,
+      "scene_number": 9,
+      "duration": 10,
+      "shot_type": "中景",
+      "location": "青云宗山门区域",
+      "time_of_day": "深夜",
+      "composition": "魔教众攻击屏障，顾玄远程烧灵石续费，魔教决定撤退",
+      "characters": [
+        {
+          "name": "魔教右使",
+          "action": "越打越心惊",
+          "expression": "脸色铁青",
+          "costume": "黑袍，青铜面具"
+        },
+        {
+          "name": "魔教徒",
+          "action": "攻击屏障",
+          "expression": "紧张",
+          "costume": "黑衣"
+        },
+        {
+          "name": "顾玄",
+          "action": "远程烧灵石续费",
+          "expression": "冷汗直流",
+          "costume": "青色道袍（暗处）"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "剑气与屏障碰撞爆出绚烂火花、五彩斑斓、演唱会效果、灵石消耗特效、顾玄烧灵石动作",
+        "color_grading": "绚烂火花色调"
+      },
+      "audio": {
+        "dialogue": "魔教右使：这屏障看似花哨，实则坚韧无比！而且能吸收攻击转化为光效！这是什么上古奇阵？！\n\n魔教徒：右使！灵石快耗尽了！\n\n右使：撤！此地诡异！\n\n（魔教徒仓惶撤退，顺手牵羊拿走几本小说和茶具）",
+        "background_music": "紧张转轻松",
+        "sound_effects": "碰撞爆炸声、灵石耗尽提示音"
+      },
+      "editing": {
+        "transition": "切",
+        "pacing": "fast"
+      },
+      "notes": "魔教被吓跑，顾玄松口气"
+    },
+    {
+      "shot_id": "EP15-S010",
+      "chapter_number": 15,
+      "scene_number": 10,
+      "duration": 12,
+      "shot_type": "中景",
+      "location": "魔教总坛会议室",
+      "time_of_day": "日",
+      "composition": "魔教高层围坐，右使展示"战利品"，众人脑补",
+      "characters": [
+        {
+          "name": "魔教右使",
+          "action": "郑重展示战利品",
+          "expression": "严肃",
+          "costume": "黑袍"
+        },
+        {
+          "name": "魔教高层",
+          "action": "围着战利品研究",
+          "expression": "面色凝重",
+          "costume": "各色法袍"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "战利品展示（一锅剩粥、几本小说、一套茶具、特效研究笔记）、脑补气泡特效（上古药膳、天魔历劫经历、无上秘法术语）",
+        "color_grading": "严肃搞笑对比"
+      },
+      "audio": {
+        "dialogue": "魔教高层：这粥...看似普通，但灵气结构奇特，莫非是某种上古药膳？\n\n这些书记载的'霸道仙尊'、'极品家丁'，莫非是天魔大人的历劫经历？\n\n最珍贵的是这份心得！'光效'、'功耗'...定是某种无上秘法术语！\n\n右使：青云宗深不可测！看似破落，实则处处暗藏玄机！那天魔转世更是手段诡异，竟将宗门打造成一个...一个...主题乐园！\n\n众魔教高层：天魔大人果然思路清奇！",
+        "background_music": "严肃转搞笑",
+        "sound_effects": "环境音"
+      },
+      "editing": {
+        "transition": "切",
+        "pacing": "moderate"
+      },
+      "notes": "魔教脑补升级，评估青云宗为"主题乐园""
+    },
+    {
+      "shot_id": "EP15-S011",
+      "chapter_number": 15,
+      "scene_number": 11,
+      "duration": 10,
+      "shot_type": "特写→系统界面",
+      "location": "青云宗密室",
+      "time_of_day": "夜",
+      "composition": "顾玄发愁经费问题，系统提示弹出",
+      "characters": [
+        {
+          "name": "顾玄",
+          "action": "对着空储物袋发愁",
+          "expression": "欲哭无泪",
+          "costume": "青色道袍"
+        }
+      ],
+      "visual_effects：": {
+        "special_effects": "系统提示界面特效、积分显示、任务提示、经费短缺具象化特效",
+        "color_grading": "惨淡色调"
+      },
+      "audio": {
+        "dialogue": "顾玄：特效灵石又烧完了...得想办法搞钱啊！要不...真开个修仙主题乐园赚钱？\n\n系统提示：【检测到宿主完成'魔教夜袭防御'】【奖励：积分+100】【当前积分：455】【管理员权限：Lv.1（封印中）】【新任务：寻找更多特效灵石来源...】\n\n顾玄：这日子没法过了...",
+        "background_music": "悲搞笑",
+        "sound_effects": "系统提示音"
+      },
+      "editing": {
+        "transition": "淡出",
+        "pacing": "slow"
+      },
+      "notes": "结尾钩子：经费短缺，暗示下一章主题"
     }
-  },
-  {
-    "shot_id": "EP15-S002",
-    "chapter_number": 15,
-    "scene_number": 2,
-    "duration": 8,
-    "shot_type": "中景",
-    "location": "青云宗后山密室入口",
-    "time_of_day": "深夜",
-    "composition": {
-      "camera_position": "侧面拍摄",
-      "camera_movement": "固定镜头",
-      "framing": "三分法",
-      "focus_type": "主体清晰"
-    },
-    "characters": [
-      {
-        "name": "魔教右使",
-        "position": "入口前",
-        "action": "尝试破解密码锁",
-        "expression": "恼怒",
-        "costume": "华贵黑袍"
-      },
-      {
-        "name": "魔教徒们",
-        "position": "四周",
-        "action": "攻击入口",
-        "expression": "紧张",
-        "costume": "黑衣"
-      }
-    ],
-    "visual_effects": {
-      "environment": "后山密林",
-      "lighting": "月光+入口强光",
-      "color_palette": "冷色调",
-      "special_effects": "入口亮起刺目强光,机械女声音响,全息数字键盘浮现,密码锁变形伸出炮口,发射激光"
-    },
-    "audio": {
-      "dialogue": "欢迎光临青云宗密室!请输入密码! 检测到暴力破解!启动防御模式! biu biu biu——",
-      "narration": "",
-      "internal_monologue": "",
-      "background_music": "紧张搞笑",
-      "sound_effects": ["机械女声", "激光声", "魔教徒惊呼"],
-      "volume_level": "音效突出"
-    },
-    "editing": {
-      "transition_to_next": "直接切",
-      "pacing": "快速",
-      "purpose": "搞笑场景"
-    },
-    "notes": {
-      "production_note": "需要CG制作科幻装置",
-      "reference_style": "科幻+修仙反差",
-      "difficulty_level": "中等"
-    }
-  },
-  {
-    "shot_id": "EP15-S003",
-    "chapter_number": 15,
-    "scene_number": 3,
-    "duration": 6,
-    "shot_type": "中景",
-    "location": "青云宗藏经阁",
-    "time_of_day": "深夜",
-    "composition": {
-      "camera_position": "正面拍摄",
-      "camera_movement": "固定镜头",
-      "framing": "中心构图",
-      "focus_type": "主体清晰"
-    },
-    "characters": [
-      {
-        "name": "魔教右使",
-        "position": "藏经阁内",
-        "action": "翻看书本封面",
-        "expression": "无语,愤怒",
-        "costume": "华贵黑袍",
-        "props": "话本小说"
-      },
-      {
-        "name": "魔教徒",
-        "position": "一旁",
-        "action": "捧着书跑来",
-        "expression": "兴奋",
-        "costume": "黑衣"
-      }
-    ],
-    "visual_effects": {
-      "environment": "破书房",
-      "lighting": "昏暗灯光",
-      "color_palette": "暖色调",
-      "special_effects": "无"
-    },
-    "audio": {
-      "dialogue": "《霸道仙尊爱上我》、《穿越之我是魔尊》、《修仙之极品家丁》...这都什么跟什么?! 右使!发现大量秘籍!",
-      "narration": "",
-      "internal_monologue": "",
-      "background_music": "搞笑",
-      "sound_effects": ["摔书声"],
-      "volume_level": "对话突出"
-    },
-    "editing": {
-      "transition_to_next": "直接切",
-      "pacing": "快速",
-      "purpose": "搞笑误会"
-    },
-    "notes": {
-      "production_note": "实景拍摄",
-      "reference_style": "搞笑场景",
-      "difficulty_level": "简单"
-    }
-  },
-  {
-    "shot_id": "EP15-S004",
-    "chapter_number": 15,
-    "scene_number": 4,
-    "duration": 10,
-    "shot_type": "全景",
-    "location": "青云宗宗门空地",
-    "time_of_day": "深夜",
-    "composition": {
-      "camera_position": "高处俯拍",
-      "camera_movement": "环绕拍摄",
-      "framing": "全景构图",
-      "focus_type": "全景清晰"
-    },
-    "characters": [
-      {
-        "name": "魔教众人",
-        "position": "场中",
-        "action": "被光影控制,不由自主扭动,攻击屏障",
-        "expression": "困惑,惊恐",
-        "costume": "黑衣"
-      }
-    ],
-    "visual_effects": {
-      "environment": "宗门空地",
-      "lighting": "七彩光芒闪烁",
-      "color_palette": "五彩斑斓",
-      "special_effects": "四周亮起无数光效,组成巨大'欢迎光临'字样,机械女声音响,魔性《最炫民族风》响起,光影引导跳舞,屏障吸收攻击转化为光效"
-    },
-    "audio": {
-      "dialogue": "检测到贵宾来访!启动团建模式!第一项:破冰游戏!请跟着节奏跳舞! 成何体统!",
-      "narration": "",
-      "internal_monologue": "这又是什么情况?我没设置这个啊!",
-      "background_music": "《最炫民族风》",
-      "sound_effects": ["音乐声", "光影变幻声", "攻击碰撞声"],
-      "volume_level": "音乐突出"
-    },
-    "editing": {
-      "transition_to_next": "直接切",
-      "pacing": "快速",
-      "purpose": "高潮搞笑场景"
-    },
-    "notes": {
-      "production_note": "需要大量CG光效",
-      "reference_style": "搞笑+特效",
-      "difficulty_level": "复杂"
-    }
-  },
-  {
-    "shot_id": "EP15-S005",
-    "chapter_number": 15,
-    "scene_number": 5,
-    "duration": 8,
-    "shot_type": "中景",
-    "location": "魔教总坛大殿",
-    "time_of_day": "夜晚",
-    "composition": {
-      "camera_position": "正面拍摄",
-      "camera_movement": "左右摇摄",
-      "framing": "中心构图",
-      "focus_type": "主体清晰"
-    },
-    "characters": [
-      {
-        "name": "魔教右使",
-        "position": "大殿中央",
-        "action": "郑重展示战利品",
-        "expression": "凝重",
-        "costume": "华贵黑袍"
-      },
-      {
-        "name": "魔教高层",
-        "position": "四周",
-        "action": "围观点头",
-        "expression": "凝重",
-        "costume": "华贵黑袍"
-      }
-    ],
-    "visual_effects": {
-      "environment": "魔教总坛大殿",
-      "lighting": "幽暗火光",
-      "color_palette": "冷色调",
-      "special_effects": "桌上摆放:一锅剩粥,几本小说,一套茶具,笔记"
-    },
-    "audio": {
-      "dialogue": "这粥...看似普通,但灵气结构奇特,莫非是某种上古药膳?这些书记载的'霸道仙尊'、'极品家丁',莫非是天魔大人的历劫经历?最珍贵的是这份心得!'光效'、'功耗'...定是某种无上秘法术语!",
-      "narration": "",
-      "internal_monologue": "",
-      "background_music": "严肃带讽刺",
-      "sound_effects": [],
-      "volume_level": "对话突出"
-    },
-    "editing": {
-      "transition_to_next": "直接切",
-      "pacing": "中等",
-      "purpose": "魔教脑洞大开"
-    },
-    "notes": {
-      "production_note": "实景拍摄",
-      "reference_style": "讽刺幽默",
-      "difficulty_level": "简单"
-    }
-  },
-  {
-    "shot_id": "EP15-S006",
-    "chapter_number": 15,
-    "scene_number": 6,
-    "duration": 7,
-    "shot_type": "近景",
-    "location": "青云宗外门弟子房",
-    "time_of_day": "深夜",
-    "composition": {
-      "camera_position": "正面拍摄",
-      "camera_movement": "轻微推近",
-      "framing": "中心构图",
-      "focus_type": "主体清晰"
-    },
-    "characters": [
-      {
-        "name": "顾玄",
-        "position": "画面中央",
-        "action": "发愁经费",
-        "expression": "头痛",
-        "costume": "粗布麻衣"
-      }
-    ],
-    "visual_effects": {
-      "environment": "木屋内景",
-      "lighting": "昏暗油灯",
-      "color_palette": "暖色调",
-      "special_effects": "无"
-    },
-    "audio": {
-      "dialogue": "",
-      "narration": "",
-      "internal_monologue": "特效灵石又烧完了...得想办法搞钱啊! 要不...真开个修仙主题乐园赚钱?",
-      "background_music": "轻松幽默",
-      "sound_effects": [],
-      "volume_level": "内心独白为主"
-    },
-    "editing": {
-      "transition_to_next": "直接切",
-      "pacing": "舒缓",
-      "purpose": "收尾,留下笑点"
-    },
-    "notes": {
-      "production_note": "实景拍摄",
-      "reference_style": "轻松幽默",
-      "difficulty_level": "简单"
-    }
-  },
-  {
-    "shot_id": "EP15-S007",
-    "chapter_number": 15,
-    "scene_number": 7,
-    "duration": 9,
-    "shot_type": "中景",
-    "location": "青云宗外门弟子房",
-    "time_of_day": "深夜",
-    "composition": {
-      "camera_position": "对话角度",
-      "camera_movement": "双方切换",
-      "framing": "对话构图",
-      "focus_type": "人物清晰"
-    },
-    "characters": [
-      {
-        "name": "顾玄",
-        "position": "书桌前",
-        "action": "写方案,算账",
-        "expression": "认真→兴奋",
-        "costume": "粗布麻衣"
-      },
-      {
-        "name": "陆尘",
-        "position": "旁边",
-        "action": "好奇看方案",
-        "expression": "困惑→惊讶",
-        "costume": "布衣"
-      }
-    ],
-    "visual_effects": {
-      "environment": "简陋木屋",
-      "lighting": "油灯昏黄",
-      "color_palette": "暖色调",
-      "special_effects": "纸上密密麻麻写着'修仙主题乐园'方案,天魔剑投影出简单的3D模型"
-    },
-    "audio": {
-      "dialogue": "师兄,你这是在写什么?《青云仙宗主题乐园可行性报告》?!我想了!我们可以开发修仙旅游项目!让凡人体验修仙生活,收灵石当门票!还能卖周边!这个...会不会有损宗门形象?形象能当饭吃吗?",
-      "narration": "",
-      "internal_monologue": "",
-      "background_music": "轻松搞笑",
-      "sound_effects": ["写字声", "投影声"],
-      "volume_level": "对话突出"
-    },
-    "editing": {
-      "transition_to_next": "直接切",
-      "pacing": "中等",
-      "purpose": "展开计划"
-    },
-    "notes": {
-      "production_note": "实景+CG投影",
-      "reference_style": "创意幽默",
-      "difficulty_level": "中等"
-    }
-  },
-  {
-    "shot_id": "EP15-S008",
-    "chapter_number": 15,
-    "scene_number": 8,
-    "duration": 8,
-    "shot_type": "全景",
-    "location": "青云宗-山门外",
-    "time_of_day": "白天",
-    "composition": {
-      "camera_position": "山门外视角",
-      "camera_movement": "缓慢推近",
-      "framing": "宣传场景构图",
-      "focus_type": "宣传清晰"
-    },
-    "characters": [
-      {
-        "name": "顾玄",
-        "position": "山门前",
-        "action": "竖立广告牌",
-        "expression": "认真",
-        "costume": "白衣"
-      },
-      {
-        "name": "陆尘",
-        "position": "帮忙",
-        "action": "搬运材料",
-        "expression": "努力",
-        "costume": "布衣"
-      },
-      {
-        "name": "路过的弟子",
-        "position": "远处",
-        "action": "围观议论",
-        "expression": "好奇",
-        "costume": "弟子服"
-      }
-    ],
-    "visual_effects": {
-      "environment": "青云山门",
-      "lighting": "自然阳光",
-      "color_palette": "明亮色调",
-      "special_effects": "巨大的广告牌:『青云仙宗一日游,体验修仙生活,包教包会,食宿自理』,天魔剑投影出宣传视频"
-    },
-    "audio": {
-      "dialogue": "位置选这里好!进山的游客都能看到!师兄,这会不会太...太那个了?太有商业气息?这叫与时俱进!来,把投影音量调大点!",
-      "narration": "",
-      "internal_monologue": "",
-      "background_music": "热闹",
-      "sound_effects": ["广告录音", "弟子议论"],
-      "volume_level": "对话突出"
-    },
-    "editing": {
-      "transition_to_next": "直接切",
-      "pacing": "中等",
-      "purpose": "实施计划"
-    },
-    "notes": {
-      "production_note": "实景+CG投影",
-      "reference_style": "商业搞笑",
-      "difficulty_level": "简单"
-    }
-  },
-  {
-    "shot_id": "EP15-S009",
-    "chapter_number": 15,
-    "scene_number": 9,
-    "duration": 10,
-    "shot_type": "全景蒙太奇",
-    "location": "青云宗-各处",
-    "time_of_day": "白天",
-    "composition": {
-      "camera_position": "多地点切换",
-      "camera_movement": "快速切换",
-      "framing": "蒙太奇构图",
-      "focus_type": "游客场景清晰"
-    },
-    "characters": [
-      {
-        "name": "游客们",
-        "position": "各处",
-        "action": "体验修仙项目",
-        "expression": "兴奋,好奇",
-        "costume": "各种服饰"
-      },
-      {
-        "name": "顾玄",
-        "position": "各处",
-        "action": "接待,介绍",
-        "expression": "忙碌但高兴",
-        "costume": "白衣"
-      },
-      {
-        "name": "青云弟子",
-        "position": "一旁",
-        "action": "无奈围观",
-        "expression": "无语",
-        "costume": "弟子服"
-      }
-    ],
-    "visual_effects": {
-      "environment": "青云宗各景点",
-      "lighting": "自然光",
-      "color_palette": "热闹色调",
-      "special_effects": "游客穿古装拍照,体验'御剑飞行'(实际上是被天魔剑的磁力悬浮),学习'仙术'(顾玄教简单的魔术),买纪念品(天魔剑造型的钥匙扣)"
-    },
-    "audio": {
-      "dialogue": "哇!真的飞起来了!快来拍照!这个飞剑好酷!多少钱一个?五百灵石?!这太贵了吧!这可是正宗天魔剑同款!而且附带蓝牙音箱功能!师兄...掌门叫你去一趟...好像很生气的样子...",
-      "narration": "",
-      "internal_monologue": "",
-      "background_music": "热闹欢快",
-      "sound_effects": ["游客欢声", "蓝牙音乐"],
-      "volume_level": "环境音突出"
-    },
-    "editing": {
-      "transition_to_next": "快速切",
-      "pacing": "快速",
-      "purpose": "业务兴隆蒙太奇"
-    },
-    "notes": {
-      "production_note": "多场景拍摄",
-      "reference_style": "欢乐商业",
-      "difficulty_level": "中等"
-    }
-  },
-  {
-    "shot_id": "EP15-S010",
-    "chapter_number": 15,
-    "scene_number": 10,
-    "duration": 8,
-    "shot_type": "中景",
-    "location": "青云宗-掌门大殿",
-    "time_of_day": "下午",
-    "composition": {
-      "camera_position": "大殿内部",
-      "camera_movement": "对话切换",
-      "framing": "会议构图",
-      "focus_type": "人物清晰"
-    },
-    "characters": [
-      {
-        "name": "李道玄",
-        "position": "掌门座",
-        "action": "头疼,揉太阳穴",
-        "expression": "无奈,头疼",
-        "costume": "掌门华服"
-      },
-      {
-        "name": "顾玄",
-        "position": "殿中",
-        "action": "辩解,展示收入",
-        "expression": "认真",
-        "costume": "白衣"
-      },
-      {
-        "name": "长老们",
-        "position": "两侧",
-        "action": "议论纷纷",
-        "expression": "各有看法",
-        "costume": "长老服"
-      }
-    ],
-    "visual_effects": {
-      "environment": "掌门大殿",
-      "lighting": "殿内光线",
-      "color_palette": "正式色调",
-      "special_effects": "桌上堆满灵石,天魔剑投影出收入报表"
-    },
-    "audio": {
-      "dialogue": "顾玄...你这是在做什么?把宗门搞成集市了?掌门您听我解释!我们这个月收入增加了十倍!你看!游客收入,纪念品销售,体验项目收费...而且我们还宣传了宗门形象!确实...现在外面都说我们青云宗最亲民...但这...这也太...",
-      "narration": "",
-      "internal_monologue": "",
-      "background_music": "尴尬又好笑",
-      "sound_effects": [],
-      "volume_level": "对话突出"
-    },
-    "editing": {
-      "transition_to_next": "直接切",
-      "pacing": "中等",
-      "purpose": "商业vs传统冲突"
-    },
-    "notes": {
-      "production_note": "室内拍摄",
-      "reference_style": "办公场景",
-      "difficulty_level": "简单"
-    }
-  },
-  {
-    "shot_id": "EP15-S011",
-    "chapter_number": 15,
-    "scene_number": 11,
-    "duration": 9,
-    "shot_type": "全景",
-    "location": "青云宗-演武场",
-    "time_of_day": "傍晚",
-    "composition": {
-      "camera_position": "高处俯拍",
-      "camera_movement": "缓慢环绕",
-      "framing": "活动全景构图",
-      "focus_type": "活动清晰"
-    },
-    "characters": [
-      {
-        "name": "顾玄",
-        "position": "演武场中央",
-        "action": "主持活动",
-        "expression": "兴奋",
-        "costume": "白衣"
-      },
-      {
-        "name": "游客们",
-        "position": "四周",
-        "action": "参与活动",
-        "expression": "快乐",
-        "costume": "古装"
-      },
-      {
-        "name": "青云弟子",
-        "position": "协助",
-        "action": "维持秩序",
-        "expression": "无奈但帮忙",
-        "costume": "弟子服"
-      }
-    ],
-    "visual_effects": {
-      "environment": "演武场",
-      "lighting": "夕阳+灯光",
-      "color_palette": "暖色调",
-      "special_effects": "天魔剑投影出绚丽的光效,举办'修仙知识竞赛',游客答题赢奖品,场面热闹"
-    },
-    "audio": {
-      "dialogue": "好!接下来是知识竞赛环节!答对有奖!第一题:天魔剑的正确使用方法是什么?A.切菜 B.砍柴 C.播放电影 D.以上都对!我知道!选D!恭喜你答对了!获得天魔剑钥匙扣一个!耶!这也太...",
-      "narration": "",
-      "internal_monologue": "",
-      "background_music": "欢快",
-      "sound_effects": ["欢呼声", "答题声"],
-      "volume_level": "环境音突出"
-    },
-    "editing": {
-      "transition_to_next": "直接切",
-      "pacing": "快速",
-      "purpose": "活动高潮"
-    },
-    "notes": {
-      "production_note": "群众场景",
-      "reference_style": "热闹活动",
-      "difficulty_level": "中等"
-    }
-  },
-  {
-    "shot_id": "EP15-S012",
-    "chapter_number": 15,
-    "scene_number": 12,
-    "duration": 8,
-    "shot_type": "远景",
-    "location": "青云宗-夜晚全景",
-    "time_of_day": "夜晚",
-    "composition": {
-      "camera_position": "山景远景",
-      "camera_movement": "缓慢拉远",
-      "framing": "意境构图",
-      "focus_type": "夜景清晰"
-    },
-    "characters": [
-      {
-        "name": "顾玄",
-        "position": "观星台",
-        "action": "看着热闹的宗门",
-        "expression": "欣慰,思考",
-        "costume": "白衣"
-      },
-      {
-        "name": "陆尘",
-        "position": "旁边",
-        "action": "陪伴",
-        "expression": "敬佩",
-        "costume": "布衣"
-      }
-    ],
-    "visual_effects": {
-      "environment": "夜晚的青云宗",
-      "lighting": "月光+灯火",
-      "color_palette": "温暖夜色",
-      "special_effects": "宗门内灯火通明,游客还在游玩,天魔剑在夜空中投射出'青云仙院,欢迎您'的光字"
-    },
-    "audio": {
-      "dialogue": "师兄,你真的改变了这个宗门。以前这里冷冷清清的,现在这么热闹。是啊...虽然有点商业化,但至少大家都能活下去。而且...我觉得修仙也不该高高在上,该让更多人接触。师兄真厉害!对了,今天的收入...咳咳,攒着,下次买更好的特效素材!",
-      "narration": "",
-      "internal_monologue": "",
-      "background_music": "温馨又搞笑",
-      "sound_effects": ["夜风声", "远处的欢声"],
-      "volume_level": "对话突出"
-    },
-    "editing": {
-      "transition_to_next": "淡出",
-      "pacing": "舒缓",
-      "purpose": "温馨收尾+幽默"
-    },
-    "notes": {
-      "production_note": "夜景意境",
-      "reference_style": "温馨收尾",
-      "difficulty_level": "简单"
-    }
-  }
-]
+  ]
+}

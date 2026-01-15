@@ -3,48 +3,47 @@
     "shot_id": "EP11-S001",
     "chapter_number": 11,
     "scene_number": 1,
-    "duration": 6,
-    "shot_type": "中景",
-    "location": "青云宗外门弟子房",
-    "time_of_day": "夜晚",
+    "duration": 8,
+    "shot_type": "特写→环绕",
+    "location": "顾玄房间",
+    "time_of_day": "白天",
     "composition": {
-      "camera_position": "侧面拍摄",
-      "camera_movement": "缓慢环绕",
-      "framing": "三分法",
-      "focus_type": "主体清晰,背景虚化"
+      "camera_position": "从手中特效推至环绕",
+      "camera_movement": "推拉结合",
+      "framing": "中心构图→动态构图",
+      "focus_type": "特效清晰"
     },
     "characters": [
       {
         "name": "顾玄",
         "position": "画面中央",
-        "action": "研究七彩流光石,光影变幻",
-        "expression": "专注 → 惊讶",
-        "costume": "粗布麻衣",
-        "props": "七彩流光石"
+        "action": "研究七彩流光石，手中变幻莫测的光效",
+        "expression": "专注→惊叹→担忧",
+        "costume": "常服"
       }
     ],
     "visual_effects": {
-      "environment": "简陋木屋,油灯昏暗",
-      "lighting": "七彩光芒从流光石散发,照亮房间",
-      "color_palette": "七彩色调,梦幻效果",
-      "special_effects": "流光石散发七种颜色光晕,轮流变换,营造出神秘氛围"
+      "environment": "房间，修炼室",
+      "lighting": "自然光+特效光芒",
+      "color_palette": "七彩流光",
+      "special_effects": "手中变幻莫测的光效，不同属性灵力波动——火系的炽热、水系的温润、雷系的狂暴...系统界面角落微光：【天魔之力微弱波动...】"
     },
     "audio": {
-      "dialogue": "这要是去搞特效电影,绝对能拿奥斯卡...",
+      "dialogue": "顾玄: '这要是去搞特效电影，绝对能拿奥斯卡...'",
       "narration": "",
-      "internal_monologue": "又来了?这次又是谁?",
-      "background_music": "轻快带点悬疑",
-      "sound_effects": ["流光石嗡鸣声", "窗外树叶沙沙声"],
-      "volume_level": "内心独白为主,环境音为辅"
+      "internal_monologue": "该不会装逼装多了，真把天魔引出来吧？反正都这样了，不如装个痛快！而且这天魔之力确实好用，不用白不用！",
+      "background_music": "轻松中带着压抑",
+      "sound_effects": ["光效流转声"],
+      "volume_level": "内心独白突出"
     },
     "editing": {
       "transition_to_next": "直接切",
-      "pacing": "中等",
-      "purpose": "展现主角研究新道具,埋下伏笔"
+      "pacing": "轻松→压抑",
+      "purpose": "爽点1：轻松开局，科学装逼研究"
     },
     "notes": {
-      "production_note": "需要CG制作七彩光效",
-      "reference_style": "现代修仙轻喜剧",
+      "production_note": "特效+实景",
+      "reference_style": "轻喜剧+特效展示",
       "difficulty_level": "中等"
     }
   },
@@ -52,451 +51,474 @@
     "shot_id": "EP11-S002",
     "chapter_number": 11,
     "scene_number": 2,
-    "duration": 8,
-    "shot_type": "远景转中景",
-    "location": "青云宗后山密林",
-    "time_of_day": "深夜",
+    "duration": 7,
+    "shot_type": "中景→跟拍",
+    "location": "顾玄房间→后山",
+    "time_of_day": "夜晚",
     "composition": {
-      "camera_position": "树后侧拍",
-      "camera_movement": "缓慢推进",
-      "framing": "三分法",
-      "focus_type": "主体清晰,背景虚化"
+      "camera_position": "从房间推至后山",
+      "camera_movement": "跟随移动",
+      "framing": "动态构图",
+      "focus_type": "主体清晰"
     },
     "characters": [
       {
         "name": "顾玄",
-        "position": "画面右侧树后",
-        "action": "小心翼翼潜行,环顾四周",
-        "expression": "警惕",
-        "costume": "粗布麻衣"
-      },
-      {
-        "name": "影煞",
-        "position": "画面左侧,背对镜头",
-        "action": "手持罗盘,四处搜索",
-        "expression": "专注",
-        "costume": "黑衣夜行衣",
-        "props": "罗盘法器"
+        "position": "画面中央",
+        "action": "眉头一皱，悄悄出门，向后山摸去",
+        "expression": "警觉→紧张",
+        "costume": "夜行衣"
       }
     ],
     "visual_effects": {
-      "environment": "月黑风高,树林阴影斑驳",
-      "lighting": "昏暗月光透过树叶,罗盘发出微弱光芒",
-      "color_palette": "冷色调,蓝黑色为主",
-      "special_effects": "罗盘指针发光,指向密室方向"
+      "environment": "月黑风高夜→后山密林",
+      "lighting": "昏暗月光",
+      "color_palette": "冷色调",
+      "special_effects": "顾玄周身特效修为调到'金丹后期'——微弱金光护体"
     },
     "audio": {
       "dialogue": "",
       "narration": "",
-      "internal_monologue": "果然有人...是在找密室?",
-      "background_music": "紧张悬疑",
-      "sound_effects": ["树叶沙沙声", "虫鸣声", "咔嚓枯枝断裂声"],
-      "volume_level": "环境音为主,营造紧张感"
+      "internal_monologue": "又来了？这次又是谁？这次的杀气明显不同——更隐蔽，更危险。",
+      "background_music": "悬疑紧张",
+      "sound_effects": ["风声", "脚步声"],
+      "volume_level": "环境音突出"
     },
     "editing": {
       "transition_to_next": "直接切",
-      "pacing": "中等",
-      "purpose": "建立场景,展现主角发现入侵者"
+      "pacing": "紧张",
+      "purpose": "爽点2：紧张升级，夜探后山"
     },
     "notes": {
       "production_note": "夜景拍摄",
-      "reference_style": "悬疑风格",
-      "difficulty_level": "简单"
+      "reference_style": "悬疑惊悚",
+      "difficulty_level": "中等"
     }
   },
   {
     "shot_id": "EP11-S003",
     "chapter_number": 11,
     "scene_number": 2,
-    "duration": 5,
-    "shot_type": "特写",
-    "location": "青云宗后山密林",
-    "time_of_day": "深夜",
+    "duration": 8,
+    "shot_type": "远景→特写",
+    "location": "后山密林",
+    "time_of_day": "夜晚",
     "composition": {
-      "camera_position": "正面拍摄",
-      "camera_movement": "固定镜头",
-      "framing": "中心构图",
-      "focus_type": "人物表情清晰"
+      "camera_position": "从远景推至黑影特写",
+      "camera_movement": "推拉结合",
+      "framing": "从全景至特写",
+      "focus_type": "黑影清晰"
     },
     "characters": [
       {
-        "name": "影煞",
-        "position": "画面中央",
-        "action": "单膝跪地,恭敬行礼",
-        "expression": "激动,狂热",
-        "costume": "黑衣夜行衣",
-        "props": "罗盘法器"
+        "name": "黑影（影煞）",
+        "position": "密林中移动",
+        "action": "快速移动，取罗盘法器",
+        "expression": "专注→发现目标",
+        "costume": "黑衣夜行"
+      },
+      {
+        "name": "顾玄",
+        "position": "暗中观察",
+        "action": "屏息凝神",
+        "expression": "警觉→震惊",
+        "costume": "夜行衣"
       }
     ],
     "visual_effects": {
-      "environment": "树林背景",
-      "lighting": "月光,罗盘指针疯狂闪烁",
+      "environment": "夜色中的密林",
+      "lighting": "昏暗月光+罗盘光芒",
       "color_palette": "冷色调",
-      "special_effects": "罗盘指针疯狂指向顾玄,整个罗盘微微震动"
+      "special_effects": "罗盘状法器上光芒闪烁，指向密室方向"
     },
     "audio": {
-      "dialogue": "属下影煞,参见天魔大人!",
+      "dialogue": "影煞: '就是这里了...天魔大人应该就在下面...'",
       "narration": "",
-      "internal_monologue": "",
-      "background_music": "紧张",
-      "sound_effects": ["罗盘嗡鸣声"],
+      "internal_monologue": "天魔大人？是在说我？！这些人知道我的秘密？！",
+      "background_music": "紧张→震惊",
+      "sound_effects": ["罗盘嗡鸣"],
       "volume_level": "对话突出"
     },
     "editing": {
-      "transition_to_next": "直接切",
-      "pacing": "快速",
-      "purpose": "关键转折,展现误会开始"
+      "transition_to_next": "快速切",
+      "pacing": "紧张→震惊",
+      "purpose": "紧张升级，身份危机"
     },
     "notes": {
-      "production_note": "特写拍摄表情",
-      "reference_style": "悬疑+幽默",
-      "difficulty_level": "简单"
+      "production_note": "夜景+特效",
+      "reference_style": "悬疑惊悚",
+      "difficulty_level": "中等"
     }
   },
   {
     "shot_id": "EP11-S004",
     "chapter_number": 11,
-    "scene_number": 2,
-    "duration": 7,
-    "shot_type": "近景",
-    "location": "青云宗后山密林",
-    "time_of_day": "深夜",
+    "scene_number": 3,
+    "duration": 10,
+    "shot_type": "中景→特写",
+    "location": "后山密林",
+    "time_of_day": "夜晚",
     "composition": {
-      "camera_position": "侧面拍摄",
-      "camera_movement": "轻微推近",
-      "framing": "三分法",
-      "focus_type": "主体清晰"
+      "camera_position": "正面拍摄",
+      "camera_movement": "推拉结合",
+      "framing": "两人构图",
+      "focus_type": "两人清晰"
     },
     "characters": [
       {
         "name": "顾玄",
-        "position": "画面中央",
-        "action": "强作镇定,保持高人风范",
-        "expression": "表面淡定,内心慌乱",
-        "costume": "粗布麻衣"
+        "position": "画面左侧",
+        "action": "被迫走出，保持高人风范",
+        "expression": "表面淡然，内心慌张",
+        "costume": "夜行衣"
       },
       {
         "name": "影煞",
-        "position": "画面左侧,跪地",
-        "action": "恭敬献上玉简",
-        "expression": "崇拜",
-        "costume": "黑衣夜行衣",
-        "props": "黑色玉简"
+        "position": "画面右侧，跪地",
+        "action": "单膝跪地，激动",
+        "expression": "狂热、恭敬",
+        "costume": "黑衣夜行"
       }
     ],
     "visual_effects": {
-      "environment": "树林夜景",
+      "environment": "密林",
       "lighting": "昏暗月光",
       "color_palette": "冷色调",
-      "special_effects": "玉简散发幽幽黑光"
+      "special_effects": "咔嚓！顾玄不小心踩断枯枝。影煞举起罗盘法器，指针疯狂指向顾玄，整个罗盘都在微微震动！系统界面：【警告：检测到魔教人员】【目标：影煞（金丹中期）】【对方拥有天魔感应法器】【建议：...顺势而为，将计就计】"
     },
     "audio": {
-      "dialogue": "你认错人了吧?",
+      "dialogue": "顾玄: '阁下夜闯我青云宗，所谓何事？' 影煞: '属下影煞，参见天魔大人！' 顾玄: '？？?(内心：什么情况？不是来杀我的？)' 影煞: '不会错！您身上的天魔气息虽然微弱，但属下绝不会认错！而且您看——'",
       "narration": "",
-      "internal_monologue": "完蛋,露馅了!这家伙真有检测天魔的设备!",
-      "background_music": "悬疑",
-      "sound_effects": [],
-      "volume_level": "对话为主"
+      "internal_monologue": "等等，他叫我什么？天魔大人？难道他认错人了？还是说...我真的有什么天魔身份？完蛋，露馅了！这家伙真有检测天魔的设备！而且我体内的天魔之力居然被检测到了！系统你这是要我装天魔？",
+      "background_music": "紧张→震惊→慌乱",
+      "sound_effects": ["枯枝断裂", "罗盘震动"],
+      "volume_level": "内心独白突出"
     },
     "editing": {
       "transition_to_next": "直接切",
-      "pacing": "中等",
-      "purpose": "展现主角内心恐慌与表面淡定"
+      "pacing": "紧张→震惊→慌乱",
+      "purpose": "爽点3：惊恐升级，误被认作天魔"
     },
     "notes": {
-      "production_note": "需要演员表现反差",
-      "reference_style": "幽默风格",
+      "production_note": "夜景+CG界面",
+      "reference_style": "紧张喜剧",
       "difficulty_level": "中等"
     }
   },
   {
     "shot_id": "EP11-S005",
     "chapter_number": 11,
-    "scene_number": 2,
-    "duration": 10,
-    "shot_type": "特效特写",
-    "location": "青云宗后山密林",
-    "time_of_day": "深夜",
+    "scene_number": 3,
+    "duration": 8,
+    "shot_type": "特写",
+    "location": "后山密林",
+    "time_of_day": "夜晚",
     "composition": {
-      "camera_position": "环绕拍摄",
-      "camera_movement": "快速环绕",
-      "framing": "动态构图",
-      "focus_type": "主体清晰,特效突出"
+      "camera_position": "极近拍摄",
+      "camera_movement": "缓慢环绕",
+      "framing": "特写玉简",
+      "focus_type": "玉简清晰"
     },
     "characters": [
       {
         "name": "顾玄",
-        "position": "画面中央",
-        "action": "周身七色光芒流转,气势暴涨",
-        "expression": "高冷,威严",
-        "costume": "粗布麻衣,被光芒笼罩"
+        "position": "画面边缘",
+        "action": "接过玉简，黑光入体",
+        "expression": "犹豫→闷哼→惊骇",
+        "costume": "夜行衣"
+      },
+      {
+        "name": "影煞",
+        "position": "跪地",
+        "action": "恭敬奉上玉简",
+        "expression": "狂热",
+        "costume": "黑衣夜行"
       }
     ],
     "visual_effects": {
-      "environment": "树林被光芒照亮",
-      "lighting": "七色光芒璀璨夺目,天魔威压黑气缭绕",
-      "color_palette": "高对比度,七彩+黑色",
-      "special_effects": "周身七色光芒流转,融入天魔威压黑气,气势节节攀升,突破金丹直达元婴,眼中闪过妖异紫芒"
+      "environment": "密林",
+      "lighting": "昏暗→黑光爆发",
+      "color_palette": "冷色调→黑色主导",
+      "special_effects": "漆黑如墨的玉简！入手瞬间，一股阴冷的气息顺着手臂涌入，与他体内那股被封印的力量产生共鸣！玉简突然亮起，一道黑光射入顾玄眉心！"
     },
     "audio": {
-      "dialogue": "你觉得...我需要保护吗?",
+      "dialogue": "影煞: '右使大人派属下来接应您！他说您转世重修，记忆可能尚未完全恢复，让属下将这个交给您。这里面有唤醒记忆的方法，以及部分天魔秘法。' 顾玄: '呃！' 影煞: '果然是天魔大人！只有您才能瞬间领悟这等高深秘法！'",
       "narration": "",
-      "internal_monologue": "吓死我了...差点就露馅了!",
-      "background_music": "震撼,压迫感强",
-      "sound_effects": ["能量涌动声", "威压扩散声", "系统提示音"],
+      "internal_monologue": "这些功法我一看就懂，仿佛早就学过一般！",
+      "background_music": "诡异阴森",
+      "sound_effects": ["黑光入体", "闷哼"],
       "volume_level": "音效突出"
     },
     "editing": {
       "transition_to_next": "直接切",
-      "pacing": "快速",
-      "purpose": "展示主角实力伪装,制造震撼效果"
+      "pacing": "诡异→惊恐",
+      "purpose": "天魔玉简出现，身份坐实"
     },
     "notes": {
-      "production_note": "需要大量CG特效",
-      "reference_style": "夸张特效风格",
-      "difficulty_level": "复杂"
+      "production_note": "特效特写",
+      "reference_style": "暗黑仙侠",
+      "difficulty_level": "中等"
     }
   },
   {
     "shot_id": "EP11-S006",
     "chapter_number": 11,
-    "scene_number": 3,
-    "duration": 6,
-    "shot_type": "中景",
-    "location": "青云宗外门弟子房",
-    "time_of_day": "深夜",
+    "scene_number": 4,
+    "duration": 12,
+    "shot_type": "特效环绕拍摄",
+    "location": "后山密林",
+    "time_of_day": "夜晚",
     "composition": {
-      "camera_position": "正面拍摄",
-      "camera_movement": "固定镜头",
-      "framing": "中心构图",
-      "focus_type": "主体清晰"
+      "camera_position": "环绕拍摄顾玄",
+      "camera_movement": "快速环绕",
+      "framing": "动态构图",
+      "focus_type": "主体清晰，特效突出"
     },
     "characters": [
       {
         "name": "顾玄",
         "position": "画面中央",
-        "action": "长舒一口气,腿软差点坐倒,抹冷汗",
-        "expression": "放松,后怕",
-        "costume": "粗布麻衣",
-        "props": "黑色玉简"
+        "action": "将特效修为开到最大！七彩特效爆发！",
+        "expression": "冷漠→威严",
+        "costume": "夜行衣，七色光芒流转"
+      },
+      {
+        "name": "影煞",
+        "position": "画面边缘",
+        "action": "浑身颤抖，连连叩首",
+        "expression": "惊恐",
+        "costume": "黑衣夜行"
       }
     ],
     "visual_effects": {
-      "environment": "木屋内景",
-      "lighting": "昏暗油灯光线",
-      "color_palette": "暖色调,偏暗",
-      "special_effects": "无"
+      "environment": "密林",
+      "lighting": "七色光芒主导",
+      "color_palette": "七彩震撼",
+      "special_effects": "顿时，周身七色光芒流转，气势节节攀升，仿佛没有上限般冲破金丹，直达元婴！甚至还在上涨！更可怕的是，暗中调动体内那股天魔力量，与特效产生共鸣，使得这'元婴气势'中带上了真正的天魔威压！眼中闪过一道妖异的紫芒！恐怖的威压笼罩整个后山！"
     },
     "audio": {
-      "dialogue": "",
+      "dialogue": "顾玄: '保护我？'（冷笑一声）'你觉得...我需要保护吗？'（声音冰冷，眼中闪过一道妖异的紫芒） 影煞: '元、元婴期？！不对...这威压...比右使大人还强！您已经恢复修为了？！' 顾玄: '回去告诉右使，我的事自有分寸。需要时，我自会联系你们。' 影煞: '是是是！属下这就回去禀报！'",
       "narration": "",
-      "internal_monologue": "吓死我了...不过...看来我真是天魔转世啊...",
-      "background_music": "轻快带点紧张后的放松",
-      "sound_effects": ["椅子嘎吱声"],
-      "volume_level": "内心独白为主"
+      "internal_monologue": "既然你们认为我是天魔，那我就让你们见识见识什么叫'天魔'的威压！用七彩特效吓跑你们！吓死我了...差点就露馅了！",
+      "background_music": "紧张→爆发→震撼",
+      "sound_effects": ["威压轰鸣", "七彩光芒"],
+      "volume_level": "音效突出"
     },
     "editing": {
       "transition_to_next": "直接切",
-      "pacing": "舒缓",
-      "purpose": "展现主角危机解除后的放松"
+      "pacing": "紧张→爆发→释放",
+      "purpose": "爽点4：慌乱升级，七彩特效吓退"
     },
     "notes": {
-      "production_note": "实景拍摄",
-      "reference_style": "轻松幽默",
-      "difficulty_level": "简单"
+      "production_note": "大量CG特效",
+      "reference_style": "仙侠特效大片",
+      "difficulty_level": "复杂"
     }
   },
   {
     "shot_id": "EP11-S007",
     "chapter_number": 11,
     "scene_number": 4,
-    "duration": 8,
-    "shot_type": "特写",
-    "location": "顾玄脑海/眼前",
-    "time_of_day": "深夜",
+    "duration": 6,
+    "shot_type": "远景→中景",
+    "location": "后山→顾玄房间",
+    "time_of_day": "夜晚",
     "composition": {
-      "camera_position": "主观视角",
-      "camera_movement": "界面浮入",
-      "framing": "中心构图",
-      "focus_type": "界面文字清晰,背景模糊"
+      "camera_position": "从后山拉远至房间",
+      "camera_movement": "推拉结合",
+      "framing": "从远景至近景",
+      "focus_type": "主体清晰"
     },
-    "characters": [],
+    "characters": [
+      {
+        "name": "影煞",
+        "position": "后山",
+        "action": "如蒙大赦般仓惶逃离",
+        "expression": "惊恐",
+        "costume": "黑衣夜行"
+      },
+      {
+        "name": "顾玄",
+        "position": "房间内",
+        "action": "长舒一口气，腿软差点坐倒",
+        "expression": "惊魂未定→苦笑",
+        "costume": "夜行衣"
+      }
+    ],
     "visual_effects": {
-      "environment": "黑暗虚空",
-      "lighting": "冰冷声音的光芒",
-      "color_palette": "冷色调",
-      "special_effects": "虚空中浮现声音具象化的波纹,传达冰冷感觉"
+      "environment": "后山→房间",
+      "lighting": "七彩光芒消散→柔和烛光",
+      "color_palette": "从震撼转为平静",
+      "special_effects": "影煞逃离速度极快，残影闪烁。顾玄抹冷汗"
     },
     "audio": {
       "dialogue": "",
       "narration": "",
-      "internal_monologue": "",
-      "background_music": "空灵,神秘",
-      "sound_effects": ["冰冷回响声音: '何必抗拒?这本就是你的力量...'"],
-      "volume_level": "声音突出"
+      "internal_monologue": "吓死我了...刚才那波操作，几乎耗光了我所有特效灵石，还冒险动用了体内那天魔力量。好在效果显著，直接把对方吓跑了。",
+      "background_music": "紧张→放松",
+      "sound_effects": ["逃离声", "长舒气"],
+      "volume_level": "内心独白突出"
     },
     "editing": {
-      "transition_to_next": "淡出",
-      "pacing": "缓慢",
-      "purpose": "展现内心冲突,神秘感"
+      "transition_to_next": "直接切",
+      "pacing": "紧张→释放",
+      "purpose": "虚惊一场，情绪释放"
     },
     "notes": {
-      "production_note": "需要CG制作声音具象化效果",
-      "reference_style": "神秘氛围",
-      "difficulty_level": "中等"
+      "production_note": "实景拍摄",
+      "reference_style": "轻喜剧",
+      "difficulty_level": "简单"
     }
   },
   {
     "shot_id": "EP11-S008",
     "chapter_number": 11,
     "scene_number": 5,
-    "duration": 7,
-    "shot_type": "中景转特写",
-    "location": "青云宗外门弟子房",
-    "time_of_day": "深夜",
+    "duration": 9,
+    "shot_type": "特写→主观视角",
+    "location": "顾玄房间",
+    "time_of_day": "夜晚",
     "composition": {
-      "camera_position": "正面拍摄",
-      "camera_movement": "缓慢推近",
-      "framing": "中心构图",
-      "focus_type": "主体清晰"
+      "camera_position": "从玉简推至修炼画面",
+      "camera_movement": "推拉结合",
+      "framing": "从特写至主观",
+      "focus_type": "修炼清晰"
     },
     "characters": [
       {
         "name": "顾玄",
-        "position": "画面中央",
-        "action": "按照玉简方法运转灵力,身体渐渐融入阴影",
-        "expression": "惊讶,欣喜",
-        "costume": "粗布麻衣"
+        "position": "盘膝修炼",
+        "action": "按照玉简方法运转灵力",
+        "expression": "尝试→惊讶→担忧→决绝",
+        "costume": "修炼服"
       }
     ],
     "visual_effects": {
-      "environment": "木屋内景",
-      "lighting": "昏暗光线",
-      "color_palette": "冷色调",
-      "special_effects": "身体渐渐半透明,融入阴影,气息完全消失,最终化为无形"
+      "environment": "房间",
+      "lighting": "烛光→黑色灵力",
+      "color_palette": "温暖→冷色",
+      "special_effects": "按照玉简中的方法运转灵力，果然顺畅无比，效率比正道功法高了数倍！但随之而来的是一种嗜血的冲动，仿佛渴望杀戮和破坏...脑海中突然响起那个冰冷的声音：'何必抗拒？这本就是你的力量...接受它，你才能真正的强大...'"
     },
     "audio": {
-      "dialogue": "这么简单?",
+      "dialogue": "顾玄: '看来我真是天魔转世啊...这功法...太邪门了...不能练！练了真成魔头了！'(停止修炼)'不过...天魔秘法...确实厉害...'(挣扎)'力量没有正邪之分，关键在于如何使用。我就用这天魔之力，行正道之事！顺便...装个更大的逼！'",
       "narration": "",
-      "internal_monologue": "天魔秘法...果然厉害...既有获得强大技能的喜悦,又有坠入魔道的担忧。",
-      "background_music": "神秘,轻快",
-      "sound_effects": ["能量流动声", "阴影化声"],
-      "volume_level": "内心独白为主"
+      "internal_monologue": "得尽快提升真实修为了...否则哪天压不住这天魔力量，就真完蛋了！",
+      "background_music": "纠结→坚定",
+      "sound_effects": ["冰冷声音回响"],
+      "volume_level": "对话突出"
     },
     "editing": {
-      "transition_to_next": "淡出",
-      "pacing": "舒缓",
-      "purpose": "展现主角获得新技能"
+      "transition_to_next": "直接切",
+      "pacing": "纠结→坚定",
+      "purpose": "爽点5：坚定升级，接受天魔之力"
     },
     "notes": {
-      "production_note": "需要CG制作隐身效果",
-      "reference_style": "修仙特效",
+      "production_note": "特效+实景",
+      "reference_style": "内心戏+成长",
       "difficulty_level": "中等"
     }
   },
   {
     "shot_id": "EP11-S009",
     "chapter_number": 11,
-    "scene_number": 6,
-    "duration": 6,
-    "shot_type": "远景",
-    "location": "魔教总坛",
+    "scene_number": 5,
+    "duration": 7,
+    "shot_type": "特效特写",
+    "location": "顾玄房间",
     "time_of_day": "夜晚",
     "composition": {
-      "camera_position": "俯视",
-      "camera_movement": "缓慢下降",
+      "camera_position": "环绕拍摄",
+      "camera_movement": "缓慢环绕",
       "framing": "中心构图",
-      "focus_type": "全景清晰"
+      "focus_type": "特效清晰"
     },
     "characters": [
       {
-        "name": "魔教右使",
-        "position": "画面中央大殿",
-        "action": "听取汇报,面露疑惑",
-        "expression": "疑惑,沉思",
-        "costume": "华贵黑袍",
-        "props": "权杖"
-      },
-      {
-        "name": "影煞",
-        "position": "右使面前",
-        "action": "跪地汇报",
-        "expression": "恭敬",
-        "costume": "黑衣夜行衣"
+        "name": "顾玄",
+        "position": "画面中央",
+        "action": "练习「化影诀」，身体融入阴影",
+        "expression": "惊讶→不可置信",
+        "costume": "修炼服，逐渐透明"
       }
     ],
     "visual_effects": {
-      "environment": "魔教总坛大殿,阴森华贵",
-      "lighting": "幽暗火把,魔气缭绕",
-      "color_palette": "冷色调,紫黑色",
-      "special_effects": "魔教图腾闪烁"
+      "environment": "房间",
+      "lighting": "阴影→透明",
+      "color_palette": "逐渐透明",
+      "special_effects": "按照法诀运转灵力，身体渐渐融入阴影，气息完全消失！半透明的双手！这「化影诀」的精妙程度，远超凡间任何隐匿法术！"
     },
     "audio": {
-      "dialogue": "已经恢复元婴修为了?这么快?难道...天魔大人找到了更快的恢复方法?",
+      "dialogue": "顾玄: '这么简单？'(看着半透明的双手)'天魔秘法...果然厉害...'(既有喜悦，又有担忧)",
       "narration": "",
-      "internal_monologue": "",
-      "background_music": "阴森,压抑",
-      "sound_effects": ["大殿回声"],
-      "volume_level": "对话突出"
+      "internal_monologue": "既有获得强大技能的喜悦，又有坠入魔道的担忧。",
+      "background_music": "惊喜中带着纠结",
+      "sound_effects": ["隐匿效果音"],
+      "volume_level": "内心独白突出"
     },
     "editing": {
-      "transition_to_next": "淡出",
-      "pacing": "中等",
-      "purpose": "展现魔教反应,埋下后续伏笔"
+      "transition_to_next": "直接切",
+      "pacing": "惊喜",
+      "purpose": "获得强大技能"
     },
     "notes": {
-      "production_note": "实景+特效",
-      "reference_style": "传统魔教场景",
+      "production_note": "特效制作",
+      "reference_style": "仙侠特效",
       "difficulty_level": "中等"
     }
   },
   {
     "shot_id": "EP11-S010",
     "chapter_number": 11,
-    "scene_number": 7,
+    "scene_number": 6,
     "duration": 8,
-    "shot_type": "中景",
-    "location": "青云宗外门弟子房",
-    "time_of_day": "深夜",
+    "shot_type": "分屏镜头",
+    "location": "顾玄房间→魔教总坛",
+    "time_of_day": "夜晚",
     "composition": {
-      "camera_position": "侧面拍摄",
-      "camera_movement": "轻微摇摄",
-      "framing": "三分法",
-      "focus_type": "主体清晰"
+      "camera_position": "分屏对比",
+      "camera_movement": "分别推拉",
+      "framing": "双屏对比",
+      "focus_type": "两侧都清晰"
     },
     "characters": [
       {
         "name": "顾玄",
-        "position": "画面中央",
-        "action": "练习化影诀,同时研究天魔剑",
-        "expression": "认真,发愁",
-        "costume": "粗布麻衣",
-        "props": "天魔剑"
+        "position": "左侧画面",
+        "action": "努力练习「化影诀」，发愁",
+        "expression": "认真→发愁",
+        "costume": "修炼服"
+      },
+      {
+        "name": "魔教右使",
+        "position": "右侧画面",
+        "action": "听汇报，疑惑",
+        "expression": "疑惑→沉思",
+        "costume": "魔教长袍"
       }
     ],
     "visual_effects": {
-      "environment": "木屋内景",
-      "lighting": "昏暗油灯",
-      "color_palette": "暖色调",
-      "special_effects": "天魔剑微光,化影诀偶尔触发"
+      "environment": "房间→魔教总坛",
+      "lighting": "烛光→魔教诡异光芒",
+      "color_palette": "冷暖对比",
+      "special_effects": "左侧：顾玄练习隐匿。右侧：魔教右使沉思。"
     },
     "audio": {
-      "dialogue": "",
-      "narration": "",
-      "internal_monologue": "这功法好是好,就是耗灵石太快了...得想办法搞钱买更多特效灵石啊!",
-      "background_music": "轻快幽默",
+      "dialogue": "魔教右使: '已经恢复元婴修为了？这么快？难道...天魔大人找到了更快的恢复方法？继续监视，但不要打扰。或许...天魔大人有更深远的谋划。' 顾玄: '(内心)这功法好是好，就是耗灵石太快了...得想办法搞钱买更多特效灵石啊！'",
+      "narration": "一场美丽的误会继续下去。",
+      "internal_monologue": "",
+      "background_music": "搞笑轻快",
       "sound_effects": [],
-      "volume_level": "内心独白为主"
+      "volume_level": "对话清晰"
     },
     "editing": {
       "transition_to_next": "淡出",
-      "pacing": "舒缓",
-      "purpose": "收尾,留下悬念"
+      "pacing": "搞笑",
+      "purpose": "美丽的误会继续，喜剧收尾"
     },
     "notes": {
-      "production_note": "实景拍摄",
-      "reference_style": "轻松幽默",
-      "difficulty_level": "简单"
+      "production_note": "分屏特效",
+      "reference_style": "喜剧对比",
+      "difficulty_level": "中等"
     }
   }
 ]

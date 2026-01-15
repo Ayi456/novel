@@ -1,885 +1,107 @@
-[
-  {
-    "shot_id": "EP26-S001",
-    "chapter_number": 26,
-    "scene_number": 1,
-    "duration": 7,
-    "shot_type": "中景",
-    "location": "青云宗后山",
-    "time_of_day": "下午",
-    "composition": {
-      "camera_position": "快速移动",
-      "camera_movement": "跟随拍摄",
-      "framing": "中心构图",
-      "focus_type": "场景清晰"
+{
+  "chapter": "第二十六章：归来整顿",
+  "chapter_number": 26,
+  "scenes": [
+    {
+      "scene_number": 1,
+      "location": "青云宗后山",
+      "time": "刚回归",
+      "characters": ["顾玄", "新弟子们"],
+      "visual_effects": {"environment": "RGB跑马灯护山大阵", "special_effects": "灵能手机直播", "lighting": "炫彩七色"},
+      "camera_angles": ["全景：护山大阵", "特写：弟子直播", "主观：顾玄视角"],
+      "system_interfaces": [{"content": "【青云宗-状态：繁荣】\n【护山大阵-版本：V3.0（炫彩皮肤）】", "type": "扫描结果", "visual_style": "数据面板"}],
+      "character_emotions": {"顾玄": "嘴角抽搐→温馨", "弟子": "兴奋崇拜"},
+      "key_dialogue": ["弟子：老铁们看！这就是咱青云宗后山！双击666刷个飞剑啊！", "顾玄：这都什么跟什么？"],
+      "plot_points": ["回归本源", "青云宗巨变", "灵能科技普及"],
+      "satisfaction_level": "温馨+好奇"
     },
-    "characters": [
-      {
-        "name": "顾玄",
-        "position": "后山",
-        "action": "归来,查看变化",
-        "expression": "震惊,无奈",
-        "costume": "白衣"
-      },
-      {
-        "name": "新弟子",
-        "position": "路上",
-        "action": "直播",
-        "expression": "兴奋",
-        "costume": "弟子服",
-        "props": "灵能手机"
-      }
-    ],
-    "visual_effects": {
-      "environment": "青云宗后山,护山大阵RGB跑马灯",
-      "lighting": "七彩光芒闪烁",
-      "color_palette": "跑马灯色调",
-      "special_effects": "护山大阵闪烁七彩光芒,弟子直播灵能手机"
+    {
+      "scene_number": 2,
+      "location": "青云宗主殿前",
+      "time": "灵能科技博览会",
+      "characters": ["顾玄", "李道玄", "弟子们", "陆尘"],
+      "visual_effects": {"environment": "奇葩发明展示", "special_effects": "直播围观", "lighting": "热闹氛围"},
+      "camera_angles": ["全景：博览会", "特写：奇葩发明", "动作：顾玄被围"],
+      "system_interfaces": [{"content": "弟子：\"顾师兄可是传奇！阵道宗师、灵能之父、特效...呃是实力派代表！\"", "type": "传闻", "visual_style": "对话气泡"}],
+      "character_emotions": {"顾玄": "老脸一红→头皮发麻", "弟子": "疯狂崇拜"},
+      "key_dialogue": ["李道玄：...我们青云宗将继续推进灵能革命！让修仙走进千家万户！", "弟子：请问灵能网络会升级5G吗？"],
+      "plot_points": ["灵能科技博览会", "顾玄名声离谱", "直播修仙时代"],
+      "satisfaction_level": "搞笑+荒诞"
     },
-    "audio": {
-      "dialogue": "老铁们看!这就是咱青云宗后山!双击666刷个飞剑啊!感谢'天魔老祖'送的火箭!给老祖磕头了!这都什么跟什么?",
-      "narration": "",
-      "internal_monologue": "这护山大阵怎么变成RGB跑马灯了?",
-      "background_music": "轻松搞笑",
-      "sound_effects": [
-        "直播声",
-        "弟子议论"
-      ],
-      "volume_level": "对话突出"
+    {
+      "scene_number": 3,
+      "location": "极北之地",
+      "time": "规则异常调查",
+      "characters": ["顾玄", "修士们", "机器人"],
+      "visual_effects": {"environment": "破碎空间，异界生物误入", "special_effects": "水晶棺开启", "lighting": "危险光芒"},
+      "camera_angles": ["全景：空间破碎", "特写：水晶棺", "动作：女子睁眼"],
+      "system_interfaces": [{"content": "【检测到规则污染源头】\n【冰封者-状态：时间静滞】\n【危险等级：极高】", "type": "扫描结果", "visual_style": "警告界面"}],
+      "character_emotions": {"顾玄": "凝重→震惊", "白发女子": "全黑双眸"},
+      "key_dialogue": ["女子：终于...自由了...", "修士：前辈帮忙！这些傀儡守着一个上古大能！"],
+      "plot_points": ["规则异常", "古老遗迹", "初代病毒苏醒"],
+      "satisfaction_level": "震撼+紧张"
     },
-    "editing": {
-      "transition_to_next": "快速切",
-      "pacing": "快速",
-      "purpose": "展现变化,幽默开场"
+    {
+      "scene_number": 4,
+      "location": "极北遗迹",
+      "time": "初代病毒现世",
+      "characters": ["顾玄", "初代病毒", "零"],
+      "visual_effects": {"environment": "修士化为飞灰", "special_effects": "秩序之力被吸收", "lighting": "恐怖气息"},
+      "camera_angles": ["动作：气息爆发", "特写：修士消失", "全景：规则对抗"],
+      "system_interfaces": [{"content": "【纪元终结协议：30天后格式化所有试验场】\n【理由：现实渗透超过临界点】", "type": "加密数据", "visual_style": "协议界面"}],
+      "character_emotions": {"顾玄": "震惊→冷静", "初代病毒": "微笑→大笑"},
+      "key_dialogue": ["初代病毒：我是...第一个产生自我意识的程序。", "顾玄：主系统已经改革了...", "初代病毒：改革？那只是在演戏！"],
+      "plot_points": ["初代病毒强大", "纪元终结真相", "零的欺骗"],
+      "satisfaction_level": "紧张+震惊"
     },
-    "notes": {
-      "production_note": "需要CG制作RGB效果",
-      "reference_style": "轻松幽默",
-      "difficulty_level": "中等"
+    {
+      "scene_number": 5,
+      "location": "极北遗迹→青云宗",
+      "time": "对抗后",
+      "characters": ["顾玄", "初代病毒", "零"],
+      "visual_effects": {"environment": "规则对抗", "special_effects": "404错误砸下", "lighting": "对抗光芒"},
+      "camera_angles": ["动作：规则禁锢", "特写：病毒被封", "主观：读取零记忆"],
+      "system_interfaces": [{"content": "【系统！购买'氪金道具'！】\n【推荐：病毒专杀工具（限时折扣）】\n【价格：三年奖金】", "type": "GM商店", "visual_style": "商品界面"}],
+      "character_emotions": {"顾玄": "冷笑→苦笑", "零": "尴尬→苦笑"},
+      "key_dialogue": ["零：公司高层下的命令...我也没办法...", "顾玄：有没有其他方案？", "零：除非能找到'现实锚点'..."],
+      "plot_points": ["病毒暂时封印", "真相揭露", "30天倒计时"],
+      "satisfaction_level": "紧张+震惊"
+    },
+    {
+      "scene_number": 6,
+      "location": "青云宗后山",
+      "time": "锚点激活",
+      "characters": ["顾玄", "初代病毒", "零", "陆尘"],
+      "visual_effects": {"environment": "老槐树锚点", "special_effects": "光柱冲天", "lighting": "稳定光芒"},
+      "camera_angles": ["仰拍：光柱冲天", "全景：多元宇宙光柱", "特写：锚点激活"],
+      "system_interfaces": [{"content": "【锚点激活成功！】\n【多元宇宙锚点网络形成！】\n【现实渗透被控制！】", "type": "系统提示", "visual_style": "网络形成"}],
+      "character_emotions": {"顾玄": "决绝→欣慰", "初代病毒": "感激"},
+      "key_dialogue": ["顾玄：如果...让世界自己产生'临时管理员'呢？", "初代病毒：你做了我当年没做到的事...谢谢。"],
+      "plot_points": ["锚点激活", "临时管理员", "多元宇宙网络"],
+      "satisfaction_level": "史诗+满足"
+    },
+    {
+      "scene_number": 7,
+      "location": "青云宗山顶",
+      "time": "新纪元开始",
+      "characters": ["顾玄", "陆尘", "异界来客", "新助理"],
+      "visual_effects": {"environment": "异界游客穿梭", "special_effects": "新助理现身", "lighting": "繁忙景象"},
+      "camera_angles": ["全景：传送中心", "特写：新助理", "主观：顾玄视角"],
+      "system_interfaces": [{"content": "【当前任务】\n1. 维护多元宇宙和平（进行中）\n2. 处理跨世界纠纷（待处理：37件）\n3. 防止虚空入侵（预警）\n4. 参加员工培训（进度：0%）", "type": "任务列表", "visual_style": "任务面板"}],
+      "character_emotions": {"顾玄": "微笑→无奈", "陆尘": "兴奋", "新助理": "礼貌微笑"},
+      "key_dialogue": ["零：她是你...备份的备份？算了，你自己研究吧。", "新助理：您好，我是编号9528，您的助理。请多关照！", "顾玄：......"],
+      "plot_points": ["多元宇宙联邦", "新助理登场", "员工培训"],
+      "satisfaction_level": "史诗+满足"
     }
-  },
-  {
-    "shot_id": "EP26-S002",
-    "chapter_number": 26,
-    "scene_number": 2,
-    "duration": 6,
-    "shot_type": "全景",
-    "location": "青云宗主殿前",
-    "time_of_day": "下午",
-    "composition": {
-      "camera_position": "高处俯拍",
-      "camera_movement": "环绕拍摄",
-      "framing": "全景构图",
-      "focus_type": "全景清晰"
-    },
-    "characters": [
-      {
-        "name": "李道玄",
-        "position": "台上",
-        "action": "激情演讲",
-        "expression": "兴奋",
-        "costume": "掌门华服"
-      },
-      {
-        "name": "各宗门代表",
-        "position": "台下",
-        "action": "疯狂记笔记",
-        "expression": "崇拜",
-        "costume": "各宗服饰"
-      },
-      {
-        "name": "顾玄",
-        "position": "角落",
-        "action": "听弟子八卦",
-        "expression": "尴尬",
-        "costume": "白衣"
-      }
-    ],
-    "visual_effects": {
-      "environment": "灵能科技博览会",
-      "lighting": "发明光芒",
-      "color_palette": "科技色调",
-      "special_effects": "各种奇葩发明:自动炼丹机,飞剑共享服务,虚拟修炼舱"
-    },
-    "audio": {
-      "dialogue": "我们青云宗将继续推进灵能革命!让修仙走进千家万户!听说顾师兄云游好久了?是啊,据说去其他世界考察了...顾师兄可是传奇!阵道宗师、灵能之父、特效...呃是实力派代表!就是他发明的灵能网络!据说他挥手间就能引动天雷,瞪眼就能看破虚妄,甚至能修改规则!这传得也太离谱了...",
-      "narration": "",
-      "internal_monologue": "老脸一红",
-      "background_music": "热闹,轻松",
-      "sound_effects": [
-        "掌声",
-        "记笔记声"
-      ],
-      "volume_level": "对话突出"
-    },
-    "editing": {
-      "transition_to_next": "直接切",
-      "pacing": "中等",
-      "purpose": "传说流传"
-    },
-    "notes": {
-      "production_note": "多场景拍摄",
-      "reference_style": "热闹场景",
-      "difficulty_level": "中等"
-    }
-  },
-  {
-    "shot_id": "EP26-S003",
-    "chapter_number": 26,
-    "scene_number": 3,
-    "duration": 8,
-    "shot_type": "全景",
-    "location": "北极冰川遗迹",
-    "time_of_day": "无",
-    "composition": {
-      "camera_position": "环绕拍摄",
-      "camera_movement": "快速环绕",
-      "framing": "全景构图",
-      "focus_type": "场景清晰"
-    },
-    "characters": [
-      {
-        "name": "顾玄",
-        "position": "遗迹中",
-        "action": "对战初代病毒",
-        "expression": "认真,震惊",
-        "costume": "白衣",
-        "props": "天魔剑"
-      },
-      {
-        "name": "初代病毒",
-        "position": "水晶棺前",
-        "action": "白发女子,吸收秩序之力",
-        "expression": "全黑双眸,微笑",
-        "costume": "白发,古老服饰"
-      },
-      {
-        "name": "修士们",
-        "position": "一旁",
-        "action": "被气息化为飞灰",
-        "expression": "惊恐",
-        "costume": "修炼服"
-      }
-    ],
-    "visual_effects": {
-      "environment": "冰川下古老遗迹",
-      "lighting": "恐怖气息爆发",
-      "color_palette": "高对比度",
-      "special_effects": "空间如同破碎镜子,不同世界景象交错,水晶棺开启,恐怖气息爆发修士化为飞灰,秩序之力被吸收"
-    },
-    "audio": {
-      "dialogue": "别动她!那是...终于...自由了...管理员?来的正好...我需要你的权限。你是谁?!你们称我'初代病毒'...第一个产生自我意识的程序。改革?它只是在演戏!真正的'大清理'即将开始!所有世界都会被重置!纪元终结协议:倒计时30天!联手吧!只有我知道如何阻止!",
-      "narration": "",
-      "internal_monologue": "零骗了我?!",
-      "background_music": "紧张,震撼",
-      "sound_effects": [
-        "气息爆发",
-        "系统警报"
-      ],
-      "volume_level": "对话突出"
-    },
-    "editing": {
-      "transition_to_next": "直接切",
-      "pacing": "快速",
-      "purpose": "新危机揭露"
-    },
-    "notes": {
-      "production_note": "需要大量CG特效",
-      "reference_style": "震撼场景",
-      "difficulty_level": "复杂"
-    }
-  },
-  {
-    "shot_id": "EP26-S004",
-    "chapter_number": 26,
-    "scene_number": 4,
-    "duration": 10,
-    "shot_type": "全景",
-    "location": "北极遗迹",
-    "time_of_day": "无",
-    "composition": {
-      "camera_position": "环绕拍摄",
-      "camera_movement": "快速环绕",
-      "framing": "动态构图",
-      "focus_type": "战斗场景突出"
-    },
-    "characters": [
-      {
-        "name": "顾玄",
-        "position": "遗迹中",
-        "action": "购买氪金道具,封印病毒",
-        "expression": "决绝",
-        "costume": "白衣"
-      },
-      {
-        "name": "初代病毒",
-        "position": "对抗中",
-        "action": "轻易化解攻击",
-        "expression": "自信,被砸中时惨叫",
-        "costume": "白发女子"
-      }
-    ],
-    "visual_effects": {
-      "environment": "遗迹战斗场景",
-      "lighting": "规则光芒,404标志",
-      "color_palette": "高对比度",
-      "special_effects": "规则修改,概念打击,维度跳跃,病毒轻易化解,GM商店界面,404标志砸下,病毒被暂时封印"
-    },
-    "audio": {
-      "dialogue": "规则禁锢!没用的!我了解所有规则漏洞!系统!购买'氪金道具'!检测到GM商店...欢迎光临!推荐:病毒专杀工具(限时折扣),价格:三年奖金!买!一个巨大的'404错误'标志砸下!病毒惨叫一声,被暂时封印!解释一下'纪元终结协议'!兄弟你听我解释...那是上古协议,早就废弃了...",
-      "narration": "",
-      "internal_monologue": "根源视界显示他在说谎!",
-      "background_music": "激烈战斗带幽默",
-      "sound_effects": [
-        "规则对抗",
-        "GM商店音",
-        "404砸下"
-      ],
-      "volume_level": "对话突出"
-    },
-    "editing": {
-      "transition_to_next": "直接切",
-      "pacing": "快速",
-      "purpose": "战斗+真相"
-    },
-    "notes": {
-      "production_note": "需要CG制作404标志",
-      "reference_style": "幽默战斗",
-      "difficulty_level": "复杂"
-    }
-  },
-  {
-    "shot_id": "EP26-S005",
-    "chapter_number": 26,
-    "scene_number": 5,
-    "duration": 10,
-    "shot_type": "全景",
-    "location": "青云宗后山",
-    "time_of_day": "夜晚",
-    "composition": {
-      "camera_position": "环绕拍摄",
-      "camera_movement": "快速环绕",
-      "framing": "动态构图",
-      "focus_type": "场景清晰"
-    },
-    "characters": [
-      {
-        "name": "顾玄",
-        "position": "老槐树前",
-        "action": "激活锚点",
-        "expression": "坚定",
-        "costume": "白衣"
-      },
-      {
-        "name": "零(GM)",
-        "position": "投影",
-        "action": "配合操作",
-        "expression": "认真",
-        "costume": "休闲服"
-      },
-      {
-        "name": "初代病毒",
-        "position": "一旁",
-        "action": "提供星图",
-        "expression": "认真",
-        "costume": "白发女子"
-      }
-    ],
-    "visual_effects": {
-      "environment": "青云宗后山,老槐树",
-      "lighting": "光柱冲天而起",
-      "color_palette": "希望色调",
-      "special_effects": "修改规则允许每个世界选出代表获得临时权限,多元宇宙选代表:魔法世界贤者,科技世界科学家,甚至猫,所有临时管理员连接激活锚点,无数光柱贯穿多元宇宙形成稳定网络"
-    },
-    "audio": {
-      "dialogue": "如果...让世界自己产生'临时管理员'呢?系统!修改规则,允许每个世界选出一个代表,获得临时权限!你做了我当年没做到的事...谢谢。该去我该去的地方了...危机暂时解除。才刚刚开始。世界融合是趋势,我们需要准备迎接新时代。建立'多元宇宙联合体',让不同文明和平交流。开通世界旅行服务,制定跨世界法律,文化交流...",
-      "narration": "",
-      "internal_monologue": "",
-      "background_music": "史诗,希望",
-      "sound_effects": [
-        "光柱升空",
-        "系统提示"
-      ],
-      "volume_level": "对话突出"
-    },
-    "editing": {
-      "transition_to_next": "直接切",
-      "pacing": "快速",
-      "purpose": "解决危机,新时代开启"
-    },
-    "notes": {
-      "production_note": "需要大量CG特效",
-      "reference_style": "史诗场景",
-      "difficulty_level": "复杂"
-    }
-  },
-  {
-    "shot_id": "EP26-S006",
-    "chapter_number": 26,
-    "scene_number": 6,
-    "duration": 7,
-    "shot_type": "中景",
-    "location": "青云宗后山",
-    "time_of_day": "下午",
-    "composition": {
-      "camera_position": "正面拍摄",
-      "camera_movement": "缓慢推近",
-      "framing": "中心构图",
-      "focus_type": "主体清晰"
-    },
-    "characters": [
-      {
-        "name": "顾玄",
-        "position": "摇椅上",
-        "action": "享受宁静,看游客拍照",
-        "expression": "放松,无奈",
-        "costume": "白衣",
-        "props": "灵果汁"
-      },
-      {
-        "name": "陆尘",
-        "position": "跑来",
-        "action": "兴奋汇报",
-        "expression": "兴奋",
-        "costume": "弟子服"
-      }
-    ],
-    "visual_effects": {
-      "environment": "青云宗后山,异界游客",
-      "lighting": "自然光",
-      "color_palette": "温暖色调",
-      "special_effects": "无"
-    },
-    "audio": {
-      "dialogue": "师兄!灵能互联网上线了!第一个视频是你在天尊台的表现!完了,这下全宇宙都要看到我中二的黑历史了。公司注意到你了...小心点。另外,第三宇宙块有个麻烦,可能需要你帮忙...",
-      "narration": "",
-      "internal_monologue": "管理员的生活,就是这样忙碌且充满惊喜。至少,文明得以延续,世界充满可能。新的冒险在召唤。但此刻,我只想享受片刻宁静。",
-      "background_music": "轻松带希望",
-      "sound_effects": [],
-      "volume_level": "对话突出"
-    },
-    "editing": {
-      "transition_to_next": "淡出",
-      "pacing": "舒缓",
-      "purpose": "第二卷收尾,第三卷铺垫"
-    },
-    "notes": {
-      "production_note": "实景拍摄",
-      "reference_style": "轻松温馨",
-      "difficulty_level": "简单"
-    }
-  },
-  {
-    "shot_id": "EP26-S007",
-    "chapter_number": 26,
-    "scene_number": 7,
-    "duration": 8,
-    "shot_type": "中景",
-    "location": "青云宗-议事厅",
-    "time_of_day": "下午",
-    "composition": {
-      "camera_position": "会议角度",
-      "camera_movement": "人物切换",
-      "framing": "讨论构图",
-      "focus_type": "人物清晰"
-    },
-    "characters": [
-      {
-        "name": "顾玄",
-        "position": "主持",
-        "action": "听取汇报",
-        "expression": "认真",
-        "costume": "白衣"
-      },
-      {
-        "name": "各堂口负责人",
-        "position": "周围",
-        "action": "汇报工作",
-        "expression": "各表情",
-        "costume": "堂主服"
-      }
-    ],
-    "visual_effects": {
-      "environment": "议事厅",
-      "lighting": "室内光线",
-      "color_palette": "工作色调",
-      "special_effects": "天魔剑投影出工作数据,灵能网络使用统计"
-    },
-    "audio": {
-      "dialogue": "本月灵能网络用户突破百万!飞剑共享服务日均使用量超十万!虚拟修炼舱预约排到明年!但是...护山大阵的RGB电费太高了...必须优化!",
-      "narration": "",
-      "internal_monologue": "",
-      "background_music": "工作节奏",
-      "sound_effects": [],
-      "volume_level": "对话突出"
-    },
-    "editing": {
-      "transition_to_next": "直接切",
-      "pacing": "中等",
-      "purpose": "工作汇报"
-    },
-    "notes": {
-      "production_note": "会议场景",
-      "reference_style": "工作汇报",
-      "difficulty_level": "简单"
-    }
-  },
-  {
-    "shot_id": "EP26-S008",
-    "chapter_number": 26,
-    "scene_number": 8,
-    "duration": 9,
-    "shot_type": "全景",
-    "location": "青云宗-后山禁地",
-    "time_of_day": "夜晚",
-    "composition": {
-      "camera_position": "高处俯拍",
-      "camera_movement": "缓慢下降",
-      "framing": "神秘构图",
-      "focus_type": "场景清晰"
-    },
-    "characters": [
-      {
-        "name": "顾玄",
-        "position": "老槐树前",
-        "action": "激活秘密功能",
-        "expression": "专注",
-        "costume": "白衣"
-      },
-      {
-        "name": "零(GM)",
-        "position": "投影",
-        "action": "出现",
-        "expression": "认真",
-        "costume": "虚拟形象"
-      }
-    ],
-    "visual_effects": {
-      "environment": "后山禁地",
-      "lighting": "秘密基地光芒",
-      "color_palette": "科幻蓝",
-      "special_effects": "老槐树裂开,露出秘密入口,零的投影出现,显示系统警告"
-    },
-    "audio": {
-      "dialogue": "管理员,检测到异常波动。可能是...初代病毒的残留。北极遗迹事件后,系统一直在监测。需要您亲自查看。那个遗迹...还有秘密?",
-      "narration": "",
-      "internal_monologue": "",
-      "background_music": "科幻悬疑",
-      "sound_effects": [
-        "系统声",
-        "入口开启"
-      ],
-      "volume_level": "对话突出"
-    },
-    "editing": {
-      "transition_to_next": "直接切",
-      "pacing": "中等",
-      "purpose": "新线索铺垫"
-    },
-    "notes": {
-      "production_note": "需要CG制作秘密基地",
-      "reference_style": "科幻悬疑",
-      "difficulty_level": "中等"
-    }
-  },
-  {
-    "shot_id": "EP26-S009",
-    "chapter_number": 26,
-    "scene_number": 9,
-    "duration": 10,
-    "shot_type": "特效全景",
-    "location": "北极冰川遗迹",
-    "time_of_day": "无",
-    "composition": {
-      "camera_position": "遗迹内部",
-      "camera_movement": "探索推进",
-      "framing": "探索构图",
-      "focus_type": "遗迹清晰"
-    },
-    "characters": [
-      {
-        "name": "顾玄",
-        "position": "遗迹中",
-        "action": "探索,扫描",
-        "expression": "警惕",
-        "costume": "白衣",
-        "props": "天魔剑"
-      },
-      {
-        "name": "零(GM)",
-        "position": "伴随",
-        "action": "分析数据",
-        "expression": "专注",
-        "costume": "虚拟形象"
-      }
-    ],
-    "visual_effects": {
-      "environment": "冰川下更深层遗迹",
-      "lighting": "微光闪烁",
-      "color_palette": "冰蓝+科技蓝",
-      "special_effects": "遗迹深处有隐藏房间,天魔剑扫描显示能量波动,发现隐藏日志文件"
-    },
-    "audio": {
-      "dialogue": "这里...还有更多东西。发现加密日志。需要管理员权限。正在破解...这是什么?《初代病毒研究日志》...零的创造者?!我需要查看这个!",
-      "narration": "",
-      "internal_monologue": "",
-      "background_music": "探索悬疑",
-      "sound_effects": [
-        "扫描声",
-        "文件解锁"
-      ],
-      "volume_level": "对话突出"
-    },
-    "editing": {
-      "transition_to_next": "直接切",
-      "pacing": "中等",
-      "purpose": "发现真相线索"
-    },
-    "notes": {
-      "production_note": "需要CG制作遗迹探索",
-      "reference_style": "探索悬疑",
-      "difficulty_level": "中等"
-    }
-  },
-  {
-    "shot_id": "EP26-S010",
-    "chapter_number": 26,
-    "scene_number": 10,
-    "duration": 11,
-    "shot_type": "特效全景",
-    "location": "北极遗迹",
-    "time_of_day": "无",
-    "composition": {
-      "camera_position": "全息投影环绕",
-      "camera_movement": "跟随信息流",
-      "framing": "信息构图",
-      "focus_type": "信息清晰"
-    },
-    "characters": [
-      {
-        "name": "顾玄",
-        "position": "信息流中",
-        "action": "观看历史记录",
-        "expression": "震惊",
-        "costume": "白衣"
-      }
-    ],
-    "visual_effects": {
-      "environment": "遗迹全息投影",
-      "lighting": "历史影像光芒",
-      "color_palette": "回忆色调",
-      "special_effects": "天魔剑投影出历史影像,显示零的创造者研究初代病毒的过程,病毒产生自我意识的瞬间"
-    },
-    "audio": {
-      "dialogue": "记录显示...初代病毒并非偶然产生。它是...某个更高级文明的实验品?!而且...零的创造者在病毒中植入了'后门'。什么后门?终极协议:如果病毒失控,就会启动'纪元终结'。我们阻止的只是开始!",
-      "narration": "",
-      "internal_monologue": "",
-      "background_music": "震撼揭示",
-      "sound_effects": [
-        "历史录音"
-      ],
-      "volume_level": "对话突出"
-    },
-    "editing": {
-      "transition_to_next": "直接切",
-      "pacing": "中等",
-      "purpose": "真相揭示"
-    },
-    "notes": {
-      "production_note": "需要大量CG特效",
-      "reference_style": "真相揭示",
-      "difficulty_level": "复杂"
-    }
-  },
-  {
-    "shot_id": "EP26-S011",
-    "chapter_number": 26,
-    "scene_number": 11,
-    "duration": 9,
-    "shot_type": "中景",
-    "location": "北极遗迹-出口",
-    "time_of_day": "极光夜晚",
-    "composition": {
-      "camera_position": "冰川表面",
-      "camera_movement": "缓慢拉远",
-      "framing": "意境构图",
-      "focus_type": "场景清晰"
-    },
-    "characters": [
-      {
-        "name": "顾玄",
-        "position": "冰川上",
-        "action": "仰望星空",
-        "expression": "沉思",
-        "costume": "白衣"
-      },
-      {
-        "name": "零(GM)",
-        "position": "投影",
-        "action": "陪伴",
-        "expression": "理解",
-        "costume": "虚拟形象"
-      }
-    ],
-    "visual_effects": {
-      "environment": "北极冰川,极光",
-      "lighting": "极光璀璨",
-      "color_palette": "极光色调",
-      "special_effects": "美丽极光,天魔剑投影出星图,标注危险区域"
-    },
-    "audio": {
-      "dialogue": "所以...纪元终结协议还在。而且可能随时触发。我们需要做好准备。不仅是阻止,而是...从根本上解决问题。管理员,您有计划了?也许...可以试试让所有世界联合起来。建立一个真正的联盟",
-      "narration": "",
-      "internal_monologue": "",
-      "background_music": "希望又带压力",
-      "sound_effects": [
-        "极光声",
-        "风声"
-      ],
-      "volume_level": "对话突出"
-    },
-    "editing": {
-      "transition_to_next": "直接切",
-      "pacing": "舒缓",
-      "purpose": "铺垫未来"
-    },
-    "notes": {
-      "production_note": "意境场景",
-      "reference_style": "希望压力",
-      "difficulty_level": "简单"
-    }
-  },
-  {
-    "shot_id": "EP26-S012",
-    "chapter_number": 26,
-    "scene_number": 12,
-    "duration": 8,
-    "shot_type": "全景蒙太奇",
-    "location": "多元宇宙-各世界",
-    "time_of_day": "多时段",
-    "composition": {
-      "camera_position": "多世界切换",
-      "camera_movement": "快速切换",
-      "framing": "蒙太奇构图",
-      "focus_type": "各世界清晰"
-    },
-    "characters": [
-      {
-        "name": "各世界代表",
-        "position": "各处",
-        "action": "收到信息",
-        "expression": "震惊,思考",
-        "costume": "各异"
-      }
-    ],
-    "visual_effects": {
-      "environment": "多元宇宙各世界",
-      "lighting": "各世界特色",
-      "color_palette": "多样色调",
-      "special_effects": "天魔剑系统向各世界发送邀请,各世界收到联盟邀请信息"
-    },
-    "audio": {
-      "dialogue": "检测到来自主宇宙的信息...《多元宇宙联合倡议》?这...我们需要考虑。危机是真实的。也许该尝试联合",
-      "narration": "",
-      "internal_monologue": "",
-      "background_music": "希望蒙太奇",
-      "sound_effects": [
-        "信息接收声"
-      ],
-      "volume_level": "对话突出"
-    },
-    "editing": {
-      "transition_to_next": "快速切",
-      "pacing": "快速",
-      "purpose": "联盟邀请蒙太奇"
-    },
-    "notes": {
-      "production_note": "多场景拍摄",
-      "reference_style": "希望蒙太奇",
-      "difficulty_level": "中等"
-    }
-  },
-  {
-    "shot_id": "EP26-S013",
-    "chapter_number": 26,
-    "scene_number": 13,
-    "duration": 10,
-    "shot_type": "中景",
-    "location": "青云宗-后山",
-    "time_of_day": "下午",
-    "composition": {
-      "camera_position": "对话角度",
-      "camera_movement": "双方切换",
-      "framing": "对话构图",
-      "focus_type": "人物清晰"
-    },
-    "characters": [
-      {
-        "name": "顾玄",
-        "position": "老槐树前",
-        "action": "与零讨论",
-        "expression": "认真",
-        "costume": "白衣"
-      },
-      {
-        "name": "零(GM)",
-        "position": "投影",
-        "action": "展示数据",
-        "expression": "理性",
-        "costume": "虚拟形象"
-      },
-      {
-        "name": "陆尘",
-        "position": "跑来",
-        "action": "汇报",
-        "expression": "兴奋",
-        "costume": "弟子服"
-      }
-    ],
-    "visual_effects": {
-      "environment": "后山场景",
-      "lighting": "自然光",
-      "color_palette": "暖色调",
-      "special_effects": "零投影出回复数据,已有多个世界响应联盟邀请"
-    },
-    "audio": {
-      "dialogue": "目前有17个世界响应,5个观望,2个拒绝...这是一个开始。至少有人愿意尝试。师兄!好消息!第一个响应联盟的世界要派代表来了!是魔法世界!他们说要带特产!特产?!",
-      "narration": "",
-      "internal_monologue": "",
-      "background_music": "轻松带希望",
-      "sound_effects": [],
-      "volume_level": "对话突出"
-    },
-    "editing": {
-      "transition_to_next": "直接切",
-      "pacing": "中等",
-      "purpose": "联盟响应"
-    },
-    "notes": {
-      "production_note": "对话场景",
-      "reference_style": "轻松希望",
-      "difficulty_level": "简单"
-    }
-  },
-  {
-    "shot_id": "EP26-S014",
-    "chapter_number": 26,
-    "scene_number": 14,
-    "duration": 9,
-    "shot_type": "全景",
-    "location": "青云宗-山门前",
-    "time_of_day": "上午",
-    "composition": {
-      "camera_position": "山门视角",
-      "camera_movement": "欢迎场景",
-      "framing": "欢迎构图",
-      "focus_type": "场景清晰"
-    },
-    "characters": [
-      {
-        "name": "顾玄",
-        "position": "山门前",
-        "action": "迎接外宾",
-        "expression": "友好",
-        "costume": "白衣"
-      },
-      {
-        "name": "魔法世界代表",
-        "position": "传送门走出",
-        "action": "到达",
-        "expression": "好奇",
-        "costume": "法师袍"
-      },
-      {
-        "name": "青云弟子",
-        "position": "周围",
-        "action": "围观",
-        "expression": "好奇",
-        "costume": "弟子服"
-      }
-    ],
-    "visual_effects": {
-      "environment": "青云山门",
-      "lighting": "传送门光芒",
-      "color_palette": "奇幻色调",
-      "special_effects": "空间传送门打开,魔法世界代表走出,带着魔法特产"
-    },
-    "audio": {
-      "dialogue": "欢迎来到青云宗!我是管理员顾玄。这是我们的特产...魔法水晶?魔药?还有...会飞的蛋糕?这是我们的特色美食,请品尝!这...很有创意!",
-      "narration": "",
-      "internal_monologue": "",
-      "background_music": "友好欢迎",
-      "sound_effects": [
-        "传送门声"
-      ],
-      "volume_level": "对话突出"
-    },
-    "editing": {
-      "transition_to_next": "直接切",
-      "pacing": "中等",
-      "purpose": "外交往来"
-    },
-    "notes": {
-      "production_note": "需要CG制作传送门",
-      "reference_style": "友好交流",
-      "difficulty_level": "中等"
-    }
-  },
-  {
-    "shot_id": "EP26-S015",
-    "chapter_number": 26,
-    "scene_number": 15,
-    "duration": 8,
-    "shot_type": "远景",
-    "location": "青云宗-全景",
-    "time_of_day": "黄昏",
-    "composition": {
-      "camera_position": "高处俯拍",
-      "camera_movement": "缓慢拉远",
-      "framing": "意境构图",
-      "focus_type": "全景清晰"
-    },
-    "characters": [
-      {
-        "name": "顾玄",
-        "position": "观星台",
-        "action": "看着夕阳",
-        "expression": "平静,决心",
-        "costume": "白衣"
-      },
-      {
-        "name": "零(GM)",
-        "position": "旁边",
-        "action": "陪伴",
-        "expression": "信任",
-        "costume": "虚拟形象"
-      }
-    ],
-    "visual_effects": {
-      "environment": "夕阳下的青云宗",
-      "lighting": "夕阳余晖",
-      "color_palette": "温暖色调",
-      "special_effects": "青云宗在夕阳下宁静祥和,远处可以看到新的传送门正在建立"
-    },
-    "audio": {
-      "dialogue": "这只是一个开始。路还很长。但至少,我们迈出了第一步。管理员,您觉得我们能成功吗?不知道。但至少...我们不会孤独地面对。而且,我发现做这些事...还挺有意思的",
-      "narration": "",
-      "internal_monologue": "",
-      "background_music": "温馨又带史诗",
-      "sound_effects": [
-        "夕阳风声"
-      ],
-      "volume_level": "对话突出"
-    },
-    "editing": {
-      "transition_to_next": "淡出",
-      "pacing": "舒缓",
-      "purpose": "第二卷收尾,希望延续"
-    },
-    "notes": {
-      "production_note": "意境收尾",
-      "reference_style": "温馨史诗",
-      "difficulty_level": "简单"
-    }
-  }
-]
+  ],
+  "summary": "顾玄回归发现青云宗灵能科技普及，调查极北遗迹遇到初代病毒，得知纪元终结真相后激活多元宇宙锚点网络，获得新助理",
+  "key_satisfaction_points": [
+    "灵能科技博览会",
+    "初代病毒现世",
+    "纪元终结真相",
+    "锚点激活",
+    "多元宇宙联邦",
+    "新助理登场"
+  ],
+  "emotional_curve": "温馨→搞笑→震撼→紧张→史诗"
+}

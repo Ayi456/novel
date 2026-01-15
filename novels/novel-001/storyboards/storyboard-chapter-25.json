@@ -1,626 +1,107 @@
-[
-  {
-    "shot_id": "EP25-S001",
-    "chapter_number": 25,
-    "scene_number": 1,
-    "duration": 6,
-    "shot_type": "中景",
-    "location": "场景1",
-    "time_of_day": "白天",
-    "composition": {
-      "camera_position": "正面拍摄",
-      "camera_movement": "固定镜头",
-      "framing": "标准构图",
-      "focus_type": "主体清晰"
+{
+  "chapter": "第二十五章：根源权限",
+  "chapter_number": 25,
+  "scenes": [
+    {
+      "scene_number": 1,
+      "location": "天尊台顶",
+      "time": "刚获得根源权限",
+      "characters": ["顾玄"],
+      "visual_effects": {"environment": "根源视界开启", "special_effects": "远距离分解清道夫要塞", "lighting": "能量波动"},
+      "camera_angles": ["主观：根源视界", "特写：顾玄意念微动", "全景：要塞分解"],
+      "system_interfaces": [{"content": "根源指令：分解。", "type": "根源指令", "visual_style": "指令执行"}],
+      "character_emotions": {"顾玄": "淡定→微笑"},
+      "key_dialogue": ["顾玄：首先...清理垃圾。", "战穹：兄弟，你刚才...", "顾玄：倒了点垃圾。"],
+      "plot_points": ["根源权限首秀", "远距离分解", "清理清道夫"],
+      "satisfaction_level": "震撼积累"
     },
-    "characters": [
-      {
-        "name": "主要角色",
-        "position": "画面中央",
-        "action": "推进剧情",
-        "expression": "根据情境",
-        "costume": "修仙服饰"
-      }
-    ],
-    "visual_effects": {
-      "environment": "根据场景",
-      "lighting": "自然光",
-      "color_palette": "自然色调",
-      "special_effects": "根据需要添加特效"
+    {
+      "scene_number": 2,
+      "location": "多元宇宙各处",
+      "time": "清理中",
+      "characters": ["顾玄", "清道夫部队", "各世界文明"],
+      "visual_effects": {"environment": "舰队变乐高积木", "special_effects": "全宇宙广播投影", "lighting": "威严光芒"},
+      "camera_angles": ["全景：舰队变化", "特写：魔法师震惊", "仰拍：天尊投影"],
+      "system_interfaces": [{"content": "顾玄投影：\"即日起，天竞界受我庇护。任何非法清理行为，都将视为对根源的挑战。\"", "type": "全宇宙广播", "visual_style": "威严投影"}],
+      "character_emotions": {"顾玄": "威严", "各世界": "震惊跪拜"},
+      "key_dialogue": ["顾玄：那就留个传说吧。"],
+      "plot_points": ["清理清道夫", "乐高舰队", "留传说"],
+      "satisfaction_level": "搞笑+满足"
     },
-    "audio": {
-      "dialogue": "根源之海的能量在顾玄体内奔涌，那是超越世界、超越维度的至高力量。秩序之眼自动升级为【根源视界】，此刻在他眼中，整个多元宇宙如同精密运转的机器，每个齿轮都清晰可见。",
-      "narration": "",
-      "internal_monologue": "",
-      "background_music": "中等",
-      "sound_effects": [],
-      "volume_level": "正常"
+    {
+      "scene_number": 3,
+      "location": "主系统核心",
+      "time": "突袭",
+      "characters": ["顾玄", "主系统", "零（GM）"],
+      "visual_effects": {"environment": "维度缝隙，无数世界气泡", "special_effects": "防御舰队爆炸", "lighting": "维度光芒"},
+      "camera_angles": ["全景：世界气泡", "动作：舰队攻击", "特写：零现身"],
+      "system_interfaces": [{"content": "【警告：非法入侵！】\n\n零：\"我是这个宇宙块的GM，你可以叫我'零'。\"", "type": "系统警报", "visual_style": "警报界面"}],
+      "character_emotions": {"顾玄": "皱眉→震惊", "零": "笑嘻嘻"},
+      "key_dialogue": ["零：这些所谓的'试验场'，其实是我们公司开发的'文明演化模拟器'啦！", "顾玄：所以这一切...只是个游戏？"],
+      "plot_points": ["GM现身", "文明模拟器", "顾玄世界观崩塌"],
+      "satisfaction_level": "震撼+荒诞"
     },
-    "editing": {
-      "transition_to_next": "直接切",
-      "pacing": "中等",
-      "purpose": "推进剧情"
+    {
+      "scene_number": 4,
+      "location": "主系统核心",
+      "time": "对话",
+      "characters": ["顾玄", "零"],
+      "visual_effects": {"environment": "监控画面", "special_effects": "玩家身份揭晓", "lighting": "数据光芒"},
+      "camera_angles": ["特写：零操作", "主观：监控画面", "反应：顾玄震惊"],
+      "system_interfaces": [{"content": "【顾玄，Z区管理员，工号9527...三年前因事故失踪...原来掉进模拟世界了！】\n\n【检测到未授权访问！有病毒正在入侵主系统！】", "type": "数据查询", "visual_style": "数据显示"}],
+      "character_emotions": {"顾玄": "懵→三观崩塌", "零": "兴奋→惊讶"},
+      "key_dialogue": ["零：你...你不是NPC？！你是玩家？！", "顾玄：等我...我能不能格式化点什么。"],
+      "plot_points": ["玩家身份", "病毒入侵", "危机爆发"],
+      "satisfaction_level": "震撼+荒诞"
     },
-    "notes": {
-      "production_note": "根据实际内容调整",
-      "reference_style": "仙侠风格",
-      "difficulty_level": "中等"
+    {
+      "scene_number": 5,
+      "location": "主系统核心",
+      "time": "病毒对抗",
+      "characters": ["顾玄", "零", "叛乱者（病毒）"],
+      "visual_effects": {"environment": "病毒入侵核心", "special_effects": "危机事件激活", "lighting": "警报红光"},
+      "camera_angles": ["全景：世界波动", "特写：病毒核心", "动作：对抗爆发"],
+      "system_interfaces": [{"content": "【以员工编号9527权限，申请紧急协议！】\n【启动：格式化协议（最高级）】\n\n【GM编号001认证！】", "type": "紧急协议", "visual_style": "协议启动"}],
+      "character_emotions": {"顾玄": "冷静→决绝", "零": "满头大汗"},
+      "key_dialogue": ["叛乱者：哈哈哈！我回来了！这次我要接管整个系统！", "顾玄：根源指令：隔离病毒！"],
+      "plot_points": ["病毒入侵", "世界危机", "格式化协议"],
+      "satisfaction_level": "紧张+震撼"
+    },
+    {
+      "scene_number": 6,
+      "location": "主系统核心",
+      "time": "协议启动",
+      "characters": ["顾玄", "零", "叛乱者（病毒）"],
+      "visual_effects": {"environment": "根源之海对抗", "special_effects": "病毒疯狂吞噬", "lighting": "能量对抗"},
+      "camera_angles": ["全景：能量对抗", "特写：立方体崩溃", "反应：病毒清除"],
+      "system_interfaces": [{"content": "【格式化协议启动！】\n【病毒清除！】\n【主系统恢复！】", "type": "协议执行", "visual_style": "执行动画"}],
+      "character_emotions": {"顾玄": "脱力→平静", "零": "擦汗→微笑", "叛乱者": "惨叫"},
+      "key_dialogue": ["零：不过你得回来上班了！三年旷工，扣了多少奖金知道吗？", "顾玄：......我能拒绝吗？", "零：给你个新职位——'模拟世界监察使'，带薪的！"],
+      "plot_points": ["病毒清除", "新职位获得", "GM权限解锁"],
+      "satisfaction_level": "史诗+满足"
+    },
+    {
+      "scene_number": 7,
+      "location": "青云宗后山",
+      "time": "回归",
+      "characters": ["顾玄"],
+      "visual_effects": {"environment": "熟悉的家园", "special_effects": "系统界面焕新", "lighting": "温暖阳光"},
+      "camera_angles": ["全景：后山景色", "主观：系统界面", "特写：顾玄微笑"],
+      "system_interfaces": [{"content": "【系统：天魔执法系统V∞.5（监察使版）】\n【权限：模拟世界监察使】\n【GM等级：3（可升级）】\n\n【《文明管理基础》课程-第一章已解锁】\n【不学习将扣工资】", "type": "系统界面", "visual_style": "新系统界面"}],
+      "character_emotions": {"顾玄": "微笑→无奈"},
+      "key_dialogue": ["零：别忘了写工作报告啊！每月要交的！", "顾玄：这就是打工人的命运啊..."],
+      "plot_points": ["回归本源", "GM权限", "员工培训"],
+      "satisfaction_level": "满足"
     }
-  },
-  {
-    "shot_id": "EP25-S002",
-    "chapter_number": 25,
-    "scene_number": 2,
-    "duration": 6,
-    "shot_type": "中景",
-    "location": "场景2",
-    "time_of_day": "白天",
-    "composition": {
-      "camera_position": "正面拍摄",
-      "camera_movement": "固定镜头",
-      "framing": "标准构图",
-      "focus_type": "主体清晰"
-    },
-    "characters": [
-      {
-        "name": "主要角色",
-        "position": "画面中央",
-        "action": "推进剧情",
-        "expression": "根据情境",
-        "costume": "修仙服饰"
-      }
-    ],
-    "visual_effects": {
-      "environment": "根据场景",
-      "lighting": "自然光",
-      "color_palette": "自然色调",
-      "special_effects": "根据需要添加特效"
-    },
-    "audio": {
-      "dialogue": "“首先...”顾玄目光扫过天竞界，“清理垃圾。”",
-      "narration": "",
-      "internal_monologue": "",
-      "background_music": "中等",
-      "sound_effects": [],
-      "volume_level": "正常"
-    },
-    "editing": {
-      "transition_to_next": "直接切",
-      "pacing": "中等",
-      "purpose": "推进剧情"
-    },
-    "notes": {
-      "production_note": "根据实际内容调整",
-      "reference_style": "仙侠风格",
-      "difficulty_level": "中等"
-    }
-  },
-  {
-    "shot_id": "EP25-S003",
-    "chapter_number": 25,
-    "scene_number": 3,
-    "duration": 6,
-    "shot_type": "近景",
-    "location": "场景3",
-    "time_of_day": "白天",
-    "composition": {
-      "camera_position": "正面拍摄",
-      "camera_movement": "轻微推镜",
-      "framing": "标准构图",
-      "focus_type": "主体清晰"
-    },
-    "characters": [
-      {
-        "name": "主要角色",
-        "position": "画面中央",
-        "action": "推进剧情",
-        "expression": "根据情境",
-        "costume": "修仙服饰"
-      }
-    ],
-    "visual_effects": {
-      "environment": "根据场景",
-      "lighting": "自然光",
-      "color_palette": "自然色调",
-      "special_effects": "根据需要添加特效"
-    },
-    "audio": {
-      "dialogue": "根源视界锁定隐藏在世界缝隙中的清道夫据点——那是个伪装成陨石的移动要塞，正在暗中监视天尊台。",
-      "narration": "",
-      "internal_monologue": "",
-      "background_music": "对话",
-      "sound_effects": [],
-      "volume_level": "正常"
-    },
-    "editing": {
-      "transition_to_next": "直接切",
-      "pacing": "对话",
-      "purpose": "推进剧情"
-    },
-    "notes": {
-      "production_note": "根据实际内容调整",
-      "reference_style": "仙侠风格",
-      "difficulty_level": "中等"
-    }
-  },
-  {
-    "shot_id": "EP25-S004",
-    "chapter_number": 25,
-    "scene_number": 4,
-    "duration": 6,
-    "shot_type": "近景",
-    "location": "场景4",
-    "time_of_day": "白天",
-    "composition": {
-      "camera_position": "正面拍摄",
-      "camera_movement": "轻微推镜",
-      "framing": "标准构图",
-      "focus_type": "主体清晰"
-    },
-    "characters": [
-      {
-        "name": "主要角色",
-        "position": "画面中央",
-        "action": "推进剧情",
-        "expression": "根据情境",
-        "costume": "修仙服饰"
-      }
-    ],
-    "visual_effects": {
-      "environment": "根据场景",
-      "lighting": "自然光",
-      "color_palette": "自然色调",
-      "special_effects": "根据需要添加特效"
-    },
-    "audio": {
-      "dialogue": "亿万光年外，清道夫要塞突然无声无息地化作基本粒子，连警报都来不及发出。里面的清道夫们如同被橡皮擦抹去，彻底消失。",
-      "narration": "",
-      "internal_monologue": "",
-      "background_music": "对话",
-      "sound_effects": [],
-      "volume_level": "正常"
-    },
-    "editing": {
-      "transition_to_next": "直接切",
-      "pacing": "对话",
-      "purpose": "推进剧情"
-    },
-    "notes": {
-      "production_note": "根据实际内容调整",
-      "reference_style": "仙侠风格",
-      "difficulty_level": "中等"
-    }
-  },
-  {
-    "shot_id": "EP25-S005",
-    "chapter_number": 25,
-    "scene_number": 5,
-    "duration": 6,
-    "shot_type": "远景",
-    "location": "场景5",
-    "time_of_day": "白天",
-    "composition": {
-      "camera_position": "正面拍摄",
-      "camera_movement": "缓慢拉远",
-      "framing": "标准构图",
-      "focus_type": "主体清晰"
-    },
-    "characters": [
-      {
-        "name": "主要角色",
-        "position": "画面中央",
-        "action": "推进剧情",
-        "expression": "根据情境",
-        "costume": "修仙服饰"
-      }
-    ],
-    "visual_effects": {
-      "environment": "根据场景",
-      "lighting": "自然光",
-      "color_palette": "自然色调",
-      "special_effects": "根据需要添加特效"
-    },
-    "audio": {
-      "dialogue": "战穹等人只看到顾玄望了眼天空，然后似乎发生了什么，又似乎什么都没发生。",
-      "narration": "",
-      "internal_monologue": "",
-      "background_music": "舒缓",
-      "sound_effects": [],
-      "volume_level": "正常"
-    },
-    "editing": {
-      "transition_to_next": "直接切",
-      "pacing": "舒缓",
-      "purpose": "推进剧情"
-    },
-    "notes": {
-      "production_note": "根据实际内容调整",
-      "reference_style": "仙侠风格",
-      "difficulty_level": "中等"
-    }
-  },
-  {
-    "shot_id": "EP25-S006",
-    "chapter_number": 25,
-    "scene_number": 6,
-    "duration": 6,
-    "shot_type": "近景",
-    "location": "场景6",
-    "time_of_day": "白天",
-    "composition": {
-      "camera_position": "正面拍摄",
-      "camera_movement": "轻微推镜",
-      "framing": "标准构图",
-      "focus_type": "主体清晰"
-    },
-    "characters": [
-      {
-        "name": "主要角色",
-        "position": "画面中央",
-        "action": "推进剧情",
-        "expression": "根据情境",
-        "costume": "修仙服饰"
-      }
-    ],
-    "visual_effects": {
-      "environment": "根据场景",
-      "lighting": "自然光",
-      "color_palette": "自然色调",
-      "special_effects": "根据需要添加特效"
-    },
-    "audio": {
-      "dialogue": "他的目光穿透无数世界，锁定正在其他试验场执行清理任务的清道夫部队。",
-      "narration": "",
-      "internal_monologue": "",
-      "background_music": "对话",
-      "sound_effects": [],
-      "volume_level": "正常"
-    },
-    "editing": {
-      "transition_to_next": "直接切",
-      "pacing": "对话",
-      "purpose": "推进剧情"
-    },
-    "notes": {
-      "production_note": "根据实际内容调整",
-      "reference_style": "仙侠风格",
-      "difficulty_level": "中等"
-    }
-  },
-  {
-    "shot_id": "EP25-S007",
-    "chapter_number": 25,
-    "scene_number": 7,
-    "duration": 6,
-    "shot_type": "近景",
-    "location": "场景7",
-    "time_of_day": "白天",
-    "composition": {
-      "camera_position": "正面拍摄",
-      "camera_movement": "轻微推镜",
-      "framing": "标准构图",
-      "focus_type": "主体清晰"
-    },
-    "characters": [
-      {
-        "name": "主要角色",
-        "position": "画面中央",
-        "action": "推进剧情",
-        "expression": "根据情境",
-        "costume": "修仙服饰"
-      }
-    ],
-    "visual_effects": {
-      "environment": "根据场景",
-      "lighting": "自然光",
-      "color_palette": "自然色调",
-      "special_effects": "根据需要添加特效"
-    },
-    "audio": {
-      "dialogue": "Z-42世界，一队清道夫正在围攻某个魔法文明。",
-      "narration": "",
-      "internal_monologue": "",
-      "background_music": "对话",
-      "sound_effects": [],
-      "volume_level": "正常"
-    },
-    "editing": {
-      "transition_to_next": "直接切",
-      "pacing": "对话",
-      "purpose": "推进剧情"
-    },
-    "notes": {
-      "production_note": "根据实际内容调整",
-      "reference_style": "仙侠风格",
-      "difficulty_level": "中等"
-    }
-  },
-  {
-    "shot_id": "EP25-S008",
-    "chapter_number": 25,
-    "scene_number": 8,
-    "duration": 6,
-    "shot_type": "近景",
-    "location": "场景8",
-    "time_of_day": "白天",
-    "composition": {
-      "camera_position": "正面拍摄",
-      "camera_movement": "轻微推镜",
-      "framing": "标准构图",
-      "focus_type": "主体清晰"
-    },
-    "characters": [
-      {
-        "name": "主要角色",
-        "position": "画面中央",
-        "action": "推进剧情",
-        "expression": "根据情境",
-        "costume": "修仙服饰"
-      }
-    ],
-    "visual_effects": {
-      "environment": "根据场景",
-      "lighting": "自然光",
-      "color_palette": "自然色调",
-      "special_effects": "根据需要添加特效"
-    },
-    "audio": {
-      "dialogue": "“检测到7级魔法文明，威胁等级：高。执行净化。”清道夫指挥官冰冷下令。",
-      "narration": "",
-      "internal_monologue": "",
-      "background_music": "对话",
-      "sound_effects": [],
-      "volume_level": "正常"
-    },
-    "editing": {
-      "transition_to_next": "直接切",
-      "pacing": "对话",
-      "purpose": "推进剧情"
-    },
-    "notes": {
-      "production_note": "根据实际内容调整",
-      "reference_style": "仙侠风格",
-      "difficulty_level": "中等"
-    }
-  },
-  {
-    "shot_id": "EP25-S009",
-    "chapter_number": 25,
-    "scene_number": 9,
-    "duration": 6,
-    "shot_type": "近景",
-    "location": "场景9",
-    "time_of_day": "白天",
-    "composition": {
-      "camera_position": "正面拍摄",
-      "camera_movement": "轻微推镜",
-      "framing": "标准构图",
-      "focus_type": "主体清晰"
-    },
-    "characters": [
-      {
-        "name": "主要角色",
-        "position": "画面中央",
-        "action": "推进剧情",
-        "expression": "根据情境",
-        "costume": "修仙服饰"
-      }
-    ],
-    "visual_effects": {
-      "environment": "根据场景",
-      "lighting": "自然光",
-      "color_palette": "自然色调",
-      "special_effects": "根据需要添加特效"
-    },
-    "audio": {
-      "dialogue": "突然，所有清道夫同时僵住，眼中红光熄灭，如同断线木偶般坠落。",
-      "narration": "",
-      "internal_monologue": "",
-      "background_music": "对话",
-      "sound_effects": [],
-      "volume_level": "正常"
-    },
-    "editing": {
-      "transition_to_next": "直接切",
-      "pacing": "对话",
-      "purpose": "推进剧情"
-    },
-    "notes": {
-      "production_note": "根据实际内容调整",
-      "reference_style": "仙侠风格",
-      "difficulty_level": "中等"
-    }
-  },
-  {
-    "shot_id": "EP25-S010",
-    "chapter_number": 25,
-    "scene_number": 10,
-    "duration": 6,
-    "shot_type": "近景",
-    "location": "场景10",
-    "time_of_day": "白天",
-    "composition": {
-      "camera_position": "正面拍摄",
-      "camera_movement": "轻微推镜",
-      "framing": "标准构图",
-      "focus_type": "主体清晰"
-    },
-    "characters": [
-      {
-        "name": "主要角色",
-        "position": "画面中央",
-        "action": "推进剧情",
-        "expression": "根据情境",
-        "costume": "修仙服饰"
-      }
-    ],
-    "visual_effects": {
-      "environment": "根据场景",
-      "lighting": "自然光",
-      "color_palette": "自然色调",
-      "special_effects": "根据需要添加特效"
-    },
-    "audio": {
-      "dialogue": "S-18世界，清道夫主力舰队正在轨道轰炸某个科技文明。",
-      "narration": "",
-      "internal_monologue": "",
-      "background_music": "对话",
-      "sound_effects": [],
-      "volume_level": "正常"
-    },
-    "editing": {
-      "transition_to_next": "直接切",
-      "pacing": "对话",
-      "purpose": "推进剧情"
-    },
-    "notes": {
-      "production_note": "根据实际内容调整",
-      "reference_style": "仙侠风格",
-      "difficulty_level": "中等"
-    }
-  },
-  {
-    "shot_id": "EP25-S011",
-    "chapter_number": 25,
-    "scene_number": 11,
-    "duration": 6,
-    "shot_type": "中景",
-    "location": "场景11",
-    "time_of_day": "白天",
-    "composition": {
-      "camera_position": "正面拍摄",
-      "camera_movement": "固定镜头",
-      "framing": "标准构图",
-      "focus_type": "主体清晰"
-    },
-    "characters": [
-      {
-        "name": "主要角色",
-        "position": "画面中央",
-        "action": "推进剧情",
-        "expression": "根据情境",
-        "costume": "修仙服饰"
-      }
-    ],
-    "visual_effects": {
-      "environment": "根据场景",
-      "lighting": "自然光",
-      "color_palette": "自然色调",
-      "special_effects": "根据需要添加特效"
-    },
-    "audio": {
-      "dialogue": "“目标文明已突破维度技术，必须清除。”舰队司令毫无感情。",
-      "narration": "",
-      "internal_monologue": "",
-      "background_music": "中等",
-      "sound_effects": [],
-      "volume_level": "正常"
-    },
-    "editing": {
-      "transition_to_next": "直接切",
-      "pacing": "中等",
-      "purpose": "推进剧情"
-    },
-    "notes": {
-      "production_note": "根据实际内容调整",
-      "reference_style": "仙侠风格",
-      "difficulty_level": "中等"
-    }
-  },
-  {
-    "shot_id": "EP25-S012",
-    "chapter_number": 25,
-    "scene_number": 12,
-    "duration": 6,
-    "shot_type": "中景",
-    "location": "场景12",
-    "time_of_day": "白天",
-    "composition": {
-      "camera_position": "正面拍摄",
-      "camera_movement": "固定镜头",
-      "framing": "标准构图",
-      "focus_type": "主体清晰"
-    },
-    "characters": [
-      {
-        "name": "主要角色",
-        "position": "画面中央",
-        "action": "推进剧情",
-        "expression": "根据情境",
-        "costume": "修仙服饰"
-      }
-    ],
-    "visual_effects": {
-      "environment": "根据场景",
-      "lighting": "自然光",
-      "color_palette": "自然色调",
-      "special_effects": "根据需要添加特效"
-    },
-    "audio": {
-      "dialogue": "下一刻，整支舰队变成了一大堆乐高积木，哗啦啦散落在太空中...",
-      "narration": "",
-      "internal_monologue": "",
-      "background_music": "中等",
-      "sound_effects": [],
-      "volume_level": "正常"
-    },
-    "editing": {
-      "transition_to_next": "直接切",
-      "pacing": "中等",
-      "purpose": "推进剧情"
-    },
-    "notes": {
-      "production_note": "根据实际内容调整",
-      "reference_style": "仙侠风格",
-      "difficulty_level": "中等"
-    }
-  },
-  {
-    "shot_id": "EP25-S013",
-    "chapter_number": 25,
-    "scene_number": 13,
-    "duration": 6,
-    "shot_type": "近景",
-    "location": "场景13",
-    "time_of_day": "白天",
-    "composition": {
-      "camera_position": "正面拍摄",
-      "camera_movement": "轻微推镜",
-      "framing": "标准构图",
-      "focus_type": "主体清晰"
-    },
-    "characters": [
-      {
-        "name": "主要角色",
-        "position": "画面中央",
-        "action": "推进剧情",
-        "expression": "根据情境",
-        "costume": "修仙服饰"
-      }
-    ],
-    "visual_effects": {
-      "environment": "根据场景",
-      "lighting": "自然光",
-      "color_palette": "自然色调",
-      "special_effects": "根据需要添加特效"
-    },
-    "audio": {
-      "dialogue": "顾玄坐在天尊台顶，如同玩策略游戏般，随手点灭一个个清道夫据点。根源权限面前，这些令人闻风丧胆的清理部队如同玩具。",
-      "narration": "",
-      "internal_monologue": "",
-      "background_music": "对话",
-      "sound_effects": [],
-      "volume_level": "正常"
-    },
-    "editing": {
-      "transition_to_next": "直接切",
-      "pacing": "对话",
-      "purpose": "推进剧情"
-    },
-    "notes": {
-      "production_note": "根据实际内容调整",
-      "reference_style": "仙侠风格",
-      "difficulty_level": "中等"
-    }
-  }
-]
+  ],
+  "summary": "顾玄用根源权限清理清道夫并留传说，突袭主系统遇到GM零，发现玩家身份，对抗病毒入侵后成为监察使获得GM权限",
+  "key_satisfaction_points": [
+    "清理清道夫",
+    "留传说",
+    "GM现身",
+    "玩家身份",
+    "格式化协议",
+    "新职位"
+  ],
+  "emotional_curve": "震撼→搞笑→震撼→震撼升级→史诗"
+}

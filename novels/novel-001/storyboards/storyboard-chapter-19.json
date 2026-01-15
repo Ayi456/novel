@@ -1,465 +1,564 @@
-[
-  {
-    "shot_id": "EP19-S001",
-    "chapter_number": 19,
-    "scene_number": 1,
-    "duration": 8,
-    "shot_type": "主观视角",
-    "location": "青云宗后山密室",
-    "time_of_day": "无时间",
-    "composition": {
-      "camera_position": "主观视角",
-      "camera_movement": "扫描显示",
-      "framing": "第一视角",
-      "focus_type": "数据界面清晰"
-    },
-    "characters": [
-      {
-        "name": "顾玄",
-        "position": "密室内",
-        "action": "看着秩序之眼扫描的灵脉分布图",
-        "expression": "凝重",
-        "costume": "白衣"
-      }
-    ],
-    "visual_effects": {
-      "environment": "密室",
-      "lighting": "地图光芒",
-      "color_palette": "科技蓝",
-      "special_effects": "秩序之眼扫描青州,灵脉分布图显示,地底空洞景象,璀璨能量光带"
-    },
-    "audio": {
-      "dialogue": "",
-      "narration": "",
-      "internal_monologue": "必须尽快恢复能量...就选这条主灵脉的分支吧。",
-      "background_music": "科技感,紧张",
-      "sound_effects": ["数据流动", "扫描声"],
-      "volume_level": "内心独白为主"
-    },
-    "editing": {
-      "transition_to_next": "直接切",
-      "pacing": "中等",
-      "purpose": "开篇,确立目标"
-    },
-    "notes": {
-      "production_note": "需要CG制作扫描效果和地图",
-      "reference_style": "科幻风格",
-      "difficulty_level": "中等"
-    }
-  },
-  {
-    "shot_id": "EP19-S002",
-    "chapter_number": 19,
-    "scene_number": 2,
-    "duration": 7,
-    "shot_type": "全景",
-    "location": "青州城地底灵脉",
-    "time_of_day": "夜晚",
-    "composition": {
-      "camera_position": "缓慢推进",
-      "camera_movement": "深入地底",
-      "framing": "全景构图",
-      "focus_type": "灵脉清晰"
-    },
-    "characters": [
-      {
-        "name": "顾玄",
-        "position": "灵脉旁",
-        "action": "将天魔剑插入灵脉充电",
-        "expression": "警惕",
-        "costume": "白衣",
-        "props": "天魔剑"
-      }
-    ],
-    "visual_effects": {
-      "environment": "巨大地下空洞,中央璀璨能量光带",
-      "lighting": "灵脉光芒闪烁",
-      "color_palette": "能量蓝",
-      "special_effects": "天魔剑插入灵脉,剑身亮起微光开始充电,系统界面显示充电进度"
-    },
-    "audio": {
-      "dialogue": "",
-      "narration": "",
-      "internal_monologue": "我堂堂一个管理员,居然沦落到偷电...要是被执法部知道了,我面子往哪搁?算了,先充上再说!",
-      "background_music": "紧张,轻微",
-      "sound_effects": ["能量流动", "系统提示"],
-      "volume_level": "内心独白为主"
-    },
-    "editing": {
-      "transition_to_next": "时间跳跃",
-      "pacing": "中等",
-      "purpose": "充电开始"
-    },
-    "notes": {
-      "production_note": "需要CG制作灵脉效果",
-      "reference_style": "科幻+修仙",
-      "difficulty_level": "中等"
-    }
-  },
-  {
-    "shot_id": "EP19-S003",
-    "chapter_number": 19,
-    "scene_number": 3,
-    "duration": 10,
-    "shot_type": "特效全景",
-    "location": "青州城地底灵脉",
-    "time_of_day": "夜晚",
-    "composition": {
-      "camera_position": "环绕拍摄",
-      "camera_movement": "快速环绕",
-      "framing": "动态构图",
-      "focus_type": "特效突出"
-    },
-    "characters": [
-      {
-        "name": "顾玄",
-        "position": "灵脉旁",
-        "action": "被狂暴能量影响,七窍流血",
-        "expression": "痛苦→决然",
-        "costume": "白衣",
-        "props": "天魔剑"
-      }
-    ],
-    "visual_effects": {
-      "environment": "地下空间剧烈震动",
-      "lighting": "灵脉光芒大盛,能量狂暴",
-      "color_palette": "能量蓝→危险红",
-      "special_effects": "整个地下空间剧烈震动,灵脉光芒大盛,能量开始狂暴,魔教能量抽取装置升起,粗暴撕裂灵脉"
-    },
-    "audio": {
-      "dialogue": "嗡——!!!【警告!检测到能量异常波动!】【原因:未知干扰源介入!】怎么回事?我没超量啊!【警告!能量过载!系统即将崩溃!】【建议:立即释放多余能量!】系统!把所有多余能量导入我体内!",
-      "narration": "",
-      "internal_monologue": "",
-      "background_music": "紧张→震撼",
-      "sound_effects": ["震动声", "能量狂暴", "警报声"],
-      "volume_level": "警报突出"
-    },
-    "editing": {
-      "transition_to_next": "快速切",
-      "pacing": "快速",
-      "purpose": "灵脉暴动危机"
-    },
-    "notes": {
-      "production_note": "需要大量CG制作震动和能量特效",
-      "reference_style": "震撼场面",
-      "difficulty_level": "复杂"
-    }
-  },
-  {
-    "shot_id": "EP19-S004",
-    "chapter_number": 19,
-    "scene_number": 4,
-    "duration": 10,
-    "shot_type": "主观视角",
-    "location": "青州城地底灵脉",
-    "time_of_day": "夜晚",
-    "composition": {
-      "camera_position": "主观视角",
-      "camera_movement": "数据流快速刷新",
-      "framing": "第一视角",
-      "focus_type": "数据界面清晰"
-    },
-    "characters": [
-      {
-        "name": "顾玄",
-        "position": "灵脉旁",
-        "action": "能量转化功德,精确打击装置",
-        "expression": "痛苦→惊喜",
-        "costume": "白衣"
-      }
-    ],
-    "visual_effects": {
-      "environment": "能量转化场景",
-      "lighting": "系统界面光芒",
-      "color_palette": "科技蓝绿",
-      "special_effects": "系统界面疯狂刷新,能量转化为功德,精确打击能量束射出,摧毁魔教装置"
-    },
-    "audio": {
-      "dialogue": "【检测到紧急状况,启动应急协议】【授权使用:能量转化功能】【开始将过剩能量转化为功德值】还能这样?!【转化能量+1000...功德+1000】【转化能量+5000...功德+5000】系统!购买'精确打击'服务!【消耗10000功德,获得'精确打击'x1】摧毁它!",
-      "narration": "",
-      "internal_monologue": "能量还能转化成功德?!",
-      "background_music": "紧张→惊喜→震撼",
-      "sound_effects": ["数据刷新", "能量束", "爆炸声"],
-      "volume_level": "音效突出"
-    },
-    "editing": {
-      "transition_to_next": "直接切",
-      "pacing": "快速",
-      "purpose": "能量转功德,危机解除"
-    },
-    "notes": {
-      "production_note": "需要CG制作数据流和精确打击",
-      "reference_style": "科幻+修仙",
-      "difficulty_level": "复杂"
-    }
-  },
-  {
-    "shot_id": "EP19-S005",
-    "chapter_number": 19,
-    "scene_number": 5,
-    "duration": 10,
-    "shot_type": "全景",
-    "location": "青州城",
-    "time_of_day": "黎明",
-    "composition": {
-      "camera_position": "俯视拍摄",
-      "camera_movement": "缓慢上升",
-      "framing": "全景构图",
-      "focus_type": "修复效果清晰"
-    },
-    "characters": [
-      {
-        "name": "顾玄",
-        "position": "地底(不可见)",
-        "action": "启动修复程序",
-        "expression": "欣慰",
-        "costume": "白衣"
+{
+  "chapter": 19,
+  "chapter_title": "灵能革命",
+  "total_scenes": 14,
+  "emotion_curve": ["忐忑", "惊慌", "惊喜", "搞笑", "震撼升级"],
+  "scenes": [
+    {
+      "shot_id": "EP19-S001",
+      "chapter_number": 19,
+      "scene_number": 1,
+      "duration": 10,
+      "shot_type": "特写+全景",
+      "location": "青云宗→青州城地底",
+      "time_of_day": "夜晚",
+      "composition": "顾玄用秩序之眼扫描青州，查看灵脉分布。潜入地底，看到璀璨的灵脉能量光带",
+      "characters": [
+        {
+          "name": "顾玄",
+          "action": "扫描灵脉，潜入地底",
+          "expression": "专注紧张",
+          "costume": "青云宗道袍"
+        },
+        {
+          "name": "天魔剑",
+          "action": "投影灵脉分布图",
+          "expression": "发光",
+          "costume": "黑色长剑"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "秩序之眼扫描青州，灵脉分布图可视化显示。地下空间透视效果，看到灵脉能量光带如璀璨河流般流动。系统界面：【检测到高纯度能量源】【预计充电时间：12小时】【警告：过量抽取可能引起地脉震荡】",
+        "color_grading": "深蓝调，能量璀璨"
       },
-      {
-        "name": "青州百姓",
-        "position": "城中各处",
-        "action": "跪地叩拜",
-        "expression": "感激,敬畏",
-        "costume": "粗布麻衣"
-      }
-    ],
-    "visual_effects": {
-      "environment": "青州城恢复如初",
-      "lighting": "黎明曙光,白光渗入地底",
-      "color_palette": "温暖金光",
-      "special_effects": "道道白光渗入地底,崩塌地面自行愈合,紊乱灵气平复,倒塌房屋重新立起,灵气更加浓郁,百姓看到神迹跪地叩拜"
-    },
-    "audio": {
-      "dialogue": "地龙翻身停了!是神仙显灵了!快磕头!谢谢神仙!【任务完成!功德+50000】【权限提升至4级!】",
-      "narration": "",
-      "internal_monologue": "这算不算我造成的?【系统】兑换'地脉稳定程序'和'地质修复程序'!",
-      "background_music": "震撼→温暖",
-      "sound_effects": ["修复声", "百姓感谢"],
-      "volume_level": "对话突出"
-    },
-    "editing": {
-      "transition_to_next": "直接切",
-      "pacing": "中等",
-      "purpose": "神迹修复"
-    },
-    "notes": {
-      "production_note": "需要CG制作修复特效",
-      "reference_style": "震撼场面",
-      "difficulty_level": "复杂"
-    }
-  },
-  {
-    "shot_id": "EP19-S006",
-    "chapter_number": 19,
-    "scene_number": 6,
-    "duration": 8,
-    "shot_type": "中景",
-    "location": "青云宗",
-    "time_of_day": "白天",
-    "composition": {
-      "camera_position": "快速切换",
-      "camera_movement": "动态拍摄",
-      "framing": "蒙太奇",
-      "focus_type": "灵能效果清晰"
-    },
-    "characters": [
-      {
-        "name": "顾玄",
-        "position": "宗门各处",
-        "action": "研发灵能技术,建设电站",
-        "expression": "兴奋",
-        "costume": "白衣"
+      "audio": {
+        "dialogue": "顾玄（内心OS）：'必须尽快恢复能量...就选这条主灵脉的分支吧。' （潜入地底）系统音：'【检测到高纯度能量源】【预计充电时间：12小时】【警告：过量抽取可能引起地脉震荡】' 顾玄：'系统，开始充电，上限9.9%。' （内心OS）'我堂堂一个管理员，居然沦落到偷电...算了，先充上再说！'",
+        "background_music": "紧张悬疑",
+        "sound_effects": "地底环境音，能量流动声"
       },
-      {
-        "name": "青云宗弟子",
-        "position": "宗门各处",
-        "action": "使用灵能设备",
-        "expression": "惊喜",
-        "costume": "弟子服"
+      "editing": {
+        "transition": "场景切换",
+        "pacing": "slow"
       },
-      {
-        "name": "各宗代表",
-        "position": "青云宗",
-        "action": "参观购买",
-        "expression": "震惊,羡慕",
-        "costume": "各宗服饰"
-      }
-    ],
-    "visual_effects": {
-      "environment": "青云宗灵能化",
-      "lighting": "灯火通明",
-      "color_palette": "科技蓝灵光",
-      "special_effects": "后山建小型试验电站,点亮宗门所有房间,护山大阵24小时全功率开启,灵能充电宝给法器充电,各宗争相购买灵能服务"
+      "notes": "忐忑开局：灵脉充电计划，偷电的紧张感"
     },
-    "audio": {
-      "dialogue": "【系统】方案可行!需消耗100000功德兑换'灵能转换技术'! 这、这是什么技术?居然能直接使用灵脉能量?顾宗师真乃神人也!顾前辈!这项技术能否推广?我宗愿出高价购买!【功德+1000(提供就业)】【功德+5000(改善环境)】【权限提升到5级!】",
-      "narration": "",
-      "internal_monologue": "既然能量可以转化...那我是不是可以...搞个新能源革命?",
-      "background_music": "轻快,满足",
-      "sound_effects": ["系统提示", "灵能启动"],
-      "volume_level": "对话突出"
-    },
-    "editing": {
-      "transition_to_next": "快速切",
-      "pacing": "快速",
-      "purpose": "蒙太奇灵能革命"
-    },
-    "notes": {
-      "production_note": "需要多个场景和特效",
-      "reference_style": "蒙太奇",
-      "difficulty_level": "中等"
-    }
-  },
-  {
-    "shot_id": "EP19-S007",
-    "chapter_number": 19,
-    "scene_number": 7,
-    "duration": 8,
-    "shot_type": "中景",
-    "location": "三号灵能电站",
-    "time_of_day": "白天",
-    "composition": {
-      "camera_position": "俯视拍摄",
-      "camera_movement": "缓慢下降",
-      "framing": "全景构图",
-      "focus_type": "现场清晰"
-    },
-    "characters": [
-      {
-        "name": "顾玄",
-        "position": "电站废墟",
-        "action": "查看现场,追踪气息",
-        "expression": "震惊→愤怒",
-        "costume": "白衣"
-      }
-    ],
-    "visual_effects": {
-      "environment": "电站废墟,现场狼藉",
-      "lighting": "正常光线",
-      "color_palette": "破坏灰暗",
-      "special_effects": "电站被毁,地上深深的脚印,秩序之眼检测高等魔族气息,虚空结晶被抢"
-    },
-    "audio": {
-      "dialogue": "三号电站遭袭击!守卫全军覆没!虚空结晶被抢!【系统】虚空结晶-用途:空间跳跃装置核心【警告:高危物品!】合着我差点把灭世兵器的零件送人?!",
-      "narration": "",
-      "internal_monologue": "虚空结晶?不就是我建电站时挖到的那些漂亮石头吗?",
-      "background_music": "紧张,急促",
-      "sound_effects": [],
-      "volume_level": "对话突出"
-    },
-    "editing": {
-      "transition_to_next": "快速切",
-      "pacing": "快速",
-      "purpose": "虚空结晶危机"
-    },
-    "notes": {
-      "production_note": "实景拍摄",
-      "reference_style": "紧张",
-      "difficulty_level": "简单"
-    }
-  },
-  {
-    "shot_id": "EP19-S008",
-    "chapter_number": 19,
-    "scene_number": 8,
-    "duration": 10,
-    "shot_type": "特效全景",
-    "location": "偏僻山谷",
-    "time_of_day": "白天",
-    "composition": {
-      "camera_position": "环绕拍摄",
-      "camera_movement": "快速环绕",
-      "framing": "动态构图",
-      "focus_type": "战斗清晰"
-    },
-    "characters": [
-      {
-        "name": "顾玄",
-        "position": "山谷中",
-        "action": "挥剑冲上,使用元婴体验卡",
-        "expression": "决然",
-        "costume": "白衣",
-        "props": "天魔剑"
+    {
+      "shot_id": "EP19-S002",
+      "chapter_number": 19,
+      "scene_number": 2,
+      "duration": 8,
+      "shot_type": "中景",
+      "location": "青州城地底灵脉",
+      "time_of_day": "深夜",
+      "composition": "顾玄将天魔剑插入灵脉充电。剑身亮起微光，开始吸收能量。顾玄警惕守卫四周",
+      "characters": [
+        {
+          "name": "顾玄",
+          "action": "插剑充电，警戒四周",
+          "expression": "紧张警惕",
+          "costume": "青云宗道袍"
+        },
+        {
+          "name": "天魔剑",
+          "action": "插入灵脉，吸收能量",
+          "expression": "发光",
+          "costume": "能量流动的剑身"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "天魔剑插入灵脉，能量光带流入剑身。充电进度可视化：0%→10%→20%。系统界面显示充电状态。地底空间幽暗，只有灵脉和剑发光",
+        "color_grading": "深蓝能量光芒"
       },
-      {
-        "name": "高等魔族",
-        "position": "传送阵旁",
-        "action": "被顾玄斩杀,最后一人自爆",
-        "expression": "狰狞→惊恐",
-        "costume": "长犄角的魔族"
-      }
-    ],
-    "visual_effects": {
-      "environment": "山谷,传送阵",
-      "lighting": "战斗光芒,血光",
-      "color_palette": "高对比度",
-      "special_effects": "几个长着犄角的魔族,恐怖威压释放元婴期实力,顾玄使用元婴体验卡,天魔剑光芒如虹,斩杀魔族,最后一人将虚空结晶投入传送阵自爆"
+      "audio": {
+        "dialogue": "顾玄：'系统，开始充电，上限9.9%。' （剑身发光）系统音：'【开始充电...能量10%...20%...】' 顾玄（内心OS）：'千万别被抓到...'",
+        "background_music": "紧张悬疑",
+        "sound_effects": "能量流动声，充电提示音"
+      },
+      "editing": {
+        "transition": "时间压缩",
+        "pacing": "slow"
+      },
+      "notes": "充电进行时，紧张氛围营造"
     },
-    "audio": {
-      "dialogue": "阻止他们!天魔执法!束手就擒!【消耗50000功德,获得'元婴体验卡'x1(时效:一炷香)】晚了...材料齐了...兵器即将完成...哈哈...【权限提升到6级!解锁终极功能之一:'空间锁'】",
-      "narration": "",
-      "internal_monologue": "高等魔族?魔教竟然能召唤这种存在?",
-      "background_music": "紧张→震撼",
-      "sound_effects": ["战斗声", "自爆声"],
-      "volume_level": "音效突出"
+    {
+      "shot_id": "EP19-S003",
+      "chapter_number": 19,
+      "scene_number": 3,
+      "duration": 12,
+      "shot_type": "全景+特写",
+      "location": "青州城地底灵脉→青州城",
+      "time_of_day": "深夜",
+      "composition": "充电80%时突生异变。地下震动，灵脉狂暴，魔教装置升起。青州城地动山摇，房屋倒塌",
+      "characters": [
+        {
+          "name": "顾玄",
+          "action": "震惊，试图拔剑",
+          "expression": "惊恐",
+          "costume": "青云宗道袍"
+        },
+        {
+          "name": "魔教能量抽取装置",
+          "action": "从灵脉中升起",
+          "expression": "运转",
+          "costume": "金属造物，布满符文"
+        },
+        {
+          "name": "青州百姓",
+          "action": "惊慌逃窜",
+          "expression": "惊恐",
+          "costume": "睡衣/日常服"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "地下剧烈震动特效。灵脉光芒大盛，能量狂暴。魔教装置从裂缝中升起，造型如石油钻井平台但布满诡异符文。青州城地动山摇，房屋倒塌，地面出现裂缝。系统疯狂警告：【警告！能量异常波动！】【原因：未知干扰源介入！】",
+        "color_grading": "危机红色"
+      },
+      "audio": {
+        "dialogue": "系统音：'【能量80%...】' （突然震动）'嗡——！！！' 系统音：'【警告！检测到能量异常波动！】【原因：未知干扰源介入！】' 顾玄：'怎么回事？我没超量啊！' （看到魔教装置）'这是...魔教的能量抽取装置？！他们也在偷电！' （青州城震动惨叫）顾玄：'完了！闯大祸了！'",
+        "background_music": "紧张危机",
+        "sound_effects": "震动声，装置启动声，惨叫声"
+      },
+      "editing": {
+        "transition": "快速剪辑",
+        "pacing": "fast"
+      },
+      "notes": "惊慌升级：灵脉暴动危机，魔教也在偷电"
     },
-    "editing": {
-      "transition_to_next": "直接切",
-      "pacing": "快速",
-      "purpose": "虚空结晶被抢"
+    {
+      "shot_id": "EP19-S004",
+      "chapter_number": 19,
+      "scene_number": 4,
+      "duration": 10,
+      "shot_type": "特写+中景",
+      "location": "青州城地底灵脉",
+      "time_of_day": "深夜",
+      "composition": "顾玄决定用身体当缓冲器。能量涌入体内，系统自动转化为功德",
+      "characters": [
+        {
+          "name": "顾玄",
+          "action": "引导能量入体",
+          "expression": "痛苦→惊喜",
+          "costume": "青云宗道袍，能量环绕"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "磅礴能量涌入顾玄体内，经脉发光。天魔系统自动响应，能量转化为功德值特效。系统界面疯狂刷新：【转化能量+1000...功德+1000】【转化能量+5000...功德+5000】【转化能量+10000...功德+10000】。功德值以前所未有速度暴涨",
+        "color_grading": "从痛苦的红到惊喜的金"
+      },
+      "audio": {
+        "dialogue": "系统音：'【警告！能量过载！系统即将崩溃！】【建议：立即释放多余能量！】' 顾玄：'系统！把所有多余能量导入我体内！' （痛苦）系统音：'【检测到紧急状况，启动应急协议】【授权使用：能量转化功能】【开始将过剩能量转化为功德值】' 顾玄：'能量还能转化成功德？！' （功德暴涨音）顾玄：'还能这样？！'",
+        "background_music": "从紧张到惊喜",
+        "sound_effects": "能量轰鸣声，功德提示音连响"
+      },
+      "editing": {
+        "transition": "特写强化",
+        "pacing": "moderate"
+      },
+      "notes": "惊喜升级：能量转功德，意外收获"
     },
-    "notes": {
-      "production_note": "需要大量CG制作战斗",
-      "reference_style": "震撼战斗",
-      "difficulty_level": "复杂"
+    {
+      "shot_id": "EP19-S005",
+      "chapter_number": 19,
+      "scene_number": 5,
+      "duration": 8,
+      "shot_type": "中景+特效全景",
+      "location": "青州城地底灵脉",
+      "time_of_day": "深夜",
+      "composition": "顾玄使用精确打击摧毁魔教装置。灵脉渐渐平静",
+      "characters": [
+        {
+          "name": "顾玄",
+          "action": "剑指装置，发动攻击",
+          "expression": "决断",
+          "costume": "青云宗道袍"
+        },
+        {
+          "name": "魔教能量抽取装置",
+          "action": "被击中，爆炸",
+          "expression": "运转→爆炸",
+          "costume": "金属造物"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "顾玄购买精确打击服务：天魔剑射出细微但极度凝聚的能量束。精准命中装置核心，装置爆炸化为碎片。失去干扰源，灵脉渐渐平静。系统界面：【消耗10000功德，获得精确打击x1】",
+        "color_grading": "能量束蓝色，爆炸橙红"
+      },
+      "audio": {
+        "dialogue": "顾玄：'正好试试新功能！系统！购买精确打击服务！' 系统音：'【消耗10000功德，获得精确打击x1】【请选择目标】' 顾玄：'摧毁它！' （能量束射出，装置爆炸）'轰！'",
+        "background_music": "紧张激烈",
+        "sound_effects": "能量发射声，爆炸声"
+      },
+      "editing": {
+        "transition": "快速剪辑",
+        "pacing": "fast"
+      },
+      "notes": "危机解除：精确打击成功，灵脉平静"
+    },
+    {
+      "shot_id": "EP19-S006",
+      "chapter_number": 19,
+      "scene_number": 6,
+      "duration": 12,
+      "shot_type": "全景+特效",
+      "location": "青州城",
+      "time_of_day": "黎明",
+      "composition": "顾玄使用修复程序修复青州城。地陷自行愈合，房屋重新立起。百姓跪地感谢",
+      "characters": [
+        {
+          "name": "顾玄",
+          "action": "启动修复程序",
+          "expression": "专注",
+          "costume": "青云宗道袍"
+        },
+        {
+          "name": "青州百姓",
+          "action": "跪地感谢",
+          "expression": "感激崇拜",
+          "costume": "日常服"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "修复程序启动：白光渗入地底，崩塌的地面自行愈合，房屋在某种力量下重新立起。灵气优化，比之前更加浓郁。系统界面：【消耗30000功德】【任务完成！功德+50000】【当前功德：150000】【权限提升至4级！】",
+        "color_grading": "神圣白光，温暖明亮"
+      },
+      "audio": {
+        "dialogue": "系统音：'【检测到大规模环境破坏】【生成修复任务：稳定灵脉，修复地陷】【奖励：50000功德】' 顾玄：'系统，兑换地脉稳定程序和地质修复程序！' （白光渗入地底）百姓们：'地龙翻身停了！''是神仙显灵了！''快磕头！谢谢神仙！' 系统音：'【任务完成！功德+50000】【权限提升至4级！】【解锁新功能：环境改造、能量网络、跨维度通讯...】'",
+        "background_music": "宏大感人",
+        "sound_effects": "修复光效声，百姓感谢声"
+      },
+      "editing": {
+        "transition": "缓慢镜头",
+        "pacing": "slow"
+      },
+      "notes": "神迹修复：展现系统能力，百姓反应"
+    },
+    {
+      "shot_id": "EP19-S007",
+      "chapter_number": 19,
+      "scene_number": 7,
+      "duration": 10,
+      "shot_type": "特写+中景",
+      "location": "青云宗后山",
+      "time_of_day": "白天",
+      "composition": "顾玄产生灵能革命想法。兑换灵能转换技术。开始建造灵能发电站",
+      "characters": [
+        {
+          "name": "顾玄",
+          "action": "思考规划",
+          "expression": "兴奋",
+          "costume": "青云宗道袍"
+        },
+        {
+          "name": "陆尘等人",
+          "action": "协助建设",
+          "expression": "好奇",
+          "costume": "青云宗弟子服"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "灵能转换技术信息涌入脑海的可视化。灵能发电站设计图纸投影。后山建设过程快速剪辑：小型试验电站建成，点亮宗门房间",
+        "color_grading": "明亮希望"
+      },
+      "audio": {
+        "dialogue": "顾玄（内心OS）：'既然能量可以转化...那我是不是可以...搞个新能源革命？''系统，能不能建造一个灵能发电站？把灵脉能量安全地转化为可用能源？' 系统音：'【方案可行！需消耗100000功德兑换灵能转换技术】' 顾玄：'兑换！' （技术涌入）'太好了！'",
+        "background_music": "激动昂扬",
+        "sound_effects": "建设音效"
+      },
+      "editing": {
+        "transition": "快速蒙太奇",
+        "pacing": "moderate"
+      },
+      "notes": "灵能革命开始：兑换技术，建设电站"
+    },
+    {
+      "shot_id": "EP19-S008",
+      "chapter_number": 19,
+      "scene_number": 8,
+      "duration": 10,
+      "shot_type": "蒙太奇",
+      "location": "青云宗各处",
+      "time_of_day": "白天",
+      "composition": "快速剪辑青云宗进入电气时代：点亮所有房间、护山大阵24小时开启、灵能充电宝",
+      "characters": [
+        {
+          "name": "青云宗弟子们",
+          "action": "使用新设施",
+          "expression": "惊喜兴奋",
+          "costume": "青云宗弟子服"
+        },
+        {
+          "name": "顾玄",
+          "action": "展示成果",
+          "expression": "得意",
+          "costume": "青云宗道袍"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "灵能灯光效果，护山大阵全功率运行的光效。灵能充电宝给法器充电的特效。青云宗灯火通明",
+        "color_grading": "温暖明亮"
+      },
+      "audio": {
+        "dialogue": "旁白：'青云宗率先进入电气时代！' 弟子们：'哇！太方便了！''再也不用担心法器没电了！'",
+        "background_music": "轻快欢乐",
+        "sound_effects": "电器启动声"
+      },
+      "editing": {
+        "transition": "快速叠化",
+        "pacing": "fast"
+      },
+      "notes": "蒙太奇：电气时代展现，弟子反应"
+    },
+    {
+      "shot_id": "EP19-S009",
+      "chapter_number": 19,
+      "scene_number": 9,
+      "duration": 12,
+      "shot_type": "中景",
+      "location": "青云宗",
+      "time_of_day": "白天",
+      "composition": "各宗门来访参观。天衍宗主激动求购。顾玄成立青云能源公司",
+      "characters": [
+        {
+          "name": "顾玄",
+          "action": "展示技术",
+          "expression": "淡定",
+          "costume": "青云宗道袍"
+        },
+        {
+          "name": "各宗门主",
+          "action": "参观，震惊求购",
+          "expression": "目瞪口呆→激动",
+          "costume": "各宗掌门服"
+        },
+        {
+          "name": "天衍宗主",
+          "action": "激动握手",
+          "expression": "激动",
+          "costume": "天衍宗掌门服"
+        },
+        {
+          "name": "李道玄",
+          "action": "看着灵石山",
+          "expression": "老泪纵横",
+          "costume": "青云宗掌门服"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "青云宗灯火通明，法器满电。灵石堆成山。商业计划书投影",
+        "color_grading": "明亮繁荣"
+      },
+      "audio": {
+        "dialogue": "各宗主：'这、这是什么技术？''居然能直接使用灵脉能量？''顾宗师真乃神人也！' 天衍宗主：'顾前辈！这项技术能否推广？我宗愿出高价购买！' 顾玄（内心OS）：'对哦！可以卖电赚钱！' （成立公司）李道玄：'徒儿啊...咱们终于脱贫了！'",
+        "background_music": "欢乐喜庆",
+        "sound_effects": "交谈声"
+      },
+      "editing": {
+        "transition": "流畅剪辑",
+        "pacing": "moderate"
+      },
+      "notes": "搞笑+满足：商业帝国崛起，青云宗脱贫"
+    },
+    {
+      "shot_id": "EP19-S010",
+      "chapter_number": 19,
+      "scene_number": 10,
+      "duration": 12,
+      "shot_type": "蒙太奇",
+      "location": "青州各地",
+      "time_of_day": "白天",
+      "composition": "快速剪辑灵能革命成果：各地建设电站、修士插电修炼、法阵常年开启、凡人城市用灵能灯",
+      "characters": [
+        {
+          "name": "青州修士们",
+          "action": "插电修炼",
+          "expression": "享受",
+          "costume": "各宗服饰"
+        },
+        {
+          "name": "青州百姓",
+          "action": "使用灵能设施",
+          "expression": "幸福",
+          "costume": "百姓服"
+        },
+        {
+          "name": "顾玄",
+          "action": "视察各地",
+          "expression": "满意",
+          "costume": "青云宗道袍"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "灵能网络可视化，能量传输线路。青州夜如白昼。功德值持续上涨提示。系统界面升级到5级",
+        "color_grading": "繁荣明亮"
+      },
+      "audio": {
+        "dialogue": "旁白：'短短一个月，青州修仙界焕然一新！修士们插电就能修炼，法阵可以常年开启，甚至凡人城市都用上了灵能灯，夜如白昼！' 系统音：'【功德+1000（提供就业）】【功德+5000（改善环境）】【功德+10000（促进文明发展）】【权限提升到5级！】'",
+        "background_music": "宏大欢快",
+        "sound_effects": "城市运转声"
+      },
+      "editing": {
+        "transition": "快速叠化",
+        "pacing": "fast"
+      },
+      "notes": "蒙太奇：灵能革命成果，青州繁荣"
+    },
+    {
+      "shot_id": "EP19-S011",
+      "chapter_number": 19,
+      "scene_number": 11,
+      "duration": 10,
+      "shot_type": "中景+特写",
+      "location": "青云宗仓库",
+      "time_of_day": "白天",
+      "composition": "白芷看到虚空结晶。顾玄意识到危险。加强安保",
+      "characters": [
+        {
+          "name": "白芷",
+          "action": "看到幻象",
+          "expression": "惊恐",
+          "costume": "青云宗弟子服"
+        },
+        {
+          "name": "顾玄",
+          "action": "查看仓库，震惊",
+          "expression": "震惊→冷汗",
+          "costume": "青云宗道袍"
+        },
+        {
+          "name": "虚空结晶",
+          "action": "堆在仓库",
+          "expression": "闪着星光",
+          "costume": "闪星光的晶体"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "白芷眼中黑光闪烁，看到远古兵器幻象。虚空结晶闪星光。系统界面扫描：【虚空结晶-用途：空间跳跃装置核心】【警告：高危物品！】",
+        "color_grading": "危险警示"
+      },
+      "audio": {
+        "dialogue": "白芷：'那个远古兵器...快完成了！魔教在找一种核心材料...叫虚空结晶...就在...就在青州地底！' 顾玄：'虚空结晶？不就是我建电站时挖到的那些漂亮石头吗？' （查看仓库）系统音：'【虚空结晶-用途：空间跳跃装置核心】【警告：高危物品！】' 顾玄：'合着我差点把灭世兵器的零件送人？！所有虚空结晶列为最高机密！严禁外泄！'",
+        "background_music": "紧张悬疑",
+        "sound_effects": "幻象音效"
+      },
+      "editing": {
+        "transition": "快速剪辑",
+        "pacing": "moderate"
+      },
+      "notes": "危机浮现：虚空结晶危机，意识到危险"
+    },
+    {
+      "shot_id": "EP19-S012",
+      "chapter_number": 19,
+      "scene_number": 12,
+      "duration": 12,
+      "shot_type": "中景+动作",
+      "location": "三号电站→偏僻山谷",
+      "time_of_day": "白天",
+      "composition": "三号电站遭袭击，虚空结晶被抢。顾玄追踪到山谷，与高等魔族战斗",
+      "characters": [
+        {
+          "name": "顾玄",
+          "action": "传送，战斗",
+          "expression": "愤怒",
+          "costume": "青云宗道袍"
+        },
+        {
+          "name": "高等魔族",
+          "action": "战斗，被斩杀",
+          "expression": "狰狞→恐惧",
+          "costume": "长犄角的魔族"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "电站被毁现场。传送特效。元婴体验卡使用特效，顾玄气息暴涨。剑光如虹斩杀魔族。魔族对'执法'的心理阴影可视化",
+        "color_grading": "战斗激烈"
+      },
+      "audio": {
+        "dialogue": "报告：'三号电站遭袭击！守卫全军覆没！虚空结晶被抢！' 顾玄：'（传送）阻止你们！' 魔族：'蝼蚁也敢阻拦？' （威压释放）顾玄：'系统！兑换临时战力提升！' 系统音：'【消耗50000功德，获得元婴体验卡x1（时效：一炷香）】' 顾玄：'天魔执法！束手就擒！' 魔族：'天魔执法队？！不可能！' （被斩杀）最后一个魔族：'晚了...材料齐了...兵器即将完成...哈哈...' （自爆）",
+        "background_music": "激烈战斗",
+        "sound_effects": "战斗音效，爆炸声"
+      },
+      "editing": {
+        "transition": "快速剪辑",
+        "pacing": "fast"
+      },
+      "notes": "动作场面：与高等魔族战斗，结晶被抢"
+    },
+    {
+      "shot_id": "EP19-S013",
+      "chapter_number": 19,
+      "scene_number": 13,
+      "duration": 10,
+      "shot_type": "全景+特效",
+      "location": "西北祭坛",
+      "time_of_day": "夜晚",
+      "composition": "右使看着完整的灭世之轮，狂热大笑。启动兵器",
+      "characters": [
+        {
+          "name": "右使",
+          "action": "看着兵器，狂笑",
+          "expression": "狂热癫狂",
+          "costume": "华丽魔教服，断臂"
+        },
+        {
+          "name": "灭世之轮",
+          "action": "开始旋转",
+          "expression": "启动",
+          "costume": "巨大金属圆环"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "巨大的金属圆环（灭世之轮）开始旋转，恐怖能量汇聚。虚空结晶嵌入核心。能量可视化",
+        "color_grading": "危险红色"
+      },
+      "audio": {
+        "dialogue": "右使：'终于...终于完成了！启动灭世之轮！让这个世界...重归混沌！' （圆环旋转，能量汇聚）顾玄系统：'【警告！检测到维度级武器启动！】【预计目标：本世界】【剩余时间：72小时】【建议：立即撤离或阻止】' 顾玄：'撤离？能撤到哪去？唯有...阻止它！'",
+        "background_music": "震撼危险",
+        "sound_effects": "兵器启动的低鸣声"
+      },
+      "editing": {
+        "transition": "场景交替",
+        "pacing": "slow"
+      },
+      "notes": "危机升级：灭世之轮启动，72小时倒计时"
+    },
+    {
+      "shot_id": "EP19-S014",
+      "chapter_number": 19,
+      "scene_number": 14,
+      "duration": 15,
+      "shot_type": "中景+特写",
+      "location": "青云宗观星台",
+      "time_of_day": "夜晚",
+      "composition": "顾玄准备最终对决。计算灵网能量。给弟子们发护具",
+      "characters": [
+        {
+          "name": "顾玄",
+          "action": "准备计划，发护具",
+          "expression": "从凝重到坚定",
+          "costume": "青云宗道袍"
+        },
+        {
+          "name": "弟子们",
+          "action": "领护具",
+          "expression": "疑惑紧张",
+          "costume": "青云宗弟子服"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "秩序之眼穿透千里，看到灭世之轮旋转。灵能网络可视化。系统计算界面：【如果将整个灵网能量导入体内...可达化神期（临时）】【警告：身体可能无法承受！】",
+        "color_grading": "夜空蓝"
+      },
+      "audio": {
+        "dialogue": "顾玄：'系统，如果我把整个灵网的能量导入体内...能达到什么级别？' 系统音：'【计算中...预计可达化神期（临时）】【警告：身体可能无法承受！】' 顾玄：'够了。那就让魔教见识下...什么叫特高压电击疗法！' （给弟子发护具）'都穿好！待会儿可能有点麻...'",
+        "background_music": "从紧张到激昂",
+        "sound_effects": "夜风声"
+      },
+      "editing": {
+        "transition": "缓慢淡出",
+        "pacing": "slow"
+      },
+      "notes": "结尾钩子：最终对决准备，疯狂计划"
     }
-  },
-  {
-    "shot_id": "EP19-S009",
-    "chapter_number": 19,
-    "scene_number": 9,
-    "duration": 10,
-    "shot_type": "特效全景",
-    "location": "西北祭坛",
-    "time_of_day": "无时间",
-    "composition": {
-      "camera_position": "仰视拍摄",
-      "camera_movement": "缓慢上升",
-      "framing": "全景构图",
-      "focus_type": "兵器清晰"
-    },
-    "characters": [
-      {
-        "name": "右使",
-        "position": "祭坛前",
-        "action": "狂热大笑,启动灭世之轮",
-        "expression": "狂热",
-        "costume": "华贵黑袍"
-      }
-    ],
-    "visual_effects": {
-      "environment": "祭坛,恐怖能量",
-      "lighting": "金属圆环旋转光芒",
-      "color_palette": "毁灭红黑",
-      "special_effects": "右使看着完整的兵器狂热大笑,巨大金属圆环开始旋转,恐怖能量汇聚,维度级武器'灭世之轮'启动,顾玄系统警报大作"
-    },
-    "audio": {
-      "dialogue": "终于...终于完成了!启动'灭世之轮'!让这个世界...重归混沌!【警告!检测到维度级武器启动!】【预计目标:本世界】【剩余时间:72小时】",
-      "narration": "",
-      "internal_monologue": "撤离?能撤到哪去?唯有...阻止它!系统,如果我把整个灵网的能量导入体内...能达到什么级别?【计算中...预计可达'化神期'(临时)】够用了。",
-      "background_music": "震撼→史诗",
-      "sound_effects": ["能量汇聚", "警报声"],
-      "volume_level": "警报突出"
-    },
-    "editing": {
-      "transition_to_next": "淡出",
-      "pacing": "中等",
-      "purpose": "灭世之轮启动,留下悬念"
-    },
-    "notes": {
-      "production_note": "需要大量CG制作兵器特效",
-      "reference_style": "震撼场面",
-      "difficulty_level": "复杂"
-    }
-  }
-]
+  ]
+}

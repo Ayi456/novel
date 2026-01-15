@@ -1,913 +1,632 @@
-[
-  {
-    "shot_id": "EP20-S001",
-    "chapter_number": 20,
-    "scene_number": 1,
-    "duration": 8,
-    "shot_type": "远景",
-    "location": "青云宗-观星台",
-    "time_of_day": "深夜",
-    "composition": {
-      "camera_position": "高处俯拍",
-      "camera_movement": "缓慢下降",
-      "framing": "全景构图",
-      "focus_type": "全景清晰"
-    },
-    "characters": [
-      {
-        "name": "顾玄",
-        "position": "观星台中央",
-        "action": "凝视西北方",
-        "expression": "凝重",
-        "costume": "白衣"
+{
+  "chapter": 20,
+  "chapter_title": "深渊之战",
+  "total_scenes": 15,
+  "emotion_curve": ["紧张", "绝望", "希望", "震撼", "史诗"],
+  "scenes": [
+    {
+      "shot_id": "EP20-S001",
+      "chapter_number": 20,
+      "scene_number": 1,
+      "duration": 12,
+      "shot_type": "全景+系统界面",
+      "location": "青云宗观星台",
+      "time_of_day": "夜晚",
+      "composition": "顾玄站在观星台上，用秩序之眼看向西北。各大宗门高层齐聚。顾玄提出能量汇聚计划",
+      "characters": [
+        {
+          "name": "顾玄",
+          "action": "观星，提出计划",
+          "expression": "凝重",
+          "costume": "青云宗道袍"
+        },
+        {
+          "name": "各宗门高层",
+          "action": "听取计划",
+          "expression": "凝重",
+          "costume": "各宗掌门服"
+        },
+        {
+          "name": "天衍宗主",
+          "action": "提出反对",
+          "expression": "担忧",
+          "costume": "天衍宗掌门服"
+        },
+        {
+          "name": "烈阳宗主",
+          "action": "质疑方案",
+          "expression": "怀疑",
+          "costume": "烈阳宗掌门服"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "秩序之眼穿透千里，看到西北方向恐怖能量和旋转的金属圆环。系统界面：【维度级武器灭世之轮激活进度：1%】【预计完全激活时间：71:59:23】。灵能网络布局图投影。系统模拟：【模拟中...成功率：37.2%】",
+        "color_grading": "夜空蓝，危险红光"
       },
-      {
-        "name": "各大宗门高层",
-        "position": "观星台周围",
-        "action": "面色凝重商议",
-        "expression": "担忧,焦虑",
-        "costume": "各宗华服"
-      }
-    ],
-    "visual_effects": {
-      "environment": "观星台夜景,星空背景",
-      "lighting": "星光+秩序之眼蓝光",
-      "color_palette": "深蓝调",
-      "special_effects": "秩序之眼穿透千里,隐约看到巨大金属圆环旋转"
-    },
-    "audio": {
-      "dialogue": "",
-      "narration": "西北方向传来不祥气息。所有宗门的高层都聚集在此,等待顾玄的决定。",
-      "internal_monologue": "",
-      "background_music": "庄重,紧张",
-      "sound_effects": ["夜风声", "远处的能量波动"],
-      "volume_level": "环境音突出"
-    },
-    "editing": {
-      "transition_to_next": "直接切",
-      "pacing": "中等",
-      "purpose": "开篇定调"
-    },
-    "notes": {
-      "production_note": "夜景拍摄",
-      "reference_style": "庄重场景",
-      "difficulty_level": "中等"
-    }
-  },
-  {
-    "shot_id": "EP20-S002",
-    "chapter_number": 20,
-    "scene_number": 2,
-    "duration": 10,
-    "shot_type": "全景",
-    "location": "青云宗-观星台",
-    "time_of_day": "夜晚",
-    "composition": {
-      "camera_position": "高处俯拍",
-      "camera_movement": "缓慢下降",
-      "framing": "全景构图",
-      "focus_type": "全景清晰"
-    },
-    "characters": [
-      {
-        "name": "顾玄",
-        "position": "观星台",
-        "action": "望着西北方向,做出决定",
-        "expression": "坚定",
-        "costume": "白衣"
+      "audio": {
+        "dialogue": "天衍宗主：'顾前辈，古籍记载，上古时期曾有类似兵器现世，一击便毁灭一界...我们必须阻止它！' 顾玄：'我有一计，但需要诸位鼎力相助。我要将整个青州的灵脉能量汇聚一处，给予那兵器致命一击！' 烈阳宗主：'风险太大！万一失控，整个青州都会化为焦土！' 顾玄：'若不尝试，整个世界都会消失。系统，模拟方案可行性。' 系统音：'【模拟中...成功率：37.2%】'",
+        "background_music": "紧张压抑",
+        "sound_effects": "夜风声"
       },
-      {
-        "name": "各大宗门高层",
-        "position": "周围",
-        "action": "面色凝重",
-        "expression": "担忧",
-        "costume": "各宗华服"
-      }
-    ],
-    "visual_effects": {
-      "environment": "观星台,星空背景",
-      "lighting": "星光+秩序之眼蓝光",
-      "color_palette": "深蓝调",
-      "special_effects": "秩序之眼穿透千里,隐约看到巨大金属圆环旋转,系统界面显示:维度级武器'灭世之轮'激活进度:1%,预计完全激活时间:71:59:23"
-    },
-    "audio": {
-      "dialogue": "我有一计,但需要诸位鼎力相助。我要将整个青州的灵脉能量汇聚一处,给予那兵器致命一击! 风险太大!万一失控,整个青州都会化为焦土! 若不尝试,整个世界都会消失。",
-      "narration": "",
-      "internal_monologue": "",
-      "background_music": "庄重,紧张",
-      "sound_effects": [],
-      "volume_level": "对话突出"
-    },
-    "editing": {
-      "transition_to_next": "直接切",
-      "pacing": "中等",
-      "purpose": "决策场景,奠定基调"
-    },
-    "notes": {
-      "production_note": "夜景拍摄",
-      "reference_style": "庄重场景",
-      "difficulty_level": "中等"
-    }
-  },
-  {
-    "shot_id": "EP20-S003",
-    "chapter_number": 20,
-    "scene_number": 3,
-    "duration": 6,
-    "shot_type": "中景",
-    "location": "青云宗-观星台",
-    "time_of_day": "夜晚",
-    "composition": {
-      "camera_position": "多角度拍摄",
-      "camera_movement": "快速切换",
-      "framing": "团队构图",
-      "focus_type": "人物清晰"
-    },
-    "characters": [
-      {
-        "name": "各宗门高层",
-        "position": "观星台",
-        "action": "犹豫后同意",
-        "expression": "凝重→决绝",
-        "costume": "各宗华服"
+      "editing": {
+        "transition": "流畅剪辑",
+        "pacing": "moderate"
       },
-      {
-        "name": "顾玄",
-        "position": "中央",
-        "action": "统筹安排",
-        "expression": "坚定",
-        "costume": "白衣"
-      }
-    ],
-    "visual_effects": {
-      "environment": "观星台",
-      "lighting": "星光",
-      "color_palette": "深蓝调",
-      "special_effects": "无"
+      "notes": "紧张开局：72小时倒计时，成功率仅37%"
     },
-    "audio": {
-      "dialogue": "我同意!与其坐以待毙,不如拼死一搏! 我也同意!顾道友,我们听你指挥!",
-      "narration": "",
-      "internal_monologue": "",
-      "background_music": "决绝,坚定",
-      "sound_effects": [],
-      "volume_level": "对话突出"
-    },
-    "editing": {
-      "transition_to_next": "直接切",
-      "pacing": "快速",
-      "purpose": "达成共识"
-    },
-    "notes": {
-      "production_note": "多角色场景",
-      "reference_style": "团队决策",
-      "difficulty_level": "简单"
-    }
-  },
-  {
-    "shot_id": "EP20-S004",
-    "chapter_number": 20,
-    "scene_number": 4,
-    "duration": 8,
-    "shot_type": "全景蒙太奇",
-    "location": "青州各处",
-    "time_of_day": "深夜",
-    "composition": {
-      "camera_position": "多地点拍摄",
-      "camera_movement": "快速切换",
-      "framing": "蒙太奇构图",
-      "focus_type": "准备场景清晰"
-    },
-    "characters": [
-      {
-        "name": "各宗门修士",
-        "position": "青州各灵脉节点",
-        "action": "布阵,准备",
-        "expression": "紧张,认真",
-        "costume": "修炼服"
+    {
+      "shot_id": "EP20-S002",
+      "chapter_number": 20,
+      "scene_number": 2,
+      "duration": 10,
+      "shot_type": "蒙太奇",
+      "location": "青州各地",
+      "time_of_day": "白天",
+      "composition": "快速剪辑能量网络建设。各宗布设法阵，连接成能量网络。顾玄布置能量放大器",
+      "characters": [
+        {
+          "name": "各宗修士",
+          "action": "布设法阵",
+          "expression": "认真紧张",
+          "costume": "各宗服饰"
+        },
+        {
+          "name": "顾玄",
+          "action": "布置放大器",
+          "expression": "专注",
+          "costume": "青云宗道袍"
+        },
+        {
+          "name": "陆尘",
+          "action": "协助",
+          "expression": "担忧",
+          "costume": "青云宗弟子服"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "能量网络建设可视化。法阵连接成网。物质重构将特效灵石变成能量放大器。能量开始在青州地底涌动",
+        "color_grading": "明亮建设感"
       },
-      {
-        "name": "顾玄",
-        "position": "观星台",
-        "action": "统筹全局",
-        "expression": "专注",
-        "costume": "白衣"
-      }
-    ],
-    "visual_effects": {
-      "environment": "青州各地",
-      "lighting": "阵法光芒",
-      "color_palette": "阵法光芒色调",
-      "special_effects": "各宗门在灵脉节点布阵,顾玄在观星台绘制巨大阵图"
-    },
-    "audio": {
-      "dialogue": "各宗门弟子听令!按部署就位! 东方节点就绪!南方节点就绪!西方节点就绪!北方节点就绪! 中央大阵启动准备!",
-      "narration": "",
-      "internal_monologue": "",
-      "background_music": "紧张,忙碌",
-      "sound_effects": ["阵法启动声", "修士呼喝"],
-      "volume_level": "对话突出"
-    },
-    "editing": {
-      "transition_to_next": "快速切",
-      "pacing": "快速",
-      "purpose": "准备蒙太奇"
-    },
-    "notes": {
-      "production_note": "多场景拍摄",
-      "reference_style": "战争准备",
-      "difficulty_level": "中等"
-    }
-  },
-  {
-    "shot_id": "EP20-S005",
-    "chapter_number": 20,
-    "scene_number": 5,
-    "duration": 7,
-    "shot_type": "中景",
-    "location": "青云宗-观星台",
-    "time_of_day": "白天",
-    "composition": {
-      "camera_position": "正面拍摄",
-      "camera_movement": "快速推近",
-      "framing": "中心构图",
-      "focus_type": "主体清晰"
-    },
-    "characters": [
-      {
-        "name": "白芷",
-        "position": "突然尖叫",
-        "action": "指着天空",
-        "expression": "惊恐",
-        "costume": "布衣"
+      "audio": {
+        "dialogue": "陆尘：'师兄，这样真的能行吗？' 顾玄：'相信科学...呃，是相信修仙。' 系统音：'【倒计时48小时】【灭世之轮激活进度：35%】' 顾玄：'三号节点过载！玄天剑宗分流能量！七号节点遭攻击！烈阳宗支援！能量传输效率低于预期...系统，优化路由！'",
+        "background_music": "紧张建设",
+        "sound_effects": "法阵启动声"
       },
-      {
-        "name": "顾玄",
-        "position": "一旁",
-        "action": "立即反应",
-        "expression": "震惊",
-        "costume": "白衣"
-      }
-    ],
-    "visual_effects": {
-      "environment": "观星台",
-      "lighting": "正常光线",
-      "color_palette": "正常色调",
-      "special_effects": "白芷眼中黑光狂闪"
-    },
-    "audio": {
-      "dialogue": "假的!都是假的!那个灭世之轮是诱饵! 真正的兵器在...在海底!他们用虚空结晶打开了海底遗迹! 真正的兵器在...在海底!他们用虚空结晶打开了海底遗迹!",
-      "narration": "",
-      "internal_monologue": "魔教居然玩了手声东击西!",
-      "background_music": "紧张,急促",
-      "sound_effects": [],
-      "volume_level": "对话突出"
-    },
-    "editing": {
-      "transition_to_next": "快速切",
-      "pacing": "快速",
-      "purpose": "关键转折,声东击西"
-    },
-    "notes": {
-      "production_note": "需要CG制作眼中黑光",
-      "reference_style": "紧张场景",
-      "difficulty_level": "中等"
-    }
-  },
-  {
-    "shot_id": "EP20-S006",
-    "chapter_number": 20,
-    "scene_number": 6,
-    "duration": 8,
-    "shot_type": "特效全景",
-    "location": "秩序之眼视野",
-    "time_of_day": "瞬间",
-    "composition": {
-      "camera_position": "俯瞰视角",
-      "camera_movement": "快速推近",
-      "framing": "震撼构图",
-      "focus_type": "遗迹清晰"
-    },
-    "characters": [
-      {
-        "name": "顾玄",
-        "position": "意识空间",
-        "action": "通过秩序之眼观察",
-        "expression": "震惊",
-        "costume": "意识形态"
-      }
-    ],
-    "visual_effects": {
-      "environment": "东海海底",
-      "lighting": "深渊之光",
-      "color_palette": "深蓝+神秘光",
-      "special_effects": "秩序之眼切换视角,看到东海海底深处,巨大的金字塔遗迹,深渊之眼正在苏醒"
-    },
-    "audio": {
-      "dialogue": "该死!中计了!目标东海!所有能量立即转向!",
-      "narration": "",
-      "internal_monologue": "",
-      "background_music": "紧张,急促",
-      "sound_effects": ["系统切换声", "警报声"],
-      "volume_level": "对话突出"
-    },
-    "editing": {
-      "transition_to_next": "快速切",
-      "pacing": "快速",
-      "purpose": "揭示真相"
-    },
-    "notes": {
-      "production_note": "需要大量CG特效",
-      "reference_style": "震撼视角",
-      "difficulty_level": "复杂"
-    }
-  },
-  {
-    "shot_id": "EP20-S007",
-    "chapter_number": 20,
-    "scene_number": 7,
-    "duration": 10,
-    "shot_type": "特效全景",
-    "location": "东海海底遗迹",
-    "time_of_day": "深海",
-    "composition": {
-      "camera_position": "环绕拍摄",
-      "camera_movement": "快速环绕",
-      "framing": "动态构图",
-      "focus_type": "特效突出"
-    },
-    "characters": [
-      {
-        "name": "顾玄",
-        "position": "海底遗迹前",
-        "action": "全力输出能量,击中深渊之眼",
-        "expression": "拼命,七窍流血",
-        "costume": "白衣",
-        "props": "天魔剑"
+      "editing": {
+        "transition": "快速叠化",
+        "pacing": "fast"
       },
-      {
-        "name": "深渊之眼",
-        "position": "遗迹核心",
-        "action": "吸收攻击能量,被规则修改后击中",
-        "expression": "无表情",
-        "costume": "巨大眼球装置"
-      }
-    ],
-    "visual_effects": {
-      "environment": "万丈海底,金字塔遗迹",
-      "lighting": "能量光芒+海底幽暗",
-      "color_palette": "高对比度",
-      "special_effects": "巨大光柱射向海底,海水蒸发,空间扭曲,深渊之眼(巨大眼球装置)与光柱对抗,规则修改后吸收失效,光柱击中眼球惊天爆炸,整个东海掀起万丈巨浪"
+      "notes": "能量网络建设，各宗协同"
     },
-    "audio": {
-      "dialogue": "所有能量转向东海!还不够!把所有能量都压上!目标锁定!发射!! 系统!调用所有功德值!购买'规则修改'最高权限! 修改规则!此地禁止能量吸收! 轰——!!! 目标摧毁程度:100%!深渊之眼已摧毁!",
-      "narration": "",
-      "internal_monologue": "",
-      "background_music": "震撼,史诗",
-      "sound_effects": ["能量轰鸣", "爆炸声", "海啸声", "系统提示"],
-      "volume_level": "音效突出"
-    },
-    "editing": {
-      "transition_to_next": "直接切",
-      "pacing": "快速",
-      "purpose": "终极战斗,第一高潮"
-    },
-    "notes": {
-      "production_note": "需要大量CG特效",
-      "reference_style": "史诗战斗",
-      "difficulty_level": "复杂"
-    }
-  },
-  {
-    "shot_id": "EP20-S008",
-    "chapter_number": 20,
-    "scene_number": 8,
-    "duration": 6,
-    "shot_type": "全景",
-    "location": "东海海面",
-    "time_of_day": "白天",
-    "composition": {
-      "camera_position": "海面俯拍",
-      "camera_movement": "震撼推拉",
-      "framing": "灾难构图",
-      "focus_type": "海啸清晰"
-    },
-    "characters": [
-      {
-        "name": "沿海修士",
-        "position": "海岸",
-        "action": "惊恐逃离",
-        "expression": "惊恐",
-        "costume": "修炼服"
-      }
-    ],
-    "visual_effects": {
-      "environment": "东海海面",
-      "lighting": "爆炸光芒",
-      "color_palette": "灾难色调",
-      "special_effects": "整个东海掀起万丈巨浪,沿海城市受到冲击"
-    },
-    "audio": {
-      "dialogue": "海啸!快跑!",
-      "narration": "",
-      "internal_monologue": "",
-      "background_music": "紧张,灾难",
-      "sound_effects": ["海啸声", "爆炸回响", "惊恐呼喊"],
-      "volume_level": "音效突出"
-    },
-    "editing": {
-      "transition_to_next": "直接切",
-      "pacing": "快速",
-      "purpose": "灾难波及"
-    },
-    "notes": {
-      "production_note": "灾难场景",
-      "reference_style": "灾难片",
-      "difficulty_level": "中等"
-    }
-  },
-  {
-    "shot_id": "EP20-S009",
-    "chapter_number": 20,
-    "scene_number": 9,
-    "duration": 7,
-    "shot_type": "中景",
-    "location": "海底遗迹入口",
-    "time_of_day": "深海",
-    "composition": {
-      "camera_position": "跟随拍摄",
-      "camera_movement": "快速推进",
-      "framing": "动作构图",
-      "focus_type": "人物清晰"
-    },
-    "characters": [
-      {
-        "name": "顾玄",
-        "position": "遗迹入口",
-        "action": "冲入遗迹",
-        "expression": "决绝",
-        "costume": "白衣(受伤)",
-        "props": "天魔剑"
+    {
+      "shot_id": "EP20-S003",
+      "chapter_number": 20,
+      "scene_number": 3,
+      "duration": 12,
+      "shot_type": "中景+特写",
+      "location": "青云宗中枢→东海方向",
+      "time_of_day": "夜晚",
+      "composition": "白芷突然尖叫，揭示真相。顾玄用秩序之眼扫描海底，发现真正的武器",
+      "characters": [
+        {
+          "name": "白芷",
+          "action": "突然尖叫",
+          "expression": "眼中黑光狂闪",
+          "costume": "青云宗弟子服"
+        },
+        {
+          "name": "顾玄",
+          "action": "扫描海底",
+          "expression": "震惊",
+          "costume": "青云宗道袍"
+        },
+        {
+          "name": "各宗门主",
+          "action": "惊慌",
+          "expression": "震惊",
+          "costume": "各宗掌门服"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "白芷眼中黑光狂闪，看到海底遗迹幻象。秩序之眼全力扫描海洋，海底发现巨大金字塔形遗迹。系统界面：【检测到真·维度级武器深渊之眼】【激活进度：95%】【剩余时间：03:59:59】",
+        "color_grading": "危机红色"
       },
-      {
-        "name": "陆尘",
-        "position": "跟随",
-        "action": "紧随其后",
-        "expression": "担忧但坚定",
-        "costume": "布衣"
-      }
-    ],
-    "visual_effects": {
-      "environment": "海底遗迹内部",
-      "lighting": "幽暗光芒",
-      "color_palette": "深蓝调",
-      "special_effects": "遗迹通道充满未知能量"
-    },
-    "audio": {
-      "dialogue": "师兄!太危险了! 我必须去!你在外面守着! 无论如何,我都要去!",
-      "narration": "",
-      "internal_monologue": "",
-      "background_music": "紧张,决心",
-      "sound_effects": ["水声", "能量波动"],
-      "volume_level": "对话突出"
-    },
-    "editing": {
-      "transition_to_next": "直接切",
-      "pacing": "快速",
-      "purpose": "深入险境"
-    },
-    "notes": {
-      "production_note": "动作场景",
-      "reference_style": "冒险动作",
-      "difficulty_level": "中等"
-    }
-  },
-  {
-    "shot_id": "EP20-S010",
-    "chapter_number": 20,
-    "scene_number": 10,
-    "duration": 8,
-    "shot_type": "全景",
-    "location": "海底遗迹内部",
-    "time_of_day": "深海",
-    "composition": {
-      "camera_position": "环绕拍摄",
-      "camera_movement": "缓慢环绕",
-      "framing": "探索构图",
-      "focus_type": "场景清晰"
-    },
-    "characters": [
-      {
-        "name": "顾玄",
-        "position": "遗迹通道",
-        "action": "探索前进",
-        "expression": "警惕",
-        "costume": "白衣(受伤)",
-        "props": "天魔剑"
+      "audio": {
+        "dialogue": "白芷：'假的！都是假的！那个灭世之轮是诱饵！真正的兵器在...在海底！他们用虚空结晶打开了海底遗迹！' 顾玄：'立即转移目标！所有能量转向东海方向！' 各宗：'怎么办？根本来不及重新布阵！' 系统音：'【检测到真·维度级武器深渊之眼】【激活进度：95%】【剩余时间：03:59:59】'",
+        "background_music": "惊慌危机",
+        "sound_effects": "警报声"
       },
-      {
-        "name": "魔教守卫",
-        "position": "各处",
-        "action": "防御姿态",
-        "expression": "恐惧",
-        "costume": "黑袍"
-      }
-    ],
-    "visual_effects": {
-      "environment": "遗迹内部,充满科技感的墙壁",
-      "lighting": "幽暗蓝光",
-      "color_palette": "深蓝调",
-      "special_effects": "遗迹墙壁上闪烁的符文,守卫们惊恐地看着顾玄"
-    },
-    "audio": {
-      "dialogue": "让开!不想死就滚! 是...是! 顾道友!我们也是被逼的!右使说这是神赐的机缘! 神赐的机缘?这是毁灭世界的兵器!",
-      "narration": "",
-      "internal_monologue": "",
-      "background_music": "紧张",
-      "sound_effects": ["回声", "守卫颤抖声"],
-      "volume_level": "对话突出"
-    },
-    "editing": {
-      "transition_to_next": "直接切",
-      "pacing": "中等",
-      "purpose": "探索遗迹"
-    },
-    "notes": {
-      "production_note": "场景探索",
-      "reference_style": "神秘探险",
-      "difficulty_level": "中等"
-    }
-  },
-  {
-    "shot_id": "EP20-S011",
-    "chapter_number": 20,
-    "scene_number": 11,
-    "duration": 10,
-    "shot_type": "全景",
-    "location": "海底遗迹",
-    "time_of_day": "深海",
-    "composition": {
-      "camera_position": "环绕拍摄",
-      "camera_movement": "快速环绕",
-      "framing": "动态构图",
-      "focus_type": "战斗场景突出"
-    },
-    "characters": [
-      {
-        "name": "顾玄",
-        "position": "遗迹中",
-        "action": "使用终极解决方案,击败右使",
-        "expression": "决绝",
-        "costume": "白衣",
-        "props": "天魔剑"
+      "editing": {
+        "transition": "快速剪辑",
+        "pacing": "fast"
       },
-      {
-        "name": "右使",
-        "position": "世界核心前",
-        "action": "被高等魔族附体,被剥离,被格式化",
-        "expression": "狂妄→惊恐",
-        "costume": "华贵黑袍"
+      "notes": "绝望升级：声东击西，真武器95%"
+    },
+    {
+      "shot_id": "EP20-S004",
+      "chapter_number": 20,
+      "scene_number": 4,
+      "duration": 15,
+      "shot_type": "全景+特效",
+      "location": "青州→东海海面",
+      "time_of_day": "夜晚",
+      "composition": "顾玄启动超载传输。整个青州地动山摇，能量强行扭转。海面上空汇聚巨大能量球",
+      "characters": [
+        {
+          "name": "顾玄",
+          "action": "启动超载传输",
+          "expression": "决断",
+          "costume": "青云宗道袍"
+        },
+        {
+          "name": "各宗修士",
+          "action": "拼死维持法阵",
+          "expression": "痛苦",
+          "costume": "各宗服饰"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "超载传输特效：青州地动山摇，灵脉被强行扭转，能量如脱缰野马冲向东海。能量节点爆炸。海面上空汇聚成巨大能量球。顾玄将自身作为节点，疯狂吸收能量，七窍流血。系统界面：【能量级别：化神期...炼虚期...大乘期...】【警告：身体即将崩溃！】",
+        "color_grading": "能量耀眼白"
       },
-      {
-        "name": "陆尘",
-        "position": "突然出现",
-        "action": "接受世界核心",
-        "expression": "茫然",
-        "costume": "布衣"
-      }
-    ],
-    "visual_effects": {
-      "environment": "海底遗迹核心",
-      "lighting": "恐怖能量波动",
-      "color_palette": "高对比度",
-      "special_effects": "右使爆发出超越化神期气息,魔族被言出法随剥离,世界核心主动飞向陆尘融合,陆尘修为暴涨至化神期,黑色立方体射出光分解右使"
-    },
-    "audio": {
-      "dialogue": "系统!还有什么大招能用?购买'终极解决方案'套餐! 此地禁止魔族存在!此地禁止空间传送! 凭你也想阻拦?现在的我可是...什么情况?!天命之子?!怎么可能?!我才是天命之子应该是我教圣子... 这是什么?世界核心!就是...就这样...?!",
-      "narration": "",
-      "internal_monologue": "原来我折腾这么久...是在给真主角当保姆啊...",
-      "background_music": "震撼,史诗",
-      "sound_effects": ["能量对抗", "立方体机械音", "右使惨叫"],
-      "volume_level": "音效突出"
-    },
-    "editing": {
-      "transition_to_next": "直接切",
-      "pacing": "快速",
-      "purpose": "终极反转,真相揭示"
-    },
-    "notes": {
-      "production_note": "需要大量CG特效",
-      "reference_style": "史诗场景",
-      "difficulty_level": "复杂"
-    }
-  },
-  {
-    "shot_id": "EP20-S012",
-    "chapter_number": 20,
-    "scene_number": 12,
-    "duration": 6,
-    "shot_type": "特写",
-    "location": "遗迹核心",
-    "time_of_day": "深海",
-    "composition": {
-      "camera_position": "世界核心特写",
-      "camera_movement": "缓慢旋转",
-      "framing": "神圣构图",
-      "focus_type": "核心清晰"
-    },
-    "characters": [
-      {
-        "name": "世界核心",
-        "position": "中央",
-        "action": "飞向陆尘",
-        "expression": "无",
-        "costume": "发光球体"
+      "audio": {
+        "dialogue": "顾玄：'只有一个办法了...系统，启动超载传输！' 系统音：'【警告！超载传输可能导致网络永久损坏！】' 顾玄：'执行！所有节点听令！最大功率输出！目标：东海！' （青州震动）顾玄：'还不够！系统，把我也算进去！' （七窍流血）'目标锁定！发射！！' 系统音：'【能量级别：化神期...炼虚期...大乘期...】【警告：身体即将崩溃！】'",
+        "background_music": "史诗震撼",
+        "sound_effects": "地动山摇声，能量轰鸣声"
       },
-      {
-        "name": "陆尘",
-        "position": "接受核心",
-        "action": "茫然接受",
-        "expression": "茫然→震撼",
-        "costume": "布衣"
-      }
-    ],
-    "visual_effects": {
-      "environment": "遗迹核心",
-      "lighting": "核心光芒",
-      "color_palette": "神圣色调",
-      "special_effects": "世界核心散发柔和光芒,主动飞向陆尘,融入体内"
-    },
-    "audio": {
-      "dialogue": "这是...世界核心?!为什么它选择了我? 我...我感觉到了...整个世界的力量!",
-      "narration": "",
-      "internal_monologue": "",
-      "background_music": "神圣,震撼",
-      "sound_effects": ["核心嗡鸣", "能量流动"],
-      "volume_level": "对话突出"
-    },
-    "editing": {
-      "transition_to_next": "光芒转场",
-      "pacing": "宏大",
-      "purpose": "天命觉醒"
-    },
-    "notes": {
-      "production_note": "特效重点",
-      "reference_style": "神圣场景",
-      "difficulty_level": "中等"
-    }
-  },
-  {
-    "shot_id": "EP20-S013",
-    "chapter_number": 20,
-    "scene_number": 13,
-    "duration": 8,
-    "shot_type": "全景",
-    "location": "海底遗迹",
-    "time_of_day": "深海",
-    "composition": {
-      "camera_position": "环绕拍摄",
-      "camera_movement": "快速环绕",
-      "framing": "动态构图",
-      "focus_type": "战斗场景突出"
-    },
-    "characters": [
-      {
-        "name": "顾玄",
-        "position": "遗迹中",
-        "action": "使用最终防御,对抗立方体",
-        "expression": "决绝",
-        "costume": "白衣",
-        "props": "天魔剑"
+      "editing": {
+        "transition": "快速剪辑",
+        "pacing": "fast"
       },
-      {
-        "name": "黑色立方体",
-        "position": "空中",
-        "action": "伸出机械触手",
-        "expression": "无",
-        "costume": "机械"
+      "notes": "希望升级：超载传输，能量汇聚"
+    },
+    {
+      "shot_id": "EP20-S005",
+      "chapter_number": 20,
+      "scene_number": 5,
+      "duration": 12,
+      "shot_type": "全景+特效",
+      "location": "东海海面→海底",
+      "time_of_day": "夜晚",
+      "composition": "巨大光柱射向海底。深渊之眼睁开。光柱与眼球碰撞，极致的光和暗对抗",
+      "characters": [
+        {
+          "name": "深渊之眼",
+          "action": "缓缓睁开",
+          "expression": "恐怖",
+          "costume": "巨大眼球状装置"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "巨大光柱射向海底，所过之处海水蒸发，空间扭曲。海底遗迹打开缺口，露出深渊之眼——巨大眼球装置。光柱与眼球碰撞，没有爆炸没有声响，只有极致的光和暗在对抗。能量对抗可视化",
+        "color_grading": "极致的光明与黑暗"
       },
-      {
-        "name": "陆尘",
-        "position": "昏迷",
-        "action": "被保护",
-        "expression": "昏迷",
-        "costume": "布衣"
-      }
-    ],
-    "visual_effects": {
-      "environment": "海底遗迹",
-      "lighting": "极致光芒,空间破碎",
-      "color_palette": "高对比度",
-      "special_effects": "机械触手无视防御穿透顾玄身体,天魔系统全功率启动,天魔剑爆发出前所未有光芒,与触手碰撞"
-    },
-    "audio": {
-      "dialogue": "检测到非法入侵!启动最终防御!授权使用:管理员最高权限!执行:格式化攻击!",
-      "narration": "",
-      "internal_monologue": "",
-      "background_music": "震撼,史诗",
-      "sound_effects": ["能量爆发", "系统提示", "机械音"],
-      "volume_level": "音效突出"
-    },
-    "editing": {
-      "transition_to_next": "直接切",
-      "pacing": "快速",
-      "purpose": "最终防御启动"
-    },
-    "notes": {
-      "production_note": "需要大量CG特效",
-      "reference_style": "震撼场景",
-      "difficulty_level": "复杂"
-    }
-  },
-  {
-    "shot_id": "EP20-S014",
-    "chapter_number": 20,
-    "scene_number": 14,
-    "duration": 8,
-    "shot_type": "特效全景",
-    "location": "海底遗迹",
-    "time_of_day": "深海",
-    "composition": {
-      "camera_position": "环绕拍摄",
-      "camera_movement": "快速环绕",
-      "framing": "动态构图",
-      "focus_type": "特效突出"
-    },
-    "characters": [
-      {
-        "name": "顾玄",
-        "position": "遗迹中",
-        "action": "使用最终防御,对抗立方体",
-        "expression": "决绝",
-        "costume": "白衣",
-        "props": "天魔剑"
+      "audio": {
+        "dialogue": "系统音：'【能量对抗中...我方能量快速消耗！】' 顾玄：'继续输出！把所有能量都压上！' （对抗持续）系统音：'【警告！目标正在适应能量攻击！】【建议：立即改变能量频率！】'",
+        "background_music": "史诗震撼",
+        "sound_effects": "能量对抗的嗡鸣声"
       },
-      {
-        "name": "机械触手",
-        "position": "立方体伸出",
-        "action": "抓向陆尘,被天魔剑阻挡",
-        "expression": "无",
-        "costume": "机械"
-      }
-    ],
-    "visual_effects": {
-      "environment": "海底遗迹",
-      "lighting": "极致光芒,空间破碎",
-      "color_palette": "高对比度",
-      "special_effects": "机械触手无视防御穿透顾玄身体,天魔系统全功率启动,天魔剑爆发出前所未有光芒,与触手碰撞,整个海底被照亮,空间破碎,时间紊乱,立方体消失,陆尘昏迷但世界核心还在体内"
-    },
-    "audio": {
-      "dialogue": "检测到非法入侵!启动最终防御!授权使用:管理员最高权限!执行:格式化攻击! 轰!! 最终防御执行完毕...系统严重受损...进入休眠状态...剩余能量:0%...功德:0...功能大部分禁用... 原来我折腾这么久...是在给真主角当保姆啊... 系统休眠了...以后装逼得全靠自己了?等等!那我是不是可以...退休了?",
-      "narration": "",
-      "internal_monologue": "",
-      "background_music": "震撼,史诗转为轻松",
-      "sound_effects": ["能量爆发", "系统提示", "机械音"],
-      "volume_level": "音效突出"
-    },
-    "editing": {
-      "transition_to_next": "淡出",
-      "pacing": "缓慢",
-      "purpose": "第一卷结局,留下悬念"
-    },
-    "notes": {
-      "production_note": "需要大量CG特效",
-      "reference_style": "史诗+轻松",
-      "difficulty_level": "复杂"
-    }
-  },
-  {
-    "shot_id": "EP20-S015",
-    "chapter_number": 20,
-    "scene_number": 15,
-    "duration": 7,
-    "shot_type": "中景",
-    "location": "海底遗迹",
-    "time_of_day": "深海",
-    "composition": {
-      "camera_position": "俯拍",
-      "camera_movement": "缓慢拉远",
-      "framing": "余韵构图",
-      "focus_type": "场景清晰"
-    },
-    "characters": [
-      {
-        "name": "顾玄",
-        "position": "废墟中",
-        "action": "虚弱查看",
-        "expression": "疲惫但欣慰",
-        "costume": "白衣(破烂)"
+      "editing": {
+        "transition": "缓慢镜头",
+        "pacing": "slow"
       },
-      {
-        "name": "陆尘",
-        "position": "昏迷",
-        "action": "被保护",
-        "expression": "昏迷",
-        "costume": "布衣"
-      }
-    ],
-    "visual_effects": {
-      "environment": "废墟化的海底遗迹",
-      "lighting": "微弱光芒",
-      "color_palette": "昏暗调",
-      "special_effects": "遗迹大部分被破坏,但威胁暂时解除"
+      "notes": "震撼对抗：能量碰撞，光暗对抗"
     },
-    "audio": {
-      "dialogue": "结束了...终于结束了...咳咳...这代价也太大了...",
-      "narration": "",
-      "internal_monologue": "",
-      "background_music": "悲壮转为平静",
-      "sound_effects": ["虚弱喘息", "废墟坍塌"],
-      "volume_level": "对话突出"
+    {
+      "shot_id": "EP20-S006",
+      "chapter_number": 20,
+      "scene_number": 6,
+      "duration": 10,
+      "shot_type": "中景+特效",
+      "location": "东海海底",
+      "time_of_day": "夜晚",
+      "composition": "顾玄使用规则修改。深渊之眼吸收能力失效。光柱击中眼球，爆炸",
+      "characters": [
+        {
+          "name": "顾玄",
+          "action": "使用规则修改",
+          "expression": "决断",
+          "costume": "青云宗道袍"
+        },
+        {
+          "name": "深渊之眼",
+          "action": "被击中，爆炸",
+          "expression": "震动→摧毁",
+          "costume": "巨大眼球装置"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "规则修改特效：无形波动扩散。深渊之眼猛颤，吸收能力失效。光柱终于击中眼球。惊天动地的爆炸，东海被掀起万丈巨浪。系统界面：【目标摧毁程度：73%...89%...100%】【深渊之眼已摧毁！】",
+        "color_grading": "爆炸耀眼光芒"
+      },
+      "audio": {
+        "dialogue": "顾玄：'系统！调用所有功德值！购买规则修改最高权限！' 系统音：'【消耗所有功德，获得规则修改（高级）权限】' 顾玄：'修改规则！此地禁止能量吸收！' （波动扩散，深渊之眼猛颤）'轰——！！！' 系统音：'【深渊之眼已摧毁！】' 各宗：'成功了！' 顾玄：'不对！太容易了！'",
+        "background_music": "史诗震撼",
+        "sound_effects": "规则修改声，爆炸声"
+      },
+      "editing": {
+        "transition": "快速剪辑",
+        "pacing": "fast"
+      },
+      "notes": "震撼升级：规则修改，摧毁目标"
     },
-    "editing": {
-      "transition_to_next": "直接切",
-      "pacing": "舒缓",
-      "purpose": "余韵"
+    {
+      "shot_id": "EP20-S007",
+      "chapter_number": 20,
+      "scene_number": 7,
+      "duration": 10,
+      "shot_type": "特写+全景",
+      "location": "东海海底",
+      "time_of_day": "夜晚",
+      "composition": "海底遗迹被毁，但黑色立方体幸存。顾玄发现世界核心。右使出现",
+      "characters": [
+        {
+          "name": "顾玄",
+          "action": "扫描海底",
+          "expression": "震惊",
+          "costume": "青云宗道袍"
+        },
+        {
+          "name": "黑色立方体",
+          "action": "发出微光",
+          "expression": "神秘",
+          "costume": "黑色立方体"
+        },
+        {
+          "name": "右使",
+          "action": "从空间门飞出",
+          "expression": "狂热",
+          "costume": "华丽魔教服"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "海底遗迹被毁，黑色立方体幸存并发光。系统扫描：【检测到未知造物...能量特征：未知】【正在分析...匹配到：世界核心】。立方体打开空间门，右使等人飞出",
+        "color_grading": "神秘光芒"
+      },
+      "audio": {
+        "dialogue": "顾玄：'系统，扫描海底！' 系统音：'【检测到未知造物...正在分析...匹配到：世界核心】' 顾玄：'世界核心？魔教真正的目标不是灭世！是夺取世界核心！' （右使出现）右使：'终于！终于得到了！有了这个，就能...' （剑光斩来）顾玄：'休想得逞！'",
+        "background_music": "紧张悬疑",
+        "sound_effects": "空间门开启声"
+      },
+      "editing": {
+        "transition": "快速剪辑",
+        "pacing": "fast"
+      },
+      "notes": "真相揭露：世界核心，真正目标"
     },
-    "notes": {
-      "production_note": "余韵场景",
-      "reference_style": "平静收尾",
-      "difficulty_level": "简单"
+    {
+      "shot_id": "EP20-S008",
+      "chapter_number": 20,
+      "scene_number": 8,
+      "duration": 12,
+      "shot_type": "中景+动作",
+      "location": "东海海底",
+      "time_of_day": "夜晚",
+      "composition": "顾玄与被附体的右使激战。顾玄购买终极解决方案",
+      "characters": [
+        {
+          "name": "顾玄",
+          "action": "与右使激战",
+          "expression": "决断",
+          "costume": "青云宗道袍"
+        },
+        {
+          "name": "右使",
+          "action": "被魔族附体，攻击",
+          "expression": "狰狞",
+          "costume": "华丽魔教服，被魔族附体发光"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "右使爆发出恐怖气息，超越化神期。系统界面：【目标状态：已被高等魔族附体】。能量碰撞引发海啸。顾玄购买终极解决方案，无法形容的力量涌入体内",
+        "color_grading": "激烈战斗"
+      },
+      "audio": {
+        "dialogue": "右使：'凭你也想阻拦？现在的我可是...' （气息爆发）系统音：'【目标状态：已被高等魔族附体】' 顾玄：'系统！还有什么大招能用？' 系统音：'【推荐：购买终极解决方案套餐】【价格：所有剩余能量+随机一项功能永久禁用】' 顾玄：'买！' （力量涌入）",
+        "background_music": "史诗激烈",
+        "sound_effects": "战斗碰撞声"
+      },
+      "editing": {
+        "transition": "快速剪辑",
+        "pacing": "fast"
+      },
+      "notes": "战斗高潮：终极解决方案"
+    },
+    {
+      "shot_id": "EP20-S009",
+      "chapter_number": 20,
+      "scene_number": 9,
+      "duration": 10,
+      "shot_type": "特写+全景",
+      "location": "东海海底",
+      "time_of_day": "夜晚",
+      "composition": "顾玄言出法随。魔族被剥离，空间传送禁锢。世界核心抗拒所有人",
+      "characters": [
+        {
+          "name": "顾玄",
+          "action": "言出法随",
+          "expression": "如同规则本身",
+          "costume": "青云宗道袍"
+        },
+        {
+          "name": "右使",
+          "action": "魔族被剥离",
+          "expression": "从狰狞到清醒到绝望",
+          "costume": "华丽魔教服"
+        },
+        {
+          "name": "世界核心",
+          "action": "抗拒顾玄",
+          "expression": "发光",
+          "costume": "黑色立方体"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "顾玄一指点出，言出法随特效。右使身上的魔族直接被剥离出来，惨叫消散。空间门瞬间凝固。世界核心抗拒顾玄，系统界面显示拒绝信息",
+        "color_grading": "规则之力"
+      },
+      "audio": {
+        "dialogue": "顾玄：'此地禁止魔族存在！' （魔族被剥离）右使：'你...你到底是什么人？！' 顾玄：'此地禁止空间传送！' （空间门凝固）右使：'完了...全完了...' （核心抗拒）系统音：'【世界核心拒绝被任何个体掌控】' 右使：'没用的！世界核心只会选择天命之子！你不是那个人！'",
+        "background_music": "史诗震撼",
+        "sound_effects": "言出法随声"
+      },
+      "editing": {
+        "transition": "流畅剪辑",
+        "pacing": "moderate"
+      },
+      "notes": "规则之力：言出法随，揭示天命之子"
+    },
+    {
+      "shot_id": "EP20-S010",
+      "chapter_number": 20,
+      "scene_number": 10,
+      "duration": 12,
+      "shot_type": "特写+中景",
+      "location": "东海海底",
+      "time_of_day": "夜晚",
+      "composition": "陆尘穿过空间门。世界核心选择陆尘。陆尘修为暴涨",
+      "characters": [
+        {
+          "name": "陆尘",
+          "action": "穿过空间门",
+          "expression": "茫然",
+          "costume": "青云宗弟子服"
+        },
+        {
+          "name": "世界核心",
+          "action": "飞向陆尘，融入",
+          "expression": "主动认主",
+          "costume": "发光立方体"
+        },
+        {
+          "name": "顾玄",
+          "action": "惊讶",
+          "expression": "震惊",
+          "costume": "青云宗道袍"
+        },
+        {
+          "name": "右使",
+          "action": "目瞪口呆",
+          "expression": "难以置信",
+          "costume": "华丽魔教服"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "陆尘穿过凝固的空间门。世界核心主动飞向陆尘，融入他体内。庞大能量爆发，陆尘修为瞬间暴涨至化神期。系统界面：【检测到天命之子...匹配成功】【世界核心已认主...新天道诞生...】",
+        "color_grading": "核心光芒"
+      },
+      "audio": {
+        "dialogue": "（陆尘突然穿过空间门）陆尘：'师兄！我来帮你！' （核心飞向陆尘）系统音：'【检测到天命之子...匹配成功】' 顾玄：'？？？陆尘是天命之子？！' 右使：'怎么可能？！天命之子应该是我教圣子...' 陆尘：'这是什么？' （核心融入，能量爆发）系统音：'【世界核心已认主...新天道诞生...】'",
+        "background_music": "史诗震撼",
+        "sound_effects": "能量爆发声"
+      },
+      "editing": {
+        "transition": "特写强化",
+        "pacing": "moderate"
+      },
+      "notes": "真相大白：陆尘是天命之子"
+    },
+    {
+      "shot_id": "EP20-S011",
+      "chapter_number": 20,
+      "scene_number": 11,
+      "duration": 15,
+      "shot_type": "特写+全景",
+      "location": "东海海底",
+      "time_of_day": "夜晚",
+      "composition": "立方体射光分解右使。冰冷声音响起。立方体要回收陆尘。顾玄阻挡失败",
+      "characters": [
+        {
+          "name": "右使",
+          "action": "被立方体分解",
+          "expression": "绝望恐惧",
+          "costume": "华丽魔教服"
+        },
+        {
+          "name": "黑色立方体",
+          "action": "发出光芒，伸触手",
+          "expression": "冰冷",
+          "costume": "黑色立方体"
+        },
+        {
+          "name": "顾玄",
+          "action": "阻挡触手",
+          "expression": "决绝",
+          "costume": "青云宗道袍"
+        },
+        {
+          "name": "冰冷声音",
+          "action": "响起",
+          "expression": "无感情",
+          "costume": "声音"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "立方体射出光芒，右使身体分解消散。立方体传出冰冷声音。机械触手伸出抓向陆尘，无视防御穿透顾玄身体。天魔系统启动最终防御",
+        "color_grading": "冰冷机械"
+      },
+      "audio": {
+        "dialogue": "右使：'不！！！' （扑向陆尘）立方体射光：'大人！为什么？！我一直忠诚于...' （分解消散）冰冷声音：'试验场Z-73清理完成...开始回收数据...' （触手抓向陆尘）'回收样本...' 顾玄：'休想！' （被穿透）冰冷声音：'试验场？！' 系统音：'【检测到非法入侵！启动最终防御！】【授权使用：管理员最高权限！】【执行：格式化攻击！】'",
+        "background_music": "史诗紧张",
+        "sound_effects": "分解声，机械声"
+      },
+      "editing": {
+        "transition": "快速剪辑",
+        "pacing": "fast"
+      },
+      "notes": "真相揭露：试验场，管理员身份"
+    },
+    {
+      "shot_id": "EP20-S012",
+      "chapter_number": 20,
+      "scene_number": 12,
+      "duration": 12,
+      "shot_type": "全景+特效",
+      "location": "东海海底",
+      "time_of_day": "夜晚",
+      "composition": "天魔剑爆发出前所未有的光芒。与机械触手碰撞。整个海底被照亮，空间破碎，立方体消失",
+      "characters": [
+        {
+          "name": "顾玄",
+          "action": "天魔剑爆发",
+          "expression": "决绝",
+          "costume": "青云宗道袍，沐浴光芒中"
+        },
+        {
+          "name": "黑色立方体",
+          "action": "与剑碰撞，消失",
+          "expression": "无",
+          "costume": "黑色立方体"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "天魔剑爆发出前所未有的光芒，整个海底被照亮。空间破碎，时间紊乱。立方体与剑碰撞后消失。光芒散去，陆尘昏迷但核心还在。顾玄瘫倒在地。系统界面：【最终防御执行完毕...】【系统严重受损...进入休眠状态...】【剩余能量：0%...功德：0...功能大部分禁用...】",
+        "color_grading": "耀眼光芒"
+      },
+      "audio": {
+        "dialogue": "系统音：'【检测到非法入侵！启动最终防御！】【授权使用：管理员最高权限！】【执行：格式化攻击！】' （剑爆发，碰撞）'轰！！！' （光芒散去）系统音：'【最终防御执行完毕...】【系统严重受损...进入休眠状态...】【剩余能量：0%...功德：0...功能大部分禁用...】' 顾玄：'（苦笑）原来我折腾这么久...是在给真主角当保姆啊...'",
+        "background_music": "史诗震撼",
+        "sound_effects": "碰撞轰鸣声"
+      },
+      "editing": {
+        "transition": "缓慢镜头",
+        "pacing": "slow"
+      },
+      "notes": "史诗高潮：最终防御，系统休眠"
+    },
+    {
+      "shot_id": "EP20-S013",
+      "chapter_number": 20,
+      "scene_number": 13,
+      "duration": 10,
+      "shot_type": "中景",
+      "location": "青云宗",
+      "time_of_day": "白天",
+      "composition": "各宗修士赶来。顾玄简单说明。陆尘苏醒但不知情。各宗欢庆",
+      "characters": [
+        {
+          "name": "顾玄",
+          "action": "强撑起身",
+          "expression": "疲惫但坚定",
+          "costume": "青云宗道袍"
+        },
+        {
+          "name": "各宗修士",
+          "action": "赶来询问",
+          "expression": "担忧→欢呼",
+          "costume": "各宗服饰"
+        },
+        {
+          "name": "陆尘",
+          "action": "悠悠转醒",
+          "expression": "茫然",
+          "costume": "青云宗弟子服"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "无特效，恢复平静。陆尘体内世界核心沉睡的微光",
+        "color_grading": "明亮平静"
+      },
+      "audio": {
+        "dialogue": "各宗：'顾前辈！您没事吧？''魔教呢？被消灭了吗？''刚才那道光是怎么回事？' 顾玄：'危机暂时解除...先回去再说。' （陆尘转醒）陆尘：'（茫然）我...怎么了？' 各宗欢庆：'胜利了！' 顾玄（内心OS）：'但我知道，真正的危机才刚刚开始...'",
+        "background_music": "从紧张到温暖",
+        "sound_effects": "欢呼声"
+      },
+      "editing": {
+        "transition": "流畅剪辑",
+        "pacing": "moderate"
+      },
+      "notes": "暂时胜利，但埋下伏笔"
+    },
+    {
+      "shot_id": "EP20-S014",
+      "chapter_number": 20,
+      "scene_number": 14,
+      "duration": 12,
+      "shot_type": "中景+特写",
+      "location": "青云宗→不可见维度",
+      "time_of_day": "夜晚",
+      "composition": "顾玄思考未知威胁。立方体生成报告。顾玄决定继续特效玩家之路",
+      "characters": [
+        {
+          "name": "顾玄",
+          "action": "思考，眼神坚定",
+          "expression": "从迷茫到坚定",
+          "costume": "青云宗道袍"
+        },
+        {
+          "name": "黑色立方体",
+          "action": "在不可见维度生成报告",
+          "expression": "冰冷",
+          "costume": "黑色立方体"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "顾玄看着沉睡的系统界面。立方体在不可见维度生成报告可视化。系统界面大部分功能灰色不可用",
+        "color_grading": "悬疑暗调"
+      },
+      "audio": {
+        "dialogue": "顾玄：'那个立方体是什么？为什么称这个世界为试验场？天魔系统来自哪里？还有多少未知的威胁？' （眼神坚定）'不管你们是什么...敢来我的地盘搞事...就让你们见识下，什么叫特效玩家的愤怒！' （但...）'系统休眠了...以后装逼得全靠自己了？等等！那我是不是可以...退休了？' （眼睛一亮）立方体报告：'【试验场Z-73：异常】【变量：未知管理员介入】【建议：加大观测力度...】【新试验场准备中...】'",
+        "background_music": "从悬疑到激昂",
+        "sound_effects": "系统提示音"
+      },
+      "editing": {
+        "transition": "场景交替",
+        "pacing": "moderate"
+      },
+      "notes": "结尾钩子：试验场真相，第二卷伏笔"
+    },
+    {
+      "shot_id": "EP20-S015",
+      "chapter_number": 20,
+      "scene_number": 15,
+      "duration": 15,
+      "shot_type": "全景+字幕",
+      "location": "青云宗观星台",
+      "time_of_day": "夜晚",
+      "composition": "顾玄站在观星台上，仰望星空。系统休眠界面显示。字幕：本章完，下章预告",
+      "characters": [
+        {
+          "name": "顾玄",
+          "action": "仰望星空",
+          "expression": "坚定期待",
+          "costume": "青云宗道袍"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "星空璀璨。系统界面显示休眠状态。字幕叠加：【本章完】【下一章预告：第二十一章：版本更新 - 系统更新至V3.0,管理员记忆恢复,跨世界冒险开始】",
+        "color_grading": "夜空蓝，星光"
+      },
+      "audio": {
+        "dialogue": "旁白：'真正的故事，才刚刚开始...' （字幕）'【本章完】''【下一章预告：第二十一章：版本更新 - 系统更新至V3.0,管理员记忆恢复,跨世界冒险开始】'",
+        "background_music": "激昂史诗→悬念",
+        "sound_effects": "夜风声，星光音效"
+      },
+      "editing": {
+        "transition": "缓慢淡出",
+        "pacing": "slow"
+      },
+      "notes": "章节结尾，为第二卷铺垫"
     }
-  },
-  {
-    "shot_id": "EP20-S016",
-    "chapter_number": 20,
-    "scene_number": 16,
-    "duration": 6,
-    "shot_type": "特写",
-    "location": "看不见的维度",
-    "time_of_day": "无",
-    "composition": {
-      "camera_position": "立方体视角",
-      "camera_movement": "固定镜头",
-      "framing": "中心构图",
-      "focus_type": "界面清晰"
-    },
-    "characters": [],
-    "visual_effects": {
-      "environment": "黑暗维度",
-      "lighting": "立方体发光",
-      "color_palette": "科幻蓝",
-      "special_effects": "立方体在虚空中重新凝聚,生成报告界面"
-    },
-    "audio": {
-      "dialogue": "",
-      "narration": "",
-      "internal_monologue": "",
-      "background_music": "科幻悬疑",
-      "sound_effects": ["机械重组声"],
-      "volume_level": "音效突出"
-    },
-    "editing": {
-      "transition_to_next": "直接切",
-      "pacing": "中等",
-      "purpose": "彩蛋铺垫"
-    },
-    "notes": {
-      "production_note": "需要CG制作立方体重组",
-      "reference_style": "科幻悬疑",
-      "difficulty_level": "简单"
-    }
-  },
-  {
-    "shot_id": "EP20-S017",
-    "chapter_number": 20,
-    "scene_number": 17,
-    "duration": 6,
-    "shot_type": "特写",
-    "location": "看不见的维度",
-    "time_of_day": "无",
-    "composition": {
-      "camera_position": "立方体视角",
-      "camera_movement": "固定镜头",
-      "framing": "中心构图",
-      "focus_type": "界面清晰"
-    },
-    "characters": [],
-    "visual_effects": {
-      "environment": "黑暗维度",
-      "lighting": "立方体发光",
-      "color_palette": "科幻蓝",
-      "special_effects": "立方体生成报告界面"
-    },
-    "audio": {
-      "dialogue": "",
-      "narration": "",
-      "internal_monologue": "",
-      "background_music": "科幻悬疑",
-      "sound_effects": ["机械生成声"],
-      "volume_level": "音效突出"
-    },
-    "editing": {
-      "transition_to_next": "淡出",
-      "pacing": "缓慢",
-      "purpose": "彩蛋,埋下伏笔"
-    },
-    "notes": {
-      "production_note": "需要CG制作报告界面",
-      "reference_style": "科幻悬疑",
-      "difficulty_level": "简单"
-    }
-  }
-]
+  ]
+}

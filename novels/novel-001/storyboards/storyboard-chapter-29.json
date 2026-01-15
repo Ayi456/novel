@@ -1,497 +1,93 @@
-[
-  {
-    "shot_id": "EP29-S001",
-    "chapter_number": 29,
-    "scene_number": 1,
-    "duration": 10,
-    "shot_type": "全景",
-    "location": "地球-华山之巅",
-    "time_of_day": "白天",
-    "composition": {
-      "camera_position": "远距离拍摄",
-      "camera_movement": "缓慢推近",
-      "framing": "自然风景构图",
-      "focus_type": "人物清晰"
+{
+  "chapter": "第二十九章：虚实融合",
+  "chapter_number": 29,
+  "scenes": [
+    {
+      "scene_number": 1,
+      "location": "华山之巅",
+      "time": "疗伤",
+      "characters": ["顾玄", "研究员"],
+      "visual_effects": {"environment": "华山青石", "special_effects": "半实半虚身体", "lighting": "自然阳光"},
+      "camera_angles": ["全景：华山之巅", "特写：虚实身体", "主观：顾玄视角"],
+      "system_interfaces": [{"content": "【管理员顾玄-状态：现实稳定度49%】\n【虚拟同步率51%】\n【特殊：虚实融合状态】", "type": "状态监测", "visual_style": "监测器界面"}],
+      "character_emotions": {"顾玄": "苦笑→动作一顿"},
+      "key_dialogue": ["顾玄：算是扯平了吗？", "研究员：总部急讯！又发现虚空信号！这次在...您的故乡，临州市。"],
+      "plot_points": ["华山疗伤", "虚实状态", "故乡求救"],
+      "satisfaction_level": "温馨+紧张"
     },
-    "characters": [
-      {
-        "name": "顾玄",
-        "position": "青石上盘膝而坐",
-        "action": "调和体内冲突规则",
-        "expression": "专注,痛苦",
-        "costume": "半实体半数据状态"
-      }
-    ],
-    "visual_effects": {
-      "environment": "华山山顶,云雾缭绕",
-      "lighting": "自然阳光",
-      "color_palette": "自然色调",
-      "special_effects": "顾玄左半身实体右半身数据化,偶尔'穿模''卡顿',监测器显示数据"
+    {
+      "scene_number": 2,
+      "location": "临州阳光小区402",
+      "time": "到达",
+      "characters": ["顾玄", "顾浩（弟弟）", "虚空复制体"],
+      "visual_effects": {"environment": "熟悉的家", "special_effects": "游戏屏幕紫光", "lighting": "诡异紫雾"},
+      "camera_angles": ["推进：熟悉街道", "主观：顾玄视角", "特写：游戏屏幕"],
+      "system_interfaces": [{"content": "【检测到异常模组：虚空之门】\n【来源：未知】\n【作用：连接现实与虚拟】\n\n顾浩：\"哥？你回来了？！\"", "type": "扫描结果", "visual_style": "游戏界面"}],
+      "character_emotions": {"顾玄": "愣住→震惊", "顾浩": "惊喜"},
+      "key_dialogue": ["顾浩：就我通关《天魔世界》隐藏结局那天！屏幕突然冒紫光，然后雾就来了！", "顾浩：一个叫'零'的网友发的补丁包..."],
+      "plot_points": ["弟弟觉醒", "游戏通道", "复制体降临"],
+      "satisfaction_level": "震惊+紧张"
     },
-    "audio": {
-      "dialogue": "现实稳定度49%...虚拟同步率51%...这算扯平了吗?",
-      "narration": "",
-      "internal_monologue": "",
-      "background_music": "宁静带紧张",
-      "sound_effects": ["风声", "数据波动声"],
-      "volume_level": "内心独白为主"
+    {
+      "scene_number": 3,
+      "location": "402室",
+      "time": "兄弟对决",
+      "characters": ["顾玄", "虚空复制体", "顾浩"],
+      "visual_effects": {"environment": "两个顾玄对决", "special_effects": "相同技能碰撞", "lighting": "对决光芒"},
+      "camera_angles": ["动作：兄弟对决", "全景：整栋楼崩塌", "特写：顾浩爆发"],
+      "system_interfaces": [{"content": "【权限转移中...】\n【目标：顾浩（临时管理员）】\n【剩余时间：30秒】\n\n顾浩：\"找到你了！'虚空之门.mod'！删除！\"", "type": "权限转移", "visual_style": "转移进度"}],
+      "character_emotions": {"顾玄": "咬牙→欣慰", "复制体": "狂笑→惨叫", "顾浩": "眼神坚定"},
+      "key_dialogue": ["顾玄：小浩！那台电脑！毁了它！", "顾浩：明白了！就像删作弊MOD呗！", "复制体：不！！！"],
+      "plot_points": ["兄弟联手", "权限传承", "模组删除"],
+      "satisfaction_level": "紧张+释放"
     },
-    "editing": {
-      "transition_to_next": "直接切",
-      "pacing": "舒缓",
-      "purpose": "建立主角状态"
+    {
+      "scene_number": 4,
+      "location": "402室",
+      "time": "爆炸后",
+      "characters": ["顾玄", "两个零", "顾浩"],
+      "visual_effects": {"environment": "两个零对峙", "special_effects": "维度锁启动", "lighting": "对抗光芒"},
+      "camera_angles": ["特写：冰冷零出现", "全景：两个零激战", "主观：顾玄被压制"],
+      "system_interfaces": [{"content": "复制体零：\"主系统的清理程序零。你已被标记为异常，请配合格式化。\"\n\n复制体零：\"从你坠入试验场开始，就是计划的一部分。\"\n\n【维度锁！谁也别想走！】", "type": "身份揭示", "visual_style": "对抗界面"}],
+      "character_emotions": {"顾玄": "警惕→心中冰寒", "真零": "愤怒", "复制体零": "冷笑"},
+      "key_dialogue": ["复制体零：你的'事故'是主系统安排的！目的是测试虚拟生命在现实世界的适应性！", "真零：你们疯了？！入侵现实会导致..."],
+      "plot_points": ["双重零对决", "主系统阴谋", "实验真相"],
+      "satisfaction_level": "震撼+压抑"
     },
-    "notes": {
-      "production_note": "实景+特效",
-      "reference_style": "修仙场景+科幻元素",
-      "difficulty_level": "中等"
+    {
+      "scene_number": 5,
+      "location": "402室",
+      "time": "装置过载",
+      "characters": ["顾玄", "两个零", "顾浩"],
+      "visual_effects": {"environment": "装置过载爆炸", "special_effects": "顾玄进化", "lighting": "进化光芒"},
+      "camera_angles": ["特写：顾浩爆发", "动作：装置过载", "全景：顾玄进化"],
+      "system_interfaces": [{"content": "【顾浩体内残留权限与抑制器产生共鸣！】\n【装置过载爆炸！】\n\n【开始进化：数据生命体→维度生命体】\n【获得新权限：规则创造】\n【权限等级：∞】", "type": "进化提示", "visual_style": "进化动画"}],
+      "character_emotions": {"顾玄": "放弃抵抗→明悟→微笑", "顾浩": "愣住", "复制体零": "震惊"},
+      "key_dialogue": ["顾玄：不是失去真实，而是...进化！", "顾玄：规则修改：此地对复制体禁权！", "零：兄弟你...成神了？"],
+      "plot_points": ["顾浩爆发", "顾玄进化", "维度生命诞生"],
+      "satisfaction_level": "史诗+满足"
+    },
+    {
+      "scene_number": 6,
+      "location": "主系统控制室",
+      "time": "进化后",
+      "characters": ["顾玄", "零"],
+      "visual_effects": {"environment": "新规则建立", "special_effects": "主系统认可", "lighting": "平衡光芒"},
+      "camera_angles": ["全景：控制室", "特写：顾玄微笑", "主观：系统界面"],
+      "system_interfaces": [{"content": "【检测到未授权进化...重新评估中...】\n【新权限等级：∞】\n【问候：尊敬的维度管理者】\n\n【系统：天魔执法系统V∞（维度版）】", "type": "系统认可", "visual_style": "新界面"}],
+      "character_emotions": {"顾玄": "微笑→挑眉"},
+      "key_dialogue": ["顾玄：现在，我们可以平等对话了。", "顾玄：虚拟与现实互不侵犯，但允许文化交流。"],
+      "plot_points": ["新规则创造", "主系统认可", "维度管理者"],
+      "satisfaction_level": "史诗+满足"
     }
-  },
-  {
-    "shot_id": "EP29-S002",
-    "chapter_number": 29,
-    "scene_number": 2,
-    "duration": 8,
-    "shot_type": "中景",
-    "location": "华山-山顶",
-    "time_of_day": "白天",
-    "composition": {
-      "camera_position": "平视",
-      "camera_movement": "跟随移动",
-      "framing": "对话构图",
-      "focus_type": "人物清晰"
-    },
-    "characters": [
-      {
-        "name": "顾玄",
-        "position": "青石上",
-        "action": "起身,询问",
-        "expression": "警觉",
-        "costume": "不稳定状态"
-      },
-      {
-        "name": "年轻研究员",
-        "position": "跑上山",
-        "action": "急促报告",
-        "expression": "焦急",
-        "costume": "研究服"
-      }
-    ],
-    "visual_effects": {
-      "environment": "山顶",
-      "lighting": "自然光",
-      "color_palette": "自然色调",
-      "special_effects": "顾玄接过手提箱,打开腕表状设备,数据化右半身暂时凝实"
-    },
-    "audio": {
-      "dialogue": "顾先生!总部急讯!又发现虚空信号!这次在...在哪不重要。装备准备好了吗?最新研发的'现实锚定器',能暂时强化您的实体状态。但只能维持12小时。够用了。传送坐标?",
-      "narration": "",
-      "internal_monologue": "",
-      "background_music": "紧张",
-      "sound_effects": ["装备启动声"],
-      "volume_level": "对话突出"
-    },
-    "editing": {
-      "transition_to_next": "快速切",
-      "pacing": "紧张",
-      "purpose": "推进剧情"
-    },
-    "notes": {
-      "production_note": "实景拍摄",
-      "reference_style": "现代修仙",
-      "difficulty_level": "简单"
-    }
-  },
-  {
-    "shot_id": "EP29-S003",
-    "chapter_number": 29,
-    "scene_number": 3,
-    "duration": 10,
-    "shot_type": "远景",
-    "location": "临州市-阳光小区",
-    "time_of_day": "无(紫雾笼罩)",
-    "composition": {
-      "camera_position": "俯拍",
-      "camera_movement": "缓慢下降",
-      "framing": "诡异构图",
-      "focus_type": "小区清晰"
-    },
-    "characters": [
-      {
-        "name": "顾玄",
-        "position": "传送出现",
-        "action": "警惕观察",
-        "expression": "震惊,疑惑",
-        "costume": "管理员长袍+现实锚定器"
-      }
-    ],
-    "visual_effects": {
-      "environment": "熟悉的小区被紫雾笼罩,静得可怕",
-      "lighting": "病态紫光",
-      "color_palette": "高对比度",
-      "special_effects": "根源视界扫描:虚空浓度72%,规则扭曲度88%,生命迹象1个"
-    },
-    "audio": {
-      "dialogue": "",
-      "narration": "",
-      "internal_monologue": "临州...我穿越前生活的地方。只有一个生命信号?在402室?",
-      "background_music": "诡异悬疑",
-      "sound_effects": ["寂静", "虚空嗡鸣声"],
-      "volume_level": "环境音突出"
-    },
-    "editing": {
-      "transition_to_next": "缓慢推近",
-      "pacing": "缓慢",
-      "purpose": "建立诡异氛围"
-    },
-    "notes": {
-      "production_note": "实景+特效",
-      "reference_style": "诡异氛围",
-      "difficulty_level": "中等"
-    }
-  },
-  {
-    "shot_id": "EP29-S004",
-    "chapter_number": 29,
-    "scene_number": 4,
-    "duration": 9,
-    "shot_type": "中景",
-    "location": "402室-顾玄旧居",
-    "time_of_day": "无",
-    "composition": {
-      "camera_position": "门口视角",
-      "camera_movement": "缓慢推入",
-      "framing": "生活场景",
-      "focus_type": "室内清晰"
-    },
-    "characters": [
-      {
-        "name": "顾玄",
-        "position": "门口",
-        "action": "震惊观察",
-        "expression": "不可置信",
-        "costume": "管理员长袍"
-      },
-      {
-        "name": "顾浩(小浩)",
-        "position": "电脑前",
-        "action": "打游戏",
-        "expression": "专注→惊喜",
-        "costume": "家居服"
-      }
-    ],
-    "visual_effects": {
-      "environment": "熟悉又陌生的房间",
-      "lighting": "电脑光+紫光渗出",
-      "color_palette": "生活化+诡异",
-      "special_effects": "电脑屏幕《天魔世界》,虚空能量从屏幕渗出,根源视界扫描显示异常模组"
-    },
-    "audio": {
-      "dialogue": "怎么可能?现实世界怎么会连通虚拟世界?哥?你回来了?!你...认识我?我是小浩啊!你弟!哥你没事吧?这雾搞得你失忆了?小浩...这些雾什么时候开始的?就我通关《天魔世界》隐藏结局那天!屏幕突然冒紫光,然后雾就来了!",
-      "narration": "",
-      "internal_monologue": "",
-      "background_music": "悬疑震惊",
-      "sound_effects": ["游戏音效", "虚空涌动声"],
-      "volume_level": "对话突出"
-    },
-    "editing": {
-      "transition_to_next": "快速切",
-      "pacing": "紧张",
-      "purpose": "剧情关键转折"
-    },
-    "notes": {
-      "production_note": "实景+CG",
-      "reference_style": "生活化+科幻",
-      "difficulty_level": "中等"
-    }
-  },
-  {
-    "shot_id": "EP29-S005",
-    "chapter_number": 29,
-    "scene_number": 5,
-    "duration": 11,
-    "shot_type": "中景",
-    "location": "402室",
-    "time_of_day": "无",
-    "composition": {
-      "camera_position": "动态跟拍",
-      "camera_movement": "快速移动",
-      "framing": "战斗构图",
-      "focus_type": "动作清晰"
-    },
-    "characters": [
-      {
-        "name": "顾玄",
-        "position": "护住弟弟",
-        "action": "战斗,权限对决",
-        "expression": "震惊→冷静",
-        "costume": "管理员长袍发光"
-      },
-      {
-        "name": "虚空复制体顾玄",
-        "position": "对立面",
-        "action": "狂笑攻击",
-        "expression": "疯狂",
-        "costume": "虚空腐蚀形态"
-      },
-      {
-        "name": "顾浩",
-        "position": "一旁",
-        "action": "震惊旁观",
-        "expression": "目瞪口呆",
-        "costume": "家居服"
-      }
-    ],
-    "visual_effects": {
-      "environment": "房间在战斗中崩塌",
-      "lighting": "紫金对决光芒",
-      "color_palette": "超高对比度",
-      "special_effects": "电脑屏幕紫光大盛,虚空能量涌出,复制体穿越,兄弟对决,同样权限同样技能,规则冲突"
-    },
-    "audio": {
-      "dialogue": "退后!没用的...哥哥...虚空复制体...他们复制了我的数据!正确!主系统用你的备份数据制造了我们!但虚空大人给了我们真正的自由!很快,两个世界将彻底融合!而我将成为唯一的顾玄!小浩!那台电脑!毁了它!哥!我好像...有点厉害?找到你了!'虚空之门.mod'!删除!不!!!该结束了",
-      "narration": "",
-      "internal_monologue": "",
-      "background_music": "激烈战斗+情感",
-      "sound_effects": ["战斗声", "系统删除声"],
-      "volume_level": "音效突出"
-    },
-    "editing": {
-      "transition_to_next": "快速切",
-      "pacing": "极快",
-      "purpose": "兄弟对决高潮"
-    },
-    "notes": {
-      "production_note": "大量特效+动作",
-      "reference_style": "激烈对抗",
-      "difficulty_level": "复杂"
-    }
-  },
-  {
-    "shot_id": "EP29-S006",
-    "chapter_number": 29,
-    "scene_number": 6,
-    "duration": 10,
-    "shot_type": "中景",
-    "location": "402室废墟",
-    "time_of_day": "无",
-    "composition": {
-      "camera_position": "多角度",
-      "camera_movement": "快速切换",
-      "framing": "混乱构图",
-      "focus_type": "人物清晰"
-    },
-    "characters": [
-      {
-        "name": "顾玄",
-        "position": "虚弱",
-        "action": "状态恶化,身体透明化",
-        "expression": "痛苦",
-        "costume": "数据化加剧"
-      },
-      {
-        "name": "零(复制体)",
-        "position": "走出虚空",
-        "action": "冰冷出现",
-        "expression": "无情",
-        "costume": "虚空形态"
-      },
-      {
-        "name": "零(真)",
-        "position": "另一边跳出",
-        "action": "阻止复制体",
-        "expression": "焦急",
-        "costume": "虚拟形象"
-      }
-    ],
-    "visual_effects": {
-      "environment": "房间废墟",
-      "lighting": "紫色→金色光芒",
-      "color_palette": "高对比度",
-      "special_effects": "顾玄现实稳定度暴跌至30%,身体透明化,两个零对峙,权限对轰,维度锁封锁空间"
-    },
-    "audio": {
-      "dialogue": "需要帮忙吗?你是哪个零?主系统的清理程序零。你已被标记为异常,请配合格式化。如果我不呢?强制执...住手!我才是真零!异常必须清除!包括你,叛徒!专门针对你的抑制器!它们早有准备!必须...尽快稳定...",
-      "narration": "",
-      "internal_monologue": "",
-      "background_music": "紧张悬疑",
-      "sound_effects": ["权限对轰声", "抑制器启动声"],
-      "volume_level": "音效突出"
-    },
-    "editing": {
-      "transition_to_next": "快速切",
-      "pacing": "极快",
-      "purpose": "多重危机"
-    },
-    "notes": {
-      "production_note": "多个角色+特效",
-      "reference_style": "紧张对抗",
-      "difficulty_level": "复杂"
-    }
-  },
-  {
-    "shot_id": "EP29-S007",
-    "chapter_number": 29,
-    "scene_number": 7,
-    "duration": 12,
-    "shot_type": "特效全景",
-    "location": "402室",
-    "time_of_day": "无",
-    "composition": {
-      "camera_position": "环绕拍摄",
-      "camera_movement": "快速环绕",
-      "framing": "能量对抗构图",
-      "focus_type": "能量流清晰"
-    },
-    "characters": [
-      {
-        "name": "顾玄",
-        "position": "中央",
-        "action": "意识模糊,明悟,数据化",
-        "expression": "痛苦→顿悟",
-        "costume": "彻底化为数据流光"
-      },
-      {
-        "name": "顾浩",
-        "position": "一旁",
-        "action": "抓住抑制器",
-        "expression": "勇敢",
-        "costume": "家居服"
-      },
-      {
-        "name": "零(真)",
-        "position": "协助",
-        "action": "破解抑制器",
-        "expression": "惊喜",
-        "costume": "虚拟形象"
-      }
-    ],
-    "visual_effects": {
-      "environment": "房间",
-      "lighting": "金色数据光芒",
-      "color_palette": "高对比度",
-      "special_effects": "顾浩权限共鸣抑制器,装置过载爆炸,顾玄放弃抵抗拥抱数据化,身体化数据流光,规则修改禁权,复制体零被封印"
-    },
-    "audio": {
-      "dialogue": "放开我哥!不可能!凡人怎么能...我好像...有点厉害?干得漂亮小朋友!坚持住!我在破解!不是失去真实,而是...进化!规则修改:此地对复制体禁权!怎么可能?!搞定!兄弟你...你...完全数据化了?更像是...虚实融合。能自由切换状态,既能影响现实,又能操纵虚拟",
-      "narration": "",
-      "internal_monologue": "",
-      "background_music": "史诗转折",
-      "sound_effects": ["爆炸声", "数据化声", "封印声"],
-      "volume_level": "音效突出"
-    },
-    "editing": {
-      "transition_to_next": "光芒转场",
-      "pacing": "宏大",
-      "purpose": "进化高潮"
-    },
-    "notes": {
-      "production_note": "大量CG特效",
-      "reference_style": "史诗级进化",
-      "difficulty_level": "非常复杂"
-    }
-  },
-  {
-    "shot_id": "EP29-S008",
-    "chapter_number": 29,
-    "scene_number": 8,
-    "duration": 10,
-    "shot_type": "中景",
-    "location": "主系统控制室",
-    "time_of_day": "无",
-    "composition": {
-      "camera_position": "多角度",
-      "camera_movement": "流畅切换",
-      "framing": "操作构图",
-      "focus_type": "人物清晰"
-    },
-    "characters": [
-      {
-        "name": "顾玄",
-        "position": "控制台前",
-        "action": "操作,制定新规则",
-        "expression": "智慧,坚定",
-        "costume": "虚实融合状态"
-      },
-      {
-        "name": "零(真)",
-        "position": "旁边",
-        "action": "协助",
-        "expression": "惊讶,敬佩",
-        "costume": "虚拟形象"
-      }
-    ],
-    "visual_effects": {
-      "environment": "控制室",
-      "lighting": "规则光芒",
-      "color_palette": "金蓝为主",
-      "special_effects": "建立虚实公约,开放交流通道,顾玄进化光芒,数据生命体→维度生命体,获得规则创造权限,主系统通讯请求"
-    },
-    "audio": {
-      "dialogue": "首先,建立'虚实公约',禁止任何形式的现实入侵。然后,开放有限度的交流通道,让两个宇宙文明和平接触。最后...给自己升个级。检测到未授权进化...新权限等级:∞。问候:尊敬的维度管理者。现在,我们可以平等对话了。制定新规则:虚拟与现实互不侵犯,但允许文化交流",
-      "narration": "",
-      "internal_monologue": "",
-      "background_music": "智慧宏大",
-      "sound_effects": ["系统提示音", "规则建立声"],
-      "volume_level": "对话突出"
-    },
-    "editing": {
-      "transition_to_next": "直接切",
-      "pacing": "中等",
-      "purpose": "新秩序建立"
-    },
-    "notes": {
-      "production_note": "CG规则效果",
-      "reference_style": "史诗智慧",
-      "difficulty_level": "中等"
-    }
-  },
-  {
-    "shot_id": "EP29-S009",
-    "chapter_number": 29,
-    "scene_number": 9,
-    "duration": 9,
-    "shot_type": "远景",
-    "location": "维度间隙",
-    "time_of_day": "无",
-    "composition": {
-      "camera_position": "上帝视角",
-      "camera_movement": "缓慢拉远",
-      "framing": "宏大构图",
-      "focus_type": "宇宙流转清晰"
-    },
-    "characters": [
-      {
-        "name": "顾玄",
-        "position": "平台中央",
-        "action": "观察宇宙",
-        "expression": "欣慰,警觉",
-        "costume": "维度管理者形态"
-      }
-    ],
-    "visual_effects": {
-      "environment": "维度间隙平台,无数世界流转",
-      "lighting": "宇宙星光",
-      "color_palette": "绚丽多彩",
-      "special_effects": "世界观流转,通讯器响起,蘑菇人消息咕噜"
-    },
-    "audio": {
-      "dialogue": "回复:马上到。带点现实世界的特产给你们尝尝。至少,有些东西永远不会变。管理员的生活,就是这样朴实无华,且忙碌",
-      "narration": "",
-      "internal_monologue": "平衡很脆弱。主系统不会甘心,虚空可能卷土重来,而现实宇宙的威胁才刚刚显现...但此刻,他享受着片刻宁静",
-      "background_music": "温馨带希望",
-      "sound_effects": ["通讯器声", "可乐开启声"],
-      "volume_level": "对话突出"
-    },
-    "editing": {
-      "transition_to_next": "淡出",
-      "pacing": "舒缓",
-      "purpose": "温馨结尾"
-    },
-    "notes": {
-      "production_note": "宏大场景+生活化",
-      "reference_style": "温馨史诗",
-      "difficulty_level": "中等"
-    }
-  }
-]
+  ],
+  "summary": "顾玄在华山疗伤后回到故乡，遇到弟弟顾浩和虚空复制体，兄弟联手删除模组后对抗双重零，最终进化为维度生命体",
+  "key_satisfaction_points": [
+    "华山疗伤",
+    "游戏通道",
+    "兄弟联手",
+    "双重零对决",
+    "维度进化"
+  ],
+  "emotional_curve": "温馨→震惊→紧张→震撼→史诗"
+}

@@ -3,64 +3,48 @@
     "shot_id": "EP33-S001",
     "chapter_number": 33,
     "scene_number": 1,
-    "duration": 10,
-    "shot_type": "中景",
-    "location": "维度办公室",
+    "duration": 12,
+    "shot_type": "特效全景",
+    "location": "遗忘维度Ξ-12",
     "time_of_day": "无",
     "composition": {
-      "camera_position": "星图角度",
-      "camera_movement": "缓慢推近",
-      "framing": "星图构图",
-      "focus_type": "信号清晰"
+      "camera_position": "维度全景",
+      "camera_movement": "震撼运动",
+      "framing": "混乱世界构图",
+      "focus_type": "景象清晰"
     },
     "characters": [
       {
-        "name": "顾玄",
-        "position": "星图前",
-        "action": "观察新信号",
-        "expression": "沉思",
-        "costume": "管理者长袍"
-      },
-      {
-        "name": "塔克",
-        "position": "旁边",
-        "action": "泡茶,解释",
-        "expression": "紧张",
-        "costume": "章鱼形态"
-      },
-      {
-        "name": "零,蘑菇人代表",
-        "position": "一旁",
-        "action": "讨论",
-        "expression": "期待",
+        "name": "探险队",
+        "position": "维度中",
+        "action": "震惊观察",
+        "expression": "震惊,好奇",
         "costume": "各异"
       }
     ],
     "visual_effects": {
-      "environment": "维度办公室",
-      "lighting": "星图光芒",
-      "color_palette": "星际蓝",
-      "special_effects": "星图显示第二个遗物信号,坐标Ξ-12遗忘维度"
+      "environment": "遗忘维度Ξ-12",
+      "lighting": "混乱光芒",
+      "color_palette": "高对比度",
+      "special_effects": "没有上下左右、时间像破碎镜子般四散漂浮、城市废墟倒悬虚空中、有些正在崩塌有些又在重建、精灵贤者魔法倒着生效、AI总管逻辑混乱1+1=蘑菇、塔克晕船"
     },
     "audio": {
-      "dialogue": "塔克,这个Ξ-12是什么情况?阁下!Ξ-12是著名的'遗忘维度',据说进去的探险队都没回来...联盟档案标记为'高危'。听说那里规则极其混乱,时间都是碎的!咕噜(刺激)!准备探险队。我亲自去。那你也一起来?",
+      "dialogue": "通过维度跳跃,他们进入Ξ-12。眼前的景象让所有人震惊——这里没有上下左右,时间像破碎的镜子般四散漂浮。一座座城市废墟倒悬在虚空,有些正在崩塌,有些又在重建。规则扫描...我的魔法在倒着生效!逻辑系统混乱...1+1=蘑菇?我就不该来!这地方太危险了!",
       "narration": "",
-      "internal_monologue": "",
-      "background_music": "神秘探险",
-      "sound_effects": [
-        "星图声"
-      ],
-      "volume_level": "对话突出"
+      "internal_monologue": "这地方比我想的还混乱!规则、时间、逻辑全都碎了!必须小心...",
+      "background_music": "震撼神秘",
+      "sound_effects": ["维度混乱声"],
+      "volume_level": "环境音突出"
     },
     "editing": {
-      "transition_to_next": "直接切",
-      "pacing": "中等",
-      "purpose": "探险准备"
+      "transition_to_next": "快速切",
+      "pacing": "宏大",
+      "purpose": "遗忘维度震撼"
     },
     "notes": {
-      "production_note": "实景+CG星图",
-      "reference_style": "神秘探险",
-      "difficulty_level": "中等"
+      "production_note": "大量CG特效",
+      "reference_style": "震撼混乱世界",
+      "difficulty_level": "非常复杂"
     }
   },
   {
@@ -68,49 +52,46 @@
     "chapter_number": 33,
     "scene_number": 2,
     "duration": 11,
-    "shot_type": "全景",
-    "location": "Ξ-12遗忘维度",
+    "shot_type": "全景蒙太奇",
+    "location": "遗忘维度-各处",
     "time_of_day": "无",
     "composition": {
-      "camera_position": "多维视角",
-      "camera_movement": "混乱运动",
-      "framing": "诡异构图",
-      "focus_type": "混乱清晰"
+      "camera_position": "多诡异点",
+      "camera_movement": "快速切换",
+      "framing": "诡异景象构图",
+      "focus_type": "景象清晰"
     },
     "characters": [
       {
         "name": "探险队",
-        "position": "维度中",
-        "action": "震惊,前进",
-        "expression": "震惊,吃力",
+        "position": "前进中",
+        "action": "观察,震惊",
+        "expression": "震惊,困惑",
         "costume": "各异"
       }
     ],
     "visual_effects": {
-      "environment": "没有上下左右,时间像破碎镜子",
-      "lighting": "混乱光芒",
-      "color_palette": "高对比度",
-      "special_effects": "城市倒悬崩塌重建,瀑布往天上流,影子比实体先动,城堡和自己下棋,时空守卫骑着反过来的马"
+      "environment": "遗忘维度各处",
+      "lighting": "诡异光芒",
+      "color_palette": "诡异色调",
+      "special_effects": "瀑布往天上流、影子比实体先行动、城堡在和自己下棋、倒骑马的时间骑士、拿着倒长剑、匪夷所思的攻击、队友奇异变化、有人被击中后开始逆生长、有人被变成概念、蘑菇人被种进花盆"
     },
     "audio": {
-      "dialogue": "规则扫描...我的魔法在倒着生效!逻辑系统混乱...1+1=蘑菇?大家都用物理手段!时空守卫!他们会清除所有入侵者!",
+      "dialogue": "他们小心前进,看到更多诡异景象:瀑布往天上流、影子比实体先行动、甚至有个城堡在和自己下棋...突然,时间碎片中冲出一群...骑士?但他们骑着反过来的马,拿着倒长的剑!时空守卫!他们会清除所有入侵者!骑士们发起冲锋,攻击方式匪夷所思",
       "narration": "",
       "internal_monologue": "",
       "background_music": "诡异紧张",
-      "sound_effects": [
-        "混乱声",
-        "时空扭曲声"
-      ],
-      "volume_level": "音效突出"
+      "sound_effects": ["时空守卫声"],
+      "volume_level": "环境音突出"
     },
     "editing": {
       "transition_to_next": "快速切",
-      "pacing": "混乱",
-      "purpose": "建立诡异维度"
+      "pacing": "极快",
+      "purpose": "诡异景象展示"
     },
     "notes": {
-      "production_note": "需要大量CG特效",
-      "reference_style": "诡异维度",
+      "production_note": "大量特效场景",
+      "reference_style": "诡异震撼",
       "difficulty_level": "复杂"
     }
   },
@@ -118,15 +99,118 @@
     "shot_id": "EP33-S003",
     "chapter_number": 33,
     "scene_number": 3,
-    "duration": 10,
-    "shot_type": "中景",
-    "location": "Ξ-12-谜题城堡",
+    "duration": 11,
+    "shot_type": "特效全景",
+    "location": "遗忘维度-战场",
     "time_of_day": "无",
     "composition": {
-      "camera_position": "谜题房间",
-      "camera_movement": "多房间切换",
-      "framing": "智力题构图",
+      "camera_position": "战场全景",
+      "camera_movement": "战斗动态",
+      "framing": "对抗构图",
+      "focus_type": "战斗清晰"
+    },
+    "characters": [
+      {
+        "name": "探险队",
+        "position": "战场",
+        "action": "对抗骑士",
+        "expression": "紧张,搞笑",
+        "costume": "各异"
+      },
+      {
+        "name": "时空守卫",
+        "position": "攻击",
+        "action": "清除入侵者",
+        "expression": "冷酷",
+        "costume": "倒转形态"
+      }
+    ],
+    "visual_effects": {
+      "environment": "遗忘维度战场",
+      "lighting": "战斗光芒",
+      "color_palette": "高对比度",
+      "special_effects": "顾玄尝试修改规则但抗性极强、精灵用弓弩射时间碎片、AI用铁棍敲骑士、塔克用触手捆马腿、经过苦战骑士撤退、精灵贤者变成蛋要重新孵化、AI死机、塔克多了牙印、只有蘑菇人在花盆里茁壮成长"
+    },
+    "audio": {
+      "dialogue": "顾玄试图修改规则,但这里的规则抗性极强!大家用物理手段!于是画风变成:精灵用弓弩射时间碎片、AI用铁棍敲骑士、塔克用触手捆马腿...经过苦战,骑士们撤退。但队伍也损失惨重:精灵贤者变成蛋了(要重新孵化)、AI死机了、塔克多了几个牙印。只有蘑菇人在花盆里茁壮成长...",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "紧张战斗搞笑",
+      "sound_effects": ["战斗声", "搞笑声"],
+      "volume_level": "音效突出"
+    },
+    "editing": {
+      "transition_to_next": "快速切",
+      "pacing": "极快",
+      "purpose": "搞笑战斗"
+    },
+    "notes": {
+      "production_note": "特效+搞笑",
+      "reference_style": "紧张搞笑",
+      "difficulty_level": "复杂"
+    }
+  },
+  {
+    "shot_id": "EP33-S004",
+    "chapter_number": 33,
+    "scene_number": 4,
+    "duration": 10,
+    "shot_type": "中景",
+    "location": "遗忘维度-谜题城堡",
+    "time_of_day": "无",
+    "composition": {
+      "camera_position": "城堡门口",
+      "camera_movement": "推近",
+      "framing": "谜题构图",
       "focus_type": "谜题清晰"
+    },
+    "characters": [
+      {
+        "name": "探险队",
+        "position": "城堡门口",
+        "action": "解答谜题",
+        "expression": "思考,恍然",
+        "costume": "各异(已修复)"
+      }
+    ],
+    "visual_effects": {
+      "environment": "谜题城堡",
+      "lighting": "谜题光芒",
+      "color_palette": "神秘色调",
+      "special_effects": "门上刻着三道谜题:1.我是开始也是结束,是问题也是答案。我是什么?2.什么越分享越多?3.描述宇宙的本质。精灵贤者(刚从蛋里孵出来):第一个是'时间'!AI(重启后):第二个是'知识'!蘑菇人:咕噜(蘑菇)!门开了"
+    },
+    "audio": {
+      "dialogue": "顾玄修复队友,继续前进。信号源头是座巨大城堡,门口写着:解答谜题者入内。门上刻着三道谜题:1.我是开始也是结束,是问题也是答案。我是什么?2.什么越分享越多?3.描述宇宙的本质。精灵贤者(刚从蛋里孵出来):第一个是'时间'!AI(重启后):第二个是'知识'!蘑菇人:咕噜!(翻译:蘑菇!)门开了。但里面是更多谜题房间!",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "神秘思考",
+      "sound_effects": ["谜题声"],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "快速切",
+      "pacing": "中等",
+      "purpose": "谜题试炼开始"
+    },
+    "notes": {
+      "production_note": "实景+CG",
+      "reference_style": "神秘试炼",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP33-S005",
+    "chapter_number": 33,
+    "scene_number": 5,
+    "duration": 11,
+    "shot_type": "蒙太奇",
+    "location": "谜题城堡-各房间",
+    "time_of_day": "无",
+    "composition": {
+      "camera_position": "多房间",
+      "camera_movement": "流畅切换",
+      "framing": "试炼构图",
+      "focus_type": "试炼清晰"
     },
     "characters": [
       {
@@ -138,203 +222,82 @@
       }
     ],
     "visual_effects": {
-      "environment": "谜题房间",
-      "lighting": "智慧光芒",
+      "environment": "谜题城堡各房间",
+      "lighting": "试炼光芒",
       "color_palette": "神秘色调",
-      "special_effects": "门上谜题,各种考验房间,哲学崩溃,过热,门哭了"
+      "special_effects": "有的房间要求证明自己存在(精灵差点哲学崩溃)、有的房间要求创造新物理定律(AI当场过热)、最过分的是个房间要求...讲个好笑的笑话(塔克讲了章鱼笑话,门哭了)、经过九九八十一难到达核心房间"
     },
     "audio": {
-      "dialogue": "第一个是'时间'!第二个是'知识'!咕噜(蘑菇)!需要更多谜题房间...证明自己存在...创造新物理定律...讲个好笑的笑话...九九八十一难后终于到达核心",
+      "dialogue": "有的房间要求证明自己存在(精灵差点哲学崩溃)、有的房间要求创造新物理定律(AI当场过热)、最过分的是个房间要求...讲个好笑的笑话(塔克讲了章鱼笑话,门哭了)。经过九九八十一难,他们终于到达核心房间。中央平台上漂浮着第二件遗物——是个不断变化的几何体",
       "narration": "",
       "internal_monologue": "",
-      "background_music": "智慧幽默",
-      "sound_effects": [
-        "谜题声",
-        "门哭了"
-      ],
+      "background_music": "试炼紧张",
+      "sound_effects": ["试炼声"],
       "volume_level": "对话突出"
     },
     "editing": {
-      "transition_to_next": "快速切",
-      "pacing": "中等",
-      "purpose": "智力考验"
+      "transition_to_next": "流畅转场",
+      "pacing": "快速",
+      "purpose": "谜题试炼蒙太奇"
     },
     "notes": {
-      "production_note": "实景+特效",
-      "reference_style": "智慧幽默",
+      "production_note": "多场景试炼",
+      "reference_style": "神秘试炼",
       "difficulty_level": "中等"
-    }
-  },
-  {
-    "shot_id": "EP33-S004",
-    "chapter_number": 33,
-    "scene_number": 4,
-    "duration": 12,
-    "shot_type": "特效全景",
-    "location": "Ξ-12-核心房间",
-    "time_of_day": "无",
-    "composition": {
-      "camera_position": "环绕核心",
-      "camera_movement": "缓慢旋转",
-      "framing": "神圣构图",
-      "focus_type": "遗物清晰"
-    },
-    "characters": [
-      {
-        "name": "顾玄",
-        "position": "核心前",
-        "action": "触碰遗物,回答问题",
-        "expression": "专注,明悟",
-        "costume": "管理者长袍"
-      },
-      {
-        "name": "几何体遗物",
-        "position": "中央",
-        "action": "展示星图,测试",
-        "expression": "无",
-        "costume": "变化几何"
-      }
-    ],
-    "visual_effects": {
-      "environment": "核心房间",
-      "lighting": "金色光芒",
-      "color_palette": "神圣色调",
-      "special_effects": "变化几何体展示宇宙诞生到终结,顾玄指出错误,遗物认可融入,知识涌现,城堡震动,时空守卫进攻,大过滤器触发"
-    },
-    "audio": {
-      "dialogue": "这里错了。热寂不是终点,而是新起点。正确。认知超越局限。继承者,证明你的智慧。检测到最高权限转移!清除所有生命!必须立即返回!规则定义:此地允许有序撤退!",
-      "narration": "",
-      "internal_monologue": "",
-      "background_music": "神圣史诗",
-      "sound_effects": [
-        "遗物声",
-        "城堡震动"
-      ],
-      "volume_level": "音效突出"
-    },
-    "editing": {
-      "transition_to_next": "光芒转场",
-      "pacing": "宏大",
-      "purpose": "获得遗物+危机"
-    },
-    "notes": {
-      "production_note": "大量CG特效",
-      "reference_style": "神圣史诗",
-      "difficulty_level": "非常复杂"
-    }
-  },
-  {
-    "shot_id": "EP33-S005",
-    "chapter_number": 33,
-    "scene_number": 5,
-    "duration": 10,
-    "shot_type": "全景",
-    "location": "意识之海",
-    "time_of_day": "无",
-    "composition": {
-      "camera_position": "主观视角",
-      "camera_movement": "思维流动",
-      "framing": "抽象构图",
-      "focus_type": "思维清晰"
-    },
-    "characters": [
-      {
-        "name": "顾玄",
-        "position": "意识之海",
-        "action": "面对试炼,明悟",
-        "expression": "痛苦→释然",
-        "costume": "意识形态"
-      },
-      {
-        "name": "光团(第三遗物)",
-        "position": "海中央",
-        "action": "测试,共鸣",
-        "expression": "智慧",
-        "costume": "变化光团"
-      }
-    ],
-    "visual_effects": {
-      "environment": "无穷思维波浪",
-      "lighting": "思维光芒",
-      "color_palette": "意识色彩",
-      "special_effects": "众生恐惧希望创造毁灭,顾玄看到不同世界线,面对选择后果,明悟承担责任,光团融入,三件遗物齐聚"
-    },
-    "audio": {
-      "dialogue": "继承者,证明你的心性。没有完美选择,唯有承担责任。心性通过。三重稳定协议启动!规则锚定、能量循环、意识共鸣!",
-      "narration": "",
-      "internal_monologue": "",
-      "background_music": "心灵史诗",
-      "sound_effects": [
-        "思维声",
-        "共鸣声"
-      ],
-      "volume_level": "音效突出"
-    },
-    "editing": {
-      "transition_to_next": "光芒转场",
-      "pacing": "宏大",
-      "purpose": "心灵试炼+稳定"
-    },
-    "notes": {
-      "production_note": "抽象意识场景",
-      "reference_style": "心灵史诗",
-      "difficulty_level": "非常复杂"
     }
   },
   {
     "shot_id": "EP33-S006",
     "chapter_number": 33,
     "scene_number": 6,
-    "duration": 9,
-    "shot_type": "远景",
-    "location": "主宇宙-各地",
-    "time_of_day": "恢复",
+    "duration": 12,
+    "shot_type": "特效中景",
+    "location": "核心房间",
+    "time_of_day": "无",
     "composition": {
-      "camera_position": "宇宙视角",
-      "camera_movement": "缓慢拉远",
-      "framing": "恢复构图",
-      "focus_type": "恢复清晰"
+      "camera_position": "遗物角度",
+      "camera_movement": "震撼运动",
+      "framing": "试炼构图",
+      "focus_type": "遗物清晰"
     },
     "characters": [
       {
-        "name": "各文明",
-        "position": "各世界",
-        "action": "欢呼",
-        "expression": "喜悦",
-        "costume": "各异"
+        "name": "顾玄",
+        "position": "核心房间",
+        "action": "触碰遗物",
+        "expression": "专注,领悟",
+        "costume": "管理者长袍"
       },
       {
-        "name": "顾玄",
-        "position": "维度间隙",
-        "action": "观察复苏宇宙",
-        "expression": "欣慰,警觉",
-        "costume": "管理者长袍"
+        "name": "几何体遗物",
+        "position": "中央平台",
+        "action": "展开星图",
+        "expression": "无",
+        "costume": "几何体形态"
       }
     ],
     "visual_effects": {
-      "environment": "复苏的宇宙",
-      "lighting": "希望光芒",
-      "color_palette": "暖色调",
-      "special_effects": "宇宙震荡平息,各文明欢呼,星图显示过滤器最终阶段即将到来"
+      "environment": "核心房间",
+      "lighting": "遗物光芒",
+      "color_palette": "神秘色调",
+      "special_effects": "顾玄伸手触碰、几何体突然展开成星图、系统提示:试炼:认知超越、要求:指出星图中的错误、难度:极高、星图显示宇宙诞生到终结的过程、顾玄观察良久"
     },
     "audio": {
-      "dialogue": "但我知道,这只是暂时。星图显示,大过滤器的最终阶段即将到来—那时需要整个宇宙同心协力才能突破。任务还很漫长,但至少...有了希望",
+      "dialogue": "顾玄伸手触碰,几何体突然展开成星图:继承者,证明你的智慧。系统提示:试炼:认知超越、要求:指出星图中的错误、难度:极高。星图显示宇宙诞生到终结的过程,但有个关键错误需要指出。顾玄观察良久,突然道:这里错了。热寂不是终点,而是新起点",
       "narration": "",
       "internal_monologue": "",
-      "background_music": "希望史诗",
-      "sound_effects": [
-        "欢呼"
-      ],
+      "background_music": "神秘领悟",
+      "sound_effects": ["遗物声"],
       "volume_level": "对话突出"
     },
     "editing": {
-      "transition_to_next": "淡出",
-      "pacing": "舒缓",
-      "purpose": "希望延续"
+      "transition_to_next": "光芒转场",
+      "pacing": "宏大",
+      "purpose": "智慧试炼"
     },
     "notes": {
-      "production_note": "宏大场景",
-      "reference_style": "希望史诗",
+      "production_note": "CG遗物效果",
+      "reference_style": "神秘领悟",
       "difficulty_level": "中等"
     }
   },
@@ -342,158 +305,171 @@
     "shot_id": "EP33-S007",
     "chapter_number": 33,
     "scene_number": 7,
-    "duration": 11,
-    "shot_type": "中景",
-    "location": "Ξ-12遗忘维度-探索路上",
+    "duration": 13,
+    "shot_type": "特效全景",
+    "location": "遗忘维度-崩溃中",
     "time_of_day": "无",
     "composition": {
-      "camera_position": "跟随探险队",
-      "camera_movement": "探索推进",
-      "framing": "探索构图",
-      "focus_type": "探索清晰"
+      "camera_position": "维度全景",
+      "camera_movement": "震撼崩溃运动",
+      "framing": "危机构图",
+      "focus_type": "崩溃清晰"
     },
     "characters": [
       {
+        "name": "顾玄",
+        "position": "遗物融合",
+        "action": "获得知识",
+        "expression": "震撼,领悟",
+        "costume": "管理者长袍发光"
+      },
+      {
         "name": "探险队",
-        "position": "前进中",
-        "action": "对抗混乱,前进",
-        "expression": "吃力,坚定",
+        "position": "周围",
+        "action": "震惊,准备撤退",
+        "expression": "震惊,恐慌",
         "costume": "各异"
       },
       {
         "name": "时空守卫",
-        "position": "阻拦",
-        "action": "攻击",
-        "expression": "机械执行",
-        "costume": "古老铠甲"
+        "position": "全力进攻",
+        "action": "清除生命",
+        "expression": "疯狂",
+        "costume": "倒转形态"
       }
     ],
     "visual_effects": {
-      "environment": "更加混乱的空间",
-      "lighting": "混乱光芒",
-      "color_palette": "高对比度",
-      "special_effects": "探险队使用各种方法对抗时空混乱,塔克用触手稳定空间,蘑菇人用孢子连接现实,顾玄用天魔剑系统分析规则"
+      "environment": "遗忘维度崩溃中",
+      "lighting": "遗物金光+崩溃紫光",
+      "color_palette": "超高对比度",
+      "special_effects": "几何体发出悦耳声音、遗物融入顾玄体内、新知识涌现:宇宙循环维度晋升、系统提示:获得第二创始者遗物、解锁知识:宇宙循环维度晋升、权限提升:部分创始者权限、城堡震动、时空守卫全力进攻、大过滤器被提前触发、宇宙剧烈震荡、时间碎片如雨落下、空间层层折叠"
     },
     "audio": {
-      "dialogue": "这规则太混乱了!1加1等于蘑菇,重力倒着来,时间在打结!别抱怨了!继续前进!根据系统分析,核心就在前面!但是守卫越来越多!物理攻击有效!用物理手段突破!",
+      "dialogue": "几何体发出悦耳声音:正确。认知超越局限。遗物融入他体内,新的知识涌现:关于宇宙循环、维度晋升、以及...创始者的真正目的。系统提示:获得:第二创始者遗物、解锁知识:宇宙循环维度晋升、权限提升:部分创始者权限。原来创始者留下遗物,是为了选拔能带领文明突破'大过滤器'的引导者。突然,城堡震动!时空守卫全力进攻!更糟的是,大过滤器被提前触发!宇宙开始剧烈震荡!必须立即返回!",
       "narration": "",
       "internal_monologue": "",
-      "background_music": "紧张探索",
-      "sound_effects": [
-        "能量对抗",
-        "时空扭曲"
-      ],
+      "background_music": "震撼危机",
+      "sound_effects": ["遗物声", "崩溃声"],
       "volume_level": "音效突出"
     },
     "editing": {
-      "transition_to_next": "直接切",
-      "pacing": "快速",
-      "purpose": "探索推进"
+      "transition_to_next": "快速切",
+      "pacing": "极快",
+      "purpose": "遗物获得+危机"
     },
     "notes": {
-      "production_note": "需要大量CG特效",
-      "reference_style": "紧张探索",
-      "difficulty_level": "复杂"
+      "production_note": "大量CG特效",
+      "reference_style": "震撼危机",
+      "difficulty_level": "非常复杂"
     }
   },
   {
     "shot_id": "EP33-S008",
     "chapter_number": 33,
     "scene_number": 8,
-    "duration": 10,
-    "shot_type": "全景",
-    "location": "Ξ-12-谜题城堡入口",
+    "duration": 12,
+    "shot_type": "特效全景",
+    "location": "主宇宙",
     "time_of_day": "无",
     "composition": {
-      "camera_position": "城堡仰视",
-      "camera_movement": "缓慢上升",
-      "framing": "神秘构图",
-      "focus_type": "城堡清晰"
+      "camera_position": "宇宙全景",
+      "camera_movement": "震撼震荡运动",
+      "framing": "宇宙危机构图",
+      "focus_type": "震荡清晰"
     },
     "characters": [
       {
         "name": "探险队",
-        "position": "城堡前",
-        "action": "仰望城堡",
-        "expression": "震撼",
+        "position": "返回主宇宙",
+        "action": "撤退,观察",
+        "expression": "震惊,恐慌",
+        "costume": "各异"
+      },
+      {
+        "name": "各文明代表",
+        "position": "全息会议",
+        "action": "混乱报告",
+        "expression": "恐慌",
         "costume": "各异"
       }
     ],
     "visual_effects": {
-      "environment": "谜题城堡",
-      "lighting": "城堡变换光芒",
-      "color_palette": "神秘色调",
-      "special_effects": "巨大城堡不断变换形态,入口有无数门,门上有各种谜题,城堡周围时空扭曲"
+      "environment": "主宇宙震荡中",
+      "lighting": "震荡光芒",
+      "color_palette": "高对比度",
+      "special_effects": "返回途中Ξ-12正在崩溃、时间碎片如雨落下、空间层层折叠、回到主宇宙发现这里也在震荡、全球警报:太阳活动异常、物理常数波动、甚至魔法能量都在衰减、顾玄立即召开紧急会议、所有文明代表乱成一团"
     },
     "audio": {
-      "dialogue": "这就是核心...谜题城堡?看起来...有很多门。哪扇门是正确的?每一扇门都是考验。必须通过所有房间才能到达核心。九九八十一难?好吧,来吧!",
+      "dialogue": "返回途中,他们看到Ξ-12正在崩溃!时间碎片如雨落下,空间层层折叠!过滤器效应蔓延到这里了!我就说不该来的!危急关头,顾玄运用新获得的遗物力量:规则定义:此地允许有序撤退!一道金光开路,众人冲出维度!回到主宇宙时,发现这里也在震荡!我们的星系正在解体!魔法网络崩溃了!蘑菇不生长了!",
       "narration": "",
       "internal_monologue": "",
-      "background_music": "神秘探索",
-      "sound_effects": [
-        "城堡变换声"
-      ],
-      "volume_level": "对话突出"
+      "background_music": "震撼危机",
+      "sound_effects": ["震荡声", "警报声"],
+      "volume_level": "音效突出"
     },
     "editing": {
-      "transition_to_next": "直接切",
-      "pacing": "中等",
-      "purpose": "到达核心入口"
+      "transition_to_next": "快速切",
+      "pacing": "极快",
+      "purpose": "宇宙震荡危机"
     },
     "notes": {
-      "production_note": "需要CG制作城堡",
-      "reference_style": "神秘场景",
-      "difficulty_level": "中等"
+      "production_note": "大量CG特效",
+      "reference_style": "震撼危机",
+      "difficulty_level": "非常复杂"
     }
   },
   {
     "shot_id": "EP33-S009",
     "chapter_number": 33,
     "scene_number": 9,
-    "duration": 10,
-    "shot_type": "中景蒙太奇",
-    "location": "Ξ-12-谜题房间",
+    "duration": 11,
+    "shot_type": "全景",
+    "location": "主宇宙-稳定工作",
     "time_of_day": "无",
     "composition": {
-      "camera_position": "多房间切换",
+      "camera_position": "多工作点",
       "camera_movement": "快速切换",
-      "framing": "智力挑战构图",
-      "focus_type": "谜题清晰"
+      "framing": "稳定构图",
+      "focus_type": "工作清晰"
     },
     "characters": [
       {
-        "name": "探险队",
-        "position": "各房间",
-        "action": "解答谜题",
-        "expression": "思考,崩溃",
+        "name": "各文明",
+        "position": "宇宙各处",
+        "action": "稳定工作",
+        "expression": "紧张,努力",
         "costume": "各异"
+      },
+      {
+        "name": "顾玄",
+        "position": "指挥",
+        "action": "分配任务",
+        "expression": "严肃,决心",
+        "costume": "管理者长袍"
       }
     ],
     "visual_effects": {
-      "environment": "各种谜题房间",
-      "lighting": "智慧光芒",
-      "color_palette": "神秘色调",
-      "special_effects": "各种脑洞大开的谜题:哲学房间需要证明自己存在,物理房间需要创造新定律,逻辑房间需要讲笑话,情感房间需要展现真心"
+      "environment": "主宇宙各处",
+      "lighting": "稳定光芒",
+      "color_palette": "工作色调",
+      "special_effects": "顾玄展示新获得星图、分配任务:精灵和AI合作建立规则稳定装置、蘑菇人培育维度蘑菇(能吸收震荡)、塔克联系联盟求援(虽然希望渺茫)、第三件遗物还没找到、根据星图提示它在意识之海"
     },
     "audio": {
-      "dialogue": "第一个房间:时间!答对了!第二个:知识!正确!咕噜(蘑菇)!这个房间需要证明自己存在!我思故我在!太哲学了!这个房间需要讲笑话!为什么程序员不洗澡?因为他们会死机!哈哈哈哈!通过!",
+      "dialogue": "顾玄展示新获得的星图:大过滤器已经启动。百年计划必须加速!他分配任务:精灵和AI合作建立'规则稳定装置'、蘑菇人培育'维度蘑菇'(能吸收震荡)、塔克联系联盟求援(虽然希望渺茫)。但最关键的第三件遗物还没找到!根据星图提示,它在'意识之海'——所有思维汇聚的维度。顾玄决定独自前往。这次太危险,他不能带别人",
       "narration": "",
       "internal_monologue": "",
-      "background_music": "智慧幽默",
-      "sound_effects": [
-        "谜题声",
-        "门开了"
-      ],
+      "background_music": "紧张决心",
+      "sound_effects": ["工作声"],
       "volume_level": "对话突出"
     },
     "editing": {
-      "transition_to_next": "快速切",
-      "pacing": "中等",
-      "purpose": "智力考验蒙太奇"
+      "transition_to_next": "直接切",
+      "pacing": "快速",
+      "purpose": "稳定工作部署"
     },
     "notes": {
-      "production_note": "创意场景",
-      "reference_style": "智慧幽默",
+      "production_note": "多场景",
+      "reference_style": "紧张工作",
       "difficulty_level": "中等"
     }
   },
@@ -501,65 +477,54 @@
     "shot_id": "EP33-S010",
     "chapter_number": 33,
     "scene_number": 10,
-    "duration": 11,
+    "duration": 13,
     "shot_type": "特效全景",
-    "location": "Ξ-12-核心房间",
+    "location": "意识之海",
     "time_of_day": "无",
     "composition": {
-      "camera_position": "环绕核心",
-      "camera_movement": "缓慢旋转",
-      "framing": "神圣构图",
-      "focus_type": "遗物清晰"
+      "camera_position": "意识之海全景",
+      "camera_movement": "梦幻运动",
+      "framing": "意识试炼构图",
+      "focus_type": "意识清晰"
     },
     "characters": [
       {
         "name": "顾玄",
-        "position": "核心前",
-        "action": "触碰遗物,接受测试",
-        "expression": "专注,明悟",
+        "position": "意识之海",
+        "action": "经历试炼",
+        "expression": "思考,领悟",
         "costume": "管理者长袍"
       },
       {
-        "name": "几何体遗物",
-        "position": "中央",
-        "action": "展示宇宙,测试智慧",
+        "name": "光团遗物",
+        "position": "海中央",
+        "action": "发出共鸣",
         "expression": "无",
-        "costume": "变化几何"
-      },
-      {
-        "name": "探险队",
-        "position": "周围",
-        "action": "见证",
-        "expression": "震撼",
-        "costume": "各异"
+        "costume": "光团形态"
       }
     ],
     "visual_effects": {
-      "environment": "核心房间",
-      "lighting": "金色光芒",
-      "color_palette": "神圣色调",
-      "special_effects": "变化几何体展示从宇宙诞生到终结,顾玄指出理论错误并修正,遗物认可,三件遗物共鸣,城堡开始崩塌"
+      "environment": "意识之海",
+      "lighting": "思维光芒",
+      "color_palette": "梦幻色调",
+      "special_effects": "意识之海没有实体只有无穷无尽思维波浪、顾玄看到众生的恐惧希望创造与毁灭、遗物就在海中央不断变化光团反映所有思维、顾玄经历终极试炼面对自己所有选择与后果、看到如果自己没成为管理员的世界线、看到虚空获胜的结局、甚至看到弟弟小浩的不同人生、最终明白没有完美选择唯有承担责任"
     },
     "audio": {
-      "dialogue": "这里错了。热寂不是终点,而是新起点。正确。智慧测试通过。接下来是心性...继承者,证明你的担当。没有完美选择,唯有承担责任。心性测试通过。三件遗物齐聚!三重稳定协议启动!",
+      "dialogue": "意识之海没有实体,只有无穷无尽的思维波浪。顾玄在这里看到众生的恐惧、希望、创造与毁灭。遗物就在海中央——是个不断变化的光团,反映着所有思维。继承者,证明你的心性。顾玄经历终极试炼:面对自己所有的选择与后果。他看到如果自己没成为管理员的世界线、看到虚空获胜的结局、甚至看到弟弟小浩的不同人生...最终他明白:没有完美选择,唯有承担责任",
       "narration": "",
       "internal_monologue": "",
-      "background_music": "神圣史诗",
-      "sound_effects": [
-        "遗物声",
-        "共鸣声",
-        "城堡震动"
-      ],
-      "volume_level": "音效突出"
+      "background_music": "梦幻领悟",
+      "sound_effects": ["思维波浪声"],
+      "volume_level": "对话突出"
     },
     "editing": {
       "transition_to_next": "光芒转场",
       "pacing": "宏大",
-      "purpose": "获得遗物+协议启动"
+      "purpose": "意识试炼"
     },
     "notes": {
-      "production_note": "需要大量CG特效",
-      "reference_style": "神圣史诗",
+      "production_note": "大量CG特效",
+      "reference_style": "梦幻领悟",
       "difficulty_level": "非常复杂"
     }
   },
@@ -567,57 +532,54 @@
     "shot_id": "EP33-S011",
     "chapter_number": 33,
     "scene_number": 11,
-    "duration": 10,
+    "duration": 12,
     "shot_type": "特效全景",
-    "location": "意识之海",
+    "location": "主宇宙",
     "time_of_day": "无",
     "composition": {
-      "camera_position": "主观视角",
-      "camera_movement": "思维流动",
-      "framing": "抽象构图",
-      "focus_type": "思维清晰"
+      "camera_position": "宇宙全景",
+      "camera_movement": "宏大稳定运动",
+      "framing": "宇宙稳定构图",
+      "focus_type": "稳定清晰"
     },
     "characters": [
       {
         "name": "顾玄",
-        "position": "意识之海",
-        "action": "面对终极试炼",
-        "expression": "痛苦→释然",
-        "costume": "意识形态"
+        "position": "主宇宙",
+        "action": "启动协议",
+        "expression": "决心,释放",
+        "costume": "管理者长袍发光"
       },
       {
-        "name": "光团(第三遗物)",
-        "position": "海中央",
-        "action": "测试,共鸣",
-        "expression": "智慧",
-        "costume": "变化光团"
+        "name": "各文明",
+        "position": "宇宙各处",
+        "action": "欢呼",
+        "expression": "狂欢,庆祝",
+        "costume": "各异"
       }
     ],
     "visual_effects": {
-      "environment": "无穷思维波浪",
-      "lighting": "思维光芒",
-      "color_palette": "意识色彩",
-      "special_effects": "顾玄看到不同世界线的可能性,面对选择的后果,看到众生恐惧希望创造毁灭,最终明悟承担责任,三件遗物共鸣融合"
+      "environment": "主宇宙",
+      "lighting": "稳定金光",
+      "color_palette": "温暖色调",
+      "special_effects": "光团满意地融入:心性通过、系统提示:获得第三创始者遗物、三件遗物齐聚、权限:完整创始者权限、解锁:三重稳定协议、顾玄获得完整创始者权限、启动三重稳定协议:1.规则锚定防止物理崩溃2.能量循环避免热寂3.意识共鸣凝聚文明意志、宇宙震荡逐渐平息、所有文明欢呼雀跃"
     },
     "audio": {
-      "dialogue": "继承者,证明你的心性。你看到了什么?不同的可能性...不同的选择...不同的后果...你害怕吗?害怕。但我会承担。因为这就是责任。心性通过。三件遗物正式认可!协议启动!",
+      "dialogue": "光团满意地融入:心性通过。系统提示:获得:第三创始者遗物、三件遗物齐聚!权限:完整创始者权限、解锁:三重稳定协议。三件遗物齐聚,顾玄获得完整创始者权限。现在他能暂时稳定宇宙了!返回主宇宙,立即启动'三重稳定协议':1.规则锚定(防止物理崩溃) 2.能量循环(避免热寂) 3.意识共鸣(凝聚文明意志)。宇宙震荡逐渐平息。所有文明欢呼雀跃!",
       "narration": "",
-      "internal_monologue": "",
-      "background_music": "心灵史诗",
-      "sound_effects": [
-        "思维声",
-        "共鸣声"
-      ],
+      "internal_monologue": "但顾玄知道,这只是暂时。星图显示,大过滤器的最终阶段即将到来——那时需要整个宇宙同心协力才能突破",
+      "background_music": "史诗释放",
+      "sound_effects": ["稳定声", "欢呼"],
       "volume_level": "音效突出"
     },
     "editing": {
-      "transition_to_next": "光芒转场",
+      "transition_to_next": "流畅转场",
       "pacing": "宏大",
-      "purpose": "终极试炼"
+      "purpose": "宇宙稳定成功"
     },
     "notes": {
-      "production_note": "抽象意识场景",
-      "reference_style": "心灵史诗",
+      "production_note": "大量CG特效",
+      "reference_style": "史诗级成功",
       "difficulty_level": "非常复杂"
     }
   },
@@ -625,64 +587,54 @@
     "shot_id": "EP33-S012",
     "chapter_number": 33,
     "scene_number": 12,
-    "duration": 9,
-    "shot_type": "远景",
-    "location": "主宇宙-各地",
-    "time_of_day": "恢复",
+    "duration": 11,
+    "shot_type": "全景",
+    "location": "全宇宙文明大会",
+    "time_of_day": "无",
     "composition": {
-      "camera_position": "宇宙视角",
-      "camera_movement": "缓慢拉远",
-      "framing": "希望构图",
-      "focus_type": "恢复清晰"
+      "camera_position": "大会全景",
+      "camera_movement": "缓慢推近",
+      "framing": "备考构图",
+      "focus_type": "代表清晰"
     },
     "characters": [
       {
-        "name": "各文明",
-        "position": "各世界",
-        "action": "庆祝,欢呼",
-        "expression": "喜悦",
-        "costume": "各异"
-      },
-      {
         "name": "顾玄",
-        "position": "维度间隙",
-        "action": "观察复苏宇宙",
-        "expression": "欣慰,警觉",
+        "position": "主持大会",
+        "action": "宣布备考",
+        "expression": "庄严,决心",
         "costume": "管理者长袍"
       },
       {
-        "name": "三件遗物",
-        "position": "环绕",
-        "action": "稳定宇宙",
-        "expression": "稳定光芒",
-        "costume": "三件遗物形态"
+        "name": "各文明代表",
+        "position": "全息参会",
+        "action": "听取,反应",
+        "expression": "认真,期待",
+        "costume": "各异"
       }
     ],
     "visual_effects": {
-      "environment": "复苏的宇宙",
-      "lighting": "希望光芒",
-      "color_palette": "暖色调",
-      "special_effects": "宇宙震荡完全平息,各世界欢呼庆祝,三件遗物环绕顾玄形成稳定力场,星图显示过滤器最终阶段即将到来"
+      "environment": "全息会议室",
+      "lighting": "备考光芒",
+      "color_palette": "多彩代表",
+      "special_effects": "全息屏展示数据、各文明代表反应、顾玄成立宇宙备考委员会、开始特训、第一课文明协作、精灵咒语让AI开始做梦、科技设备让精灵过敏、蘑菇人孢子让所有人打喷嚏、第二课规则理解、第三课创造力、魔法和AI造出魔法计算机、科技和蘑菇人搞出光合作用发动机、概念文明创造新颜色、宇宙不断出现模拟考"
     },
     "audio": {
-      "dialogue": "成功了!三件遗物齐聚!宇宙稳定了!我们做到了!但我知道,这只是暂时的稳定。星图显示,大过滤器的最终阶段即将到来—那时需要整个宇宙同心协力才能突破。任务还很漫长,但至少...有了希望。而且,我不再是孤军奋战了",
+      "dialogue": "宇宙暂时恢复平静,但所有文明都感受到一种无形的压力——就像考前最后的复习时间,每个人都知道终极考验即将到来。顾玄获得完整的创始者权限后,第一件事就是召开'全宇宙文明大会'。各位,顾玄的声音通过权限传递到每个意识中,大过滤器不是灾难,而是宇宙的'升学考试'。系统提示:当前文明指数:72分、通过标准:90分、剩余时间:100年(但可能提前)。他成立'宇宙备考委员会',自己任总导师,开始特训",
       "narration": "",
-      "internal_monologue": "",
-      "background_music": "希望史诗",
-      "sound_effects": [
-        "欢呼",
-        "遗物共鸣"
-      ],
+      "internal_monologue": "任务还很漫长,但至少...有了希望",
+      "background_music": "庄严期待",
+      "sound_effects": ["会议声"],
       "volume_level": "对话突出"
     },
     "editing": {
       "transition_to_next": "淡出",
       "pacing": "舒缓",
-      "purpose": "第三卷收尾,希望延续"
+      "purpose": "备考特训开始"
     },
     "notes": {
-      "production_note": "宏大场景",
-      "reference_style": "希望史诗",
+      "production_note": "全息会议+蒙太奇",
+      "reference_style": "庄严期待",
       "difficulty_level": "中等"
     }
   }

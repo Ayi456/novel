@@ -1,363 +1,501 @@
-[
-  {
-    "shot_id": "EP13-S001",
-    "chapter_number": 13,
-    "scene_number": 1,
-    "duration": 6,
-    "shot_type": "特写",
-    "location": "青云宗正殿门前",
-    "time_of_day": "上午",
-    "composition": {
-      "camera_position": "俯视特写",
-      "camera_movement": "缓慢下降",
-      "framing": "中心构图",
-      "focus_type": "请柬细节清晰"
-    },
-    "characters": [
-      {
-        "name": "李道玄",
-        "position": "殿门前",
-        "action": "捧着请柬,手发抖",
-        "expression": "激动,震惊",
-        "costume": "掌门华服",
-        "props": "鎏金请柬"
-      }
-    ],
-    "visual_effects": {
-      "environment": "青云宗正殿",
-      "lighting": "自然光",
-      "color_palette": "金色调,庄重",
-      "special_effects": "请柬散发威压,流光闪烁"
-    },
-    "audio": {
-      "dialogue": "十宗论道贴?这可是青州最高级别的宗门盛会啊!",
-      "narration": "",
-      "internal_monologue": "",
-      "background_music": "庄重,紧张",
-      "sound_effects": ["请柬破空声"],
-      "volume_level": "对话突出"
-    },
-    "editing": {
-      "transition_to_next": "直接切",
-      "pacing": "中等",
-      "purpose": "开篇,确立危机"
-    },
-    "notes": {
-      "production_note": "需要CG制作请柬特效",
-      "reference_style": "庄重场景",
-      "difficulty_level": "中等"
-    }
-  },
-  {
-    "shot_id": "EP13-S002",
-    "chapter_number": 13,
-    "scene_number": 2,
-    "duration": 7,
-    "shot_type": "中景",
-    "location": "前往天衍宗的飞舟上",
-    "time_of_day": "白天",
-    "composition": {
-      "camera_position": "侧面拍摄",
-      "camera_movement": "跟随拍摄",
-      "framing": "三分法",
-      "focus_type": "主体清晰"
-    },
-    "characters": [
-      {
-        "name": "顾玄",
-        "position": "飞舟甲板",
-        "action": "看着破旧飞舟,表面淡定",
-        "expression": "表面淡然,内心吐槽",
-        "costume": "白衣"
+{
+  "chapter": 13,
+  "title": "十宗论道",
+  "episode_number": "EP13",
+  "story_summary": "青云宗受邀参加十宗论道会，从被轻视到天魔之力自动装逼，最终天魔剑意外现世，十大宗门臣服。",
+  "total_scenes": 12,
+  "scenes": [
+    {
+      "shot_id": "EP13-S001",
+      "chapter_number": 13,
+      "scene_number": 1,
+      "duration": 8,
+      "shot_type": "特效全景",
+      "location": "青云宗正殿",
+      "time_of_day": "日",
+      "composition": "鎏金请柬破空而来的动态特写，以仰角展示其威压感，请柬发光特效环绕，背景是青云宗简陋的山门",
+      "characters": [
+        {
+          "name": "李道玄",
+          "action": "手捧请柬，颤抖",
+          "expression": "震惊+惶恐",
+          "costume": "青云宗掌门道袍（略微破旧）"
+        },
+        {
+          "name": "顾玄",
+          "action": "接过请柬，感受到灵力波动",
+          "expression": "凝重+内心慌张",
+          "costume": "青色道袍，低调内敛"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "请柬金光闪烁，灵力波动特效如水纹扩散，威压感粒子特效围绕，特写请柬上'十宗论道'鎏金字样",
+        "color_grading": "暖色调金光偏重，体现请柬的珍贵和威严"
       },
-      {
-        "name": "陆尘",
-        "position": "顾玄身旁",
-        "action": "指着豪华飞舟,气愤",
-        "expression": "生气",
-        "costume": "布衣"
-      }
-    ],
-    "visual_effects": {
-      "environment": "云海之上,仙宫林立",
-      "lighting": "明亮天光",
-      "color_palette": "对比强烈(破旧vs豪华)",
-      "special_effects": "各色飞舟穿梭,灵鹤飞舞"
-    },
-    "audio": {
-      "dialogue": "修行之人,何须在意这些外物。",
-      "narration": "",
-      "internal_monologue": "有钱谁不想坐好的?这不是穷吗!",
-      "background_music": "轻快带讽刺",
-      "sound_effects": ["飞舟引擎声", "风声"],
-      "volume_level": "对话与内心独白交替"
-    },
-    "editing": {
-      "transition_to_next": "直接切",
-      "pacing": "中等",
-      "purpose": "对比与幽默"
-    },
-    "notes": {
-      "production_note": "需要大量CG制作飞舟",
-      "reference_style": "对比反差",
-      "difficulty_level": "复杂"
-    }
-  },
-  {
-    "shot_id": "EP13-S003",
-    "chapter_number": 13,
-    "scene_number": 3,
-    "duration": 8,
-    "shot_type": "全景转特写",
-    "location": "天衍宗演武场",
-    "time_of_day": "上午",
-    "composition": {
-      "camera_position": "远景推近至特写",
-      "camera_movement": "快速推进",
-      "framing": "中心构图",
-      "focus_type": "从全景到细节"
-    },
-    "characters": [
-      {
-        "name": "陆尘",
-        "position": "演武场中央",
-        "action": "演练奔雷剑法,突然剑招凌厉,雷电缠绕",
-        "expression": "茫然,惊讶",
-        "costume": "弟子服",
-        "props": "铁剑"
-      }
-    ],
-    "visual_effects": {
-      "environment": "演武场,众人围观",
-      "lighting": "自然光",
-      "color_palette": "正常转为雷电蓝",
-      "special_effects": "剑招带出真正天雷,天空响起惊雷呼应,古老威严的雷神意境"
-    },
-    "audio": {
-      "dialogue": "",
-      "narration": "",
-      "internal_monologue": "",
-      "background_music": "震撼,紧张",
-      "sound_effects": ["雷声轰隆", "剑气破空", "人群惊呼"],
-      "volume_level": "音效突出"
-    },
-    "editing": {
-      "transition_to_next": "直接切",
-      "pacing": "快速",
-      "purpose": "高潮场面,视觉冲击"
-    },
-    "notes": {
-      "production_note": "需要大量雷电特效",
-      "reference_style": "震撼场面",
-      "difficulty_level": "复杂"
-    }
-  },
-  {
-    "shot_id": "EP13-S004",
-    "chapter_number": 13,
-    "scene_number": 4,
-    "duration": 7,
-    "shot_type": "中景",
-    "location": "天衍宗论道殿",
-    "time_of_day": "下午",
-    "composition": {
-      "camera_position": "正面拍摄",
-      "camera_movement": "轻微左右摇",
-      "framing": "中心构图",
-      "focus_type": "主体清晰"
-    },
-    "characters": [
-      {
-        "name": "顾玄",
-        "position": "殿中",
-        "action": "被天魔之力操控,语出惊人",
-        "expression": "高深莫测",
-        "costume": "白衣"
+      "audio": {
+        "dialogue": "李道玄：十宗论道贴？这可是青州最高级别的宗门盛会啊！往年只有十大宗门有资格参加！",
+        "background_music": "紧张鼓点+神秘音效",
+        "sound_effects": "破空声、灵力嗡鸣、风声"
       },
-      {
-        "name": "各派长老",
-        "position": "周围",
-        "action": "震惊,沉思",
-        "expression": "骇然",
-        "costume": "各式华服"
-      }
-    ],
-    "visual_effects": {
-      "environment": "论道殿",
-      "lighting": "庄重光线",
-      "color_palette": "暖色调",
-      "special_effects": "天魔之力微光流转,顾玄眼中偶尔闪过紫芒"
-    },
-    "audio": {
-      "dialogue": "天道?不过是弱肉强食的借口罢了。真正的强者,当逆天而行!",
-      "narration": "",
-      "internal_monologue": "刚才那是什么?天魔之力又自动操作了?",
-      "background_music": "深邃,震撼",
-      "sound_effects": [],
-      "volume_level": "对话突出"
-    },
-    "editing": {
-      "transition_to_next": "直接切",
-      "pacing": "中等",
-      "purpose": "展现主角被操控状态"
-    },
-    "notes": {
-      "production_note": "需要CG制作眼神特效",
-      "reference_style": "高人风范",
-      "difficulty_level": "中等"
-    }
-  },
-  {
-    "shot_id": "EP13-S005",
-    "chapter_number": 13,
-    "scene_number": 5,
-    "duration": 10,
-    "shot_type": "特效全景",
-    "location": "天衍宗论道殿",
-    "time_of_day": "下午",
-    "composition": {
-      "camera_position": "环绕拍摄",
-      "camera_movement": "快速环绕",
-      "framing": "动态构图",
-      "focus_type": "特效突出"
-    },
-    "characters": [
-      {
-        "name": "顾玄",
-        "position": "画面中央",
-        "action": "古剑震动,锈迹脱落,剑气冲天",
-        "expression": "震惊",
-        "costume": "白衣",
-        "props": "天魔剑"
-      }
-    ],
-    "visual_effects": {
-      "environment": "整个大殿被照亮",
-      "lighting": "剑光璀璨,雷电缠绕",
-      "color_palette": "高对比度,金银黑三色",
-      "special_effects": "古剑剧烈震动,锈迹纷纷脱落,寒光闪烁,雷电缠绕其上,恐怖剑气冲天而起撕裂云霄,巨大魔神虚影一闪而逝"
-    },
-    "audio": {
-      "dialogue": "",
-      "narration": "",
-      "internal_monologue": "这剑这么大动静?早知道不拿出来了!",
-      "background_music": "震撼,压迫感强",
-      "sound_effects": ["剑鸣声", "雷电噼啪", "能量涌动", "全场寂静"],
-      "volume_level": "音效突出"
-    },
-    "editing": {
-      "transition_to_next": "直接切",
-      "pacing": "快速",
-      "purpose": "高潮特效,视觉震撼"
-    },
-    "notes": {
-      "production_note": "需要大量CG特效",
-      "reference_style": "震撼特效",
-      "difficulty_level": "复杂"
-    }
-  },
-  {
-    "shot_id": "EP13-S006",
-    "chapter_number": 13,
-    "scene_number": 6,
-    "duration": 6,
-    "shot_type": "中景",
-    "location": "天衍宗住处",
-    "time_of_day": "夜晚",
-    "composition": {
-      "camera_position": "正面拍摄",
-      "camera_movement": "固定镜头",
-      "framing": "中心构图",
-      "focus_type": "主体清晰"
-    },
-    "characters": [
-      {
-        "name": "天衍宗宗主",
-        "position": "顾玄面前",
-        "action": "恭敬行礼",
-        "expression": "敬畏",
-        "costume": "华贵宗主服"
+      "editing": {
+        "transition": "硬切",
+        "pacing": "moderate"
       },
-      {
-        "name": "顾玄",
-        "position": "画面中央",
-        "action": "淡然回应",
-        "expression": "表面淡定,内心慌乱",
-        "costume": "白衣"
-      }
-    ],
-    "visual_effects": {
-      "environment": "雅致客房",
-      "lighting": "柔和灯光",
-      "color_palette": "暖色调",
-      "special_effects": "无"
+      "notes": "开篇营造压迫感，突出十宗论道的重要性"
     },
-    "audio": {
-      "dialogue": "顾前辈...您手中之剑,可是传说中的...天魔剑? 既然天魔剑现世,想必大劫将至...天衍宗愿以青云宗马首是瞻!",
-      "narration": "",
-      "internal_monologue": "露馅了?虽然我也是刚知道它叫这个名字。",
-      "background_music": "庄重带幽默",
-      "sound_effects": [],
-      "volume_level": "对话突出"
+    {
+      "shot_id": "EP13-S002",
+      "chapter_number": 13,
+      "scene_number": 2,
+      "duration": 10,
+      "shot_type": "中景→特写",
+      "location": "青云宗正殿内",
+      "time_of_day": "日",
+      "composition": "三人对话场景，顾玄内心戏用画面分屏展示，左侧表面淡定，右侧内心崩溃",
+      "characters": [
+        {
+          "name": "李道玄",
+          "action": "解释论道会危险性",
+          "expression": "神色凝重",
+          "costume": "掌门道袍"
+        },
+        {
+          "name": "顾玄",
+          "action": "听的同时内心盘算借口",
+          "expression": "表面镇定，内心慌乱",
+          "costume": "青色道袍"
+        },
+        {
+          "name": "陆尘",
+          "action": "一旁侍立",
+          "expression": "担忧",
+          "costume": "弟子服"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "顾玄内心戏分屏特效，想法气泡弹出多个借口（装病、闭关、失火等），快速闪现",
+        "color_grading": "正常色调，内心部分略夸张"
+      },
+      "audio": {
+        "dialogue": "李道玄：说是论道，实则是十大宗门展示肌肉的舞台。这次给我们发帖，恐怕来者不善。\n\n顾玄（内心OS）：十大宗门？那可都是有大佬坐镇的地方！我这水货去了不是送菜吗？",
+        "background_music": "轻快转紧张",
+        "sound_effects": "想法弹出音效、背景环境音"
+      },
+      "editing": {
+        "transition": "叠化",
+        "pacing": "moderate"
+      },
+      "notes": "强调主角的内心冲突，为后续装逼做铺垫"
     },
-    "editing": {
-      "transition_to_next": "直接切",
-      "pacing": "中等",
-      "purpose": "误会加深"
+    {
+      "shot_id": "EP13-S003",
+      "chapter_number": 13,
+      "scene_number": 3,
+      "duration": 12,
+      "shot_type": "全景对比",
+      "location": "前往天衍宗途中→天衍宗山门外",
+      "time_of_day": "日",
+      "composition": "平行蒙太奇对比：豪华飞舟vs破飞舟，锦衣华服vs寒酸道袍，嘲讽眼神vs淡定表情",
+      "characters": [
+        {
+          "name": "顾玄",
+          "action": "淡定乘坐破飞舟",
+          "expression": "表面云淡风轻",
+          "costume": "朴素道袍"
+        },
+        {
+          "name": "陆尘",
+          "action": "气得脸色发红",
+          "expression": "愤怒委屈",
+          "costume": "弟子服"
+        },
+        {
+          "name": "锦衣少年们",
+          "action": "指指点点，嘲讽",
+          "expression": "轻蔑傲慢",
+          "costume": "锦衣华服，法器精良"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "豪华飞舟流光溢彩，破飞舟摇摇欲坠的对比特效，云海仙宫背景",
+        "color_grading": "豪华部分金光闪闪，寒酸部分灰暗"
+      },
+      "audio": {
+        "dialogue": "锦衣少年：看！那不是青云宗的人吗？就是那个靠运气上位的宗门？飞舟这么破，还好意思来参加十宗论道？\n\n陆尘：师兄！他们欺人太甚！\n\n顾玄：修行之人，何须在意这些外物。（内心：有钱谁不想坐好的？这不是穷吗！）",
+        "background_music": "轻快诙谐",
+        "sound_effects": "风声、飞舟引擎声、嘲讽笑声"
+      },
+      "editing": {
+        "transition": "平行剪辑",
+        "pacing": "fast"
+      },
+      "notes": "积累压抑感，为后续打脸做铺垫"
     },
-    "notes": {
-      "production_note": "实景拍摄",
-      "reference_style": "幽默反差",
-      "difficulty_level": "简单"
+    {
+      "shot_id": "EP13-S004",
+      "chapter_number": 13,
+      "scene_number": 4,
+      "duration": 10,
+      "shot_type": "中景",
+      "location": "天衍宗演武场外",
+      "time_of_day": "日",
+      "composition": "烈阳宗长老挑衅，顾玄淡定反击，炎昊被戳痛处",
+      "characters": [
+        {
+          "name": "烈阳宗长老",
+          "action": "阴阳怪气嘲讽",
+          "expression": "傲慢轻视",
+          "costume": "烈阳宗长老法袍"
+        },
+        {
+          "name": "炎昊",
+          "action": "被戳痛处，脸色铁青",
+          "expression": "怨毒+愤怒",
+          "costume": "烈阳宗弟子服"
+        },
+        {
+          "name": "顾玄",
+          "action": "微微一笑，淡然反击",
+          "expression": "从容淡定",
+          "costume": "青色道袍"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "炎昊伤口隐痛特效，顾玄话语如箭的视觉化",
+        "color_grading": "对比色调"
+      },
+      "audio": {
+        "dialogue": "烈阳宗长老：哟，这不是李掌门吗？今年居然收到请柬了？走了什么狗屎运啊？\n\n顾玄：原来是烈阳宗的诸位。炎昊师弟的伤好了？下次修炼可要小心些，别再被自己的法宝炸伤了。\n\n炎昊：你——！",
+        "background_music": "紧张对抗",
+        "sound_effects": "人群低语声"
+      },
+      "editing": {
+        "transition": "切",
+        "pacing": "moderate"
+      },
+      "notes": "展示主角语言反击能力"
+    },
+    {
+      "shot_id": "EP13-S005",
+      "chapter_number": 13,
+      "scene_number": 5,
+      "duration": 15,
+      "shot_type": "全景→特写",
+      "location": "天衍宗演武场",
+      "time_of_day": "日",
+      "composition": "各派弟子演武展示，天衍宗雷动、玄天剑宗剑雨、烈阳宗烈焰，轮到青云宗时全场嘲讽",
+      "characters": [
+        {
+          "name": "各派弟子代表",
+          "action": "展示绝学",
+          "expression": "自信",
+          "costume": "各自宗门法袍"
+        },
+        {
+          "name": "陆尘",
+          "action": "准备上场",
+          "expression": "紧张→茫然",
+          "costume": "青云宗弟子服"
+        },
+        {
+          "name": "顾玄",
+          "action": "暗中施法，注入天魔之力",
+          "expression": "强作镇定",
+          "costume": "青色道袍"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "九霄雷动特效、万千剑雨特效、烈焰焚天特效，对比陆尘起手式的朴素，顾玄黑气射入陆尘体内特效",
+        "color_grading": "华丽特效为主色调"
+      },
+      "audio": {
+        "dialogue": "台下众声：连灵根都没有的废物也敢上场？青云宗没人了吗？\n\n顾玄（内心）：又是天魔之力自动操作！\n\n顾玄：去吧，正常发挥即可。",
+        "background_music": "激昂转紧张",
+        "sound_effects": "雷声、剑鸣、火焰燃烧声"
+      },
+      "editing": {
+        "transition": "快速剪辑",
+        "pacing": "fast"
+      },
+      "notes": "展示各派实力，为后续反转做铺垫"
+    },
+    {
+      "shot_id": "EP13-S006",
+      "chapter_number": 13,
+      "scene_number": 6,
+      "duration": 12,
+      "shot_type": "特效全景",
+      "location": "天衍宗演武场",
+      "time_of_day": "日",
+      "composition": "陆尘剑招突变，天雷呼应，天地异象，全景展示震撼场面",
+      "characters": [
+        {
+          "name": "陆尘",
+          "action": "剑招凌厉，雷光缠绕",
+          "expression": "茫然但气势惊人",
+          "costume": "青云宗弟子服，雷光环绕"
+        },
+        {
+          "name": "观众",
+          "action": "目瞪口呆",
+          "expression": "震惊",
+          "costume": "各色法袍"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "剑招雷光特效、天空惊雷呼应、古老威严的雷神虚影、天地异象粒子特效、紫芒闪烁",
+        "color_grading": "雷光紫色调为主，震撼感"
+      },
+      "audio": {
+        "dialogue": "观众惊呼：言出法随？不对...是剑意引动天象！这是什么剑法？从未见过！那个陆尘...不是没有灵根吗？！",
+        "background_music": "震撼激昂",
+        "sound_effects": "雷声轰鸣、剑气破空、人群惊呼"
+      },
+      "editing": {
+        "transition": "慢动作部分",
+        "pacing": "moderate with slow motion"
+      },
+      "notes": "本章第一个高潮，天地异象震撼全场"
+    },
+    {
+      "shot_id": "EP13-S007",
+      "chapter_number": 13,
+      "scene_number": 7,
+      "duration": 10,
+      "shot_type": "中景→特写",
+      "location": "天衍宗论道厅",
+      "time_of_day": "日",
+      "composition": "各派长老轮番提问，顾玄天魔之力自动回答，展示残阵补全过程",
+      "characters": [
+        {
+          "name": "各派长老",
+          "action": "提问刁难",
+          "expression": "试探→震惊",
+          "costume": "长老法袍"
+        },
+        {
+          "name": "顾玄",
+          "action": "被操控状态下回答",
+          "expression": "表面淡定，内心慌乱",
+          "costume": "青色道袍"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "古老残阵浮现、符文补全特效、金光闪烁、完美复原",
+        "color_grading": "神秘色调"
+      },
+      "audio": {
+        "dialogue": "天衍宗长老：顾道友认为，何为天道？\n\n顾玄（被操控）：天道？不过是弱肉强食的借口罢了。真正的强者，当逆天而行！\n\n烈阳宗长老：不知可识得此阵？\n\n顾玄随手补全残阵，完美复原。",
+        "background_music": "神秘紧张",
+        "sound_effects": "符文流动声、金光嗡鸣"
+      },
+      "editing": {
+        "transition": "快速对话",
+        "pacing": "fast"
+      },
+      "notes": "展示主角在论道环节的"自动装逼""
+    },
+    {
+      "shot_id": "EP13-S008",
+      "chapter_number": 13,
+      "scene_number": 8,
+      "duration": 8,
+      "shot_type": "中景",
+      "location": "天衍宗法宝展示区",
+      "time_of_day": "日",
+      "composition": "各派法宝光彩夺目，轮到青云宗时顾玄取出锈剑，全场嘘声",
+      "characters": [
+        {
+          "name": "各派代表",
+          "action": "展示法宝",
+          "expression": "得意",
+          "costume": "华服"
+        },
+        {
+          "name": "顾玄",
+          "action": "硬着头皮取锈剑",
+          "expression": "尴尬无奈",
+          "costume": "青色道袍"
+        },
+        {
+          "name": "观众",
+          "action": "嘘声四起",
+          "expression": "轻蔑嘲笑",
+          "costume": "各色服装"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "各派法宝光芒特效，对比锈剑的锈迹斑斑，毫不起眼",
+        "color_grading": "华丽vs灰暗对比"
+      },
+      "audio": {
+        "dialogue": "观众：就这？破铜烂铁也敢拿出来现眼？青云宗是来搞笑的吗？\n\n顾玄（内心）：我哪来的法宝？唯一像点样的就是这把锈剑了！",
+        "background_music": "尴尬轻快",
+        "sound_effects": "嘘声、嘲笑声"
+      },
+      "editing": {
+        "transition": "对比剪辑",
+        "pacing": "moderate"
+      },
+      "notes": "压抑感积累到顶点，为反转做铺垫"
+    },
+    {
+      "shot_id": "EP13-S009",
+      "chapter_number": 13,
+      "scene_number": 9,
+      "duration": 15,
+      "shot_type": "特效全景",
+      "location": "天衍宗法宝展示区",
+      "time_of_day": "日",
+      "composition": "顾玄注入灵力，锈迹脱落，雷电缠绕，魔神虚影显现，撕裂云霄",
+      "characters": [
+        {
+          "name": "顾玄",
+          "action": "注入灵力，举剑",
+          "expression": "惊讶→强作镇定",
+          "costume": "青色道袍，雷电环绕"
+        },
+        {
+          "name": "观众",
+          "action": "被威压震慑",
+          "expression": "惊恐敬畏",
+          "costume": "各色服装"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "锈迹脱落特效、雷电缠绕剑身、恐怖剑气冲天、魔神虚影睥睨众生、护山大阵被触动激活、云霄被撕裂",
+        "color_grading": "黑色闪电主色调，震撼威压"
+      },
+      "audio": {
+        "dialogue": "观众惊呼：神器！绝对是神器！刚才那虚影...是什么？青云宗居然有这等至宝！",
+        "background_music": "震撼激昂",
+        "sound_effects": "剑气轰鸣、护山大阵嗡鸣、人群惊呼"
+      },
+      "editing": {
+        "transition": "慢动作部分",
+        "pacing": "slow then fast"
+      },
+      "notes": "本章最大高潮，天魔剑现世"
+    },
+    {
+      "shot_id": "EP13-S010",
+      "chapter_number": 13,
+      "scene_number": 10,
+      "duration": 10,
+      "shot_type": "中景",
+      "location": "天衍宗贵宾室",
+      "time_of_day": "日",
+      "composition": "天衍宗主恭敬询问，顾玄淡然确认，众人脑补",
+      "characters": [
+        {
+          "name": "天衍宗主",
+          "action": "躬身行礼，恭敬询问",
+          "expression": "敬畏崇拜",
+          "costume": "宗主法袍"
+        },
+        {
+          "name": "顾玄",
+          "action": "淡然回应",
+          "expression": "表面淡定，内心懵逼",
+          "costume": "青色道袍"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "脑补气泡特效，展示众人脑补内容（天魔转世、上古传承、大劫将至等）",
+        "color_grading": "正常色调"
+      },
+      "audio": {
+        "dialogue": "天衍宗主：顾前辈！方才多有得罪！请问您手中之剑，可是传说中的...天魔剑？\n\n顾玄：宗主好眼力。（内心：虽然我也是刚知道它叫这个名字。）\n\n天衍宗主：原来如此...既然天魔剑现世，想必大劫将至...天衍宗愿以青云宗马首是瞻！",
+        "background_music": "神秘恭敬",
+        "sound_effects": "环境音"
+      },
+      "editing": {
+        "transition": "切",
+        "pacing": "moderate"
+      },
+      "notes": "展示众人脑补，确立主角地位"
+    },
+    {
+      "shot_id": "EP13-S011",
+      "chapter_number": 13,
+      "scene_number": 11,
+      "duration": 10,
+      "shot_type": "中景→特写",
+      "location": "青云宗临时住处",
+      "time_of_day": "夜",
+      "composition": "李道玄激动询问，顾玄苦笑解释，天衍宗长老送孙女拜师",
+      "characters": [
+        {
+          "name": "李道玄",
+          "action": "激动抓住顾玄",
+          "expression": "激动+懵逼",
+          "costume": "掌门道袍"
+        },
+        {
+          "name": "顾玄",
+          "action": "苦笑回应",
+          "expression": "无奈",
+          "costume": "青色道袍"
+        },
+        {
+          "name": "天衍宗长老",
+          "action": "恭敬行礼",
+          "expression": "期待",
+          "costume": "长老法袍"
+        },
+        {
+          "name": "天衍宗孙女",
+          "action": "娇俏站立",
+          "expression": "害羞期待",
+          "costume": "精美衣裙"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "礼物源源不断送来的特效堆叠",
+        "color_grading": "温馨色调"
+      },
+      "audio": {
+        "dialogue": "李道玄：徒儿！那天魔剑是怎么回事？咱们宗门什么时候有这种至宝了？\n\n顾玄：师尊，我说我也是刚知道，您信吗？\n\n天衍宗长老：顾前辈，您看我家孙女...能不能拜入您门下？",
+        "background_music": "轻松诙谐",
+        "sound_effects": "环境音"
+      },
+      "editing": {
+        "transition": "切",
+        "pacing": "moderate"
+      },
+      "notes": "展示地位反转后的荒诞场景"
+    },
+    {
+      "shot_id": "EP13-S012",
+      "chapter_number": 13,
+      "scene_number": 12,
+      "duration": 12,
+      "shot_type": "特写→全景",
+      "location": "青云宗临时住处→内心世界",
+      "time_of_day": "深夜",
+      "composition": "顾玄独自对着锈剑发愁，天魔声音响起，顾玄认命",
+      "characters": [
+        {
+          "name": "顾玄",
+          "action": "抱着锈剑，长叹",
+          "expression": "发愁→认命",
+          "costume": "青色道袍"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "天魔声音具象化特效、锈剑重新变回锈迹斑斑的对比、内心世界画面",
+        "color_grading": "深蓝色调，沉思感"
+      },
+      "audio": {
+        "dialogue": "顾玄：这下彻底玩脱了...连天魔剑都出来了...该不会真有什么大劫要我扛吧？我就想安安静静装个逼啊！\n\n天魔声音：逃避是没用的...天魔剑现，大劫将至...这是你的命运...\n\n顾玄：好吧...那至少让我装逼装得帅一点。首先，得给这把剑做个炫酷的剑鞘...",
+        "background_music": "神秘深沉",
+        "sound_effects": "内心独白音效、风声"
+      },
+      "editing": {
+        "transition": "淡出",
+        "pacing": "slow"
+      },
+      "notes": "结尾钩子，暗示大劫将至，主角认命"
     }
-  },
-  {
-    "shot_id": "EP13-S007",
-    "chapter_number": 13,
-    "scene_number": 7,
-    "duration": 7,
-    "shot_type": "近景",
-    "location": "天衍宗住处",
-    "time_of_day": "深夜",
-    "composition": {
-      "camera_position": "侧面拍摄",
-      "camera_movement": "轻微推近",
-      "framing": "三分法",
-      "focus_type": "主体清晰"
-    },
-    "characters": [
-      {
-        "name": "顾玄",
-        "position": "房内",
-        "action": "独自对着天魔剑发愁",
-        "expression": "无奈,担忧",
-        "costume": "白衣",
-        "props": "天魔剑"
-      }
-    ],
-    "visual_effects": {
-      "environment": "深夜房内",
-      "lighting": "昏暗烛光",
-      "color_palette": "冷色调",
-      "special_effects": "天魔剑恢复锈迹斑斑"
-    },
-    "audio": {
-      "dialogue": "",
-      "narration": "",
-      "internal_monologue": "这下彻底玩脱了...连天魔剑都出来了...该不会真有什么大劫要我扛吧?我就想安安静静装个逼啊!",
-      "background_music": "无奈,自嘲",
-      "sound_effects": ["系统机械音"],
-      "volume_level": "内心独白为主"
-    },
-    "editing": {
-      "transition_to_next": "淡出",
-      "pacing": "舒缓",
-      "purpose": "收尾,留下悬念"
-    },
-    "notes": {
-      "production_note": "夜景拍摄",
-      "reference_style": "轻松幽默",
-      "difficulty_level": "简单"
-    }
-  }
-]
+  ]
+}

@@ -1,797 +1,94 @@
-[
-  {
-    "shot_id": "EP27-S001",
-    "chapter_number": 27,
-    "scene_number": 1,
-    "duration": 10,
-    "shot_type": "中景",
-    "location": "多元宇宙事务办公室",
-    "time_of_day": "无",
-    "composition": {
-      "camera_position": "斜45度角",
-      "camera_movement": "缓慢推近",
-      "framing": "中心构图",
-      "focus_type": "主体清晰,背景虚化"
+{
+  "chapter": "第二十七章：掉线危机",
+  "chapter_number": 27,
+  "scenes": [
+    {
+      "scene_number": 1,
+      "location": "多元宇宙事务办公室",
+      "time": "日常",
+      "characters": ["顾玄", "零"],
+      "visual_effects": {"environment": "繁忙办公室", "special_effects": "全息报表", "lighting": "工作光线"},
+      "camera_angles": ["全景：办公室", "特写：全息报表", "主观：顾玄视角"],
+      "system_interfaces": [{"content": "【世界Z-73：灵气浓度异常下降-建议检查灵脉】\n【世界S-42：机械文明申请加入联合体-需文化适应评估】", "type": "待办事项", "visual_style": "报表界面"}],
+      "character_emotions": {"顾玄": "头疼→惊讶", "零": "焦急"},
+      "key_dialogue": ["零：兄弟！第三宇宙块出事了！有个世界突然'掉线'了！", "顾玄：掉线？服务器故障？"],
+      "plot_points": ["监察使日常", "世界掉线危机", "紧急任务"],
+      "satisfaction_level": "压抑积累"
     },
-    "characters": [
-      {
-        "name": "顾玄",
-        "position": "办公桌前",
-        "action": "揉太阳穴,看全息报表",
-        "expression": "头疼",
-        "costume": "管理员长袍"
-      }
-    ],
-    "visual_effects": {
-      "environment": "维度办公室,全息报表漂浮",
-      "lighting": "柔和蓝光",
-      "color_palette": "冷色调",
-      "special_effects": "全息报表显示待办事项,文字清晰可读"
+    {
+      "scene_number": 2,
+      "location": "Q-13世界",
+      "time": "到达后",
+      "characters": ["顾玄", "虚空生物", "幸存者"],
+      "visual_effects": {"environment": "末日废墟", "special_effects": "虚空生物吞噬能量", "lighting": "紫色天空"},
+      "camera_angles": ["俯拍：废墟全景", "动作：虚空生物攻击", "特效：剑气被吸收"],
+      "system_interfaces": [{"content": "【检测到高浓度虚空能量】\n【世界规则被改写：科技无效化】\n【加载本地备份规则...临时适应】", "type": "扫描结果", "visual_style": "环境数据"}],
+      "character_emotions": {"顾玄": "警惕→震惊", "幸存者": "绝望→激动"},
+      "key_dialogue": ["女科学家：是总部的人？！我们以为被抛弃了！", "顾玄：管理员顾玄，来调查世界异常。"],
+      "plot_points": ["末日世界", "科技失效", "虚空生物"],
+      "satisfaction_level": "荒凉+紧张"
     },
-    "audio": {
-      "dialogue": "这比管理宗门麻烦多了...",
-      "narration": "",
-      "internal_monologue": "",
-      "background_music": "轻松带点疲惫",
-      "sound_effects": ["报表翻页声"],
-      "volume_level": "内心独白为主"
+    {
+      "scene_number": 3,
+      "location": "虚空裂缝",
+      "time": "调查",
+      "characters": ["顾玄", "女科学家（虚空领主）"],
+      "visual_effects": {"environment": "巨大紫色漩涡", "special_effects": "科学家融化", "lighting": "虚空紫光"},
+      "camera_angles": ["全景：漩涡", "特写：科学家诡异微笑", "动作：虚空能量体形成"],
+      "system_interfaces": [{"content": "【检测到异常维度连接】\n【源头：未知】\n\n女科学家（虚空领主）：\"终于...等到你了...\"", "type": "扫描结果", "visual_style": "警告界面"}],
+      "character_emotions": {"顾玄": "警惕→冷静", "虚空领主": "狂笑"},
+      "key_dialogue": ["虚空领主：感谢你带来完整的权限...现在，这个世界归我了！", "顾玄：规则覆盖：恢复默认设置！"],
+      "plot_points": ["虚空领主伪装", "冒险冲入虚空", "天道意识觉醒"],
+      "satisfaction_level": "紧张+释放"
     },
-    "editing": {
-      "transition_to_next": "直接切",
-      "pacing": "舒缓",
-      "purpose": "建立场景,展示管理员日常"
+    {
+      "scene_number": 4,
+      "location": "主系统核心",
+      "time": "紧急会议",
+      "characters": ["顾玄", "零", "各世界管理员"],
+      "visual_effects": {"environment": "主系统被紫色能量覆盖", "special_effects": "自毁倒计时", "lighting": "警报红光"},
+      "camera_angles": ["全景：会议室", "特写：主系统被入侵", "主观：倒计时"],
+      "system_interfaces": [{"content": "【主系统被黑！】\n【主系统正在启动自毁程序！】\n【三小时后爆炸！】", "type": "紧急警报", "visual_style": "红色警报"}],
+      "character_emotions": {"顾玄": "震惊→当机立断", "零": "满头大汗", "管理员": "震惊→决心"},
+      "key_dialogue": ["零：除非有'最高管理员'权限...但那需要三个宇宙块的管理员同时授权！", "顾玄：那就投票！同意的举手！"],
+      "plot_points": ["主系统危机", "管理员联合", "密码破解"],
+      "satisfaction_level": "震撼+搞笑"
     },
-    "notes": {
-      "production_note": "实景+CG全息效果",
-      "reference_style": "现代修仙轻喜剧",
-      "difficulty_level": "中等"
+    {
+      "scene_number": 5,
+      "location": "主系统核心",
+      "time": "对抗",
+      "characters": ["顾玄", "零", "虚空大君", "各管理员"],
+      "visual_effects": {"environment": "核心控制室", "special_effects": "多元宇宙规则汇聚", "lighting": "能量融合光芒"},
+      "camera_angles": ["全景：规则汇聚", "特写：密码破解", "动作：净化爆发"],
+      "system_interfaces": [{"content": "密码破解：\n'欢迎使用主系统'？不对！\n'管理员都是帅哥'？不对！\n'密码123456'？也不对！\n顾玄：试试'恭喜发财'？\n零：...对了？！", "type": "密码破解", "visual_style": "破解界面"}],
+      "character_emotions": {"顾玄": "灵光一闪", "零": "焦急→惊喜", "虚空大君": "惨叫"},
+      "key_dialogue": ["顾玄：或许...有别的办法。我们将各自世界的规则注入主系统！用多元宇宙的力量覆盖虚空！", "虚空大君：不！这不可能！"],
+      "plot_points": ["密码破解荒诞", "多元宇宙净化", "主系统重生"],
+      "satisfaction_level": "史诗+满足"
+    },
+    {
+      "scene_number": 6,
+      "location": "主系统核心",
+      "time": "危机解除后",
+      "characters": ["顾玄", "零"],
+      "visual_effects": {"environment": "恢复正常的控制室", "special_effects": "现实求救信号", "lighting": "平静光线"},
+      "camera_angles": ["特写：主屏幕", "主观：顾玄视角", "反应：零惊讶"],
+      "system_interfaces": [{"content": "【检测到未知信号源...来源：现实宇宙】\n\n求救信号：\"求救！现实正在被虚空入侵！请求任何可用援助！\"", "type": "求救信号", "visual_style": "信号界面"}],
+      "character_emotions": {"顾玄": "与零对视", "零": "担忧"},
+      "key_dialogue": ["顾玄：我能做的，就是全力以赴。", "零：现实宇宙都沦陷了...我们该怎么办？"],
+      "plot_points": ["主系统重生", "现实求救", "最终决战准备"],
+      "satisfaction_level": "史诗+期待"
     }
-  },
-  {
-    "shot_id": "EP27-S002",
-    "chapter_number": 27,
-    "scene_number": 1,
-    "duration": 7,
-    "shot_type": "特写",
-    "location": "多元宇宙事务办公室",
-    "time_of_day": "无",
-    "composition": {
-      "camera_position": "正面",
-      "camera_movement": "固定",
-      "framing": "中心构图",
-      "focus_type": "全息屏清晰"
-    },
-    "characters": [],
-    "visual_effects": {
-      "environment": "全息屏特写",
-      "lighting": "屏幕自发光",
-      "color_palette": "信息蓝",
-      "special_effects": "报表内容滚动:世界Z-73灵气异常、S-42申请加入、M-17抗议科技"
-    },
-    "audio": {
-      "dialogue": "",
-      "narration": "待办事项堆积如山",
-      "internal_monologue": "",
-      "background_music": "轻松",
-      "sound_effects": ["系统提示音"],
-      "volume_level": "音效辅助"
-    },
-    "editing": {
-      "transition_to_next": "直接切",
-      "pacing": "中等",
-      "purpose": "展示工作量"
-    },
-    "notes": {
-      "production_note": "全CG界面",
-      "reference_style": "科技感",
-      "difficulty_level": "简单"
-    }
-  },
-  {
-    "shot_id": "EP27-S003",
-    "chapter_number": 27,
-    "scene_number": 2,
-    "duration": 8,
-    "shot_type": "中景",
-    "location": "多元宇宙事务办公室",
-    "time_of_day": "无",
-    "composition": {
-      "camera_position": "侧面",
-      "camera_movement": "轻微摇摄",
-      "framing": "三分法",
-      "focus_type": "主体清晰"
-    },
-    "characters": [
-      {
-        "name": "顾玄",
-        "position": "办公桌前",
-        "action": "抬头,表情凝重",
-        "expression": "警觉",
-        "costume": "管理员长袍"
-      },
-      {
-        "name": "零",
-        "position": "全息投影",
-        "action": "急吼吼地报告",
-        "expression": "焦急",
-        "costume": "虚拟形象"
-      }
-    ],
-    "visual_effects": {
-      "environment": "办公室内,零的投影突然出现",
-      "lighting": "紧急红光闪烁",
-      "color_palette": "暖色调转为警报红",
-      "special_effects": "全息投影零,背景警报光芒"
-    },
-    "audio": {
-      "dialogue": "兄弟!第三宇宙块出事了!有个世界突然'掉线'了!",
-      "narration": "",
-      "internal_monologue": "",
-      "background_music": "紧张急促",
-      "sound_effects": ["警报声", "投影激活音"],
-      "volume_level": "对话突出"
-    },
-    "editing": {
-      "transition_to_next": "快速切",
-      "pacing": "紧张",
-      "purpose": "制造危机感"
-    },
-    "notes": {
-      "production_note": "实景+CG投影",
-      "reference_style": "紧张悬疑",
-      "difficulty_level": "中等"
-    }
-  },
-  {
-    "shot_id": "EP27-S004",
-    "chapter_number": 27,
-    "scene_number": 2,
-    "duration": 6,
-    "shot_type": "特写",
-    "location": "顾玄眼前/根源视界",
-    "time_of_day": "无",
-    "composition": {
-      "camera_position": "主观视角",
-      "camera_movement": "数据流动",
-      "framing": "中心构图",
-      "focus_type": "界面清晰"
-    },
-    "characters": [],
-    "visual_effects": {
-      "environment": "根源视界界面",
-      "lighting": "界面蓝光",
-      "color_palette": "冷色调",
-      "special_effects": "数据流滚动:世界Q-13状态未响应、高维能量爆发"
-    },
-    "audio": {
-      "dialogue": "掉线?服务器故障?",
-      "narration": "",
-      "internal_monologue": "",
-      "background_music": "科技感",
-      "sound_effects": ["数据流动声"],
-      "volume_level": "对话为主"
-    },
-    "editing": {
-      "transition_to_next": "直接切",
-      "pacing": "中等",
-      "purpose": "展示危机信息"
-    },
-    "notes": {
-      "production_note": "全CG界面",
-      "reference_style": "科技感",
-      "difficulty_level": "中等"
-    }
-  },
-  {
-    "shot_id": "EP27-S005",
-    "chapter_number": 27,
-    "scene_number": 3,
-    "duration": 10,
-    "shot_type": "远景",
-    "location": "Q-13世界-废墟城市",
-    "time_of_day": "无(天空紫色)",
-    "composition": {
-      "camera_position": "俯拍",
-      "camera_movement": "缓慢推近",
-      "framing": "广角构图",
-      "focus_type": "全景深"
-    },
-    "characters": [
-      {
-        "name": "顾玄",
-        "position": "传送出现",
-        "action": "环顾四周,警惕",
-        "expression": "凝重",
-        "costume": "管理员长袍"
-      },
-      {
-        "name": "虚空生物",
-        "position": "废墟阴影中",
-        "action": "游荡",
-        "expression": "扭曲",
-        "costume": "不定形"
-      }
-    ],
-    "visual_effects": {
-      "environment": "末日废墟,紫色天空,扭曲生物",
-      "lighting": "病态紫光",
-      "color_palette": "高对比度,紫黑为主",
-      "special_effects": "根源视界扫描显示:虚空能量、科技无效化、幸存者地下避难所"
-    },
-    "audio": {
-      "dialogue": "",
-      "narration": "Q-13世界,高级科技文明已化为废墟",
-      "internal_monologue": "像是被...隔离了",
-      "background_music": "压抑诡异",
-      "sound_effects": ["风声", "虚空生物低吼"],
-      "volume_level": "环境音突出"
-    },
-    "editing": {
-      "transition_to_next": "淡入",
-      "pacing": "缓慢",
-      "purpose": "建立末日氛围"
-    },
-    "notes": {
-      "production_note": "需要大量CG特效",
-      "reference_style": "末日废墟风",
-      "difficulty_level": "复杂"
-    }
-  },
-  {
-    "shot_id": "EP27-S006",
-    "chapter_number": 27,
-    "scene_number": 4,
-    "duration": 8,
-    "shot_type": "中景",
-    "location": "Q-13世界-废墟街道",
-    "time_of_day": "无",
-    "composition": {
-      "camera_position": "跟踪拍摄",
-      "camera_movement": "跟随移动",
-      "framing": "动态构图",
-      "focus_type": "主体清晰"
-    },
-    "characters": [
-      {
-        "name": "顾玄",
-        "position": "画面中央",
-        "action": "警惕前进,尝试权限",
-        "expression": "凝重",
-        "costume": "管理员长袍"
-      },
-      {
-        "name": "虚空生物",
-        "position": "阴影中扑出",
-        "action": "攻击,被吸收",
-        "expression": "凶狠",
-        "costume": "不定形黑色生物"
-      }
-    ],
-    "visual_effects": {
-      "environment": "废墟街道",
-      "lighting": "昏暗紫光",
-      "color_palette": "暗色调",
-      "special_effects": "顾玄一剑斩出,剑气被吸收,界面显示:规则修改失败"
-    },
-    "audio": {
-      "dialogue": "规则修改:此地允许能量攻击!系统!加载本地备份规则!",
-      "narration": "",
-      "internal_monologue": "",
-      "background_music": "紧张战斗",
-      "sound_effects": ["剑气声", "吸收声", "系统提示音"],
-      "volume_level": "音效突出"
-    },
-    "editing": {
-      "transition_to_next": "快速切",
-      "pacing": "紧张",
-      "purpose": "展示规则冲突"
-    },
-    "notes": {
-      "production_note": "战斗场景+特效",
-      "reference_style": "紧张战斗",
-      "difficulty_level": "中等"
-    }
-  },
-  {
-    "shot_id": "EP27-S007",
-    "chapter_number": 27,
-    "scene_number": 5,
-    "duration": 7,
-    "shot_type": "中景",
-    "location": "Q-13世界-地下避难所",
-    "time_of_day": "无",
-    "composition": {
-      "camera_position": "正面拍摄",
-      "camera_movement": "缓慢推近",
-      "framing": "中心构图",
-      "focus_type": "人物清晰"
-    },
-    "characters": [
-      {
-        "name": "女科学家",
-        "position": "避难所中央",
-        "action": "震惊,激动",
-        "expression": "不敢置信",
-        "costume": "破旧实验服"
-      },
-      {
-        "name": "顾玄",
-        "position": "入口处",
-        "action": "展示权限徽章",
-        "expression": "温和",
-        "costume": "管理员长袍"
-      }
-    ],
-    "visual_effects": {
-      "environment": "地下基地,设备简陋",
-      "lighting": "昏暗应急灯光",
-      "color_palette": "暖色调偏暗",
-      "special_effects": "权限徽章发光"
-    },
-    "audio": {
-      "dialogue": "是总部的人?!我们以为被抛弃了!管理员顾玄,来调查世界异常",
-      "narration": "",
-      "internal_monologue": "",
-      "background_music": "温情带希望",
-      "sound_effects": ["基地运转声"],
-      "volume_level": "对话突出"
-    },
-    "editing": {
-      "transition_to_next": "直接切",
-      "pacing": "舒缓",
-      "purpose": "展现幸存者情绪"
-    },
-    "notes": {
-      "production_note": "实景拍摄",
-      "reference_style": "末日求生风",
-      "difficulty_level": "简单"
-    }
-  },
-  {
-    "shot_id": "EP27-S008",
-    "chapter_number": 27,
-    "scene_number": 6,
-    "duration": 10,
-    "shot_type": "全景",
-    "location": "Q-13世界-虚空裂缝中心",
-    "time_of_day": "无",
-    "composition": {
-      "camera_position": "仰视",
-      "camera_movement": "环绕拍摄",
-      "framing": "震撼构图",
-      "focus_type": "裂缝清晰"
-    },
-    "characters": [
-      {
-        "name": "顾玄",
-        "position": "裂缝前",
-        "action": "观察,警惕",
-        "expression": "凝重",
-        "costume": "管理员长袍"
-      },
-      {
-        "name": "女科学家(虚空领主)",
-        "position": "顾玄身旁",
-        "action": "诡异一笑,融化变身",
-        "expression": "狡诈",
-        "costume": "破旧实验服→紫色能量体"
-      }
-    ],
-    "visual_effects": {
-      "environment": "巨大紫色漩涡裂缝,吞噬一切",
-      "lighting": "耀眼紫光",
-      "color_palette": "高对比度,紫色为主",
-      "special_effects": "女科学家融化成紫色能量体,虚空领主现身,背景裂缝不断扩大"
-    },
-    "audio": {
-      "dialogue": "终于...等到你了...感谢你带来完整的权限...现在,这个世界归我了!竟是虚空领主伪装的!",
-      "narration": "",
-      "internal_monologue": "",
-      "background_music": "悬疑紧张",
-      "sound_effects": ["能量涌动声", "变身声"],
-      "volume_level": "对话突出"
-    },
-    "editing": {
-      "transition_to_next": "快速切",
-      "pacing": "紧张",
-      "purpose": "剧情反转"
-    },
-    "notes": {
-      "production_note": "需要大量CG特效",
-      "reference_style": "震撼反转",
-      "difficulty_level": "复杂"
-    }
-  },
-  {
-    "shot_id": "EP27-S009",
-    "chapter_number": 27,
-    "scene_number": 7,
-    "duration": 9,
-    "shot_type": "中景",
-    "location": "Q-13世界-虚空裂缝",
-    "time_of_day": "无",
-    "composition": {
-      "camera_position": "动态跟拍",
-      "camera_movement": "快速移动",
-      "framing": "动态构图",
-      "focus_type": "动作清晰"
-    },
-    "characters": [
-      {
-        "name": "顾玄",
-        "position": "画面中央",
-        "action": "战斗,权限对决",
-        "expression": "冷静",
-        "costume": "管理员长袍"
-      },
-      {
-        "name": "虚空领主",
-        "position": "对立面",
-        "action": "吸收攻击,狂笑",
-        "expression": "傲慢",
-        "costume": "紫色能量体"
-      }
-    ],
-    "visual_effects": {
-      "environment": "裂缝边缘",
-      "lighting": "紫金对决光芒",
-      "color_palette": "高对比度",
-      "special_effects": "顾玄攻击被吸收,规则覆盖生效,备份数据光芒,虚空领主被重创"
-    },
-    "audio": {
-      "dialogue": "没用的!在这里,虚空规则高于一切!规则覆盖:恢复默认设置!你作弊!跟你学的",
-      "narration": "",
-      "internal_monologue": "",
-      "background_music": "激昂战斗",
-      "sound_effects": ["能量碰撞声", "系统提示音"],
-      "volume_level": "音效突出"
-    },
-    "editing": {
-      "transition_to_next": "快速切",
-      "pacing": "快速",
-      "purpose": "战斗高潮"
-    },
-    "notes": {
-      "production_note": "大量特效+动作",
-      "reference_style": "激烈战斗",
-      "difficulty_level": "复杂"
-    }
-  },
-  {
-    "shot_id": "EP27-S010",
-    "chapter_number": 27,
-    "scene_number": 8,
-    "duration": 12,
-    "shot_type": "特效全景",
-    "location": "虚空深处",
-    "time_of_day": "无",
-    "composition": {
-      "camera_position": "主观视角",
-      "camera_movement": "穿越效果",
-      "framing": "抽象构图",
-      "focus_type": "能量流清晰"
-    },
-    "characters": [
-      {
-        "name": "顾玄",
-        "position": "虚空中",
-        "action": "冲入裂缝,能量对抗",
-        "expression": "坚毅",
-        "costume": "管理员长袍发光"
-      },
-      {
-        "name": "天道意识",
-        "position": "控制台投影",
-        "action": "虚弱求助",
-        "expression": "濒死",
-        "costume": "半透明能量体"
-      }
-    ],
-    "visual_effects": {
-      "environment": "纯粹虚空,狂暴能量",
-      "lighting": "紫金对抗光芒",
-      "color_palette": "超高对比度",
-      "special_effects": "虚空漩涡,控制台水晶,顾玄权限连接,天道意识浮现,金光净化"
-    },
-    "audio": {
-      "dialogue": "帮...帮我...以管理员之名,授权你清除异常!不!!!谢谢...但危机还没结束...它们的目标是...根源之海!必须阻止它们!",
-      "narration": "",
-      "internal_monologue": "",
-      "background_music": "史诗悲壮",
-      "sound_effects": ["能量激荡声", "净化光芒"],
-      "volume_level": "对话突出"
-    },
-    "editing": {
-      "transition_to_next": "叠化",
-      "pacing": "宏大",
-      "purpose": "净化虚空,揭示更大危机"
-    },
-    "notes": {
-      "production_note": "需要大量CG特效",
-      "reference_style": "史诗级场景",
-      "difficulty_level": "非常复杂"
-    }
-  },
-  {
-    "shot_id": "EP27-S011",
-    "chapter_number": 27,
-    "scene_number": 9,
-    "duration": 8,
-    "shot_type": "全景",
-    "location": "全息会议室",
-    "time_of_day": "无",
-    "composition": {
-      "camera_position": "环绕拍摄",
-      "camera_movement": "缓慢旋转",
-      "framing": "会议构图",
-      "focus_type": "全息投影清晰"
-    },
-    "characters": [
-      {
-        "name": "顾玄",
-        "position": "会议室中央",
-        "action": "主持会议,展示数据",
-        "expression": "严肃",
-        "costume": "管理员长袍"
-      },
-      {
-        "name": "各世界管理员",
-        "position": "全息投影",
-        "action": "听取报告",
-        "expression": "各异",
-        "costume": "各异"
-      }
-    ],
-    "visual_effects": {
-      "environment": "全息会议室",
-      "lighting": "会议蓝光",
-      "color_palette": "冷色调",
-      "special_effects": "各种族全息投影:精灵贤者、AI总管、蘑菇人,数据展示虚空威胁"
-    },
-    "audio": {
-      "dialogue": "...情况就是这样。我们需要联合防御。虚空能量会腐蚀魔法,我们的科技对它们无效。咕噜咕噜(俺们怕怕)",
-      "narration": "",
-      "internal_monologue": "",
-      "background_music": "严肃紧张",
-      "sound_effects": ["投影声", "翻译声"],
-      "volume_level": "对话突出"
-    },
-    "editing": {
-      "transition_to_next": "直接切",
-      "pacing": "中等",
-      "purpose": "建立联合阵线"
-    },
-    "notes": {
-      "production_note": "全CG会议室",
-      "reference_style": "科幻会议",
-      "difficulty_level": "中等"
-    }
-  },
-  {
-    "shot_id": "EP27-S012",
-    "chapter_number": 27,
-    "scene_number": 10,
-    "duration": 7,
-    "shot_type": "中景",
-    "location": "全息会议室",
-    "time_of_day": "无",
-    "composition": {
-      "camera_position": "正面",
-      "camera_movement": "急推",
-      "framing": "中心构图",
-      "focus_type": "零的投影清晰"
-    },
-    "characters": [
-      {
-        "name": "零",
-        "position": "突接入会议",
-        "action": "急匆匆报告",
-        "expression": "焦急",
-        "costume": "虚拟形象"
-      },
-      {
-        "name": "各管理员",
-        "position": "会议中",
-        "action": "震惊",
-        "expression": "不可置信",
-        "costume": "各异"
-      }
-    ],
-    "visual_effects": {
-      "environment": "会议室突然警报",
-      "lighting": "紧急红光",
-      "color_palette": "警报色调",
-      "special_effects": "监控画面显示主系统被紫色能量覆盖,虚空生物涌入"
-    },
-    "audio": {
-      "dialogue": "兄弟们!大事不好!主系统被黑了!什么?!比我们想的更快!主系统正在启动自毁程序!三小时后爆炸!",
-      "narration": "",
-      "internal_monologue": "",
-      "background_music": "极度紧张",
-      "sound_effects": ["警报声", "投影激活音"],
-      "volume_level": "对话突出"
-    },
-    "editing": {
-      "transition_to_next": "快速切",
-      "pacing": "极快",
-      "purpose": "升级危机"
-    },
-    "notes": {
-      "production_note": "警报效果+CG",
-      "reference_style": "紧急危机",
-      "difficulty_level": "中等"
-    }
-  },
-  {
-    "shot_id": "EP27-S013",
-    "chapter_number": 27,
-    "scene_number": 11,
-    "duration": 10,
-    "shot_type": "全景蒙太奇",
-    "location": "主系统核心区域",
-    "time_of_day": "无",
-    "composition": {
-      "camera_position": "快速切换",
-      "camera_movement": "战斗动态",
-      "framing": "动作构图",
-      "focus_type": "战斗清晰"
-    },
-    "characters": [
-      {
-        "name": "顾玄及管理员团队",
-        "position": "核心区域推进",
-        "action": "攻防战",
-        "expression": "坚定",
-        "costume": "各异"
-      },
-      {
-        "name": "虚空生物",
-        "position": "防御阵地",
-        "action": "反击",
-        "expression": "狂暴",
-        "costume": "紫色能量体"
-      }
-    ],
-    "visual_effects": {
-      "environment": "主系统核心,紫色能量覆盖",
-      "lighting": "战斗光芒",
-      "color_palette": "高对比度",
-      "special_effects": "顾玄规则修改禁空,精灵魔法结界,AI逻辑炸弹,蘑菇人加油,战斗推进至核心门"
-    },
-    "audio": {
-      "dialogue": "规则修改:此地禁止虚空存在!以自然之名!删除异常进程!咕噜!密码是...'恭喜发财'?!...对了?!门开了!众人绝倒",
-      "narration": "",
-      "internal_monologue": "",
-      "background_music": "激昂战斗带幽默",
-      "sound_effects": ["战斗声", "系统提示音", "幽默音效"],
-      "volume_level": "音效突出"
-    },
-    "editing": {
-      "transition_to_next": "快速切",
-      "pacing": "快速",
-      "purpose": "战斗蒙太奇+幽默反转"
-    },
-    "notes": {
-      "production_note": "大量特效+幽默元素",
-      "reference_style": "紧张战斗+搞笑",
-      "difficulty_level": "复杂"
-    }
-  },
-  {
-    "shot_id": "EP27-S014",
-    "chapter_number": 27,
-    "scene_number": 12,
-    "duration": 11,
-    "shot_type": "大远景",
-    "location": "主系统核心控制室",
-    "time_of_day": "无",
-    "composition": {
-      "camera_position": "俯视",
-      "camera_movement": "缓慢拉远",
-      "framing": "震撼构图",
-      "focus_type": "全景清晰"
-    },
-    "characters": [
-      {
-        "name": "虚空大君",
-        "position": "核心融合",
-        "action": "与主系统融合",
-        "expression": "傲慢",
-        "costume": "巨大能量体"
-      },
-      {
-        "name": "顾玄",
-        "position": "控制台前",
-        "action": "调动权限",
-        "expression": "决绝",
-        "costume": "管理员长袍发光"
-      },
-      {
-        "name": "各管理员",
-        "position": "周围",
-        "action": "连接力量",
-        "expression": "坚定",
-        "costume": "各异"
-      }
-    ],
-    "visual_effects": {
-      "environment": "主系统核心,巨大光脑",
-      "lighting": "紫金对抗→净化金光",
-      "color_palette": "超高对比度",
-      "special_effects": "虚空大君融合,顾玄连接所有管理员,庞大能量汇聚,多元宇宙规则注入,虚空被净化,倒计时停在一秒"
-    },
-    "audio": {
-      "dialogue": "来不及了!必须立即格式化!或许...有别的办法。不!这不可能!你永远不懂...这就是文明的力量!检测到未知信号源...来源:现实宇宙。求救!现实正在被虚空入侵!",
-      "narration": "",
-      "internal_monologue": "",
-      "background_music": "史诗震撼",
-      "sound_effects": ["能量涌动声", "净化声", "倒计时声"],
-      "volume_level": "对话+音效并重"
-    },
-    "editing": {
-      "transition_to_next": "叠化",
-      "pacing": "宏大",
-      "purpose": "高潮净化+新危机铺垫"
-    },
-    "notes": {
-      "production_note": "需要大量CG特效",
-      "reference_style": "史诗级高潮",
-      "difficulty_level": "非常复杂"
-    }
-  },
-  {
-    "shot_id": "EP27-S015",
-    "chapter_number": 27,
-    "scene_number": 13,
-    "duration": 8,
-    "shot_type": "中景",
-    "location": "主系统控制室",
-    "time_of_day": "无",
-    "composition": {
-      "camera_position": "双人镜头",
-      "camera_movement": "缓慢推近",
-      "framing": "对称构图",
-      "focus_type": "人物清晰"
-    },
-    "characters": [
-      {
-        "name": "顾玄",
-        "position": "画面左侧",
-        "action": "看着主屏幕",
-        "expression": "凝重",
-        "costume": "管理员长袍"
-      },
-      {
-        "name": "零",
-        "position": "画面右侧",
-        "action": "对视",
-        "expression": "担忧",
-        "costume": "虚拟形象"
-      }
-    ],
-    "visual_effects": {
-      "environment": "恢复正常的控制室",
-      "lighting": "柔和蓝光",
-      "color_palette": "冷色调",
-      "special_effects": "主屏幕显示求救信号,现实宇宙坐标α-7"
-    },
-    "audio": {
-      "dialogue": "",
-      "narration": "",
-      "internal_monologue": "看来...麻烦才刚刚开始",
-      "background_music": "悬念重重",
-      "sound_effects": ["信号声"],
-      "volume_level": "环境音为主"
-    },
-    "editing": {
-      "transition_to_next": "淡出",
-      "pacing": "缓慢",
-      "purpose": "留下悬念"
-    },
-    "notes": {
-      "production_note": "实景拍摄",
-      "reference_style": "悬疑结尾",
-      "difficulty_level": "简单"
-    }
-  }
-]
+  ],
+  "summary": "顾玄处理世界掉线危机，遇到Q-13末日世界和虚空领主，联合各世界管理员净化主系统，收到现实宇宙求救信号",
+  "key_satisfaction_points": [
+    "监察使日常",
+    "世界掉线",
+    "虚空领主",
+    "主系统危机",
+    "多元宇宙净化",
+    "现实求救"
+  ],
+  "emotional_curve": "忙碌→荒凉→紧张→震撼→史诗"
+}

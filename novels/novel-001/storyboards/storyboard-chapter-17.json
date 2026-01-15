@@ -1,720 +1,590 @@
-[
-  {
-    "shot_id": "EP17-S001",
-    "chapter_number": 17,
-    "scene_number": 1,
-    "duration": 8,
-    "shot_type": "全景",
-    "location": "深山峡谷洞穴",
-    "time_of_day": "夜晚",
-    "composition": {
-      "camera_position": "高处俯拍",
-      "camera_movement": "缓慢下降",
-      "framing": "全景构图",
-      "focus_type": "全景清晰"
-    },
-    "characters": [
-      {
-        "name": "魔教众徒",
-        "position": "主洞穴",
-        "action": "跪伏叩拜,自愿被抽干生命",
-        "expression": "狂热",
-        "costume": "黑袍"
+{
+  "chapter": 17,
+  "chapter_title": "伪天魔现",
+  "total_scenes": 12,
+  "emotion_curve": ["紧张", "荒诞", "搞笑", "震撼", "震撼升级"],
+  "scenes": [
+    {
+      "shot_id": "EP17-S001",
+      "chapter_number": 17,
+      "scene_number": 1,
+      "duration": 10,
+      "shot_type": "全景",
+      "location": "深山峡谷洞穴入口",
+      "time_of_day": "夜晚",
+      "composition": "阴森的洞穴入口，不祥的黑色气息从洞口溢出，周围枯树扭曲，月光被乌云遮蔽，营造压抑恐怖氛围",
+      "characters": [
+        {
+          "name": "顾玄",
+          "action": "手持天魔剑扫描洞穴，神色凝重",
+          "expression": "眉头紧锁，紧张专注",
+          "costume": "青云宗道袍，腰佩天魔剑"
+        },
+        {
+          "name": "陆尘",
+          "action": "紧张地躲在顾玄身后",
+          "expression": "惊恐不安",
+          "costume": "青云宗弟子服"
+        },
+        {
+          "name": "石猛",
+          "action": "握紧武器，警惕四周",
+          "expression": "紧张坚定",
+          "costume": "青云宗弟子服"
+        },
+        {
+          "name": "白芷",
+          "action": "怯生生地站在一旁",
+          "expression": "害怕",
+          "costume": "青云宗弟子服"
+        },
+        {
+          "name": "执法傀儡",
+          "action": "站在顾玄身侧，眼中红光闪烁",
+          "expression": "无感情的机械眼",
+          "costume": "金属傀儡身躯"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "天魔剑投影出全息APP界面，显示红色警告：【检测到上百名魔教徒】【天魔之种信号最强】【建议：立即取缔】。洞穴口不祥的黑气如活物般蠕动",
+        "color_grading": "冷色调，蓝黑色为主，洞穴入口处有暗红色光晕"
       },
-      {
-        "name": "祭司",
-        "position": "祭坛上",
-        "action": "狂热呼喊",
-        "expression": "狂热",
-        "costume": "祭司袍"
+      "audio": {
+        "dialogue": "陆尘：'师兄，怎么办？直接杀进去？' 顾玄：'（咬牙）执法傀儡！执行取缔任务！' 傀儡：'遵命！'",
+        "background_music": "紧张压抑的音乐，低沉的鼓点",
+        "sound_effects": "阴风呼啸声，远处传来邪教徒的低语声，执法APP的警告音"
       },
-      {
-        "name": "天魔之种",
-        "position": "血池中",
-        "action": "吸收能量,快速成长",
-        "expression": "贪婪",
-        "costume": "婴儿→青年形态"
+      "editing": {
+        "transition": "硬切",
+        "pacing": "moderate"
       },
-      {
-        "name": "顾玄",
-        "position": "藏身处",
-        "action": "震惊观察",
-        "expression": "震惊",
-        "costume": "白衣"
-      }
-    ],
-    "visual_effects": {
-      "environment": "主洞穴,血池,符文刻满石壁",
-      "lighting": "血腥红光,黑气缭绕",
-      "color_palette": "恐怖色调",
-      "special_effects": "血池沸腾,天魔之种从婴儿快速成长到青年,吸收祭司生命力,吸收祭司后力量暴涨"
+      "notes": "开场建立紧张氛围，展现敌众我寡的危机感"
     },
-    "audio": {
-      "dialogue": "圣子将带领我们迎接天魔归来!奉献你们的生命吧! 滴滴!检测到特大违规:非法宗教活动(-50000功德),煽动自我奉献(-100000功德),虐待婴幼儿(-200000功德)",
-      "narration": "",
-      "internal_monologue": "",
-      "background_music": "恐怖,紧张",
-      "sound_effects": ["狂热呼喊", "生命流逝声", "APP报警"],
-      "volume_level": "音效突出"
+    {
+      "shot_id": "EP17-S002",
+      "chapter_number": 17,
+      "scene_number": 2,
+      "duration": 12,
+      "shot_type": "中景推近",
+      "location": "洞穴内部通道",
+      "time_of_day": "夜晚",
+      "composition": "顾玄等人小心翼翼深入洞穴，镜头跟随推进。两侧石壁上刻满扭曲的邪恶符文，在微弱光线下闪烁诡异光芒",
+      "characters": [
+        {
+          "name": "顾玄",
+          "action": "带头前进，天魔剑照亮前方",
+          "expression": "警惕严肃",
+          "costume": "青云宗道袍，手持发光的天魔剑"
+        },
+        {
+          "name": "陆尘",
+          "action": "紧跟顾玄，紧张地四处张望",
+          "expression": "恐惧",
+          "costume": "青云宗弟子服"
+        },
+        {
+          "name": "执法傀儡",
+          "action": "走在最后殿后",
+          "expression": "扫描模式",
+          "costume": "金属傀儡"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "符文散发暗红色光芒，空气中弥漫血腥味的视觉效果（红色雾气）。天魔剑的光芒照亮前方，投影显示【前方发现大规模能量反应】",
+        "color_grading": "暗红色调为主，营造邪恶仪式氛围"
+      },
+      "audio": {
+        "dialogue": "顾玄（内心OS）：'（心声）上百魔教徒？还有那个什么天魔之种？我这去不是送死吗？但执法傀儡都上了，我也不能怂啊！'",
+        "background_music": "悬疑紧张的音乐，逐渐增强",
+        "sound_effects": "滴水声，远处传来狂热的祈祷声，空气中的低语"
+      },
+      "editing": {
+        "transition": "叠化",
+        "pacing": "slow"
+      },
+      "notes": "深入敌巢，营造恐怖氛围，通过顾玄内心OS展现他的矛盾心理"
     },
-    "editing": {
-      "transition_to_next": "直接切",
-      "pacing": "快速",
-      "purpose": "恐怖场景,危机爆发"
+    {
+      "shot_id": "EP17-S003",
+      "chapter_number": 17,
+      "scene_number": 3,
+      "duration": 15,
+      "shot_type": "全景仰拍",
+      "location": "洞穴主祭坛",
+      "time_of_day": "夜晚",
+      "composition": "巨大的主洞穴，中央是血池祭坛，上百名黑袍魔教徒跪伏在地，朝拜祭坛上的生物。镜头从顾玄视角俯瞰整个场面",
+      "characters": [
+        {
+          "name": "顾玄",
+          "action": "躲在暗处观察，震惊",
+          "expression": "头皮发麻，震惊",
+          "costume": "青云宗道袍"
+        },
+        {
+          "name": "上百名魔教徒",
+          "action": "跪地叩拜，狂热祈祷",
+          "expression": "狂热痴迷",
+          "costume": "黑色祭司长袍"
+        },
+        {
+          "name": "老祭司",
+          "action": "站在祭坛前高声呼喊",
+          "expression": "狂热癫狂",
+          "costume": "华丽祭司袍"
+        },
+        {
+          "name": "伪天魔之种",
+          "action": "浸泡在血池中，吸收能量",
+          "expression": "贪婪成长",
+          "costume": "婴儿状生物，皮肤苍白，全黑眼睛"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "血池翻腾，红色能量从魔教徒身上流向祭坛。伪天魔之种身体周围有能量光环，体型不断膨胀。天魔剑APP疯狂报警【检测到特大违规】",
+        "color_grading": "血红色调为主，邪恶狂热的氛围"
+      },
+      "audio": {
+        "dialogue": "老祭司：'圣子将带领我们迎接天魔归来！奉献你们的生命吧！' 魔教徒们：'（狂热响应）天魔万岁！圣子万岁！' 系统音：'【滴滴！检测到特大违规：非法宗教活动（-50000功德）煽动自我奉献（-100000功德）虐待婴幼儿（-200000功德）】'",
+        "background_music": "狂热邪恶的宗教音乐",
+        "sound_effects": "血池沸腾声，能量流动的嗡嗡声"
+      },
+      "editing": {
+        "transition": "跳切",
+        "pacing": "moderate"
+      },
+      "notes": "展现邪恶仪式的恐怖规模，APP报警增加荒诞感"
     },
-    "notes": {
-      "production_note": "需要大量CG特效",
-      "reference_style": "恐怖场景",
-      "difficulty_level": "复杂"
+    {
+      "shot_id": "EP17-S004",
+      "chapter_number": 17,
+      "scene_number": 4,
+      "duration": 10,
+      "shot_type": "中景",
+      "location": "洞穴主祭坛",
+      "time_of_day": "夜晚",
+      "composition": "顾玄从暗处走出，正面对峙祭司和魔教徒。执法傀儡突然从天而降砸在祭坛上，震起血浪",
+      "characters": [
+        {
+          "name": "顾玄",
+          "action": "大步走出，厉声喝止",
+          "expression": "正义凛然",
+          "costume": "青云宗道袍"
+        },
+        {
+          "name": "老祭司",
+          "action": "正要反驳，被傀儡砸落打断",
+          "expression": "从狂热到震惊",
+          "costume": "华丽祭司袍"
+        },
+        {
+          "name": "执法傀儡",
+          "action": "从天而降，砸在祭坛上",
+          "expression": "红眼闪烁",
+          "costume": "金属傀儡，身上冒电火花"
+        },
+        {
+          "name": "魔教徒们",
+          "action": "惊慌失措，骚动",
+          "expression": "震惊恐惧",
+          "costume": "黑色祭司长袍"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "傀儡落下时砸出冲击波，血池翻腾。傀儡眼中红光大盛，电击祭司时有蓝色电弧。系统投影显示【正在执行取缔任务】",
+        "color_grading": "冷暖对比，傀儡的蓝色电光与血池的红色"
+      },
+      "audio": {
+        "dialogue": "顾玄：'天魔执法！你们已被包围了！立即停止违法行为！' 老祭司：'执法？就凭你？圣子即将苏醒，届时...' 傀儡：'（电子音）检测到大规模违规聚集！立即解散！' 老祭司：'就算是执法队又如何？圣子已接近完成，届时...' 傀儡：'biu！（电击声）妨碍执法，罪加一等。'",
+        "background_music": "紧张激烈的音乐",
+        "sound_effects": "傀儡落地的轰鸣声，电击声，魔教徒惊呼声"
+      },
+      "editing": {
+        "transition": "快速切换",
+        "pacing": "fast"
+      },
+      "notes": "荒诞感：执法vs邪教的对话，傀儡电击打断祭司"
+    },
+    {
+      "shot_id": "EP17-S005",
+      "chapter_number": 17,
+      "scene_number": 5,
+      "duration": 12,
+      "shot_type": "特写+全景",
+      "location": "洞穴主祭坛",
+      "time_of_day": "夜晚",
+      "composition": "伪天魔突然睁眼尖叫，释放精神冲击波。镜头从特写它的全黑眼睛拉开到全景，展现魔教徒们抱头惨叫，低修为者爆体而亡",
+      "characters": [
+        {
+          "name": "伪天魔",
+          "action": "睁眼尖叫，释放精神冲击",
+          "expression": "恐怖狰狞",
+          "costume": "快速成长：婴儿→幼童→少年→青年"
+        },
+        {
+          "name": "魔教徒们",
+          "action": "抱头惨叫，爆体而亡",
+          "expression": "极度痛苦",
+          "costume": "黑色祭司长袍"
+        },
+        {
+          "name": "顾玄",
+          "action": "被精神冲击震退",
+          "expression": "痛苦震惊",
+          "costume": "青云宗道袍"
+        },
+        {
+          "name": "执法傀儡",
+          "action": "继续攻击结界",
+          "expression": "不受影响",
+          "costume": "金属傀儡"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "精神冲击波以伪天魔为中心扩散，呈透明涟漪状。魔教徒身体被从内而外撕裂的特效。伪天魔快速成长，体型变化。血池能量加速流入它体内",
+        "color_grading": "灰暗压抑，爆炸时鲜红"
+      },
+      "audio": {
+        "dialogue": "伪天魔：'（尖啸）啊！！！' 魔教徒们：'（惨叫）啊！！！' 伪天魔：'吾乃新世代天魔...旧时代的执法者，退下。'",
+        "background_music": "尖锐刺耳的音乐",
+        "sound_effects": "刺耳尖啸声，爆体声，能量碰撞声"
+      },
+      "editing": {
+        "transition": "快速剪辑",
+        "pacing": "fast"
+      },
+      "notes": "震撼升级：伪天魔成长，精神攻击，展现其恐怖力量"
+    },
+    {
+      "shot_id": "EP17-S006",
+      "chapter_number": 17,
+      "scene_number": 6,
+      "duration": 15,
+      "shot_type": "全景+特写",
+      "location": "洞穴主祭坛",
+      "time_of_day": "夜晚",
+      "composition": "顾玄跃上祭坛，天魔剑投影出巨大全息屏幕，播放宣传教育视频。魔教徒和伪天魔都被这荒诞的操作搞懵了",
+      "characters": [
+        {
+          "name": "顾玄",
+          "action": "举剑启动宣传教育功能",
+          "expression": "严肃认真",
+          "costume": "青云宗道袍"
+        },
+        {
+          "name": "伪天魔",
+          "action": "愣在原地，困惑",
+          "expression": "懵逼",
+          "costume": "青年形态"
+        },
+        {
+          "name": "魔教徒们",
+          "action": "看着宣传片，傻眼",
+          "expression": "迷茫困惑",
+          "costume": "黑色祭司长袍"
+        },
+        {
+          "name": "执法傀儡",
+          "action": "继续攻击结界",
+          "expression": "执行中",
+          "costume": "金属傀儡"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "天魔剑投影出巨大全息屏幕，播放三个宣传视频：《认识真正的天魔——科普宣传片》《邪教的危害——案例警示》《生命可贵——拒绝自我奉献》。配激昂背景音乐和画外音。全息屏幕光影效果",
+        "color_grading": "明亮正能量，与洞穴阴暗形成对比"
+      },
+      "audio": {
+        "dialogue": "画外音：'天魔是秩序的代表，不是毁灭的象征！非法宗教害人害己！珍爱生命，远离邪教！' 魔教徒：'（小声）这什么操作？' 顾玄：'看看你们崇拜的是什么？一个非法制造的生物兵器！真正天魔倡导的是秩序与规则，不是这种邪教崇拜！我以天魔执法官的名义命令你们——立即解散！'",
+        "background_music": "激昂正能量的背景音乐",
+        "sound_effects": "全息投影的嗡嗡声"
+      },
+      "editing": {
+        "transition": "交叉剪辑",
+        "pacing": "moderate"
+      },
+      "notes": "搞笑高潮：荒诞的宣传教育，伪天魔和魔教徒都被搞懵"
+    },
+    {
+      "shot_id": "EP17-S007",
+      "chapter_number": 17,
+      "scene_number": 7,
+      "duration": 12,
+      "shot_type": "中景+特写",
+      "location": "洞穴主祭坛",
+      "time_of_day": "夜晚",
+      "composition": "执法傀儡突破结界，一拳打碎祭坛核心。能量传输中断，伪天魔惨叫。伪天魔反噬祭司，将其吸成干尸",
+      "characters": [
+        {
+          "name": "执法傀儡",
+          "action": "突破结界，击碎祭坛",
+          "expression": "红眼大盛",
+          "costume": "金属傀儡"
+        },
+        {
+          "name": "伪天魔",
+          "action": "惨叫，抓住祭司吸收",
+          "expression": "贪婪狰狞",
+          "costume": "青年形态"
+        },
+        {
+          "name": "老祭司",
+          "action": "被伪天魔抓住，惊恐",
+          "expression": "恐惧万分",
+          "costume": "华丽祭司袍"
+        },
+        {
+          "name": "顾玄",
+          "action": "震惊地看着这一幕",
+          "expression": "震惊",
+          "costume": "青云宗道袍"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "结界破碎特效，祭坛崩塌。能量传输中断的闪光。伪天魔吸收祭司生命力的特效：绿色能量流从祭司流向伪天魔，祭司快速干瘪",
+        "color_grading": "暗绿和血红色，恐怖邪恶"
+      },
+      "audio": {
+        "dialogue": "老祭司：'不要听他的！他是假冒的！' （傀儡击碎祭坛）'轰！' 伪天魔：'不！！！能量...我需要更多能量...' 老祭司：'圣子你...' 伪天魔：'多谢你帮我除掉那个啰嗦的老头...现在，轮到你了！'",
+        "background_music": "紧张激烈",
+        "sound_effects": "结界破碎声，祭坛崩塌声，惨叫声"
+      },
+      "editing": {
+        "transition": "快速切换",
+        "pacing": "fast"
+      },
+      "notes": "震撼升级：祭坛被毁，伪天魔反噬，魔教内部崩溃"
+    },
+    {
+      "shot_id": "EP17-S008",
+      "chapter_number": 17,
+      "scene_number": 8,
+      "duration": 10,
+      "shot_type": "中景",
+      "location": "洞穴主祭坛",
+      "time_of_day": "夜晚",
+      "composition": "伪天魔与顾玄及傀儡激战。伪天魔力量强大，顾玄被震飞，傀儡与之难解难分",
+      "characters": [
+        {
+          "name": "伪天魔",
+          "action": "化作血光攻击顾玄",
+          "expression": "狰狞疯狂",
+          "costume": "青年形态"
+        },
+        {
+          "name": "顾玄",
+          "action": "格挡，被震飞吐血",
+          "expression": "痛苦",
+          "costume": "青云宗道袍"
+        },
+        {
+          "name": "执法傀儡",
+          "action": "与伪天魔激战",
+          "expression": "全力战斗",
+          "costume": "金属傀儡"
+        },
+        {
+          "name": "陆尘等人",
+          "action": "想帮忙但近不了身",
+          "expression": "焦急",
+          "costume": "青云宗弟子服"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "血光与剑光碰撞，能量波扩散。傀儡被打凹胸甲。系统APP疯狂报警【警告！目标正在进化！】",
+        "color_grading": "红色能量与蓝色剑光对比"
+      },
+      "audio": {
+        "dialogue": "伪天魔：'多谢你帮我除掉那个啰嗦的老老头...现在，轮到你了！' （攻击声）'砰！' 顾玄：'（吐血）唔...' 陆尘：'师兄！' 系统音：'【警告！目标正在进化！即将突破临界点！建议使用最终解决方案！】'",
+        "background_music": "激烈战斗音乐",
+        "sound_effects": "碰撞声，能量爆炸声"
+      },
+      "editing": {
+        "transition": "快速剪辑",
+        "pacing": "fast"
+      },
+      "notes": "战斗高潮，展现伪天魔的强大，铺垫最终解决方案"
+    },
+    {
+      "shot_id": "EP17-S009",
+      "chapter_number": 17,
+      "scene_number": 9,
+      "duration": 15,
+      "shot_type": "全景俯拍",
+      "location": "洞穴主祭坛",
+      "time_of_day": "夜晚",
+      "composition": "顾玄启动格式化程序。天魔剑爆发前所未有的光芒，复杂符文矩阵展开笼罩整个洞穴。伪天魔被分解成基本粒子消散",
+      "characters": [
+        {
+          "name": "顾玄",
+          "action": "将剑对准伪天魔，启动程序",
+          "expression": "坚定",
+          "costume": "青云宗道袍，沐浴在光芒中"
+        },
+        {
+          "name": "伪天魔",
+          "action": "被符文矩阵笼罩，分解消散",
+          "expression": "惊恐万分",
+          "costume": "青年形态"
+        },
+        {
+          "name": "执法傀儡",
+          "action": "停止攻击，退到一旁",
+          "expression": "待机",
+          "costume": "金属傀儡"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "天魔剑爆发耀眼光芒，复杂几何符文矩阵以剑为中心扩散，笼罩整个洞穴。伪天魔身体被分解成发光粒子，从分子层面瓦解。整个洞穴的邪恶气息被净化一空，变得干干净净",
+        "color_grading": "纯白色光芒，神圣净化感"
+      },
+      "audio": {
+        "dialogue": "顾玄：'启动格式化程序！' 系统音：'【申请批准！授予临时最高执法权限！】' （嗡——！！！光芒大盛）伪天魔：'这是什么力量？！不——！！！' 系统音：'【格式化完成。消耗功德值100万，当前余额：-999850】'",
+        "background_music": "宏大震撼的音乐",
+        "sound_effects": "能量轰鸣声，分解的滋滋声"
+      },
+      "editing": {
+        "transition": "缓慢镜头",
+        "pacing": "slow"
+      },
+      "notes": "本章最大爽点：格式化程序，伪天魔被消灭，邪恶被净化"
+    },
+    {
+      "shot_id": "EP17-S010",
+      "chapter_number": 17,
+      "scene_number": 10,
+      "duration": 10,
+      "shot_type": "中景+特写",
+      "location": "洞穴主祭坛→青云宗",
+      "time_of_day": "夜晚",
+      "composition": "被格式化的地方突然浮现微光，碎片射入白芷体内。白芷惨叫昏倒。场景切换到青云宗，李道玄检查白芷",
+      "characters": [
+        {
+          "name": "白芷",
+          "action": "被碎片射中，昏倒",
+          "expression": "痛苦",
+          "costume": "青云宗弟子服"
+        },
+        {
+          "name": "顾玄",
+          "action": "大惊，检查白芷",
+          "expression": "震惊担忧",
+          "costume": "青云宗道袍"
+        },
+        {
+          "name": "李道玄",
+          "action": "检查白芷，面色凝重",
+          "expression": "凝重",
+          "costume": "青云宗掌门服"
+        },
+        {
+          "name": "陆尘",
+          "action": "焦急询问",
+          "expression": "担心",
+          "costume": "青云宗弟子服"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "微光从被格式化的虚空浮现，射入白芷体内。白芷眼中闪过黑光。系统扫描显示【检测到非法数据残留...清除失败】",
+        "color_grading": "微光的诡异色彩"
+      },
+      "audio": {
+        "dialogue": "白芷：'啊！' （昏倒）陆尘：'师兄！白芷她...' 顾玄：'先带她回去。这事还没完...' （场景切换）李道玄：'这丫头体内的力量...很诡异，似乎是某种变异的天魔之力...' 白芷：'（醒来，眼中黑光）我...怎么了？我看到...好多死人！还有...一个巨大的祭坛！比云州那个大十倍！'",
+        "background_music": "悬疑紧张",
+        "sound_effects": "碎片射入声，白芷惨叫声"
+      },
+      "editing": {
+        "transition": "场景切换",
+        "pacing": "moderate"
+      },
+      "notes": "意外感染：白芷被碎片感染，通灵眼进化，看到更大阴谋"
+    },
+    {
+      "shot_id": "EP17-S011",
+      "chapter_number": 17,
+      "scene_number": 11,
+      "duration": 12,
+      "shot_type": "蒙太奇",
+      "location": "青云宗各处",
+      "time_of_day": "白天",
+      "composition": "快速剪辑顾玄做各种好事刷功德的场景：帮厨子挑水、指导弟子修炼、下山抓小偷等",
+      "characters": [
+        {
+          "name": "顾玄",
+          "action": "各种做好事",
+          "expression": "苦笑无奈",
+          "costume": "青云宗道袍"
+        },
+        {
+          "name": "青云宗弟子们",
+          "action": "感动崇拜",
+          "expression": "感激崇拜",
+          "costume": "青云宗弟子服"
+        },
+        {
+          "name": "村民们",
+          "action": "跪地感谢",
+          "expression": "感激",
+          "costume": "村民服装"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "每次做好事，系统提示弹出【功德+1】【功德+5】【功德+100】。顾玄看着功德值缓慢回升，表情复杂",
+        "color_grading": "温暖明亮"
+      },
+      "audio": {
+        "dialogue": "弟子们：'大师兄真是太仁慈了！''这才是真正的高人啊！' 顾玄（内心OS）：'你们天魔还管这个？' （功德提示音）'功德+1''功德+5''功德+100'",
+        "background_music": "轻松愉快的音乐",
+        "sound_effects": "水桶声，教导声，功德提示音"
+      },
+      "editing": {
+        "transition": "快速叠化",
+        "pacing": "fast"
+      },
+      "notes": "搞笑段落：顾玄刷功德，弟子们的误解，系统功能的荒诞"
+    },
+    {
+      "shot_id": "EP17-S012",
+      "chapter_number": 17,
+      "scene_number": 12,
+      "duration": 15,
+      "shot_type": "中景+特写",
+      "location": "青云宗后山密室",
+      "time_of_day": "夜晚",
+      "composition": "白芷看到新的幻象，顾玄接到系统紧急任务。顾玄决定接受真正的天魔之力，开始引导体内力量",
+      "characters": [
+        {
+          "name": "白芷",
+          "action": "看到幻象，颤抖",
+          "expression": "恐惧",
+          "costume": "青云宗弟子服"
+        },
+        {
+          "name": "顾玄",
+          "action": "握剑沉思，最终下定决心",
+          "expression": "从犹豫到坚定",
+          "costume": "青云宗道袍"
+        },
+        {
+          "name": "李道玄",
+          "action": "担忧地看着顾玄",
+          "expression": "担心",
+          "costume": "青云宗掌门服"
+        }
+      ],
+      "visual_effects": {
+        "special_effects": "白芷眼中黑光闪现，看到大祭坛幻象。系统弹出紧急任务界面：【检测到重大威胁】【任务：阻止百万血祭】【奖励：恢复执法员权限】【失败：格式化使用者】。顾玄按照玉简方法引导天魔之力，体内能量流动可视化",
+        "color_grading": "冷色调，紧张氛围"
+      },
+      "audio": {
+        "dialogue": "白芷：'那个大祭坛...快完成了！他们在准备血祭！需要十万生灵！' 系统音：'【检测到重大威胁，启动紧急任务！】【任务：阻止百万血祭】【奖励：恢复执法员权限，解锁新功能】【失败：格式化使用者】' 顾玄：'（心声）不就是当个天魔吗？我当了！但我要当个...好天魔！' 冰冷声音：'想要力量吗？真正的天魔之力...接受它...你才能阻止灾难...'",
+        "background_music": "紧张悬疑，逐渐激昂",
+        "sound_effects": "系统提示音，幻象音效"
+      },
+      "editing": {
+        "transition": "缓慢淡出",
+        "pacing": "slow"
+      },
+      "notes": "结尾钩子：系统紧急任务，顾玄接受天魔之力，为下章铺垫"
     }
-  },
-  {
-    "shot_id": "EP17-S002",
-    "chapter_number": 17,
-    "scene_number": 2,
-    "duration": 10,
-    "shot_type": "特效全景",
-    "location": "洞穴祭坛",
-    "time_of_day": "夜晚",
-    "composition": {
-      "camera_position": "环绕拍摄",
-      "camera_movement": "快速环绕",
-      "framing": "动态构图",
-      "focus_type": "特效突出"
-    },
-    "characters": [
-      {
-        "name": "顾玄",
-        "position": "祭坛上",
-        "action": "启动'宣传教育'功能,投影视频",
-        "expression": "高人风范",
-        "costume": "白衣",
-        "props": "天魔剑"
-      },
-      {
-        "name": "伪天魔",
-        "position": "血池中",
-        "action": "被宣传片搞懵,被傀儡攻击",
-        "expression": "愣住→愤怒",
-        "costume": "苍白皮肤,全黑眼睛"
-      },
-      {
-        "name": "魔教徒",
-        "position": "四周",
-        "action": "看宣传片,开始动摇",
-        "expression": "疑惑",
-        "costume": "黑袍"
-      }
-    ],
-    "visual_effects": {
-      "environment": "祭坛场景",
-      "lighting": "投影光芒+血光",
-      "color_palette": "对比强烈",
-      "special_effects": "天魔剑投影巨大全息屏幕,播放宣传片《认识真正的天魔》、《邪教的危害》,魔教徒看傻,伪天魔愣住,傀儡突破结界,能量传输中断"
-    },
-    "audio": {
-      "dialogue": "看看你们崇拜的是什么?一个非法制造的生物兵器!真正天魔倡导的是秩序与规则,不是这种邪教崇拜! 真的...有点道理? 真正的天魔应该是秩序的代表吧? 我们是不是被骗了? 不要听他的!他是假冒的!",
-      "narration": "",
-      "internal_monologue": "",
-      "background_music": "宣传片激昂音乐",
-      "sound_effects": ["投影声", "结界破碎"],
-      "volume_level": "对话突出"
-    },
-    "editing": {
-      "transition_to_next": "直接切",
-      "pacing": "快速",
-      "purpose": "幽默反转"
-    },
-    "notes": {
-      "production_note": "需要CG制作投影",
-      "reference_style": "幽默+特效",
-      "difficulty_level": "复杂"
-    }
-  },
-  {
-    "shot_id": "EP17-S003",
-    "chapter_number": 17,
-    "scene_number": 3,
-    "duration": 10,
-    "shot_type": "特效全景",
-    "location": "洞穴祭坛",
-    "time_of_day": "夜晚",
-    "composition": {
-      "camera_position": "环绕拍摄",
-      "camera_movement": "快速环绕",
-      "framing": "动态构图",
-      "focus_type": "特效突出"
-    },
-    "characters": [
-      {
-        "name": "顾玄",
-        "position": "祭坛前",
-        "action": "使用'格式化'功能",
-        "expression": "决绝",
-        "costume": "白衣",
-        "props": "天魔剑"
-      },
-      {
-        "name": "伪天魔",
-        "position": "祭坛上",
-        "action": "被格式化,身体分解消散",
-        "expression": "惊恐",
-        "costume": "青年形态"
-      }
-    ],
-    "visual_effects": {
-      "environment": "洞穴场景",
-      "lighting": "白光璀璨",
-      "color_palette": "高对比度,白光为主",
-      "special_effects": "天魔剑爆发出前所未有光芒,复杂符文矩阵展开笼罩整个洞穴,伪天魔身体分解成基本粒子消散,整个洞穴邪恶气息被净化一空"
-    },
-    "audio": {
-      "dialogue": "启动格式化程序! 不——!! 这是什么力量?! 格式化完成。消耗功德值100万,当前余额:-999850",
-      "narration": "",
-      "internal_monologue": "还带扣功德的?!而且这负数是什么意思?!我成老赖了?!",
-      "background_music": "震撼,紧张",
-      "sound_effects": ["能量爆发", "系统提示音", "惨叫声"],
-      "volume_level": "音效突出"
-    },
-    "editing": {
-      "transition_to_next": "直接切",
-      "pacing": "快速",
-      "purpose": "高潮战斗,最终解决"
-    },
-    "notes": {
-      "production_note": "需要大量CG特效",
-      "reference_style": "震撼特效",
-      "difficulty_level": "复杂"
-    }
-  },
-  {
-    "shot_id": "EP17-S004",
-    "chapter_number": 17,
-    "scene_number": 4,
-    "duration": 7,
-    "shot_type": "特写",
-    "location": "洞穴祭坛",
-    "time_of_day": "夜晚",
-    "composition": {
-      "camera_position": "正面特写",
-      "camera_movement": "快速推近",
-      "framing": "中心构图",
-      "focus_type": "细节清晰"
-    },
-    "characters": [
-      {
-        "name": "白芷",
-        "position": "祭坛旁",
-        "action": "碎片射入体内,惨叫昏死",
-        "expression": "痛苦",
-        "costume": "布衣"
-      },
-      {
-        "name": "顾玄",
-        "position": "一旁",
-        "action": "震惊查看",
-        "expression": "惊骇",
-        "costume": "白衣"
-      }
-    ],
-    "visual_effects": {
-      "environment": "干净洞穴",
-      "lighting": "微光闪烁",
-      "color_palette": "冷色调",
-      "special_effects": "伪天魔残留核心碎片突然浮现微光,射入白芷体内,碎片与白芷融合"
-    },
-    "audio": {
-      "dialogue": "啊! 师兄!白芷她... 检测到非法数据残留...正在尝试清除... 清除失败!碎片已与白芷融合!",
-      "narration": "",
-      "internal_monologue": "",
-      "background_music": "紧张",
-      "sound_effects": ["能量流动声", "少女惨叫"],
-      "volume_level": "对话突出"
-    },
-    "editing": {
-      "transition_to_next": "直接切",
-      "pacing": "中等",
-      "purpose": "埋下隐患"
-    },
-    "notes": {
-      "production_note": "需要CG制作能量融合",
-      "reference_style": "紧张场景",
-      "difficulty_level": "中等"
-    }
-  },
-  {
-    "shot_id": "EP17-S005",
-    "chapter_number": 17,
-    "scene_number": 5,
-    "duration": 8,
-    "shot_type": "中景",
-    "location": "青云宗",
-    "time_of_day": "白天",
-    "composition": {
-      "camera_position": "快速切换",
-      "camera_movement": "快速剪辑",
-      "framing": "中心构图",
-      "focus_type": "主体清晰"
-    },
-    "characters": [
-      {
-        "name": "顾玄",
-        "position": "各场景",
-        "action": "帮厨子挑水,指导弟子,下山抓小偷",
-        "expression": "热心",
-        "costume": "白衣"
-      },
-      {
-        "name": "弟子们",
-        "position": "周围",
-        "action": "感动崇拜",
-        "expression": "感激",
-        "costume": "弟子服"
-      }
-    ],
-    "visual_effects": {
-      "environment": "青云宗各处",
-      "lighting": "自然光",
-      "color_palette": "暖色调",
-      "special_effects": "无"
-    },
-    "audio": {
-      "dialogue": "大师兄真是太仁慈了! 这才是真正的高人啊!",
-      "narration": "",
-      "internal_monologue": "看来得想办法赚功德了...扶老奶奶过马路+1,指导弟子修炼+5,惩恶扬善+100...你们天魔还管这个?!",
-      "background_music": "轻快,温馨",
-      "sound_effects": [],
-      "volume_level": "对话突出"
-    },
-    "editing": {
-      "transition_to_next": "快速切",
-      "pacing": "快速",
-      "purpose": "蒙太奇,刷分过程"
-    },
-    "notes": {
-      "production_note": "多场景拍摄",
-      "reference_style": "温馨搞笑",
-      "difficulty_level": "中等"
-    }
-  },
-  {
-    "shot_id": "EP17-S006",
-    "chapter_number": 17,
-    "scene_number": 6,
-    "duration": 7,
-    "shot_type": "近景",
-    "location": "青云宗后山密室",
-    "time_of_day": "夜晚",
-    "composition": {
-      "camera_position": "正面拍摄",
-      "camera_movement": "轻微推近",
-      "framing": "中心构图",
-      "focus_type": "主体清晰"
-    },
-    "characters": [
-      {
-        "name": "白芷",
-        "position": "密室中",
-        "action": "突然坐起,眼中黑光闪烁",
-        "expression": "惊恐",
-        "costume": "布衣"
-      },
-      {
-        "name": "顾玄",
-        "position": "一旁",
-        "action": "震惊询问",
-        "expression": "凝重",
-        "costume": "白衣"
-      }
-    ],
-    "visual_effects": {
-      "environment": "密室场景",
-      "lighting": "昏暗光线",
-      "color_palette": "冷色调",
-      "special_effects": "白芷眼中闪过黑光"
-    },
-    "audio": {
-      "dialogue": "那个大祭坛...快完成了!他们在准备血祭!需要十万生灵! 我看到...好多死人!还有...一个巨大的祭坛!比云州那个大十倍! 在哪看到的? 在那...很远的地方...好多魔教徒...他们在准备更大的仪式!",
-      "narration": "",
-      "internal_monologue": "十万生灵?!魔教疯了吗!",
-      "background_music": "紧张,悬疑",
-      "sound_effects": [],
-      "volume_level": "对话突出"
-    },
-    "editing": {
-      "transition_to_next": "直接切",
-      "pacing": "中等",
-      "purpose": "揭示更大危机"
-    },
-    "notes": {
-      "production_note": "需要CG制作眼中黑光",
-      "reference_style": "悬疑场景",
-      "difficulty_level": "中等"
-    }
-  },
-  {
-    "shot_id": "EP17-S007",
-    "chapter_number": 17,
-    "scene_number": 7,
-    "duration": 9,
-    "shot_type": "中景",
-    "location": "青云宗-掌门大殿",
-    "time_of_day": "早晨",
-    "composition": {
-      "camera_position": "会议角度",
-      "camera_movement": "人物切换",
-      "framing": "会议构图",
-      "focus_type": "人物清晰"
-    },
-    "characters": [
-      {
-        "name": "顾玄",
-        "position": "殿中",
-        "action": "汇报情报,展示证据",
-        "expression": "凝重",
-        "costume": "白衣"
-      },
-      {
-        "name": "李道玄",
-        "position": "掌门座",
-        "action": "听取汇报,做决定",
-        "expression": "震惊,决断",
-        "costume": "掌门华服"
-      },
-      {
-        "name": "各宗门代表",
-        "position": "两侧",
-        "action": "震惊议论",
-        "expression": "担忧",
-        "costume": "各宗服饰"
-      }
-    ],
-    "visual_effects": {
-      "environment": "掌门大殿",
-      "lighting": "殿内光线",
-      "color_palette": "正式色调",
-      "special_effects": "天魔剑投影出情报地图,标注血祭位置"
-    },
-    "audio": {
-      "dialogue": "十万生灵...魔教真的疯了!我们必须阻止他们!但是情报可靠吗?白芷看到的...我也无法确定。但宁可信其有,不可信其无!我提议,立即联合各宗门,先发制人!附议!附议!",
-      "narration": "",
-      "internal_monologue": "希望能赶得及...",
-      "background_music": "紧张,决断",
-      "sound_effects": [],
-      "volume_level": "对话突出"
-    },
-    "editing": {
-      "transition_to_next": "直接切",
-      "pacing": "中等",
-      "purpose": "联合决策"
-    },
-    "notes": {
-      "production_note": "会议场景",
-      "reference_style": "正式会议",
-      "difficulty_level": "简单"
-    }
-  },
-  {
-    "shot_id": "EP17-S008",
-    "chapter_number": 17,
-    "scene_number": 8,
-    "duration": 10,
-    "shot_type": "全景蒙太奇",
-    "location": "青州-各宗门",
-    "time_of_day": "白天",
-    "composition": {
-      "camera_position": "多地点拍摄",
-      "camera_movement": "快速切换",
-      "framing": "动员蒙太奇",
-      "focus_type": "动员场景清晰"
-    },
-    "characters": [
-      {
-        "name": "各宗门修士",
-        "position": "各宗门",
-        "action": "集结,准备,出发",
-        "expression": "决心,紧张",
-        "costume": "各宗服饰"
-      },
-      {
-        "name": "顾玄",
-        "position": "各处协调",
-        "action": "统筹全局",
-        "expression": "专注",
-        "costume": "白衣"
-      }
-    ],
-    "visual_effects": {
-      "environment": "青州各宗门",
-      "lighting": "自然光",
-      "color_palette": "战争色调",
-      "special_effects": "各宗门亮起阵法,修士们御剑飞行,天魔剑投影出联合军力分布"
-    },
-    "audio": {
-      "dialogue": "青云宗听令!目标魔教!出发!剑宗集结完毕!万法寺准备就绪!各大宗门,同仇敌忾!为了天下苍生!这一战...十万生灵的性命啊!",
-      "narration": "",
-      "internal_monologue": "",
-      "background_music": "激昂,史诗",
-      "sound_effects": ["号角声", "剑鸣声"],
-      "volume_level": "音效突出"
-    },
-    "editing": {
-      "transition_to_next": "快速切",
-      "pacing": "快速",
-      "purpose": "战争动员蒙太奇"
-    },
-    "notes": {
-      "production_note": "多场景拍摄",
-      "reference_style": "史诗动员",
-      "difficulty_level": "中等"
-    }
-  },
-  {
-    "shot_id": "EP17-S009",
-    "chapter_number": 17,
-    "scene_number": 9,
-    "duration": 8,
-    "shot_type": "中景",
-    "location": "行军路上",
-    "time_of_day": "白天",
-    "composition": {
-      "camera_position": "跟随拍摄",
-      "camera_movement": "跟随飞行",
-      "framing": "飞行构图",
-      "focus_type": "人物清晰"
-    },
-    "characters": [
-      {
-        "name": "顾玄",
-        "position": "前方领队",
-        "action": "带队飞行",
-        "expression": "专注",
-        "costume": "白衣"
-      },
-      {
-        "name": "白芷",
-        "position": "身后",
-        "action": "跟随,偶尔眼中黑光闪现",
-        "expression": "痛苦但坚持",
-        "costume": "布衣"
-      },
-      {
-        "name": "陆尘",
-        "position": "旁边",
-        "action": "担忧白芷",
-        "expression": "担忧",
-        "costume": "布衣"
-      }
-    ],
-    "visual_effects": {
-      "environment": "青州上空",
-      "lighting": "云层光影",
-      "color_palette": "飞行色调",
-      "special_effects": "无数修士御剑飞行,形成壮观景象,白芷眼中偶尔黑光闪烁"
-    },
-    "audio": {
-      "dialogue": "白芷,你还好吗?我...我没事!我能坚持!师兄,前面就是魔教地界了!小心点,情报可能有诈!",
-      "narration": "",
-      "internal_monologue": "白芷的情况越来越严重了...",
-      "background_music": "紧张飞行",
-      "sound_effects": ["风声", "剑鸣"],
-      "volume_level": "对话突出"
-    },
-    "editing": {
-      "transition_to_next": "直接切",
-      "pacing": "中等",
-      "purpose": "行军+悬念"
-    },
-    "notes": {
-      "production_note": "飞行场景",
-      "reference_style": "紧张行军",
-      "difficulty_level": "中等"
-    }
-  },
-  {
-    "shot_id": "EP17-S010",
-    "chapter_number": 17,
-    "scene_number": 10,
-    "duration": 9,
-    "shot_type": "全景",
-    "location": "魔教总坛外围",
-    "time_of_day": "黄昏",
-    "composition": {
-      "camera_position": "高处俯拍",
-      "camera_movement": "缓慢环绕",
-      "framing": "对峙构图",
-      "focus_type": "对峙清晰"
-    },
-    "characters": [
-      {
-        "name": "联合修士大军",
-        "position": "包围圈外围",
-        "action": "列阵对峙",
-        "expression": "紧张,决心",
-        "costume": "各宗服饰"
-      },
-      {
-        "name": "顾玄",
-        "position": "最前方",
-        "action": "观察魔教总坛",
-        "expression": "凝重",
-        "costume": "白衣"
-      },
-      {
-        "name": "魔教守卫",
-        "position": "总坛城墙",
-        "action": "防御姿态",
-        "expression": "恐惧但坚决",
-        "costume": "黑袍"
-      }
-    ],
-    "visual_effects": {
-      "environment": "魔教总坛外围",
-      "lighting": "黄昏+阵法光芒",
-      "color_palette": "对峙色调",
-      "special_effects": "各大宗门阵法光芒闪烁,魔教总坛阴气森森,天魔剑扫描地形"
-    },
-    "audio": {
-      "dialogue": "魔教听着!立即投降,交出血祭计划!否则...否则怎么样?血祭已经开始!你们来晚了!哈哈哈!什么?!已经开始?!该死!强攻!",
-      "narration": "",
-      "internal_monologue": "",
-      "background_music": "紧张对峙",
-      "sound_effects": ["阵法轰鸣", "魔教狂笑"],
-      "volume_level": "对话突出"
-    },
-    "editing": {
-      "transition_to_next": "直接切",
-      "pacing": "快速",
-      "purpose": "对峙转折"
-    },
-    "notes": {
-      "production_note": "对峙场景",
-      "reference_style": "紧张对峙",
-      "difficulty_level": "中等"
-    }
-  },
-  {
-    "shot_id": "EP17-S011",
-    "chapter_number": 17,
-    "scene_number": 11,
-    "duration": 10,
-    "shot_type": "特效全景",
-    "location": "魔教总坛-血祭祭坛",
-    "time_of_day": "夜晚",
-    "composition": {
-      "camera_position": "祭坛环绕",
-      "camera_movement": "快速环绕",
-      "framing": "震撼构图",
-      "focus_type": "祭坛清晰"
-    },
-    "characters": [
-      {
-        "name": "魔教高层",
-        "position": "祭坛周围",
-        "action": "进行血祭仪式",
-        "expression": "狂热",
-        "costume": "华贵黑袍"
-      },
-      {
-        "name": "被俘虏的修士",
-        "position": "祭坛上",
-        "action": "被献祭",
-        "expression": "恐惧",
-        "costume": "破烂修炼服"
-      },
-      {
-        "name": "顾玄",
-        "position": "突然出现",
-        "action": "出手阻止",
-        "expression": "愤怒",
-        "costume": "白衣"
-      }
-    ],
-    "visual_effects": {
-      "environment": "巨大血祭祭坛",
-      "lighting": "血光冲天",
-      "color_palette": "恐怖色调",
-      "special_effects": "巨大祭坛上血池沸腾,修士被献祭生命,血光冲天,魔教高层狂热,顾玄突然破墙而入,天魔剑爆发光芒"
-    },
-    "audio": {
-      "dialogue": "伟大的天魔啊!接受这些祭品吧! 不!住手!晚了!血祭已经开始了!哈哈哈!天魔即将归来!系统!紧急停止血祭!使用权限!购买'时间回溯'!时间倒流三秒! 住手!",
-      "narration": "",
-      "internal_monologue": "",
-      "background_music": "恐怖紧张",
-      "sound_effects": ["血祭声", "时间倒流声"],
-      "volume_level": "音效突出"
-    },
-    "editing": {
-      "transition_to_next": "光芒转场",
-      "pacing": "快速",
-      "purpose": "高潮阻止"
-    },
-    "notes": {
-      "production_note": "需要大量CG特效",
-      "reference_style": "恐怖震撼",
-      "difficulty_level": "复杂"
-    }
-  },
-  {
-    "shot_id": "EP17-S012",
-    "chapter_number": 17,
-    "scene_number": 12,
-    "duration": 9,
-    "shot_type": "全景",
-    "location": "魔教总坛-废墟",
-    "time_of_day": "黎明",
-    "composition": {
-      "camera_position": "高处俯拍",
-      "camera_movement": "缓慢拉远",
-      "framing": "余韵构图",
-      "focus_type": "废墟清晰"
-    },
-    "characters": [
-      {
-        "name": "顾玄",
-        "position": "废墟中央",
-        "action": "疲惫站立",
-        "expression": "疲惫,欣慰",
-        "costume": "白衣(破烂)"
-      },
-      {
-        "name": "白芷",
-        "position": "昏迷中",
-        "action": "被扶着",
-        "expression": "痛苦",
-        "costume": "布衣"
-      },
-      {
-        "name": "各宗门修士",
-        "position": "周围",
-        "action": "救援,收拾战场",
-        "expression": "疲惫但高兴",
-        "costume": "各宗服饰"
-      }
-    ],
-    "visual_effects": {
-      "environment": "被摧毁的魔教总坛",
-      "lighting": "晨光",
-      "color_palette": "希望色调",
-      "special_effects": "魔教总坛大部分被摧毁,晨光洒落,白芷眼中黑光暂时消失但留下隐患"
-    },
-    "audio": {
-      "dialogue": "结束了...终于结束了...师兄,白芷她...暂时稳定了,但碎片还在她体内...总有一天会爆发的...至少现在,我们都还活着。谢谢你,顾道友!不,是我们一起做到的!",
-      "narration": "",
-      "internal_monologue": "更大的危机还在后面...",
-      "background_music": "悲壮转为希望",
-      "sound_effects": ["晨风", "远处救援声"],
-      "volume_level": "对话突出"
-    },
-    "editing": {
-      "transition_to_next": "淡出",
-      "pacing": "舒缓",
-      "purpose": "胜利收尾+悬念"
-    },
-    "notes": {
-      "production_note": "废墟余韵",
-      "reference_style": "史诗收尾",
-      "difficulty_level": "中等"
-    }
-  }
-]
+  ]
+}
