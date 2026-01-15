@@ -1,0 +1,718 @@
+[
+  {
+    "shot_id": "EP12-S001",
+    "chapter_number": 12,
+    "scene_number": 1,
+    "duration": 10,
+    "shot_type": "全景→推近",
+    "location": "青云宗山门前",
+    "time_of_day": "清晨",
+    "composition": {
+      "camera_position": "从高空俯冲至山门",
+      "camera_movement": "急速推近",
+      "framing": "从全景聚焦至人群",
+      "focus_type": "人群清晰，热闹气氛"
+    },
+    "characters": [
+      {
+        "name": "各路人士",
+        "position": "山门前排起长队",
+        "action": "人头攒动，喧嚣鼎沸",
+        "expression": "期待、兴奋",
+        "costume": "各式修仙者服装，带着礼物"
+      },
+      {
+        "name": "王明",
+        "position": "山门前",
+        "action": "敲破锣，维持秩序",
+        "expression": "满头大汗，焦急",
+        "costume": "宗门服饰"
+      },
+      {
+        "name": "李道玄",
+        "position": "主殿前",
+        "action": "捋胡须，笑得见牙不见眼",
+        "expression": "激动、欣慰",
+        "costume": "掌门服饰"
+      },
+      {
+        "name": "顾玄",
+        "position": "山上",
+        "action": "看着山下人群，腿肚子发软",
+        "expression": "紧张、害怕",
+        "costume": "白衣道袍"
+      }
+    ],
+    "visual_effects": {
+      "environment": "山门前，天还没亮就排起长队",
+      "lighting": "清晨微光",
+      "color_palette": "热闹暖色调",
+      "special_effects": "顾玄周身特效修为调到'金丹中期'——既不会太夸张引人怀疑，又能保持足够的威慑力"
+    },
+    "audio": {
+      "dialogue": "王明: '都别挤！排队排队！' 李道玄: '好啊，好啊！我青云宗复兴在望！' 富商: '青云宗师徒仁德，阵道通神，更能引动天象...若能拜入其门下，前途无量啊！' 少年: '爹，我一定要拜顾宗师为师！'",
+      "narration": "以往门可罗雀的山门前，天还没亮就排起了长队，人头攒动，喧嚣鼎沸，不知道的还以为是哪个顶流仙尊在开粉丝见面会。",
+      "internal_monologue": "完了完了，这么多人！万一哪个天才看出我只是个筑基期，不得当场拆穿我？还是赶紧维持好特效，别露馅了！",
+      "background_music": "热闹→压抑",
+      "sound_effects": ["敲锣声", "喧哗声"],
+      "volume_level": "环境音突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "热闹→压抑",
+      "purpose": "爽点1：热闹开局，招新压力"
+    },
+    "notes": {
+      "production_note": "实景拍摄，大量群演",
+      "reference_style": "热闹场景+轻喜剧",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP12-S002",
+    "chapter_number": 12,
+    "scene_number": 2,
+    "duration": 8,
+    "shot_type": "中景→特写",
+    "location": "山门广场",
+    "time_of_day": "上午",
+    "composition": {
+      "camera_position": "从全景推至测灵碑",
+      "camera_movement": "推拉结合",
+      "framing": "从全景至特写",
+      "focus_type": "测灵碑清晰"
+    },
+    "characters": [
+      {
+        "name": "锦衣少年",
+        "position": "测灵碑前",
+        "action": "将手按在碑上",
+        "expression": "紧张→兴奋",
+        "costume": "锦衣华服"
+      },
+      {
+        "name": "李道玄",
+        "position": "碑旁",
+        "action": "观察测灵碑",
+        "expression": "惊喜",
+        "costume": "掌门服饰"
+      },
+      {
+        "name": "众人",
+        "position": "台下",
+        "action": "哗然",
+        "expression": "震惊",
+        "costume": "各式服装"
+      }
+    ],
+    "visual_effects": {
+      "environment": "山门广场",
+      "lighting": "自然光→金光爆发",
+      "color_palette": "从自然色调→金色震撼",
+      "special_effects": "测灵碑顿时亮起耀眼的金光！"
+    },
+    "audio": {
+      "dialogue": "李道玄: '金系单灵根！上等资质！' 众人: '这等天才往年都是被大宗门抢着要的！' 锦衣少年: '晚辈慕名而来，只愿拜入顾宗师门下！'",
+      "narration": "",
+      "internal_monologue": "别啊！你这样的天才我教不了啊！",
+      "background_music": "惊喜→压抑",
+      "sound_effects": ["金光嗡鸣", "众人哗然"],
+      "volume_level": "音效突出"
+    },
+    "editing": {
+      "transition_to_next": "快速切",
+      "pacing": "惊喜→压抑",
+      "purpose": "爽点2：忐忑升级，天才太多"
+    },
+    "notes": {
+      "production_note": "实景+特效",
+      "reference_style": "热闹场景",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP12-S003",
+    "chapter_number": 12,
+    "scene_number": 2,
+    "duration": 7,
+    "shot_type": "快速剪辑",
+    "location": "山门广场",
+    "time_of_day": "上午",
+    "composition": {
+      "camera_position": "多角度切换",
+      "camera_movement": "快速切换",
+      "framing": "动态构图",
+      "focus_type": "众天才清晰"
+    },
+    "characters": [
+      {
+        "name": "各路天才",
+        "position": "测灵碑前",
+        "action": "纷纷测试，展现天赋",
+        "expression": "兴奋",
+        "costume": "各式服装"
+      },
+      {
+        "name": "顾玄",
+        "position": "一旁",
+        "action": "一个头两个大",
+        "expression": "苦笑→焦虑",
+        "costume": "白衣道袍"
+      }
+    ],
+    "visual_effects": {
+      "environment": "山门广场",
+      "lighting": "各色光芒交替",
+      "color_palette": "多彩纷呈",
+      "special_effects": "水系天灵根！木灵体！剑心通明！各种灵力光芒交替闪耀"
+    },
+    "audio": {
+      "dialogue": "李道玄: '水系天灵根！' '木灵体！' '剑心通明！' 天才们: '我们只想拜顾宗师为师！'",
+      "narration": "",
+      "internal_monologue": "完了完了，这么多天才！万一哪个天才眼尖看出我真实修为，我岂不是当场社死？赶紧随便收几个混过去算了！",
+      "background_music": "轻快→焦虑",
+      "sound_effects": ["测试音效", "众人惊叹"],
+      "volume_level": "内心独白突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "轻快→焦虑",
+      "purpose": "强化压力，铺垫爽点3"
+    },
+    "notes": {
+      "production_note": "快速剪辑",
+      "reference_style": "轻喜剧",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP12-S004",
+    "chapter_number": 12,
+    "scene_number": 3,
+    "duration": 9,
+    "shot_type": "中景→特写",
+    "location": "山门广场",
+    "time_of_day": "下午",
+    "composition": {
+      "camera_position": "从全景推至顾玄和少年",
+      "camera_movement": "推拉结合",
+      "framing": "两人构图",
+      "focus_type": "两人清晰"
+    },
+    "characters": [
+      {
+        "name": "林小凡",
+        "position": "测灵碑前",
+        "action": "紧张地按碑→脸色惨白→转身离开",
+        "expression": "紧张→希望破灭",
+        "costume": "布衣"
+      },
+      {
+        "name": "顾玄",
+        "position": "走向少年",
+        "action": "开口叫住，仔细打量",
+        "expression": "观察→心动",
+        "costume": "白衣道袍"
+      },
+      {
+        "name": "众人",
+        "position": "台下",
+        "action": "哗然",
+        "expression": "疑惑",
+        "costume": "各式服装"
+      }
+    ],
+    "visual_effects": {
+      "environment": "山门广场",
+      "lighting": "自然光",
+      "color_palette": "平淡自然",
+      "special_effects": "测灵碑毫无反应。甚至比之前更暗淡了。顾玄伸手按在少年额头，天魔之力探查——系统界面：【天魔之力感应特殊体质】【目标：林小凡】【体质：药灵体（隐藏），对草木丹药有天然亲和力】【潜力：S级】"
+    },
+    "audio": {
+      "dialogue": "李道玄: '无灵根，下下等。'(遗憾摇头) 顾玄: '等等。'(走向少年)'你为何想修仙？' 林小凡: '我娘病了，大夫说需要灵丹才能治...我想修仙，炼药救我娘...' 顾玄: '你叫什么名字？' 林小凡: '林小凡...' 顾玄: '师尊，此子与我宗有缘，可收为弟子。'",
+      "narration": "",
+      "internal_monologue": "等等，这少年虽然无灵根，但眼神清澈，眉宇间有股韧劲。而且我体内的天魔之力似乎对他有感应？难道他有什么特殊体质？",
+      "background_music": "温情→惊喜",
+      "sound_effects": ["众人哗然"],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "温情→惊喜",
+      "purpose": "爽点3：惊喜升级，慧眼识人"
+    },
+    "notes": {
+      "production_note": "实景+CG界面",
+      "reference_style": "温情场景",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP12-S005",
+    "chapter_number": 12,
+    "scene_number": 3,
+    "duration": 8,
+    "shot_type": "快速剪辑",
+    "location": "山门广场",
+    "time_of_day": "下午",
+    "composition": {
+      "camera_position": "多角度切换",
+      "camera_movement": "快速切换",
+      "framing": "动态构图",
+      "focus_type": "各特殊人才清晰"
+    },
+    "characters": [
+      {
+        "name": "各路特殊人才",
+        "position": "广场各处",
+        "action": "展现特殊能力",
+        "expression": "兴奋",
+        "costume": "各式服装"
+      },
+      {
+        "name": "顾玄",
+        "position": "观察众人",
+        "action": "收下各特殊人才",
+        "expression": "满意",
+        "costume": "白衣道袍"
+      },
+      {
+        "name": "其他宗门的人",
+        "position": "一旁",
+        "action": "目瞪口呆",
+        "expression": "困惑",
+        "costume": "各宗门服饰"
+      }
+    ],
+    "visual_effects": {
+      "environment": "山门广场",
+      "lighting": "自然光",
+      "color_palette": "自然色调",
+      "special_effects": "系统界面连续显示特殊体质：【蛮古战体】【通灵眼】【食修体质】...天魔之力对特殊体质的感应"
+    },
+    "audio": {
+      "dialogue": "其他宗门的人: '青云宗这收徒标准...也太随意了吧？' 顾玄: '(内心)只有我我自己知道，我靠的是体内天魔之力对特殊体质的感应。这些'特殊人才'虽然现在不起眼，但都有独特潜力。'",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "轻快",
+      "sound_effects": [],
+      "volume_level": "对话清晰"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "轻快",
+      "purpose": "慧眼识人成功，众人敬佩"
+    },
+    "notes": {
+      "production_note": "快速剪辑",
+      "reference_style": "轻喜剧",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP12-S006",
+    "chapter_number": 12,
+    "scene_number": 4,
+    "duration": 8,
+    "shot_type": "中景→特写",
+    "location": "宗门内，新弟子入门仪式",
+    "time_of_day": "夜晚",
+    "composition": {
+      "camera_position": "从台上推至顾玄",
+      "camera_movement": "推拉结合",
+      "framing": "从全景至特写",
+      "focus_type": "顾玄清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "台上",
+        "action": "硬着头皮讲话",
+        "expression": "腿软→强作镇定→惊骇",
+        "costume": "白衣道袍"
+      },
+      {
+        "name": "新弟子们",
+        "position": "台下",
+        "action": "崇拜地听着",
+        "expression": "崇拜",
+        "costume": "新弟子服"
+      }
+    ],
+    "visual_effects": {
+      "environment": "宗门内，夜晚",
+      "lighting": "烛光→诡异黑光",
+      "color_palette": "温暖→诡异",
+      "special_effects": "顾玄体内那股天魔之力突然躁动！一道微不可查的黑气从他指尖溢出，射入台下人群！那黑气在人群中转了一圈，最后钻入一个矮胖弟子的体内。那弟子浑身一颤，眼中闪过一道黑芒，随即恢复正常！系统界面：【检测到魔教卧底】【目标：朱寿】【天魔之力自动标记完成】【建议：将计就计，传递假情报】"
+    },
+    "audio": {
+      "dialogue": "顾玄: '咳咳...入我青云宗，首重道心。修行之路，艰险漫长，需持之以恒...'",
+      "narration": "",
+      "internal_monologue": "完蛋！要闯祸！天魔之力在自动甄别弟子？那个矮胖弟子有问题？魔教已经渗透进来了！而且我的天魔之力居然能自动识别同类？这功能也太智能了吧！",
+      "background_music": "温情→惊悚",
+      "sound_effects": ["黑气涌动", "弟子微颤"],
+      "volume_level": "内心独白突出"
+    },
+    "editing": {
+      "transition_to_next": "快速切",
+      "pacing": "温情→惊悚",
+      "purpose": "爽点4：惊慌升级，魔教卧底暴露"
+    },
+    "notes": {
+      "production_note": "特效特写",
+      "reference_style": "悬疑惊悚",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP12-S007",
+    "chapter_number": 12,
+    "scene_number": 5,
+    "duration": 7,
+    "shot_type": "中景",
+    "location": "宗门内",
+    "time_of_day": "仪式后",
+    "composition": {
+      "camera_position": "正面拍摄",
+      "camera_movement": "轻微推拉",
+      "framing": "两人构图",
+      "focus_type": "两人清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "画面左侧",
+        "action": "特意找到朱寿",
+        "expression": "表面不动声色",
+        "costume": "白衣道袍"
+      },
+      {
+        "name": "朱寿（卧底）",
+        "position": "画面右侧",
+        "action": "恭敬回应",
+        "expression": "恭敬",
+        "costume": "新弟子服"
+      }
+    ],
+    "visual_effects": {
+      "environment": "宗门内",
+      "lighting": "自然光",
+      "color_palette": "自然色调",
+      "special_effects": "顾玄运转天魔之力探查，果然在朱寿体内发现了一丝隐藏极深的魔气！系统界面标记：【魔教卧底确认】"
+    },
+    "audio": {
+      "dialogue": "顾玄: '你叫什么名字？' 朱寿: '回大师兄，我叫朱寿。' 顾玄: '嗯，好好修行。'(转身离开)",
+      "narration": "",
+      "internal_monologue": "这是个魔教卧底！得赶紧想办法！",
+      "background_music": "悬疑",
+      "sound_effects": [],
+      "volume_level": "对话清晰"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "悬疑",
+      "purpose": "确认卧底身份"
+    },
+    "notes": {
+      "production_note": "实景拍摄",
+      "reference_style": "悬疑场景",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP12-S008",
+    "chapter_number": 12,
+    "scene_number": 5,
+    "duration": 10,
+    "shot_type": "中景→特写",
+    "location": "宗门密室",
+    "time_of_day": "夜晚",
+    "composition": {
+      "camera_position": "正面拍摄顾玄",
+      "camera_movement": "缓慢推近",
+      "framing": "中心构图",
+      "focus_type": "顾玄表情清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "画面中央",
+        "action": "露出高深莫测的笑容",
+        "expression": "淡然→高深莫测→狡黠",
+        "costume": "常服"
+      },
+      {
+        "name": "李道玄",
+        "position": "画面一侧",
+        "action": "大惊",
+        "expression": "震惊→疑惑",
+        "costume": "掌门服饰"
+      }
+    ],
+    "visual_effects": {
+      "environment": "密室",
+      "lighting": "昏暗烛光",
+      "color_palette": "暖色调",
+      "special_effects": "无"
+    },
+    "audio": {
+      "dialogue": "顾玄: '不必。将计就计，正好借此给魔教传递些...错误信息。'",
+      "narration": "于是，一场围绕魔教卧底的博弈悄然展开。",
+      "internal_monologue": "有意思...看来我这天魔身份，也不是全无好处。",
+      "background_music": "轻快狡黠",
+      "sound_effects": [],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "轻松狡黠",
+      "purpose": "爽点5：搞笑升级，反情报操作开始"
+    },
+    "notes": {
+      "production_note": "实景拍摄",
+      "reference_style": "轻喜剧",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP12-S009",
+    "chapter_number": 12,
+    "scene_number": 5,
+    "duration": 8,
+    "shot_type": "快速剪辑",
+    "location": "宗门各处→魔教据点",
+    "time_of_day": "多个时间",
+    "composition": {
+      "camera_position": "多场景切换",
+      "camera_movement": "快速切换",
+      "framing": "动态构图",
+      "focus_type": "各场景清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "各处",
+        "action": "故意'泄露'假情报",
+        "expression": "高深莫测",
+        "costume": "常服"
+      },
+      {
+        "name": "朱寿",
+        "position": "暗中",
+        "action": "偷偷传递信息",
+        "expression": "认真",
+        "costume": "弟子服"
+      },
+      {
+        "name": "魔教人员",
+        "position": "据点",
+        "action": "收到离谱信息",
+        "expression": "认真→困惑",
+        "costume": "魔教服饰"
+      }
+    ],
+    "visual_effects": {
+      "environment": "宗门→魔教据点",
+      "lighting": "自然光→据点昏暗",
+      "color_palette": "多变",
+      "special_effects": "顾玄通过天魔之力反向追踪，摸清了魔教在青州的一个秘密据点！"
+    },
+    "audio": {
+      "dialogue": "顾玄: '师尊近日在参悟无上剑诀，即将突破。'(其实是在研究新买的麻将玩法)'后山密室中有上古秘宝。'(其实就是个被拆空的破洞)'我因封印所致，每日寅时实力最弱。'(其实是特效灵石需要充电的时间)'",
+      "narration": "",
+      "internal_monologue": "朱寿果然中计，每晚偷偷用秘法传递信息。我则通过天魔之力反向追踪，居然摸清了魔教在青州的一个秘密据点！",
+      "background_music": "轻快搞笑",
+      "sound_effects": [],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "快速切",
+      "pacing": "轻快搞笑",
+      "purpose": "反情报操作，喜剧效果"
+    },
+    "notes": {
+      "production_note": "多场景剪辑",
+      "reference_style": "轻喜剧",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP12-S010",
+    "chapter_number": 12,
+    "scene_number": 6,
+    "duration": 9,
+    "shot_type": "快速剪辑→特写",
+    "location": "宗门各处",
+    "time_of_day": "几天后",
+    "composition": {
+      "camera_position": "多场景切换",
+      "camera_movement": "快速切换至特写",
+      "framing": "动态构图→中心构图",
+      "focus_type": "特殊人才清晰"
+    },
+    "characters": [
+      {
+        "name": "林小凡",
+        "position": "药园",
+        "action": "第一次接触药草就能辨明药性",
+        "expression": "惊喜",
+        "costume": "弟子服"
+      },
+      {
+        "name": "蛮古战体壮汉",
+        "position": "后山",
+        "action": "徒手劈柴比刀还快",
+        "expression": "兴奋",
+        "costume": "弟子服"
+      },
+      {
+        "name": "通灵眼少女",
+        "position": "主殿",
+        "action": "看到祖师残魂",
+        "expression": "认真",
+        "costume": "弟子服"
+      },
+      {
+        "name": "厨子",
+        "position": "厨房",
+        "action": "做饭带着微弱灵气",
+        "expression": "自豪",
+        "costume": "厨师服"
+      }
+    ],
+    "visual_effects": {
+      "environment": "宗门各处",
+      "lighting": "自然光",
+      "color_palette": "自然色调",
+      "special_effects": "各特殊人才展现能力：药灵体、蛮古战体、通灵眼、食修体质...系统界面连续显示特殊能力觉醒"
+    },
+    "audio": {
+      "dialogue": "弟子们: '大师兄慧眼识人，看出我们的特殊天赋！' 其他宗门: '顾玄深藏不露，看透常人看不出的潜质！' 魔教卧底: '顾玄实力深不可测，连每日寅时都有讲究！'",
+      "narration": "",
+      "internal_monologue": "只有顾玄自己知道，这全是天魔之力的功劳。越来越依赖这天魔之力了...真的不会堕入魔道吗？",
+      "background_music": "轻快→沉思",
+      "sound_effects": [],
+      "volume_level": "对话清晰"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "轻快→沉思",
+      "purpose": "慧眼识人名声更响，脑补补正三连击"
+    },
+    "notes": {
+      "production_note": "快速剪辑",
+      "reference_style": "轻喜剧",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP12-S011",
+    "chapter_number": 12,
+    "scene_number": 7,
+    "duration": 8,
+    "shot_type": "远景→特写",
+    "location": "宗门房顶",
+    "time_of_day": "深夜",
+    "composition": {
+      "camera_position": "从远景推至房顶",
+      "camera_movement": "缓慢推近",
+      "framing": "从远景至特写",
+      "focus_type": "顾玄清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "房顶",
+        "action": "看着手中的黑色玉简，沉思",
+        "expression": "纠结→沉思→坚定",
+        "costume": "常服"
+      }
+    ],
+    "visual_effects": {
+      "environment": "深夜，房顶，山下万家灯火",
+      "lighting": "月光→玉简黑光",
+      "color_palette": "冷色调→温暖",
+      "special_effects": "那个冰冷的声音再次在他脑海中响起：'魔又如何？道又如何？力量就是力量...接受它，你才能保护想保护的人...'"
+    },
+    "audio": {
+      "dialogue": "冰冷声音: '魔又如何？道又如何？力量就是力量...接受它，你才能保护想保护的人...' 顾玄: '(沉默良久，最终收起玉简，眼神逐渐坚定)没错...力量没有正邪，重要的是如何使用。'(望向山下万家灯火)'就用这天魔之力，守护该守护的一切。顺便...把青云宗打造成天下第一宗！'",
+      "narration": "从此，青云宗多了一个秘密——他们的大师兄，白天是仙风道道的阵道宗师，晚上则研究着天魔秘法，顺便用魔教卧底传递假情报...",
+      "internal_monologue": "至于装逼...那只是业余爱好。这么多弟子...得盖多少宿舍啊...经费又要不够了！要不...再卖几张'祖传藏宝图'？",
+      "background_music": "沉思→坚定→轻快",
+      "sound_effects": [],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "淡出",
+      "pacing": "沉思→坚定→轻快",
+      "purpose": "接受力量，搞笑收尾"
+    },
+    "notes": {
+      "production_note": "夜景拍摄",
+      "reference_style": "成长+轻喜剧",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP12-S012",
+    "chapter_number": 12,
+    "scene_number": 8,
+    "duration": 7,
+    "shot_type": "快速剪辑",
+    "location": "魔教总坛→青云宗",
+    "time_of_day": "多个时间",
+    "composition": {
+      "camera_position": "多场景切换",
+      "camera_movement": "快速切换",
+      "framing": "动态构图",
+      "focus_type": "各场景清晰"
+    },
+    "characters": [
+      {
+        "name": "魔教人员",
+        "position": "总坛",
+        "action": "收到各种离谱信息",
+        "expression": "认真→困惑",
+        "costume": "魔教服饰"
+      },
+      {
+        "name": "魔教小队",
+        "position": "青云宗外",
+        "action": "寅时偷袭撞上李道玄",
+        "expression": "阴险→被当成贼打",
+        "costume": "夜行衣"
+      },
+      {
+        "name": "李道玄",
+        "position": "起夜路上",
+        "action": "当成贼打",
+        "expression": "愤怒",
+        "costume": "睡衣"
+      }
+    ],
+    "visual_effects": {
+      "environment": "魔教总坛→青云宗",
+      "lighting": "据点昏暗→月光",
+      "color_palette": "多变",
+      "special_effects": "魔教收到离谱信息...然后魔教小队在寅时撞上了起夜上厕所的李道玄，被当成贼打了出来"
+    },
+    "audio": {
+      "dialogue": "魔教人员: '顾玄可能是上界剑仙转世！' '青云宗后山有上古神器！' '每日寅时是偷袭最佳时机！'(然后魔教小队在寅时撞上了起夜上厕所的李道玄，被当成贼打了出来) 李道玄: '哪来的毛贼！敢偷袭我青云宗！'",
+      "narration": "一场由'特效仙人'主导的卧底反制大戏，悄然上演。",
+      "internal_monologue": "",
+      "background_music": "搞笑轻快",
+      "sound_effects": ["打斗声", "李道玄怒吼"],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "淡出",
+      "pacing": "搞笑",
+      "purpose": "喜剧收尾，美丽的误会升级"
+    },
+    "notes": {
+      "production_note": "多场景剪辑",
+      "reference_style": "轻喜剧",
+      "difficulty_level": "中等"
+    }
+  }
+]

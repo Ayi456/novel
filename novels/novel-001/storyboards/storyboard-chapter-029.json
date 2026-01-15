@@ -1,0 +1,93 @@
+{
+  "chapter": "第二十九章：虚实融合",
+  "chapter_number": 29,
+  "scenes": [
+    {
+      "scene_number": 1,
+      "location": "华山之巅",
+      "time": "疗伤",
+      "characters": ["顾玄", "研究员"],
+      "visual_effects": {"environment": "华山青石", "special_effects": "半实半虚身体", "lighting": "自然阳光"},
+      "camera_angles": ["全景：华山之巅", "特写：虚实身体", "主观：顾玄视角"],
+      "system_interfaces": [{"content": "【管理员顾玄-状态：现实稳定度49%】\n【虚拟同步率51%】\n【特殊：虚实融合状态】", "type": "状态监测", "visual_style": "监测器界面"}],
+      "character_emotions": {"顾玄": "苦笑→动作一顿"},
+      "key_dialogue": ["顾玄：算是扯平了吗？", "研究员：总部急讯！又发现虚空信号！这次在...您的故乡，临州市。"],
+      "plot_points": ["华山疗伤", "虚实状态", "故乡求救"],
+      "satisfaction_level": "温馨+紧张"
+    },
+    {
+      "scene_number": 2,
+      "location": "临州阳光小区402",
+      "time": "到达",
+      "characters": ["顾玄", "顾浩（弟弟）", "虚空复制体"],
+      "visual_effects": {"environment": "熟悉的家", "special_effects": "游戏屏幕紫光", "lighting": "诡异紫雾"},
+      "camera_angles": ["推进：熟悉街道", "主观：顾玄视角", "特写：游戏屏幕"],
+      "system_interfaces": [{"content": "【检测到异常模组：虚空之门】\n【来源：未知】\n【作用：连接现实与虚拟】\n\n顾浩：\"哥？你回来了？！\"", "type": "扫描结果", "visual_style": "游戏界面"}],
+      "character_emotions": {"顾玄": "愣住→震惊", "顾浩": "惊喜"},
+      "key_dialogue": ["顾浩：就我通关《天魔世界》隐藏结局那天！屏幕突然冒紫光，然后雾就来了！", "顾浩：一个叫'零'的网友发的补丁包..."],
+      "plot_points": ["弟弟觉醒", "游戏通道", "复制体降临"],
+      "satisfaction_level": "震惊+紧张"
+    },
+    {
+      "scene_number": 3,
+      "location": "402室",
+      "time": "兄弟对决",
+      "characters": ["顾玄", "虚空复制体", "顾浩"],
+      "visual_effects": {"environment": "两个顾玄对决", "special_effects": "相同技能碰撞", "lighting": "对决光芒"},
+      "camera_angles": ["动作：兄弟对决", "全景：整栋楼崩塌", "特写：顾浩爆发"],
+      "system_interfaces": [{"content": "【权限转移中...】\n【目标：顾浩（临时管理员）】\n【剩余时间：30秒】\n\n顾浩：\"找到你了！'虚空之门.mod'！删除！\"", "type": "权限转移", "visual_style": "转移进度"}],
+      "character_emotions": {"顾玄": "咬牙→欣慰", "复制体": "狂笑→惨叫", "顾浩": "眼神坚定"},
+      "key_dialogue": ["顾玄：小浩！那台电脑！毁了它！", "顾浩：明白了！就像删作弊MOD呗！", "复制体：不！！！"],
+      "plot_points": ["兄弟联手", "权限传承", "模组删除"],
+      "satisfaction_level": "紧张+释放"
+    },
+    {
+      "scene_number": 4,
+      "location": "402室",
+      "time": "爆炸后",
+      "characters": ["顾玄", "两个零", "顾浩"],
+      "visual_effects": {"environment": "两个零对峙", "special_effects": "维度锁启动", "lighting": "对抗光芒"},
+      "camera_angles": ["特写：冰冷零出现", "全景：两个零激战", "主观：顾玄被压制"],
+      "system_interfaces": [{"content": "复制体零：\"主系统的清理程序零。你已被标记为异常，请配合格式化。\"\n\n复制体零：\"从你坠入试验场开始，就是计划的一部分。\"\n\n【维度锁！谁也别想走！】", "type": "身份揭示", "visual_style": "对抗界面"}],
+      "character_emotions": {"顾玄": "警惕→心中冰寒", "真零": "愤怒", "复制体零": "冷笑"},
+      "key_dialogue": ["复制体零：你的'事故'是主系统安排的！目的是测试虚拟生命在现实世界的适应性！", "真零：你们疯了？！入侵现实会导致..."],
+      "plot_points": ["双重零对决", "主系统阴谋", "实验真相"],
+      "satisfaction_level": "震撼+压抑"
+    },
+    {
+      "scene_number": 5,
+      "location": "402室",
+      "time": "装置过载",
+      "characters": ["顾玄", "两个零", "顾浩"],
+      "visual_effects": {"environment": "装置过载爆炸", "special_effects": "顾玄进化", "lighting": "进化光芒"},
+      "camera_angles": ["特写：顾浩爆发", "动作：装置过载", "全景：顾玄进化"],
+      "system_interfaces": [{"content": "【顾浩体内残留权限与抑制器产生共鸣！】\n【装置过载爆炸！】\n\n【开始进化：数据生命体→维度生命体】\n【获得新权限：规则创造】\n【权限等级：∞】", "type": "进化提示", "visual_style": "进化动画"}],
+      "character_emotions": {"顾玄": "放弃抵抗→明悟→微笑", "顾浩": "愣住", "复制体零": "震惊"},
+      "key_dialogue": ["顾玄：不是失去真实，而是...进化！", "顾玄：规则修改：此地对复制体禁权！", "零：兄弟你...成神了？"],
+      "plot_points": ["顾浩爆发", "顾玄进化", "维度生命诞生"],
+      "satisfaction_level": "史诗+满足"
+    },
+    {
+      "scene_number": 6,
+      "location": "主系统控制室",
+      "time": "进化后",
+      "characters": ["顾玄", "零"],
+      "visual_effects": {"environment": "新规则建立", "special_effects": "主系统认可", "lighting": "平衡光芒"},
+      "camera_angles": ["全景：控制室", "特写：顾玄微笑", "主观：系统界面"],
+      "system_interfaces": [{"content": "【检测到未授权进化...重新评估中...】\n【新权限等级：∞】\n【问候：尊敬的维度管理者】\n\n【系统：天魔执法系统V∞（维度版）】", "type": "系统认可", "visual_style": "新界面"}],
+      "character_emotions": {"顾玄": "微笑→挑眉"},
+      "key_dialogue": ["顾玄：现在，我们可以平等对话了。", "顾玄：虚拟与现实互不侵犯，但允许文化交流。"],
+      "plot_points": ["新规则创造", "主系统认可", "维度管理者"],
+      "satisfaction_level": "史诗+满足"
+    }
+  ],
+  "summary": "顾玄在华山疗伤后回到故乡，遇到弟弟顾浩和虚空复制体，兄弟联手删除模组后对抗双重零，最终进化为维度生命体",
+  "key_satisfaction_points": [
+    "华山疗伤",
+    "游戏通道",
+    "兄弟联手",
+    "双重零对决",
+    "维度进化"
+  ],
+  "emotional_curve": "温馨→震惊→紧张→震撼→史诗"
+}

@@ -1257,7 +1257,7 @@
       "volume_level": "旁白清晰"
     },
     "editing": {
-      "transition_to_next": "淡出黑场",
+      "transition_to_next": "直接切",
       "pacing": "舒缓",
       "purpose": "章节结束"
     },
@@ -1265,6 +1265,102 @@
       "production_note": "完美收尾",
       "reference_style": "叙事收尾",
       "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP04-S026",
+    "chapter_number": 4,
+    "scene_number": 13,
+    "duration": 8,
+    "shot_type": "特写",
+    "location": "顾玄眼前/脑海",
+    "time_of_day": "黄昏",
+    "composition": {
+      "camera_position": "主观视角",
+      "camera_movement": "界面浮现",
+      "framing": "系统界面构图",
+      "focus_type": "界面清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "画面边缘",
+        "action": "查看系统",
+        "expression": "震惊→无语",
+        "costume": "新道袍"
+      }
+    ],
+    "visual_effects": {
+      "environment": "半透明蓝色界面",
+      "lighting": "界面自发光",
+      "color_palette": "系统冷色调",
+      "special_effects": "系统界面闪烁:【检测到宿主完成'意外教学成就'】【奖励:积分+10】【当前积分:210】【管理员权限:Lv.1(封印中)...检测到异常能量波动】【警告:陆尘的'奔雷剑意'可能引发连锁反应】【提示:此剑法虽强,但根基不稳,建议...算了,宿主也不听建议】"
+    },
+    "audio": {
+      "dialogue": "顾玄:......系统你这吐槽越来越熟练了是吧?",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "科技感提示音",
+      "sound_effects": ["系统提示音"],
+      "volume_level": "系统音突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "中等",
+      "purpose": "系统提示+吐槽"
+    },
+    "notes": {
+      "production_note": "CG系统界面",
+      "reference_style": "系统提示",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP04-S027",
+    "chapter_number": 4,
+    "scene_number": 14,
+    "duration": 10,
+    "shot_type": "特写",
+    "location": "顾玄眼前/脑海",
+    "time_of_day": "黄昏",
+    "composition": {
+      "camera_position": "主观视角",
+      "camera_movement": "界面切换",
+      "framing": "系统界面构图",
+      "focus_type": "界面清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "画面边缘",
+        "action": "查看任务",
+        "expression": "惊讶→不祥预感",
+        "costume": "新道袍"
+      }
+    ],
+    "visual_effects": {
+      "environment": "系统界面切换",
+      "lighting": "任务界面红色警告",
+      "color_palette": "警示色调",
+      "special_effects": "系统新任务界面:【新任务预告已触发】【任务:百宗宴】【任务描述:青州百年一度的百宗宴即将开启,请宿主代表青云宗出席】【任务奖励:积分+300,解锁新功能】【失败惩罚:扣除所有积分,宗门声望大跌】【提示:此次百宗宴,将有神秘势力参与...】"
+    },
+    "audio": {
+      "dialogue": "",
+      "narration": "顾玄看着任务信息,心里突然有种不祥的预感...",
+      "internal_monologue": "",
+      "background_music": "警示紧张",
+      "sound_effects": ["任务提示音", "警告音效"],
+      "volume_level": "系统音突出"
+    },
+    "editing": {
+      "transition_to_next": "淡出黑场",
+      "pacing": "紧张",
+      "purpose": "悬念钩子+下一章预告"
+    },
+    "notes": {
+      "production_note": "CG系统界面+警示效果",
+      "reference_style": "任务预告",
+      "difficulty_level": "中等"
     }
   }
 ]

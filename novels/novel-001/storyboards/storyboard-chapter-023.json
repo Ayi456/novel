@@ -1,0 +1,350 @@
+{
+  "chapter": "第二十三章：天竞界",
+  "chapter_number": 23,
+  "scenes": [
+    {
+      "scene_number": 1,
+      "location": "天竞界浮空平台",
+      "time": "刚到达",
+      "characters": ["顾玄", "修士们"],
+      "visual_effects": {
+        "environment": "云海之上无数浮空平台，修士激烈战斗",
+        "special_effects": "法宝对轰，剑气纵横，天崩地裂",
+        "lighting": "能量光芒四射"
+      },
+      "camera_angles": [
+        "俯拍：天竞界全景",
+        "中景：顾玄落地",
+        "动作：修士偷袭",
+        "反应：顾玄格挡"
+      ],
+      "system_interfaces": [
+        {
+          "type": "系统提示",
+          "content": "【世界：试验场Z-74（高能量反应）】\n【文明等级：7级（超凡显圣）】\n【能量环境：过饱和】\n【警告：检测到多处高强度战斗波动】\n\n对方状态：【战斗狂热：97%】\n【理性：3%】",
+          "visual_style": "世界数据，状态面板"
+        }
+      ],
+      "character_emotions": {
+        "顾玄": "震惊→无奈",
+        "修士": "兴奋"
+      },
+      "key_dialogue": [
+        "顾玄：这什么神仙局？人均大佬啊！",
+        "修士：好！好身手！你是新来的？哪个宗的？"
+      ],
+      "plot_points": ["PVP竞技场", "人均大佬", "规则鼓励竞争"],
+      "satisfaction_level": "紧张积累"
+    },
+    {
+      "scene_number": 2,
+      "location": "浮空平台",
+      "time": "战斗后",
+      "characters": ["顾玄", "战穹"],
+      "visual_effects": {
+        "environment": "修士骑着麒麟打麻将，仙子开演唱会",
+        "special_effects": "大佬用星球当弹珠玩",
+        "lighting": "能量过剩的奇观"
+      },
+      "camera_angles": [
+        "全景：天竞界奇葩场景",
+        "特写：麒麟打麻将",
+        "中景：仙子演唱会",
+        "远景：星球弹珠"
+      ],
+      "system_interfaces": [
+        {
+          "type": "系统提示",
+          "content": "战穹：【修为：化神期-状态：豪爽】\n\n世界规则：【鼓励竞争】\n【修改权限受限】",
+          "visual_style": "角色状态，规则提示"
+        }
+      ],
+      "character_emotions": {
+        "顾玄": "吐槽→好奇",
+        "战穹": "豪爽→兴奋"
+      },
+      "key_dialogue": [
+        "战穹：这里是'天竞界'，以武为尊！打赢就能往上爬！",
+        "战穹：最近'天地秘境'快开了，里面有...系统碎片！"
+      ],
+      "plot_points": ["奇葩世界", "系统碎片线索", "组队邀请"],
+      "satisfaction_level": "搞笑+好奇"
+    },
+    {
+      "scene_number": 3,
+      "location": "队伍浮台",
+      "time": "到达后",
+      "characters": ["顾玄", "战穹", "剑痴老白", "法王赤炎", "医仙苏瑶"],
+      "visual_effects": {
+        "environment": "队伍切磋场景",
+        "special_effects": "预判真君传说",
+        "lighting": "切磋光芒"
+      },
+      "camera_angles": [
+        "中景：队伍集合",
+        "动作：轮流切磋",
+        "特写：苏瑶怀疑眼神"
+      ],
+      "system_interfaces": [
+        {
+          "type": "系统提示",
+          "content": "【剑痴-修为：炼虚中期-状态：求败中】\n【法王-修为：炼虚后期-状态：实验新法术】\n【医仙-修为：化神圆满-状态：担心药材涨价】\n\n苏瑶：你身上...有股奇怪的气息。像是...被标记了？",
+          "visual_style": "队友状态面板"
+        }
+      ],
+      "character_emotions": {
+        "顾玄": "无奈→警惕",
+        "战穹": "兴奋",
+        "苏瑶": "怀疑"
+      },
+      "key_dialogue": [
+        "战穹：这是剑痴老白！这是法王赤炎！这是医仙苏瑶！",
+        "苏瑶：你身上...有股奇怪的气息。像是...被标记了？"
+      ],
+      "plot_points": ["奇葩队伍", "切磋认可", "被标记发现"],
+      "satisfaction_level": "搞笑+好奇"
+    },
+    {
+      "scene_number": 4,
+      "location": "天地秘境",
+      "time": "开启后",
+      "characters": ["顾玄", "小队", "其他修士"],
+      "visual_effects": {
+        "environment": "巨大光门，迷宫内部",
+        "special_effects": "大乘期修士尸体，灵魂消失",
+        "lighting": "神秘光芒"
+      },
+      "camera_angles": [
+        "全景：光门开启",
+        "推进：进入秘境",
+        "特写：尸体检查"
+      ],
+      "system_interfaces": [
+        {
+          "type": "系统提示",
+          "content": "【检测到主系统清理程序特征】\n\n\"检测到异常个体...执行清理程序...\"",
+          "visual_style": "清理程序特征警报"
+        }
+      ],
+      "character_emotions": {
+        "顾玄": "凝重→震惊",
+        "苏瑶": "脸色发白"
+      },
+      "key_dialogue": [
+        "苏瑶：是'摄魂'手法！但需要远超此界的力量！",
+        "顾玄：果然！主系统在猎杀高手！"
+      ],
+      "plot_points": ["天地秘境开启", "诡异尸体", "清道夫袭击"],
+      "satisfaction_level": "震撼+紧张"
+    },
+    {
+      "scene_number": 5,
+      "location": "秘境迷宫",
+      "time": "清道夫来袭",
+      "characters": ["顾玄", "清道夫大军", "小队"],
+      "visual_effects": {
+        "environment": "迷宫震动封闭，金属傀儡涌现",
+        "special_effects": "灵魂抽取攻击，清道夫巨人出现",
+        "lighting": "警报红光"
+      },
+      "camera_angles": [
+        "全景：迷宫震动",
+        "仰拍：傀儡涌现",
+        "动作：灵魂攻击",
+        "推进：清道夫巨人"
+      ],
+      "system_interfaces": [
+        {
+          "type": "系统提示",
+          "content": "【区域规则被修改：禁止权限能力】\n\n【清道夫-型号：T-1000】\n【威胁等级：极高】\n\n\"确认异常管理员...优先级提升...释放清道夫...\"",
+          "visual_style": "规则压制警告，清道夫数据"
+        }
+      ],
+      "character_emotions": {
+        "顾玄": "震惊→拼命",
+        "小队": "苦战"
+      },
+      "key_dialogue": [
+        "顾玄：是针对我的陷阱！",
+        "清道夫：异常管理员，投降可格式化处理"
+      ],
+      "plot_points": ["针对性陷阱", "清道夫大军", "权限被压制"],
+      "satisfaction_level": "震撼+紧张"
+    },
+    {
+      "scene_number": 6,
+      "location": "秘境迷宫",
+      "time": "断后",
+      "characters": ["顾玄", "清道夫"],
+      "visual_effects": {
+        "environment": "激烈战斗场景",
+        "special_effects": "规则之力的碰撞，场景重置",
+        "lighting": "对抗光芒"
+      },
+      "camera_angles": [
+        "动作：激烈战斗",
+        "特效：规则碰撞",
+        "全景：场景重置"
+      ],
+      "system_interfaces": [
+        {
+          "type": "系统提示",
+          "content": "【消耗所有能量，重置当前区域】\n\n迷宫剧烈变化！清道夫被暂时卷入规则乱流！",
+          "visual_style": "重置特效"
+        }
+      ],
+      "character_emotions": {
+        "顾玄": "决绝→机智"
+      },
+      "key_dialogue": [
+        "顾玄：我来断后！",
+        "顾玄：系统！购买'场景重置'！"
+      ],
+      "plot_points": ["单挑清道夫", "场景重置逃生", "秘境崩塌"],
+      "satisfaction_level": "紧张+震撼"
+    },
+    {
+      "scene_number": 7,
+      "location": "避世桃源",
+      "time": "逃出后",
+      "characters": ["顾玄", "小队", "幸存修士", "老者"],
+      "visual_effects": {
+        "environment": "隐蔽小世界，古玉发光投影信息",
+        "special_effects": "守护者协议下载",
+        "lighting": "投影光芒"
+      },
+      "camera_angles": [
+        "推进：进入小世界",
+        "特写：老者激动",
+        "特效：古玉投影"
+      ],
+      "system_interfaces": [
+        {
+          "type": "系统提示",
+          "content": "【监测到管理员权限】\n【传承序列激活】\n【下载：守护者协议】\n\n真相揭示：主系统认为试验场文明发展到一定程度就会'污染'现实，必须定期清理。叛乱管理员想证明文明的价值，试图阻止清理，却被认定为异常...",
+          "visual_style": "协议下载，真相展示"
+        }
+      ],
+      "character_emotions": {
+        "顾玄": "惊讶→心情复杂",
+        "老者": "激动"
+      },
+      "key_dialogue": [
+        "老者：您、您是不是秩序守护者？",
+        "顾玄：所以...我是站在叛乱者这边的？"
+      ],
+      "plot_points": ["避世桃源", "守护者协议", "真相揭示"],
+      "satisfaction_level": "紧张+震撼"
+    },
+    {
+      "scene_number": 8,
+      "location": "避世桃源",
+      "time": "清道夫来袭",
+      "characters": ["顾玄", "清道夫大军", "幸存者们"],
+      "visual_effects": {
+        "environment": "天空被撕裂，清道夫涌入",
+        "special_effects": "最终协议爆发，权限崩溃",
+        "lighting": "对决光芒"
+      },
+      "camera_angles": [
+        "仰拍：天空撕裂",
+        "全景：清道夫大军",
+        "特写：顾玄爆发"
+      ],
+      "system_interfaces": [
+        {
+          "type": "系统提示",
+          "content": "【最终协议：以管理员权限为代价，暂时获得主系统同级权限】\n【警告：此操作可能导致权限永久丢失】\n\n【权限丢失中...90%...80%...】",
+          "visual_style": "协议启动，权限下降"
+        }
+      ],
+      "character_emotions": {
+        "顾玄": "愤怒→决绝→虚弱",
+        "清道夫": "冰冷"
+      },
+      "key_dialogue": [
+        "顾玄：你们连避难所都不放过？！",
+        "清道夫：所有异常必须清除。包括你，管理员顾玄",
+        "顾玄：系统！申请启用'最终协议'！"
+      ],
+      "plot_points": ["清道夫大军来袭", "最终协议", "权限崩溃"],
+      "satisfaction_level": "震撼升级"
+    },
+    {
+      "scene_number": 9,
+      "location": "避世桃源",
+      "time": "战后",
+      "characters": ["顾玄", "战穹", "苏瑶", "小队"],
+      "visual_effects": {
+        "environment": "顾玄瘫倒，系统界面灰暗",
+        "special_effects": "道基崩溃，权限归零",
+        "lighting": "虚弱状态"
+      },
+      "camera_angles": [
+        "特写：顾玄虚弱",
+        "主观：模糊视界",
+        "反应：队友担忧"
+      ],
+      "system_interfaces": [
+        {
+          "type": "系统提示",
+          "content": "【当前权限：3级（持续下降）】\n【系统功能：大部分失效】\n【秩序之眼：稳定性50%】\n【警告：如不及时修复，将永久丧失所有权限】",
+          "visual_style": "系统灰暗界面"
+        }
+      ],
+      "character_emotions": {
+        "顾玄": "虚弱→坚定",
+        "战穹": "担忧",
+        "苏瑶": "焦急"
+      },
+      "key_dialogue": [
+        "苏瑶：他的'道基'在崩溃...除非找到'根源之海'...",
+        "顾玄：那就...成为天尊！"
+      ],
+      "plot_points": ["权限崩溃", "根源之海线索", "登顶决心"],
+      "satisfaction_level": "震撼+决心"
+    },
+    {
+      "scene_number": 10,
+      "location": "避世桃源",
+      "time": "准备登顶",
+      "characters": ["顾玄", "战穹", "剑痴", "赤炎", "苏瑶"],
+      "visual_effects": {
+        "environment": "队员集结",
+        "special_effects": "友情羁绊",
+        "lighting": "希望之光"
+      },
+      "camera_angles": [
+        "全景：小队集结",
+        "特写：每个人表情",
+        "仰拍：天尊台高耸"
+      ],
+      "system_interfaces": [
+        {
+          "type": "目标提示",
+          "content": "【目标：天尊台之顶】\n【挑战：九千九百九十九层】\n【奖励：根源之海】",
+          "visual_style": "任务目标"
+        }
+      ],
+      "character_emotions": {
+        "顾玄": "感激→坚定",
+        "队友": "决心"
+      },
+      "key_dialogue": [
+        "战穹：俺跟你一起去！\n剑痴：我也要去。\n苏瑶：算了，我也去。谁让我是医仙呢。\n战穹：那还说什么？一起上！",
+        "顾玄：那就...一起登顶！"
+      ],
+      "plot_points": ["队友支持", "登顶决心", "友情羁绊"],
+      "satisfaction_level": "期待"
+    }
+  ],
+  "summary": "顾玄在天竞界PVP竞技场组队，在天地秘境遭遇清道夫袭击，使用最终协议击败敌人但权限崩溃，决心登顶天尊台寻找根源之海",
+  "key_satisfaction_points": [
+    "PVP竞技场",
+    "奇葩组队",
+    "清道夫来袭",
+    "最终协议",
+    "权限崩溃"
+  ],
+  "emotional_curve": "紧张→搞笑→震撼→紧张→震撼升级"
+}

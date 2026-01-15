@@ -3,47 +3,39 @@
     "shot_id": "EP16-S001",
     "chapter_number": 16,
     "scene_number": 1,
-    "duration": 6,
-    "shot_type": "中景",
-    "location": "场景1",
-    "time_of_day": "白天",
+    "duration": 8,
+    "shot_type": "特写",
+    "location": "青云宗外门弟子房",
+    "time_of_day": "夜晚",
     "composition": {
-      "camera_position": "正面拍摄",
-      "camera_movement": "固定镜头",
-      "framing": "标准构图",
-      "focus_type": "主体清晰"
+      "camera_position": "主观视角",
+      "camera_movement": "缓慢推进",
+      "framing": "中心构图",
+      "focus_type": "剑身界面清晰"
     },
-    "characters": [
-      {
-        "name": "主要角色",
-        "position": "画面中央",
-        "action": "推进剧情",
-        "expression": "根据情境",
-        "costume": "修仙服饰"
-      }
-    ],
+    "characters": [],
     "visual_effects": {
-      "environment": "根据场景",
-      "lighting": "自然光",
-      "color_palette": "自然色调",
-      "special_effects": "根据需要添加特效"
+      "environment": "房内,剑身投影",
+      "lighting": "剑身自发光,昏暗环境",
+      "color_palette": "科技蓝",
+      "special_effects": "天魔剑投影应用商店界面,各种APP图标,天魔执法APP图标闪烁"
     },
     "audio": {
-      "dialogue": "魔教“团建事件”后，青云宗过了一段相对平静的日子。",
+      "dialogue": "",
       "narration": "",
-      "internal_monologue": "",
-      "background_music": "中等",
-      "sound_effects": [],
-      "volume_level": "正常"
+      "internal_monologue": "这剑功能也太全了吧?WIFI、投影、充电、语音助手...这天魔是穿越者前辈吧!",
+      "background_music": "科技感,轻松",
+      "sound_effects": ["系统启动音", "数据流动声"],
+      "volume_level": "内心独白为主"
     },
     "editing": {
       "transition_to_next": "直接切",
       "pacing": "中等",
-      "purpose": "推进剧情"
+      "purpose": "开篇,展示天魔剑功能"
     },
     "notes": {
-      "production_note": "根据实际内容调整",
-      "reference_style": "仙侠风格",
+      "production_note": "需要CG制作UI界面",
+      "reference_style": "科幻风格",
       "difficulty_level": "中等"
     }
   },
@@ -51,47 +43,56 @@
     "shot_id": "EP16-S002",
     "chapter_number": 16,
     "scene_number": 2,
-    "duration": 6,
+    "duration": 7,
     "shot_type": "中景",
-    "location": "场景2",
-    "time_of_day": "白天",
+    "location": "青云宗外门弟子房",
+    "time_of_day": "夜晚",
     "composition": {
       "camera_position": "正面拍摄",
-      "camera_movement": "快速跟随",
-      "framing": "标准构图",
+      "camera_movement": "固定镜头",
+      "framing": "中心构图",
       "focus_type": "主体清晰"
     },
     "characters": [
       {
-        "name": "主要角色",
-        "position": "画面中央",
-        "action": "推进剧情",
-        "expression": "根据情境",
-        "costume": "修仙服饰"
+        "name": "顾玄",
+        "position": "房内",
+        "action": "使用天魔剑扫描,查看界面",
+        "expression": "惊讶,好笑",
+        "costume": "白衣",
+        "props": "天魔剑"
+      },
+      {
+        "name": "厨子老王",
+        "position": "厨房(远处)",
+        "action": "偷吃鸡腿",
+        "expression": "享受",
+        "costume": "厨子服",
+        "props": "鸡腿"
       }
     ],
     "visual_effects": {
-      "environment": "根据场景",
-      "lighting": "自然光",
-      "color_palette": "自然色调",
-      "special_effects": "根据需要添加特效"
+      "environment": "房内和厨房分屏",
+      "lighting": "正常光线",
+      "color_palette": "正常色调",
+      "special_effects": "扫描波覆盖整个青云宗,红色标记违规者"
     },
     "audio": {
-      "dialogue": "顾玄终于有时间好好研究那把多功能天魔剑。他发现这剑不仅能充电、投影、当WIFI，甚至还有个应用商店——虽然大部分应用都显示“版本不兼容”，但有个“天魔执法”APP居然能打开！",
+      "dialogue": "",
       "narration": "",
-      "internal_monologue": "",
-      "background_music": "激烈",
-      "sound_effects": [],
-      "volume_level": "正常"
+      "internal_monologue": "师尊您居然藏私房钱?!",
+      "background_music": "轻松,搞笑",
+      "sound_effects": ["系统提示音"],
+      "volume_level": "音效突出"
     },
     "editing": {
       "transition_to_next": "直接切",
-      "pacing": "激烈",
-      "purpose": "推进剧情"
+      "pacing": "中等",
+      "purpose": "搞笑场面"
     },
     "notes": {
-      "production_note": "根据实际内容调整",
-      "reference_style": "仙侠风格",
+      "production_note": "需要分屏效果",
+      "reference_style": "搞笑风格",
       "difficulty_level": "中等"
     }
   },
@@ -100,142 +101,150 @@
     "chapter_number": 16,
     "scene_number": 3,
     "duration": 6,
-    "shot_type": "中景",
-    "location": "场景3",
-    "time_of_day": "白天",
+    "shot_type": "特写",
+    "location": "青云宗厨房",
+    "time_of_day": "夜晚",
     "composition": {
-      "camera_position": "正面拍摄",
-      "camera_movement": "固定镜头",
-      "framing": "标准构图",
-      "focus_type": "主体清晰"
+      "camera_position": "侧面拍摄",
+      "camera_movement": "快速推近",
+      "framing": "动态构图",
+      "focus_type": "动作清晰"
     },
     "characters": [
       {
-        "name": "主要角色",
-        "position": "画面中央",
-        "action": "推进剧情",
-        "expression": "根据情境",
-        "costume": "修仙服饰"
+        "name": "厨子老王",
+        "position": "厨房",
+        "action": "被电击,头发竖起,跳起来",
+        "expression": "惊恐",
+        "costume": "厨子服"
       }
     ],
     "visual_effects": {
-      "environment": "根据场景",
-      "lighting": "自然光",
-      "color_palette": "自然色调",
-      "special_effects": "根据需要添加特效"
+      "environment": "厨房",
+      "lighting": "电光闪烁",
+      "color_palette": "正常转电光蓝",
+      "special_effects": "电流特效,头发竖起,轻微电击效果"
     },
     "audio": {
-      "dialogue": "“执法？”顾玄好奇地点开APP，界面弹出：",
+      "dialogue": "嗷!",
       "narration": "",
       "internal_monologue": "",
-      "background_music": "中等",
-      "sound_effects": [],
-      "volume_level": "正常"
+      "background_music": "搞笑",
+      "sound_effects": ["电击声", "老王惨叫"],
+      "volume_level": "音效突出"
     },
     "editing": {
       "transition_to_next": "直接切",
-      "pacing": "中等",
-      "purpose": "推进剧情"
+      "pacing": "快速",
+      "purpose": "搞笑电击"
     },
     "notes": {
-      "production_note": "根据实际内容调整",
-      "reference_style": "仙侠风格",
-      "difficulty_level": "中等"
+      "production_note": "需要电击特效",
+      "reference_style": "搞笑风格",
+      "difficulty_level": "简单"
     }
   },
   {
     "shot_id": "EP16-S004",
     "chapter_number": 16,
     "scene_number": 4,
-    "duration": 6,
+    "duration": 8,
     "shot_type": "中景",
-    "location": "场景4",
+    "location": "青云宗正殿",
     "time_of_day": "白天",
     "composition": {
       "camera_position": "正面拍摄",
-      "camera_movement": "固定镜头",
-      "framing": "标准构图",
+      "camera_movement": "轻微左右摇",
+      "framing": "中心构图",
       "focus_type": "主体清晰"
     },
     "characters": [
       {
-        "name": "主要角色",
-        "position": "画面中央",
-        "action": "推进剧情",
-        "expression": "根据情境",
-        "costume": "修仙服饰"
+        "name": "顾玄",
+        "position": "殿中",
+        "action": "看着紧急传讯符",
+        "expression": "凝重",
+        "costume": "白衣",
+        "props": "传讯符"
+      },
+      {
+        "name": "李道玄",
+        "position": "身旁",
+        "action": "面色凝重",
+        "expression": "担忧",
+        "costume": "掌门华服"
       }
     ],
     "visual_effects": {
-      "environment": "根据场景",
-      "lighting": "自然光",
-      "color_palette": "自然色调",
-      "special_effects": "根据需要添加特效"
+      "environment": "正殿",
+      "lighting": "庄重光线",
+      "color_palette": "暖色调",
+      "special_effects": "传讯符发光"
     },
     "audio": {
-      "dialogue": "“可用功能：违规检测、轻微惩戒、举报上传”",
+      "dialogue": "青州急令!邻州云州遭魔教大规模入侵,请求支援!",
       "narration": "",
-      "internal_monologue": "",
-      "background_music": "中等",
+      "internal_monologue": "元婴长老?魔教大规模入侵?我这是要送人头啊!",
+      "background_music": "紧张,急促",
       "sound_effects": [],
-      "volume_level": "正常"
+      "volume_level": "对话突出"
     },
     "editing": {
       "transition_to_next": "直接切",
       "pacing": "中等",
-      "purpose": "推进剧情"
+      "purpose": "确立危机"
     },
     "notes": {
-      "production_note": "根据实际内容调整",
-      "reference_style": "仙侠风格",
-      "difficulty_level": "中等"
+      "production_note": "实景拍摄",
+      "reference_style": "紧张氛围",
+      "difficulty_level": "简单"
     }
   },
   {
     "shot_id": "EP16-S005",
     "chapter_number": 16,
     "scene_number": 5,
-    "duration": 6,
-    "shot_type": "中景",
-    "location": "场景5",
+    "duration": 7,
+    "shot_type": "全景",
+    "location": "云州边境",
     "time_of_day": "白天",
     "composition": {
-      "camera_position": "正面拍摄",
-      "camera_movement": "固定镜头",
-      "framing": "标准构图",
-      "focus_type": "主体清晰"
+      "camera_position": "俯视",
+      "camera_movement": "缓慢下降",
+      "framing": "全景构图",
+      "focus_type": "全景清晰"
     },
     "characters": [
       {
-        "name": "主要角色",
-        "position": "画面中央",
-        "action": "推进剧情",
-        "expression": "根据情境",
-        "costume": "修仙服饰"
+        "name": "魔教小队",
+        "position": "巡逻",
+        "action": "正在巡逻",
+        "expression": "嚣张",
+        "costume": "黑袍"
       }
     ],
     "visual_effects": {
-      "environment": "根据场景",
-      "lighting": "自然光",
-      "color_palette": "自然色调",
-      "special_effects": "根据需要添加特效"
+      "environment": "云州边境,魔气浓郁",
+      "lighting": "阴沉",
+      "color_palette": "暗色调",
+      "special_effects": "顾玄执法APP扫描波,红色标记违规行为"
     },
     "audio": {
-      "dialogue": "顾玄嘴角抽搐：临时工？你们天魔界还有这种设定？",
+      "dialogue": "",
       "narration": "",
-      "internal_monologue": "",
-      "background_music": "中等",
-      "sound_effects": [],
-      "volume_level": "正常"
+      "internal_monologue": "你们魔教纪律这么差吗?",
+      "background_music": "紧张转为搞笑",
+      "sound_effects": ["系统提示音"],
+      "volume_level": "音效突出"
     },
     "editing": {
       "transition_to_next": "直接切",
       "pacing": "中等",
-      "purpose": "推进剧情"
+      "purpose": "跨区执法准备"
     },
     "notes": {
-      "production_note": "根据实际内容调整",
-      "reference_style": "仙侠风格",
+      "production_note": "需要CG制作扫描效果",
+      "reference_style": "紧张+搞笑",
       "difficulty_level": "中等"
     }
   },
@@ -243,47 +252,47 @@
     "shot_id": "EP16-S006",
     "chapter_number": 16,
     "scene_number": 6,
-    "duration": 6,
+    "duration": 8,
     "shot_type": "中景",
-    "location": "场景6",
+    "location": "云州边境",
     "time_of_day": "白天",
     "composition": {
-      "camera_position": "正面拍摄",
-      "camera_movement": "快速跟随",
-      "framing": "标准构图",
-      "focus_type": "主体清晰"
+      "camera_position": "侧面拍摄",
+      "camera_movement": "跟随拍摄",
+      "framing": "动态构图",
+      "focus_type": "动作清晰"
     },
     "characters": [
       {
-        "name": "主要角色",
-        "position": "画面中央",
-        "action": "推进剧情",
-        "expression": "根据情境",
-        "costume": "修仙服饰"
+        "name": "魔教徒",
+        "position": "被执法",
+        "action": "每人挨一记无形巴掌,抱头鼠窜",
+        "expression": "惊恐",
+        "costume": "黑袍"
       }
     ],
     "visual_effects": {
-      "environment": "根据场景",
-      "lighting": "自然光",
-      "color_palette": "自然色调",
-      "special_effects": "根据需要添加特效"
+      "environment": "云州边境",
+      "lighting": "正常光线",
+      "color_palette": "正常色调",
+      "special_effects": "无形巴掌特效,威严声音响起"
     },
     "audio": {
-      "dialogue": "他随手点了“违规检测”，剑身突然射出一道扫描波，覆盖整个青云宗。",
+      "dialogue": "天魔执法!尔等违反《天魔治安管理处罚法》第N条,现予以警告处分!再有下次,扣留法器!",
       "narration": "",
       "internal_monologue": "",
-      "background_music": "激烈",
-      "sound_effects": [],
-      "volume_level": "正常"
+      "background_music": "搞笑,威严",
+      "sound_effects": ["巴掌声", "魔教徒惊叫"],
+      "volume_level": "音效突出"
     },
     "editing": {
       "transition_to_next": "直接切",
-      "pacing": "激烈",
-      "purpose": "推进剧情"
+      "pacing": "快速",
+      "purpose": "搞笑执法"
     },
     "notes": {
-      "production_note": "根据实际内容调整",
-      "reference_style": "仙侠风格",
+      "production_note": "需要特效制作无形巴掌",
+      "reference_style": "搞笑风格",
       "difficulty_level": "中等"
     }
   },
@@ -291,191 +300,295 @@
     "shot_id": "EP16-S007",
     "chapter_number": 16,
     "scene_number": 7,
-    "duration": 6,
-    "shot_type": "近景",
-    "location": "场景7",
+    "duration": 10,
+    "shot_type": "全景",
+    "location": "云州境内",
     "time_of_day": "白天",
     "composition": {
-      "camera_position": "正面拍摄",
-      "camera_movement": "轻微推镜",
-      "framing": "标准构图",
-      "focus_type": "主体清晰"
+      "camera_position": "快速切换",
+      "camera_movement": "动态拍摄",
+      "framing": "蒙太奇",
+      "focus_type": "搞笑动作清晰"
     },
     "characters": [
       {
-        "name": "主要角色",
-        "position": "画面中央",
-        "action": "推进剧情",
-        "expression": "根据情境",
-        "costume": "修仙服饰"
+        "name": "魔教精英",
+        "position": "布阵",
+        "action": "集体被电得跳舞",
+        "expression": "痛苦",
+        "costume": "华贵黑袍"
+      },
+      {
+        "name": "魔教长老",
+        "position": "施法",
+        "action": "法术反噬",
+        "expression": "震惊",
+        "costume": "长老黑袍"
+      },
+      {
+        "name": "魔教堂主",
+        "position": "训话",
+        "action": "裤子突然掉落",
+        "expression": "尴尬",
+        "costume": "堂主黑袍"
       }
     ],
     "visual_effects": {
-      "environment": "根据场景",
-      "lighting": "自然光",
-      "color_palette": "自然色调",
-      "special_effects": "根据需要添加特效"
+      "environment": "云州各地",
+      "lighting": "正常光线",
+      "color_palette": "正常色调",
+      "special_effects": "电击跳舞效果,法术反噬,裤子掉落搞笑"
     },
     "audio": {
-      "dialogue": "-掌门李道玄：私藏小金库（-50功德）”",
+      "dialogue": "",
       "narration": "",
-      "internal_monologue": "",
-      "background_music": "对话",
-      "sound_effects": [],
-      "volume_level": "正常"
+      "internal_monologue": "这天魔执法系统太bug了吧!",
+      "background_music": "搞笑,快节奏",
+      "sound_effects": ["电流声", "法术爆炸", "众人惊呼"],
+      "volume_level": "音效突出"
     },
     "editing": {
-      "transition_to_next": "直接切",
-      "pacing": "对话",
-      "purpose": "推进剧情"
+      "transition_to_next": "快速切",
+      "pacing": "快速",
+      "purpose": "蒙太奇搞笑场面"
     },
     "notes": {
-      "production_note": "根据实际内容调整",
-      "reference_style": "仙侠风格",
-      "difficulty_level": "中等"
+      "production_note": "需要多个场景和特效",
+      "reference_style": "蒙太奇搞笑",
+      "difficulty_level": "复杂"
     }
   },
   {
     "shot_id": "EP16-S008",
     "chapter_number": 16,
     "scene_number": 8,
-    "duration": 6,
-    "shot_type": "中景",
-    "location": "场景8",
-    "time_of_day": "白天",
+    "duration": 10,
+    "shot_type": "特效全景",
+    "location": "被魔教占领的城市",
+    "time_of_day": "夜晚",
     "composition": {
-      "camera_position": "正面拍摄",
-      "camera_movement": "固定镜头",
-      "framing": "标准构图",
-      "focus_type": "主体清晰"
+      "camera_position": "环绕拍摄",
+      "camera_movement": "快速环绕",
+      "framing": "动态构图",
+      "focus_type": "特效突出"
     },
     "characters": [
       {
-        "name": "主要角色",
-        "position": "画面中央",
-        "action": "推进剧情",
-        "expression": "根据情境",
-        "costume": "修仙服饰"
+        "name": "执法傀儡",
+        "position": "城市中央",
+        "action": "T-800造型,胸前印天魔执法,虎入羊群",
+        "expression": "电子眼红光",
+        "costume": "金属机身"
+      },
+      {
+        "name": "元婴魔修",
+        "position": "被傀儡制服",
+        "action": "被特制手铐铐住",
+        "expression": "垂头丧气",
+        "costume": "华贵黑袍"
       }
     ],
     "visual_effects": {
-      "environment": "根据场景",
-      "lighting": "自然光",
-      "color_palette": "自然色调",
-      "special_effects": "根据需要添加特效"
+      "environment": "城市,魔气冲天",
+      "lighting": "战斗光芒闪烁",
+      "color_palette": "高对比度",
+      "special_effects": "传送门打开,傀儡走出,攻击无效,一拳一脚击倒魔教徒,三个元婴魔修被电磁手铐铐住"
     },
     "audio": {
-      "dialogue": "更神奇的是，APP还提供了“惩戒”选项，包括“轻微电击”、“扣除功德”、“公开批评”等。",
+      "dialogue": "临时工9527,执法傀儡008前来协助!请指示! 检测到重大违规行为,激活'临时工特别权限'! 任务完成!缴获违规法器若干,已上传证物库。",
       "narration": "",
-      "internal_monologue": "",
-      "background_music": "中等",
-      "sound_effects": [],
-      "volume_level": "正常"
+      "internal_monologue": "这执法傀儡什么级别?化神期?还是更高?!",
+      "background_music": "震撼,科幻感",
+      "sound_effects": ["电子音", "战斗声", "系统提示"],
+      "volume_level": "对话和音效突出"
     },
     "editing": {
       "transition_to_next": "直接切",
-      "pacing": "中等",
-      "purpose": "推进剧情"
+      "pacing": "快速",
+      "purpose": "傀儡战力震撼"
     },
     "notes": {
-      "production_note": "根据实际内容调整",
-      "reference_style": "仙侠风格",
-      "difficulty_level": "中等"
+      "production_note": "需要大量CG制作傀儡和战斗",
+      "reference_style": "科幻+修仙",
+      "difficulty_level": "复杂"
     }
   },
   {
     "shot_id": "EP16-S009",
     "chapter_number": 16,
     "scene_number": 9,
-    "duration": 6,
-    "shot_type": "中景",
-    "location": "场景9",
-    "time_of_day": "白天",
+    "duration": 10,
+    "shot_type": "全景",
+    "location": "地下实验室",
+    "time_of_day": "无时间",
     "composition": {
-      "camera_position": "正面拍摄",
-      "camera_movement": "固定镜头",
-      "framing": "标准构图",
-      "focus_type": "主体清晰"
+      "camera_position": "缓慢推进",
+      "camera_movement": "从入口到核心",
+      "framing": "全景构图",
+      "focus_type": "恐怖细节清晰"
     },
     "characters": [
       {
-        "name": "主要角色",
-        "position": "画面中央",
-        "action": "推进剧情",
-        "expression": "根据情境",
-        "costume": "修仙服饰"
+        "name": "顾玄",
+        "position": "实验室入口",
+        "action": "震惊地看着实验场景",
+        "expression": "愤怒,震惊",
+        "costume": "白衣"
+      },
+      {
+        "name": "被囚禁生灵",
+        "position": "透明容器中",
+        "action": "被改造,被抽取能量",
+        "expression": "痛苦",
+        "costume": "无"
+      },
+      {
+        "name": "血池怪物",
+        "position": "中央血池",
+        "action": "正在形成",
+        "expression": "狰狞",
+        "costume": "血肉"
       }
     ],
     "visual_effects": {
-      "environment": "根据场景",
-      "lighting": "自然光",
-      "color_palette": "自然色调",
-      "special_effects": "根据需要添加特效"
+      "environment": "巨大地下实验室",
+      "lighting": "诡异红光",
+      "color_palette": "血色调",
+      "special_effects": "无数生灵被囚禁在透明容器中,有的被改造得面目全非,有的正在被抽取生命能量,中央巨大血池,恐怖生物浸泡,执法傀儡暴力拆除"
     },
     "audio": {
-      "dialogue": "正在偷吃鸡腿的老王突然“嗷”一嗓子跳起来，头发都竖起来了！",
+      "dialogue": "魔教竟然在进行这种实验! 摧毁这里!解救所有生灵! 检测到非法进行禁忌实验!建议:立即制止!最高优先级!",
       "narration": "",
       "internal_monologue": "",
-      "background_music": "中等",
-      "sound_effects": [],
-      "volume_level": "正常"
+      "background_music": "紧张,恐怖",
+      "sound_effects": ["哀嚎声", "能量流动", "傀儡破坏声"],
+      "volume_level": "音效突出"
     },
     "editing": {
       "transition_to_next": "直接切",
       "pacing": "中等",
-      "purpose": "推进剧情"
+      "purpose": "揭示禁忌实验真相"
     },
     "notes": {
-      "production_note": "根据实际内容调整",
-      "reference_style": "仙侠风格",
-      "difficulty_level": "中等"
+      "production_note": "需要大量CG制作实验室和容器",
+      "reference_style": "恐怖+震撼",
+      "difficulty_level": "复杂"
     }
   },
   {
     "shot_id": "EP16-S010",
     "chapter_number": 16,
     "scene_number": 10,
-    "duration": 6,
-    "shot_type": "中景",
-    "location": "场景10",
-    "time_of_day": "白天",
+    "duration": 8,
+    "shot_type": "特效全景",
+    "location": "地下实验室",
+    "time_of_day": "无时间",
     "composition": {
-      "camera_position": "正面拍摄",
-      "camera_movement": "固定镜头",
-      "framing": "标准构图",
-      "focus_type": "主体清晰"
+      "camera_position": "仰视",
+      "camera_movement": "快速上升",
+      "framing": "中心构图",
+      "focus_type": "特效突出"
     },
     "characters": [
       {
-        "name": "主要角色",
-        "position": "画面中央",
-        "action": "推进剧情",
-        "expression": "根据情境",
-        "costume": "修仙服饰"
+        "name": "尸体拼接怪物",
+        "position": "血池中升起",
+        "action": "由无数尸体拼接而成,发出恐怖咆哮",
+        "expression": "狰狞",
+        "costume": "血肉"
+      },
+      {
+        "name": "执法傀儡",
+        "position": "对抗怪物",
+        "action": "与怪物难解难分",
+        "expression": "电子眼红光闪烁",
+        "costume": "金属机身"
+      },
+      {
+        "name": "白芷",
+        "position": "控制台旁",
+        "action": "指向控制台",
+        "expression": "焦急",
+        "costume": "布衣"
       }
     ],
     "visual_effects": {
-      "environment": "根据场景",
-      "lighting": "自然光",
-      "color_palette": "自然色调",
-      "special_effects": "根据需要添加特效"
+      "environment": "实验室崩溃中",
+      "lighting": "能量光芒闪烁",
+      "color_palette": "高对比度",
+      "special_effects": "血池沸腾,怪物缓缓升起,由无数尸体拼接而成,散发着堪比化神期的恐怖气息,与执法傀儡激烈对抗"
     },
     "audio": {
-      "dialogue": "“天、天打雷劈？！”老王吓得跪地求饶，“我再也不敢偷吃了！”",
+      "dialogue": "入侵者...死! 师兄!那边有控制台! 这是...生命能量转化装置?魔教在尝试制造人工天魔?! 申请临时最高权限! 销毁所有实验数据!终止能量传输! 警告!自毁程序启动!倒计时60秒!",
       "narration": "",
-      "internal_monologue": "",
-      "background_music": "中等",
-      "sound_effects": [],
-      "volume_level": "正常"
+      "internal_monologue": "魔教在尝试制造人工天魔?!",
+      "background_music": "紧张,震撼",
+      "sound_effects": ["咆哮声", "战斗声", "警报声", "爆炸声"],
+      "volume_level": "音效突出"
     },
     "editing": {
       "transition_to_next": "直接切",
-      "pacing": "中等",
-      "purpose": "推进剧情"
+      "pacing": "快速",
+      "purpose": "高潮战斗"
     },
     "notes": {
-      "production_note": "根据实际内容调整",
-      "reference_style": "仙侠风格",
+      "production_note": "需要大量CG制作怪物和战斗",
+      "reference_style": "震撼+恐怖",
+      "difficulty_level": "复杂"
+    }
+  },
+  {
+    "shot_id": "EP16-S011",
+    "chapter_number": 16,
+    "scene_number": 11,
+    "duration": 7,
+    "shot_type": "远景",
+    "location": "深山峡谷",
+    "time_of_day": "夜晚",
+    "composition": {
+      "camera_position": "远处仰视",
+      "camera_movement": "缓慢推进",
+      "framing": "中心构图",
+      "focus_type": "全景清晰"
+    },
+    "characters": [
+      {
+        "name": "天魔之种",
+        "position": "血光中急速遁走",
+        "action": "婴儿状生物,快速移动",
+        "expression": "无表情",
+        "costume": "无"
+      },
+      {
+        "name": "顾玄等人",
+        "position": "追击",
+        "action": "紧追其后",
+        "expression": "焦急",
+        "costume": "修炼服"
+      }
+    ],
+    "visual_effects": {
+      "environment": "深山峡谷",
+      "lighting": "血光闪烁",
+      "color_palette": "血色调",
+      "special_effects": "血光急速遁走,天魔之种婴儿状生物,执法傀儡化作流光追击"
+    },
+    "audio": {
+      "dialogue": "检测到'天魔之种'信号!目标已逃离实验室!正在快速移动! 追击目标!绝不能让它落入魔教之手!",
+      "narration": "",
+      "internal_monologue": "天魔之种?那是什么?",
+      "background_music": "紧张,急促",
+      "sound_effects": ["系统警报", "遁走声"],
+      "volume_level": "音效突出"
+    },
+    "editing": {
+      "transition_to_next": "淡出",
+      "pacing": "快速",
+      "purpose": "追逐战开始,留下悬念"
+    },
+    "notes": {
+      "production_note": "需要CG制作血光遁走",
+      "reference_style": "紧张追击",
       "difficulty_level": "中等"
     }
   }

@@ -3,47 +3,54 @@
     "shot_id": "EP35-S001",
     "chapter_number": 35,
     "scene_number": 1,
-    "duration": 10,
-    "shot_type": "全景蒙太奇",
-    "location": "宇宙各处",
+    "duration": 11,
+    "shot_type": "中景",
+    "location": "升华之域",
     "time_of_day": "无",
     "composition": {
-      "camera_position": "多地点",
-      "camera_movement": "快速切换",
-      "framing": "庆祝构图",
-      "focus_type": "庆祝清晰"
+      "camera_position": "对话角度",
+      "camera_movement": "缓慢推近",
+      "framing": "对话构图",
+      "focus_type": "对话清晰"
     },
     "characters": [
       {
-        "name": "各文明",
-        "position": "宇宙各处",
-        "action": "庆祝三天三夜",
-        "expression": "狂喜",
-        "costume": "各异"
+        "name": "顾玄",
+        "position": "升华之域",
+        "action": "理解新身份",
+        "expression": "困惑→接受",
+        "costume": "管理者长袍"
+      },
+      {
+        "name": "引导者",
+        "position": "光之生命体",
+        "action": "解释,发放徽章",
+        "expression": "温和",
+        "costume": "光之形态"
       }
     ],
     "visual_effects": {
-      "environment": "庆祝的多元宇宙",
-      "lighting": "庆祝光芒",
-      "color_palette": "绚丽多彩",
-      "special_effects": "精灵魔法派对、AI算法狂欢、蘑菇人72小时光合作用庆祝"
+      "environment": "升华之域",
+      "lighting": "柔和光芒",
+      "color_palette": "神圣色调",
+      "special_effects": "光之生命体、徽章【初级宇宙管理者】【权限等级:幼儿园小班】、顾玄看着徽章"
     },
     "audio": {
-      "dialogue": "宇宙通过大过滤器预考的消息传开,所有文明沸腾了三天三夜",
+      "dialogue": "所以...我现在是...宇宙管理员plus pro max版?可以这么说。你的宇宙刚刚'毕业',需要学习如何与其他成熟宇宙相处。这是...我这算是降级了?管理单个宇宙和管理多元宇宙是两回事。首先你要参加...警报!原生宇宙正在发生巨变!",
       "narration": "",
       "internal_monologue": "",
-      "background_music": "欢乐庆祝",
-      "sound_effects": ["狂欢声"],
-      "volume_level": "环境音突出"
+      "background_music": "轻松转为紧张",
+      "sound_effects": ["徽章声", "警报"],
+      "volume_level": "对话突出"
     },
     "editing": {
       "transition_to_next": "快速切",
-      "pacing": "快速",
-      "purpose": "庆祝蒙太奇"
+      "pacing": "中等转快速",
+      "purpose": "新身份+危机"
     },
     "notes": {
-      "production_note": "多场景特效",
-      "reference_style": "欢乐庆祝",
+      "production_note": "实景+CG",
+      "reference_style": "幽默转折紧张",
       "difficulty_level": "中等"
     }
   },
@@ -51,109 +58,116 @@
     "shot_id": "EP35-S002",
     "chapter_number": 35,
     "scene_number": 2,
-    "duration": 11,
-    "shot_type": "蒙太奇",
-    "location": "宇宙各处-补习班",
+    "duration": 12,
+    "shot_type": "全景蒙太奇",
+    "location": "原生宇宙-各处",
     "time_of_day": "无",
     "composition": {
-      "camera_position": "多教学点",
-      "camera_movement": "流畅切换",
-      "framing": "教学构图",
-      "focus_type": "教学清晰"
+      "camera_position": "多地点",
+      "camera_movement": "快速切换",
+      "framing": "混乱进化构图",
+      "focus_type": "进化清晰"
     },
     "characters": [
       {
-        "name": "各文明学生",
-        "position": "各处学习",
-        "action": "补习学习",
-        "expression": "痛苦→努力",
-        "costume": "各异"
+        "name": "进化后的文明",
+        "position": "宇宙各处",
+        "action": "过度进化",
+        "expression": "兴奋,失控",
+        "costume": "进化形态"
       },
       {
         "name": "顾玄",
-        "position": "教学总导师",
-        "action": "编写教材,教学",
-        "expression": "认真,无奈",
-        "costume": "教师长袍"
+        "position": "返回宇宙",
+        "action": "稳定规则",
+        "expression": "头疼",
+        "costume": "管理者长袍"
       }
     ],
     "visual_effects": {
-      "environment": "宇宙教室",
-      "lighting": "教学光芒",
-      "color_palette": "学习色调",
-      "special_effects": "补习班教学,科技文明学魔法,精灵学物理,实景模拟考场,恒星答题板,黑洞错题本,超新星答对庆祝,各种教学方法"
+      "environment": "过度进化的宇宙",
+      "lighting": "进化光芒",
+      "color_palette": "高对比度",
+      "special_effects": "通过大过滤器预考后宇宙开始过度进化、科技文明瞬间突破到维度科技、魔法文明领悟了创世魔法、连蘑菇人都开始光合出小型宇宙了、但问题随之而来:新能力控制不当导致宇宙结构不稳、某个AI不小心把自己宇宙化变成了微型黑洞、某个精灵施法时创造了多余维度导致空间裂缝、蘑菇人让整个星系长满了可食用蘑菇(影响航道)、顾玄急忙返回:规则稳定!都给我冷静下来!"
     },
     "audio": {
-      "dialogue": "必须因材施教!成立宇宙补习班!老师!量子力学太难了!教授!时间魔法会让我长皱纹!蘑菇拒绝考试!让AI用游戏方式教魔法,精灵用诗歌形式教物理,蘑菇人菌丝网络共享知识(但都是蘑菇食谱)",
+      "dialogue": "通过大过滤器预考后,宇宙开始'过度进化':科技文明瞬间突破到维度科技、魔法文明领悟了创世魔法、连蘑菇人都开始光合出小型宇宙了!但问题随之而来:新能力控制不当,导致宇宙结构不稳!某个AI不小心把自己宇宙化、变成了一个微型黑洞、某个精灵施法时创造了多余维度,导致空间裂缝、蘑菇人...让整个星系长满了蘑菇(可食用版,但影响航道)。顾玄急忙返回:规则稳定!都给我冷静下来!",
       "narration": "",
-      "internal_monologue": "",
-      "background_music": "欢乐学习",
-      "sound_effects": ["教学声", "学生哀嚎"],
+      "internal_monologue": "所以我不是管理员,是幼儿园园长?!这些熊孩子能不能消停一会儿!",
+      "background_music": "混乱幽默",
+      "sound_effects": ["进化混乱声"],
       "volume_level": "对话突出"
     },
     "editing": {
       "transition_to_next": "快速切",
-      "pacing": "快速",
-      "purpose": "补习蒙太奇"
+      "pacing": "极快",
+      "purpose": "进化混乱蒙太奇"
     },
     "notes": {
-      "production_note": "多场景",
-      "reference_style": "欢乐教学",
-      "difficulty_level": "中等"
+      "production_note": "大量特效",
+      "reference_style": "混乱幽默",
+      "difficulty_level": "复杂"
     }
   },
   {
     "shot_id": "EP35-S003",
     "chapter_number": 35,
     "scene_number": 3,
-    "duration": 10,
-    "shot_type": "全景",
-    "location": "宇宙-文明交流",
+    "duration": 11,
+    "shot_type": "中景",
+    "location": "原生宇宙-各处",
     "time_of_day": "无",
     "composition": {
-      "camera_position": "多文明相遇",
-      "camera_movement": "快速切换",
-      "framing": "交流冲突构图",
-      "focus_type": "交流清晰"
+      "camera_position": "多管理者",
+      "camera_movement": "流畅切换",
+      "framing": "家访构图",
+      "focus_type": "互动清晰"
     },
     "characters": [
       {
-        "name": "异宇宙文明",
+        "name": "成熟宇宙管理者",
         "position": "来访",
-        "action": "交流,冲突",
-        "expression": "傲慢→惊讶",
+        "action": "家访,指导",
+        "expression": "严肃→尴尬",
         "costume": "各异形态"
       },
       {
-        "name": "本宇宙文明",
-        "position": "接待",
-        "action": "应对",
-        "expression": "无奈,反击",
+        "name": "顾玄",
+        "position": "调解",
+        "action": "调解纠纷",
+        "expression": "崩溃",
+        "costume": "园长形态"
+      },
+      {
+        "name": "新生文明",
+        "position": "被指导",
+        "action": "反抗,学习",
+        "expression": "不满→接受",
         "costume": "各异"
       }
     ],
     "visual_effects": {
-      "environment": "文明交流场景",
-      "lighting": "交流光芒",
-      "color_palette": "多彩冲突",
-      "special_effects": "机械蜂巢宇宙AI死机,能量生命宇宙差点蒸发,概念宇宙重推导1+1=3,知识污染反促进发展,监考者通知考试提前"
+      "environment": "多元宇宙",
+      "lighting": "指导光芒",
+      "color_palette": "多彩互动",
+      "special_effects": "这时其他成熟宇宙的管理者来家访了、首先来的是机械至尊宇宙的管理者——个巨大的金属圆球、它看到AI宇宙化立即批评:不规范!缺乏安全协议!然后试图给所有AI安装控制芯片引发AI叛乱、接着是魔法永恒宇宙的管理者——个长胡子老法师、他嫌弃魔法文明缺乏优雅强行教授标准施法姿势导致多个精灵闪了腰、最后是生态和谐宇宙的管理者——朵会说话的花、它认为蘑菇人破坏生态平衡要求所有蘑菇人进行修剪被蘑菇人用孢子喷了一脸、顾玄忙着调解纠纷感觉自己真是幼儿园园长、引导者现身:看到问题了吗?新生宇宙需要指导而非管制、它给出建议:成立宇宙互助小组让成熟文明以伙伴而非老师身份帮助新生文明"
     },
     "audio": {
-      "dialogue": "逻辑错误!魔法不科学!太物质了...能量化...不完美的公式...重新推导...这是你们的'文明交流'?!麻烦成了助力。正式考试提前!10年后举行!说好的百年呢?!检测到宇宙进化加速,符合提前条件",
+      "dialogue": "这时,其他成熟宇宙的管理者来'家访'了。首先来的是'机械至尊宇宙'的管理者——个巨大的金属圆球。它看到AI宇宙化,立即批评:不规范!缺乏安全协议!然后试图给所有AI安装控制芯片,引发AI叛乱。接着是'魔法永恒宇宙'的管理者——个长胡子老法师。他嫌弃魔法文明'缺乏优雅',强行教授'标准施法姿势',导致多个精灵闪了腰。最后是'生态和谐宇宙'的管理者——朵会说话的花。它认为蘑菇人'破坏生态平衡',要求所有蘑菇人进行'修剪',被蘑菇人用孢子喷了一脸...顾玄忙着调解纠纷,感觉自己真是幼儿园园长。引导者现身:看到问题了吗?新生宇宙需要指导,而非管制",
       "narration": "",
       "internal_monologue": "",
-      "background_music": "冲突混乱",
-      "sound_effects": ["交流冲突声"],
+      "background_music": "混乱转和谐",
+      "sound_effects": ["指导冲突声"],
       "volume_level": "对话突出"
     },
     "editing": {
       "transition_to_next": "快速切",
-      "pacing": "极快",
-      "purpose": "交流冲突"
+      "pacing": "快速",
+      "purpose": "家访冲突转和谐"
     },
     "notes": {
-      "production_note": "特效+冲突",
-      "reference_style": "文明冲突",
+      "production_note": "多角色+特效",
+      "reference_style": "幽默指导",
       "difficulty_level": "中等"
     }
   },
@@ -161,55 +175,55 @@
     "shot_id": "EP35-S004",
     "chapter_number": 35,
     "scene_number": 4,
-    "duration": 11,
-    "shot_type": "蒙太奇",
-    "location": "宇宙-魔鬼训练",
+    "duration": 12,
+    "shot_type": "全景蒙太奇",
+    "location": "宇宙边界-各处",
     "time_of_day": "无",
     "composition": {
-      "camera_position": "多训练点",
-      "camera_movement": "高强度切换",
-      "framing": "训练构图",
-      "focus_type": "训练清晰"
+      "camera_position": "多边界点",
+      "camera_movement": "快速切换",
+      "framing": "边界摩擦构图",
+      "focus_type": "摩擦清晰"
     },
     "characters": [
       {
-        "name": "各文明",
-        "position": "极限训练",
-        "action": "魔鬼训练",
-        "expression": "痛苦,坚持",
+        "name": "各宇宙文明",
+        "position": "边界处",
+        "action": "摩擦,冲突",
+        "expression": "冲突",
         "costume": "各异"
       },
       {
         "name": "顾玄",
-        "position": "总指挥",
-        "action": "极限训练",
-        "expression": "严厉",
-        "costume": "教官形态"
+        "position": "主持会议",
+        "action": "制定公约",
+        "expression": "头疼,负责",
+        "costume": "管理者长袍"
       }
     ],
     "visual_effects": {
-      "environment": "宇宙训练场",
-      "lighting": "训练光芒",
-      "color_palette": "高强度色调",
-      "special_effects": "五年学完必修,三年模拟考,两年专项突破,精灵边施法边背物理,AI算题练情感表达,蘑菇人学微积分,骗子宇宙卖答案被惩,十年转瞬即逝"
+      "environment": "宇宙边界",
+      "lighting": "边界光芒",
+      "color_palette": "多彩冲突",
+      "special_effects": "但新的挑战出现:宇宙开始长身体了——自然扩张到新维度与其他宇宙产生交界、边界摩擦频发:某个科技宇宙的飞船误入魔法宇宙被当成金属巨龙召唤、某个魔法宇宙的咒语泄漏让科技宇宙的电脑开始说谜语、最严重的是蘑菇宇宙的孢子飘到其他宇宙导致多个星球长出会唱歌的蘑菇、系统提示:警告维度边界冲突涉及宇宙37个纠纷类型123种、顾玄不得不召开宇宙边界会议制定《维度邻里公约》:1.设立边界标识 2.建立跨宇宙交警(由AI和精灵共同担任) 3.蘑菇孢子需经过灭菌处理(蘑菇人抗议但无效)、会议进行中突然警报响起、检测到虚空残余正在聚集试图卷土重来"
     },
     "audio": {
-      "dialogue": "五年学完必修,三年模拟考,最后两年专项突破!魔鬼训练计划启动!十年转瞬即逝。正式考试来临!考试内容:应对未知!没有题目,没有标准,只有...未知!整个宇宙陷入绝对'未知状态'!记住,未知不是终点,而是创造的开始!",
+      "dialogue": "但新的挑战出现:宇宙开始'长身体'了——自然扩张到新维度,与其他宇宙产生交界。边界摩擦频发:某个科技宇宙的飞船误入魔法宇宙,被当成'金属巨龙'召唤、某个魔法宇宙的咒语泄漏,让科技宇宙的电脑开始说谜语、最严重的是蘑菇宇宙的孢子飘到其他宇宙,导致多个星球长出会唱歌的蘑菇...顾玄不得不召开'宇宙边界会议',制定《维度邻里公约》...会议进行中,突然警报响起!检测到'虚空残余'正在聚集,试图卷土重来!",
       "narration": "",
       "internal_monologue": "",
-      "background_music": "紧张训练",
-      "sound_effects": ["训练声", "十年流逝"],
+      "background_music": "冲突紧张",
+      "sound_effects": ["边界冲突声"],
       "volume_level": "对话突出"
     },
     "editing": {
       "transition_to_next": "快速切",
       "pacing": "极快",
-      "purpose": "魔鬼训练蒙太奇"
+      "purpose": "边界摩擦转对抗"
     },
     "notes": {
-      "production_note": "多场景压缩",
-      "reference_style": "高强度训练",
-      "difficulty_level": "中等"
+      "production_note": "大量特效",
+      "reference_style": "冲突文明",
+      "difficulty_level": "复杂"
     }
   },
   {
@@ -217,6 +231,226 @@
     "chapter_number": 35,
     "scene_number": 5,
     "duration": 13,
+    "shot_type": "特效全景",
+    "location": "多元宇宙",
+    "time_of_day": "无",
+    "composition": {
+      "camera_position": "宇宙视角",
+      "camera_movement": "宏大运动",
+      "framing": "文明多样性构图",
+      "focus_type": "展示清晰"
+    },
+    "characters": [
+      {
+        "name": "各文明",
+        "position": "宇宙各处",
+        "action": "展示独特一面",
+        "expression": "自豪,创作",
+        "costume": "各异"
+      },
+      {
+        "name": "虚空残余",
+        "position": "被驱散",
+        "action": "无法理解,消散",
+        "expression": "困惑,失败",
+        "costume": "虚空形态"
+      }
+    ],
+    "visual_effects": {
+      "environment": "多元宇宙",
+      "lighting": "文明光芒",
+      "color_palette": "绚丽多彩",
+      "special_effects": "原来当初虚空并未完全消灭而是潜伏在维度间隙等待宇宙进化时窃取力量、这次它们更聪明:专门腐蚀刚获得新能力的文明、某个科技文明被诱惑成为纯粹能量体、某个魔法文明被蛊惑掌控所有维度、连蘑菇人都被忽悠长成宇宙最大的蘑菇、被腐蚀的文明开始破坏宇宙结构甚至攻击邻居、顾玄带领其他管理者对抗但发现虚空学会了免疫规则修改、它们进化了!必须用超越规则的力量、危急关头顾玄想起创始者的真正遗产——不是权限而是文明的可能性、他不再直接对抗而是引导所有文明展示自己最独特的一面、科技文明演奏恒星交响乐——用恒星发出的光波谱写乐章展现宇宙的数学之美、魔法文明编织命运织锦——用魔法丝线展现生命的无限可能、蘑菇人举办了一场史诗级蘑菇展(居然很有艺术性获得了高维生物的赞赏)、虚空在这些纯粹的表达前反而无法侵蚀——它们无法理解这种无目的的美好、这就是通过过滤器的意义!不是变得强大而是变得...丰富!虚空在文明多样性面前节节败退最终被驱散、所有文明更加团结、宇宙成熟度飙升到60%"
+    },
+    "audio": {
+      "dialogue": "原来当初虚空并未完全消灭,而是潜伏在维度间隙,等待宇宙进化时窃取力量!这次它们更聪明:专门腐蚀刚获得新能力的文明...顾玄带领其他管理者对抗,但发现虚空学会了免疫规则修改!它们进化了!必须用超越规则的力量!危急关头,顾玄想起创始者的真正遗产——不是权限,而是'文明的可能性'。他不再直接对抗,而是引导所有文明展示自己最独特的一面...虚空在这些纯粹的表达前反而无法侵蚀——它们无法理解这种'无目的的美好'。这就是通过过滤器的意义!不是变得强大,而是变得...丰富!虚空在文明多样性面前节节败退,最终被驱散。所有文明更加团结。宇宙成熟度飙升到【60%】",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "智慧史诗",
+      "sound_effects": ["文明展示声", "虚空消散"],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "光芒转场",
+      "pacing": "宏大",
+      "purpose": "文明胜利"
+    },
+    "notes": {
+      "production_note": "大量CG特效",
+      "reference_style": "史诗级文明",
+      "difficulty_level": "非常复杂"
+    }
+  },
+  {
+    "shot_id": "EP35-S006",
+    "chapter_number": 35,
+    "scene_number": 6,
+    "duration": 11,
+    "shot_type": "中景",
+    "location": "维度间隙",
+    "time_of_day": "无",
+    "composition": {
+      "camera_position": "对话角度",
+      "camera_movement": "缓慢推近",
+      "framing": "对话构图",
+      "focus_type": "对话清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "维度间隙",
+        "action": "询问疑惑",
+        "expression": "好奇,深思",
+        "costume": "管理者长袍"
+      },
+      {
+        "name": "引导者",
+        "position": "光之生命体",
+        "action": "回答",
+        "expression": "温和,神秘",
+        "costume": "光之形态"
+      }
+    ],
+    "visual_effects": {
+      "environment": "维度间隙",
+      "lighting": "柔和光芒",
+      "color_palette": "神秘色调",
+      "special_effects": "顾玄看着繁荣的多元宇宙、引导者欣慰地看着这一幕、顾玄问出一直的疑惑"
+    },
+    "audio": {
+      "dialogue": "引导者欣慰道:你终于明白了。管理宇宙不是控制,而是守护可能性。顾玄看着繁荣的多元宇宙,问出一直的疑惑:创始者去哪了?引导者沉默片刻:他们去了'源头'...探索所有宇宙之外的未知。也许有一天,你也会去",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "神秘史诗",
+      "sound_effects": ["环境声"],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "舒缓",
+      "purpose": "创始者秘密"
+    },
+    "notes": {
+      "production_note": "实景+CG",
+      "reference_style": "神秘史诗",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP35-S007",
+    "chapter_number": 35,
+    "scene_number": 7,
+    "duration": 12,
+    "shot_type": "中景",
+    "location": "维度间隙",
+    "time_of_day": "无",
+    "composition": {
+      "camera_position": "正面角度",
+      "camera_movement": "推近",
+      "framing": "决意构图",
+      "focus_type": "对话清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "维度间隙",
+        "action": "做出决定",
+        "expression": "微笑,决然",
+        "costume": "管理者长袍"
+      },
+      {
+        "name": "引导者",
+        "position": "光之生命体",
+        "action": "微笑回应",
+        "expression": "欣慰",
+        "costume": "光之形态"
+      }
+    ],
+    "visual_effects": {
+      "environment": "维度间隙",
+      "lighting": "决意光芒",
+      "color_palette": "温暖色调",
+      "special_effects": "顾玄想了想微笑、引导者欣慰微笑"
+    },
+    "audio": {
+      "dialogue": "顾玄想了想:还是先当好幼儿园园长吧。但就在此时,监考者再次出现:【正式大过滤器开始】、【时间:10年后】",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "决意转紧张",
+      "sound_effects": ["监考者声"],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "快速切",
+      "pacing": "中等转快速",
+      "purpose": "新阶段开始"
+    },
+    "notes": {
+      "production_note": "实景+CG",
+      "reference_style": "决意转变",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP35-S008",
+    "chapter_number": 35,
+    "scene_number": 8,
+    "duration": 11,
+    "shot_type": "蒙太奇",
+    "location": "宇宙-备考",
+    "time_of_day": "无",
+    "composition": {
+      "camera_position": "多备考点",
+      "camera_movement": "时间流逝",
+      "framing": "备考构图",
+      "focus_type": "备考清晰"
+    },
+    "characters": [
+      {
+        "name": "各文明",
+        "position": "宇宙中",
+        "action": "严阵以待",
+        "expression": "紧张,认真",
+        "costume": "各异"
+      },
+      {
+        "name": "监考者",
+        "position": "观测",
+        "action": "等待",
+        "expression": "无",
+        "costume": "巨大结构体"
+      }
+    ],
+    "visual_effects": {
+      "environment": "宇宙备考",
+      "lighting": "备考光芒",
+      "color_palette": "紧张色调",
+      "special_effects": "宇宙再次进入紧张备考状态、十年转瞬即逝、正式考试来临那天所有文明严阵以待"
+    },
+    "audio": {
+      "dialogue": "宇宙再次进入紧张备考状态!十年转瞬即逝。正式考试来临那天,所有文明严阵以待",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "紧张备考",
+      "sound_effects": ["时间流逝"],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "流畅转场",
+      "pacing": "快速",
+      "purpose": "时间流逝"
+    },
+    "notes": {
+      "production_note": "时间压缩蒙太奇",
+      "reference_style": "紧张备考",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP35-S009",
+    "chapter_number": 35,
+    "scene_number": 9,
+    "duration": 14,
     "shot_type": "特效全景",
     "location": "宇宙-正式考试",
     "time_of_day": "无",
@@ -240,16 +474,23 @@
         "action": "评分",
         "expression": "无",
         "costume": "巨大结构体"
+      },
+      {
+        "name": "顾玄",
+        "position": "主心骨",
+        "action": "指挥",
+        "expression": "坚定,鼓舞",
+        "costume": "管理者长袍"
       }
     ],
     "visual_effects": {
       "environment": "未知状态的宇宙",
       "lighting": "应对光芒",
       "color_palette": "创造色彩",
-      "special_effects": "规则消失逻辑失效,科技文明概率学构建临时规则,魔法文明直觉引导,AI创造力想象新逻辑,蘑菇人蘑菇感应,共同构建新宇宙规则,监考者评分95分通过"
+      "special_effects": "监考者出现但这次的形式超出所有人想象——考试内容:应对未知、没有题目没有标准只有...未知、整个宇宙突然陷入绝对的未知状态:规则消失逻辑失效连时间都失去意义、文明们瞬间混乱但没有恐慌而是运用所学积极应对:科技文明用概率学构建临时规则、魔法文明用直觉引导能量、AI用创造力想象新逻辑、蘑菇人用蘑菇感应寻找方向(居然有效)、顾玄作为主心骨调动所有文明的力量:记住未知不是终点而是创造的开始、他们共同构建出临时的新宇宙规则虽然粗糙但足够应对考试、监考者评分:适应性95分协作性90分创造性99分、综合评分95分通过大过滤器、宇宙沸腾了他们真的做到了"
     },
     "audio": {
-      "dialogue": "适应性95分!协作性90分!创造性99分!综合评分95分!通过大过滤器!宇宙沸腾了!他们真的做到了!通过只是开始。真正的挑战在过滤器之外...欢迎来到'升华之域',新成员。这里是?所有通过考试的文明聚集地。原来,大过滤器不是终点,而是...入学考试?警报!原生宇宙过度进化失控!所以...毕业才是开始?当然。宇宙管理是终身学习。下一堂课开始了",
+      "dialogue": "监考者出现,但这次的形式超出所有人想象——【考试内容:应对未知】、【没有题目,没有标准,只有...未知】。整个宇宙突然陷入绝对的'未知状态':规则消失、逻辑失效、连时间都失去意义!文明们瞬间混乱!但没有恐慌,而是运用所学积极应对:科技文明用概率学构建临时规则、魔法文明用直觉引导能量、AI用创造力想象新逻辑、蘑菇人...用蘑菇感应寻找方向(居然有效!)。顾玄作为主心骨,调动所有文明的力量:记住,未知不是终点,而是创造的开始!他们共同构建出临时的'新宇宙规则',虽然粗糙,但足够应对考试。监考者评分:【适应性:95分】、【协作性:90分】、【创造性:99分】、【综合评分:95分】、【通过大过滤器!】宇宙沸腾了!他们真的做到了!",
       "narration": "",
       "internal_monologue": "",
       "background_music": "史诗升华",
@@ -264,6 +505,68 @@
     "notes": {
       "production_note": "大量CG特效",
       "reference_style": "史诗级升华",
+      "difficulty_level": "非常复杂"
+    }
+  },
+  {
+    "shot_id": "EP35-S010",
+    "chapter_number": 35,
+    "scene_number": 10,
+    "duration": 12,
+    "shot_type": "特效全景",
+    "location": "升华之域",
+    "time_of_day": "无",
+    "composition": {
+      "camera_position": "升华之域全景",
+      "camera_movement": "震撼运动",
+      "framing": "新阶段构图",
+      "focus_type": "升华清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "被传送",
+        "action": "观察,理解",
+        "expression": "震撼,领悟",
+        "costume": "管理者长袍"
+      },
+      {
+        "name": "光之生命体",
+        "position": "升华之域",
+        "action": "欢迎,解释",
+        "expression": "微笑",
+        "costume": "光之形态"
+      },
+      {
+        "name": "其他宇宙管理者",
+        "position": "升华之域",
+        "action": "各自管理",
+        "expression": "专注",
+        "costume": "各异"
+      }
+    ],
+    "visual_effects": {
+      "environment": "升华之域",
+      "lighting": "升华之光",
+      "color_palette": "神圣色调",
+      "special_effects": "监考者留下意味深长的话:通过只是开始真正的挑战在过滤器之外、顾玄被传送到升华之域——那里汇聚着所有通过考试的文明代表、一个光之生命体向他打招呼:欢迎来到升华之域新成员、顾玄问:这里是、所有通过考试的文明聚集地、对方微笑:现在你们有资格参与真正的宇宙管理了、顾玄回头看到无数宇宙在眼前流转、每个宇宙都有一个像他一样的管理者、原来大过滤器不是终点而是...入学考试、警报响起:他的原生宇宙出现新危机——通过考试后宇宙开始过度进化快要失控了、顾玄扶额:所以...毕业才是开始、光之生命体轻笑:当然宇宙管理是终身学习"
+    },
+    "audio": {
+      "dialogue": "但监考者留下意味深长的话:通过只是开始。真正的挑战在过滤器之外...顾玄被传送到升华之域——那里汇聚着所有通过考试的文明代表。一个光之生命体向他打招呼:欢迎来到'升华之域',新成员。顾玄问:这里是?所有通过考试的文明聚集地。对方微笑:现在,你们有资格参与真正的宇宙管理了。顾玄回头,看到无数宇宙在眼前流转。每个宇宙都有一个像他一样的管理者。原来,大过滤器不是终点,而是...入学考试?警报响起:他的原生宇宙出现新危机——通过考试后,宇宙开始'过度进化',快要失控了!顾玄扶额:所以...毕业才是开始?光之生命体轻笑:当然。宇宙管理是终身学习",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "升华领悟",
+      "sound_effects": ["传送声"],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "淡出",
+      "pacing": "舒缓",
+      "purpose": "新阶段理解"
+    },
+    "notes": {
+      "production_note": "大量CG特效",
+      "reference_style": "升华领悟",
       "difficulty_level": "非常复杂"
     }
   }

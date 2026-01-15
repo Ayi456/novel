@@ -3,47 +3,54 @@
     "shot_id": "EP09-S001",
     "chapter_number": 9,
     "scene_number": 1,
-    "duration": 6,
-    "shot_type": "中景",
-    "location": "场景1",
+    "duration": 10,
+    "shot_type": "全景蒙太奇",
+    "location": "青州演武场",
     "time_of_day": "白天",
     "composition": {
-      "camera_position": "正面拍摄",
-      "camera_movement": "固定镜头",
-      "framing": "标准构图",
-      "focus_type": "主体清晰"
+      "camera_position": "多视角快速切换",
+      "camera_movement": "流畅切换",
+      "framing": "大场面蒙太奇",
+      "focus_type": "场面清晰"
     },
     "characters": [
       {
-        "name": "主要角色",
-        "position": "画面中央",
-        "action": "推进剧情",
-        "expression": "根据情境",
-        "costume": "修仙服饰"
+        "name": "各宗修士",
+        "position": "演武场各处",
+        "action": "议论",
+        "expression": "兴奋,猜测",
+        "costume": "各宗服饰"
+      },
+      {
+        "name": "顾玄一行",
+        "position": "进场",
+        "action": "被关注",
+        "expression": "顾玄紧张,李道玄得意",
+        "costume": "各自服饰"
       }
     ],
     "visual_effects": {
-      "environment": "根据场景",
-      "lighting": "自然光",
-      "color_palette": "自然色调",
-      "special_effects": "根据需要添加特效"
+      "environment": "人山人海,旌旗招展,法器光芒",
+      "lighting": "明亮自然光",
+      "color_palette": "热闹色调",
+      "special_effects": "法器光芒闪烁,无数目光聚焦"
     },
     "audio": {
-      "dialogue": "青州城最大的演武场人山人海，旌旗招展。各大宗门精锐尽出，法器光芒闪耀，气氛远比预选赛隆重。",
-      "narration": "",
-      "internal_monologue": "",
-      "background_music": "中等",
-      "sound_effects": [],
-      "volume_level": "正常"
+      "dialogue": "看!是青云宗的人!那个就是顾玄?看起来平平无奇啊...嘘!小声点!听说他是元婴老怪伪装!真的假的?那今晚的赌局我押青云宗赢!师兄没事吧?是不是在压制修为?......我是在压制想逃跑的冲动啊师弟!徒儿莫慌,正常发挥即可。让他们见识下什么叫真人不露相!我露相就是原形毕露啊掌门!",
+      "narration": "宗门大比的正赛日终于到来。青云宗三人到场时,引来无数注目礼",
+      "internal_monologue": "完了完了,这次真要露馅了!正赛的对手可都是实打实的精英!我靠运气混过预选赛,正赛总不能每次都指望对手自己摔倒吧?",
+      "background_music": "紧张期待",
+      "sound_effects": ["议论声", "人群嘈杂"],
+      "volume_level": "议论突出"
     },
     "editing": {
-      "transition_to_next": "直接切",
-      "pacing": "中等",
-      "purpose": "推进剧情"
+      "transition_to_next": "快速切",
+      "pacing": "快速",
+      "purpose": "大场面开局+压力铺垫"
     },
     "notes": {
-      "production_note": "根据实际内容调整",
-      "reference_style": "仙侠风格",
+      "production_note": "大场面蒙太奇",
+      "reference_style": "紧张热闹",
       "difficulty_level": "中等"
     }
   },
@@ -51,143 +58,164 @@
     "shot_id": "EP09-S002",
     "chapter_number": 9,
     "scene_number": 2,
-    "duration": 6,
-    "shot_type": "近景",
-    "location": "场景2",
+    "duration": 11,
+    "shot_type": "特效全景",
+    "location": "擂台上",
     "time_of_day": "白天",
     "composition": {
-      "camera_position": "正面拍摄",
-      "camera_movement": "轻微推镜",
-      "framing": "标准构图",
-      "focus_type": "主体清晰"
+      "camera_position": "擂台视角",
+      "camera_movement": "震撼推拉",
+      "framing": "对战构图",
+      "focus_type": "战斗清晰"
     },
     "characters": [
       {
-        "name": "主要角色",
-        "position": "画面中央",
-        "action": "推进剧情",
-        "expression": "根据情境",
-        "costume": "修仙服饰"
+        "name": "顾玄",
+        "position": "擂台一侧",
+        "action": "举剑格挡,特效全开",
+        "expression": "表面淡定,内心惊恐",
+        "costume": "洗白道袍"
+      },
+      {
+        "name": "炎昊",
+        "position": "擂台另一侧",
+        "action": "释放烈焰,被浇成落汤鸡",
+        "expression": "冷笑→震惊→狼狈",
+        "costume": "火红道袍(湿透)"
       }
     ],
     "visual_effects": {
-      "environment": "根据场景",
-      "lighting": "自然光",
-      "color_palette": "自然色调",
-      "special_effects": "根据需要添加特效"
+      "environment": "擂台",
+      "lighting": "烈焰光芒+特效金光",
+      "color_palette": "火焰色调",
+      "special_effects": "熊熊烈火化作巨蟒,铁剑灵石爆发出刺目金光形成光罩,擂台突然裂开,地下水喷涌而出浇灭烈火,炎昊变成落汤鸡"
     },
     "audio": {
-      "dialogue": "“看！是青云宗的人！”\n“那个就是顾玄？看起来平平无奇啊...”\n“嘘！小声点！听说他是元婴老怪伪装！”\n“真的假的？那今晚的赌局我押青云宗赢！”",
-      "narration": "",
-      "internal_monologue": "",
-      "background_music": "对话",
-      "sound_effects": [],
-      "volume_level": "正常"
+      "dialogue": "顾玄是吧?听说你很能装?今天我就撕下你的伪装!请。烈焰焚天!嗡!咔嚓!噗——",
+      "narration": "比赛开始,轮到顾玄上场。对面是身材高大、一身火红道袍的炎昊,金丹中期修为。炎昊毫不客气,直接祭出杀招\"烈焰焚天\"!熊熊烈火化作巨蟒扑来。顾玄吓得魂飞魄散,下意识地举剑格挡——同时暗中疯狂催动特效灵石。铁剑上的灵石爆发出刺目金光,形成一个华丽的光罩。然而就在火焰即将吞没顾玄的瞬间,炎昊脚下的擂台突然\"咔嚓\"一声裂开!一股地下水喷涌而出,正好浇在他身上!熊熊烈火瞬间被浇灭,只剩下缕缕青烟。炎昊更是被浇成落汤鸡,狼狈不堪。全场寂静",
+      "internal_monologue": "完了完了...这次死定了...这什么情况?擂台怎么突然漏水了?!",
+      "background_music": "紧张转搞笑",
+      "sound_effects": ["烈焰", "咔嚓", "地下水喷", "全场寂静"],
+      "volume_level": "战斗突出"
     },
     "editing": {
-      "transition_to_next": "直接切",
-      "pacing": "对话",
-      "purpose": "推进剧情"
+      "transition_to_next": "快速切",
+      "pacing": "极快",
+      "purpose": "对战+意外胜利"
     },
     "notes": {
-      "production_note": "根据实际内容调整",
-      "reference_style": "仙侠风格",
-      "difficulty_level": "中等"
+      "production_note": "大量特效",
+      "reference_style": "紧张搞笑",
+      "difficulty_level": "复杂"
     }
   },
   {
     "shot_id": "EP09-S003",
     "chapter_number": 9,
     "scene_number": 3,
-    "duration": 6,
-    "shot_type": "中景",
-    "location": "场景3",
-    "time_of_day": "白天",
+    "duration": 12,
+    "shot_type": "特效全景",
+    "location": "擂台上+天空",
+    "time_of_day": "白天转下雨",
     "composition": {
-      "camera_position": "正面拍摄",
-      "camera_movement": "固定镜头",
-      "framing": "标准构图",
-      "focus_type": "主体清晰"
+      "camera_position": "多视角切换",
+      "camera_movement": "震撼推拉",
+      "framing": "荒诞构图",
+      "focus_type": "特效清晰"
     },
     "characters": [
       {
-        "name": "主要角色",
-        "position": "画面中央",
-        "action": "推进剧情",
-        "expression": "根据情境",
-        "costume": "修仙服饰"
+        "name": "炎昊",
+        "position": "擂台上",
+        "action": "再次施法,崩溃",
+        "expression": "愤怒→崩溃",
+        "costume": "湿透的火红道袍"
+      },
+      {
+        "name": "顾玄",
+        "position": "雨中站立",
+        "action": "表面淡定",
+        "expression": "表面淡定,内心懵逼",
+        "costume": "湿透的道袍"
       }
     ],
     "visual_effects": {
-      "environment": "根据场景",
-      "lighting": "自然光",
-      "color_palette": "自然色调",
-      "special_effects": "根据需要添加特效"
+      "environment": "擂台+天空",
+      "lighting": "火光→乌云→大雨",
+      "color_palette": "荒诞色调",
+      "special_effects": "炎昊再次催动法术,天空突然乌云密布,轰隆雷响,瓢泼大雨倾盆而下,火系法术被浇灭,火珠裂开炸开把炎昊炸飞"
     },
     "audio": {
-      "dialogue": "顾玄听着这些议论，脚下一软，幸好被陆尘及时扶住。",
-      "narration": "",
-      "internal_monologue": "",
-      "background_music": "中等",
-      "sound_effects": [],
-      "volume_level": "正常"
+      "dialogue": "你!你做了什么手脚?!区区地泉,也配称焚天?烈阳宗法术,不过如此。休要得意!看我这招——烈日当空!轰隆!呼风唤雨!这是何等神通!竟然能改变天象!莫非是化神手段?难怪他一直隐藏修为!这是在戏耍炎昊啊!我、我不信!看我焚天珠!咔嚓!嘈!",
+      "narration": "炎昊又惊又怒,再次催动法术。但就在法术即将成型的瞬间,天空突然乌云密布,轰隆一声雷响,瓢泼大雨倾盆而下!炎昊的法术再次被浇灭。炎昊彻底崩溃,掏出压箱底的法宝——一颗炽热的火珠。他全力催动火珠,更恐怖的热浪席卷擂台!然而那火珠被催动到极致时,突然咔嚓一声...裂了!然后嘭的炸开,把炎昊自己炸飞出去,昏倒在地。裁判颤抖着宣布:烈阳宗炎昊法宝损毁,出局!青云宗顾玄胜!",
+      "internal_monologue": "这雨来得也太及时了吧?!这运气...好的有点离谱了吧?",
+      "background_music": "搞笑转震撼",
+      "sound_effects": ["雷声", "雨声", "火珠炸裂"],
+      "volume_level": "特效突出"
     },
     "editing": {
-      "transition_to_next": "直接切",
-      "pacing": "中等",
-      "purpose": "推进剧情"
+      "transition_to_next": "快速切",
+      "pacing": "极快",
+      "purpose": "运气爆棚+荒诞胜利"
     },
     "notes": {
-      "production_note": "根据实际内容调整",
-      "reference_style": "仙侠风格",
-      "difficulty_level": "中等"
+      "production_note": "大量CG特效",
+      "reference_style": "搞笑震撼",
+      "difficulty_level": "非常复杂"
     }
   },
   {
     "shot_id": "EP09-S004",
     "chapter_number": 9,
     "scene_number": 4,
-    "duration": 6,
-    "shot_type": "近景",
-    "location": "场景4",
+    "duration": 9,
+    "shot_type": "蒙太奇",
+    "location": "演武场+贵宾席",
     "time_of_day": "白天",
     "composition": {
-      "camera_position": "正面拍摄",
-      "camera_movement": "轻微推镜",
-      "framing": "标准构图",
-      "focus_type": "主体清晰"
+      "camera_position": "多场景切换",
+      "camera_movement": "流畅切换",
+      "framing": "蒙太奇构图",
+      "focus_type": "反应清晰"
     },
     "characters": [
       {
-        "name": "主要角色",
-        "position": "画面中央",
-        "action": "推进剧情",
-        "expression": "根据情境",
-        "costume": "修仙服饰"
+        "name": "各宗长老",
+        "position": "贵宾席",
+        "action": "讨论",
+        "expression": "凝重,疑惑",
+        "costume": "长老服饰"
+      },
+      {
+        "name": "观众",
+        "position": "演武场各处",
+        "action": "议论,下注",
+        "expression": "震惊→敬畏",
+        "costume": "各式服饰"
       }
     ],
     "visual_effects": {
-      "environment": "根据场景",
+      "environment": "演武场,贵宾席",
       "lighting": "自然光",
-      "color_palette": "自然色调",
-      "special_effects": "根据需要添加特效"
+      "color_palette": "敬畏色调",
+      "special_effects": "各宗长老讨论画面"
     },
     "audio": {
-      "dialogue": "“师兄没事吧？”陆尘关心地问，“是不是在压制修为？”",
-      "narration": "",
+      "dialogue": "这已经不是运气好了...这是天道庇佑啊!难道他真是某位大能转世?押注押注!我赌顾玄夺冠!怎么看?看不透...有时像是纯靠运气,但那种无形的影响力...又像是言出法随的大神通。继续观察。若真是什么老怪游戏人间,我等最好不要得罪",
+      "narration": "接下来的比赛更是诡异——第二个对手刚上台就肚子疼,弃权了。第三个对手施展绝招时突然旧伤复发,吐血倒地。第四个对手...看到顾玄就直接认输了!顾玄一路\"躺\"进八强,连剑都没拔过!全场观众已经麻木了。贵宾席上,几个大宗门长老面色凝重",
       "internal_monologue": "",
-      "background_music": "对话",
-      "sound_effects": [],
-      "volume_level": "正常"
+      "background_music": "敬畏神秘",
+      "sound_effects": ["议论声"],
+      "volume_level": "讨论突出"
     },
     "editing": {
-      "transition_to_next": "直接切",
-      "pacing": "对话",
-      "purpose": "推进剧情"
+      "transition_to_next": "快速切",
+      "pacing": "快速",
+      "purpose": "躺赢蒙太奇+长老讨论"
     },
     "notes": {
-      "production_note": "根据实际内容调整",
-      "reference_style": "仙侠风格",
+      "production_note": "多场景切换",
+      "reference_style": "敬畏神秘",
       "difficulty_level": "中等"
     }
   },
@@ -195,47 +223,54 @@
     "shot_id": "EP09-S005",
     "chapter_number": 9,
     "scene_number": 5,
-    "duration": 6,
-    "shot_type": "中景",
-    "location": "场景5",
+    "duration": 11,
+    "shot_type": "系统界面特写",
+    "location": "擂台上",
     "time_of_day": "白天",
     "composition": {
-      "camera_position": "正面拍摄",
-      "camera_movement": "固定镜头",
-      "framing": "标准构图",
-      "focus_type": "主体清晰"
+      "camera_position": "特写系统界面",
+      "camera_movement": "界面弹出",
+      "framing": "界面构图",
+      "focus_type": "界面清晰"
     },
     "characters": [
       {
-        "name": "主要角色",
-        "position": "画面中央",
-        "action": "推进剧情",
-        "expression": "根据情境",
-        "costume": "修仙服饰"
+        "name": "顾玄",
+        "position": "擂台上",
+        "action": "准备硬接",
+        "expression": "表面淡定,内心慌乱",
+        "costume": "道袍"
+      },
+      {
+        "name": "林萧",
+        "position": "擂台对面",
+        "action": "玄天剑诀展开",
+        "expression": "认真",
+        "costume": "玄天剑宗服饰"
       }
     ],
     "visual_effects": {
-      "environment": "根据场景",
-      "lighting": "自然光",
-      "color_palette": "自然色调",
-      "special_effects": "根据需要添加特效"
+      "environment": "擂台",
+      "lighting": "系统界面蓝光+剑气光芒",
+      "color_palette": "紧张色调",
+      "special_effects": "道道剑气如网般罩向顾玄,系统界面:【警告:检测到强敌】【目标:林萧(金丹后期)】【战力评估:宿主...基本没有胜算】【建议:祈祷更多运气...】"
     },
     "audio": {
-      "dialogue": "顾玄：“......”\n我是在压制想逃跑的冲动啊师弟！",
-      "narration": "",
-      "internal_monologue": "",
-      "background_music": "中等",
-      "sound_effects": [],
-      "volume_level": "正常"
+      "dialogue": "顾道友,无论你是真高人还是运气好,这一战我都会全力以赴。请",
+      "narration": "当顾玄\"杀\"进四强时,他的下一个对手出来了——玄天剑宗首席,金丹后期的林萧!青州年轻一辈第一人!林萧冷静地站在台上,剑气含而不发,显然认真研究了顾玄的\"邪门\"。林萧不再多言,玄天剑诀展开!道道剑气如网般罩向顾玄,封死了所有闪避空间!这次再没地下水喷出,也没突然下雨,更没法宝自爆",
+      "internal_monologue": "心里叫苦",
+      "background_music": "紧张急促",
+      "sound_effects": ["剑气", "系统提示"],
+      "volume_level": "战斗突出"
     },
     "editing": {
-      "transition_to_next": "直接切",
-      "pacing": "中等",
-      "purpose": "推进剧情"
+      "transition_to_next": "快速切",
+      "pacing": "极快",
+      "purpose": "强敌压迫+系统警告"
     },
     "notes": {
-      "production_note": "根据实际内容调整",
-      "reference_style": "仙侠风格",
+      "production_note": "系统界面特效",
+      "reference_style": "紧张压迫",
       "difficulty_level": "中等"
     }
   },
@@ -243,95 +278,109 @@
     "shot_id": "EP09-S006",
     "chapter_number": 9,
     "scene_number": 6,
-    "duration": 6,
-    "shot_type": "近景",
-    "location": "场景6",
+    "duration": 12,
+    "shot_type": "特效全景",
+    "location": "擂台上",
     "time_of_day": "白天",
     "composition": {
-      "camera_position": "正面拍摄",
-      "camera_movement": "轻微推镜",
-      "framing": "标准构图",
-      "focus_type": "主体清晰"
+      "camera_position": "震撼推拉",
+      "camera_movement": "慢动作特效",
+      "framing": "力量觉醒构图",
+      "focus_type": "特效清晰"
     },
     "characters": [
       {
-        "name": "主要角色",
-        "position": "画面中央",
-        "action": "推进剧情",
-        "expression": "根据情境",
-        "costume": "修仙服饰"
+        "name": "顾玄",
+        "position": "擂台上",
+        "action": "使出陌生剑式,一剑击败",
+        "expression": "茫然→震惊",
+        "costume": "道袍"
+      },
+      {
+        "name": "林萧",
+        "position": "被击飞",
+        "action": "宝剑断裂,倒飞",
+        "expression": "震惊→昏迷",
+        "costume": "玄天剑宗服饰"
       }
     ],
     "visual_effects": {
-      "environment": "根据场景",
-      "lighting": "自然光",
-      "color_palette": "自然色调",
-      "special_effects": "根据需要添加特效"
+      "environment": "擂台",
+      "lighting": "古老剑意光芒",
+      "color_palette": "震撼色调",
+      "special_effects": "顾玄体内封印力量躁动,下意识使出古老凌厉威严的剑意,双剑相交震耳欲聋轰鸣,林萧宝剑寸寸断裂,整个人倒飞出去,全场死寂"
     },
     "audio": {
-      "dialogue": "李道玄倒是红光满面，捋着胡须一副宗师气派：“徒儿莫慌，正常发挥即可。让他们见识下什么叫真人不露相！”",
-      "narration": "",
-      "internal_monologue": "",
-      "background_music": "对话",
-      "sound_effects": [],
-      "volume_level": "正常"
+      "dialogue": "铿!",
+      "narration": "顾玄眼看无处可躲,把心一横,准备硬接——同时将特效开到最大。他胡乱挥舞铁剑,那套被改得面目全非的\"青云剑法\"再次登场。然而就在两剑即将相交的瞬间,顾玄体内那股被封印的力量突然微微躁动!他下意识地使出一招完全陌生的剑式——那不是青云剑法中的任何一招,而是一种古老、凌厉、带着无尽威严的剑意!双剑相交,发出震耳欲聋的轰鸣!林萧只觉一股无法抗拒的巨力传来,手中宝剑寸寸断裂!整个人倒飞出去,重重砸在擂台边缘!全场死寂",
+      "internal_monologue": "我...这么厉害的吗?",
+      "background_music": "震撼恢弘",
+      "sound_effects": ["铿", "轰鸣", "宝剑断裂"],
+      "volume_level": "震撼突出"
     },
     "editing": {
-      "transition_to_next": "直接切",
-      "pacing": "对话",
-      "purpose": "推进剧情"
+      "transition_to_next": "慢动作转正常",
+      "pacing": "震撼",
+      "purpose": "力量觉醒高潮"
     },
     "notes": {
-      "production_note": "根据实际内容调整",
-      "reference_style": "仙侠风格",
-      "difficulty_level": "中等"
+      "production_note": "大量特效+慢动作",
+      "reference_style": "震撼力量觉醒",
+      "difficulty_level": "非常复杂"
     }
   },
   {
     "shot_id": "EP09-S007",
     "chapter_number": 9,
     "scene_number": 7,
-    "duration": 6,
-    "shot_type": "中景",
-    "location": "场景7",
+    "duration": 10,
+    "shot_type": "全景蒙太奇",
+    "location": "演武场",
     "time_of_day": "白天",
     "composition": {
-      "camera_position": "正面拍摄",
-      "camera_movement": "固定镜头",
-      "framing": "标准构图",
-      "focus_type": "主体清晰"
+      "camera_position": "多视角快速切换",
+      "camera_movement": "震撼切换",
+      "framing": "反应蒙太奇",
+      "focus_type": "反应清晰"
     },
     "characters": [
       {
-        "name": "主要角色",
-        "position": "画面中央",
-        "action": "推进剧情",
-        "expression": "根据情境",
-        "costume": "修仙服饰"
+        "name": "观众",
+        "position": "全场",
+        "action": "震惊惊呼",
+        "expression": "震惊→敬畏",
+        "costume": "各式服饰"
+      },
+      {
+        "name": "各宗长老",
+        "position": "贵宾席",
+        "action": "齐齐起身,面色骇然",
+        "expression": "震撼,恐惧",
+        "costume": "长老服饰"
       }
     ],
     "visual_effects": {
-      "environment": "根据场景",
+      "environment": "全场震撼",
       "lighting": "自然光",
-      "color_palette": "自然色调",
-      "special_effects": "根据需要添加特效"
+      "color_palette": "震撼色调",
+      "special_effects": "众人震惊表情特写"
     },
     "audio": {
-      "dialogue": "顾玄心里哀嚎：我露相就是原形毕露啊掌门！",
-      "narration": "",
+      "dialogue": "看到了吗?那是一剑啊!连林萧都接不住一剑!这绝对是元婴实力!他之前果然是在戏耍对手!那一剑...你们看清了吗?似曾相识...很像古籍记载的...天魔剑式!难道他是...",
+      "narration": "片刻后,山呼海啸般的惊呼爆发。所有人都看清了——顾玄终于出手了!而且只用了一剑!就击败了金丹后期的林萧!贵宾席上,各大宗门长老齐齐起身,面色骇然",
       "internal_monologue": "",
-      "background_music": "中等",
-      "sound_effects": [],
-      "volume_level": "正常"
+      "background_music": "震撼恢弘",
+      "sound_effects": ["全场惊呼"],
+      "volume_level": "惊呼突出"
     },
     "editing": {
-      "transition_to_next": "直接切",
-      "pacing": "中等",
-      "purpose": "推进剧情"
+      "transition_to_next": "快速切",
+      "pacing": "极快",
+      "purpose": "众人反应震撼"
     },
     "notes": {
-      "production_note": "根据实际内容调整",
-      "reference_style": "仙侠风格",
+      "production_note": "多反应特写",
+      "reference_style": "震撼恢弘",
       "difficulty_level": "中等"
     }
   },
@@ -339,47 +388,61 @@
     "shot_id": "EP09-S008",
     "chapter_number": 9,
     "scene_number": 8,
-    "duration": 6,
+    "duration": 9,
     "shot_type": "中景",
-    "location": "场景8",
+    "location": "休息区",
     "time_of_day": "白天",
     "composition": {
-      "camera_position": "正面拍摄",
-      "camera_movement": "固定镜头",
-      "framing": "标准构图",
-      "focus_type": "主体清晰"
+      "camera_position": "对话角度",
+      "camera_movement": "缓慢推近",
+      "framing": "对话构图",
+      "focus_type": "对话清晰"
     },
     "characters": [
       {
-        "name": "主要角色",
-        "position": "画面中央",
-        "action": "推进剧情",
-        "expression": "根据情境",
-        "costume": "修仙服饰"
+        "name": "顾玄",
+        "position": "茫然看着手",
+        "action": "喃喃自语",
+        "expression": "茫然→怀疑",
+        "costume": "道袍"
+      },
+      {
+        "name": "陆尘",
+        "position": "激动迎上",
+        "action": "兴奋",
+        "expression": "崇拜",
+        "costume": "布衣少年"
+      },
+      {
+        "name": "李道玄",
+        "position": "欣慰拍肩",
+        "action": "欣慰",
+        "expression": "得意",
+        "costume": "掌门袍"
       }
     ],
     "visual_effects": {
-      "environment": "根据场景",
+      "environment": "休息区",
       "lighting": "自然光",
-      "color_palette": "自然色调",
-      "special_effects": "根据需要添加特效"
+      "color_palette": "温馨转诡异",
+      "special_effects": "脑中声音回响"
     },
     "audio": {
-      "dialogue": "正赛的规则与预选不同，采取一对一淘汰制。抽签决定对手，胜者晋级。",
-      "narration": "",
-      "internal_monologue": "",
-      "background_music": "中等",
-      "sound_effects": [],
-      "volume_level": "正常"
+      "dialogue": "师兄!你终于认真了!那一剑太厉害了!好徒儿,就知道你深藏不露!莫非...我真的很强?谁?!当然强...因为你是...天魔转世啊...",
+      "narration": "裁判颤抖着宣布:青云宗顾玄胜!在无数敬畏的目光中,顾玄飘然下台——这次是真的有点飘了。回到休息区,陆尘激动地迎上来,李道玄也欣慰地拍着他肩膀。顾玄看着自己的手,喃喃自语。就在这时,一个冰冷的声音突然在他脑海中响起",
+      "internal_monologue": "难道...我真是隐藏大佬?幻觉?",
+      "background_music": "温馨转诡异",
+      "sound_effects": ["脑中声音"],
+      "volume_level": "对话突出"
     },
     "editing": {
-      "transition_to_next": "直接切",
+      "transition_to_next": "快速切",
       "pacing": "中等",
-      "purpose": "推进剧情"
+      "purpose": "身份怀疑+声音植入"
     },
     "notes": {
-      "production_note": "根据实际内容调整",
-      "reference_style": "仙侠风格",
+      "production_note": "注重声音特效",
+      "reference_style": "诡异悬疑",
       "difficulty_level": "中等"
     }
   },
@@ -387,47 +450,54 @@
     "shot_id": "EP09-S009",
     "chapter_number": 9,
     "scene_number": 9,
-    "duration": 6,
-    "shot_type": "中景",
-    "location": "场景9",
+    "duration": 8,
+    "shot_type": "全景蒙太奇",
+    "location": "演武场+领奖台",
     "time_of_day": "白天",
     "composition": {
-      "camera_position": "正面拍摄",
-      "camera_movement": "快速跟随",
-      "framing": "标准构图",
-      "focus_type": "主体清晰"
+      "camera_position": "多场景快速切换",
+      "camera_movement": "流畅切换",
+      "framing": "夺冠蒙太奇",
+      "focus_type": "场面清晰"
     },
     "characters": [
       {
-        "name": "主要角色",
-        "position": "画面中央",
-        "action": "推进剧情",
-        "expression": "根据情境",
-        "costume": "修仙服饰"
+        "name": "顾玄",
+        "position": "领奖台上",
+        "action": "捧着凝金丹,懵逼",
+        "expression": "懵逼",
+        "costume": "道袍"
+      },
+      {
+        "name": "黑袍人",
+        "position": "远处高楼",
+        "action": "默默注视,冷笑",
+        "expression": "冷笑",
+        "costume": "黑袍"
       }
     ],
     "visual_effects": {
-      "environment": "根据场景",
-      "lighting": "自然光",
-      "color_palette": "自然色调",
-      "special_effects": "根据需要添加特效"
+      "environment": "领奖台,远处高楼",
+      "lighting": "冠军光芒",
+      "color_palette": "荣耀转阴暗",
+      "special_effects": "半决赛对手认输,决赛对手认输,顾玄夺冠,黑袍人冷笑"
     },
     "audio": {
-      "dialogue": "当抽签结果出来时，顾玄眼前一黑——他的第一个对手，是烈阳宗首席大弟子，金丹中期的炎昊！以火系法术凶猛著称！",
-      "narration": "",
-      "internal_monologue": "",
-      "background_music": "激烈",
+      "dialogue": "这就...夺冠了?我其实...真的很强?难道平时那些不是运气,而是我实力的一部分?",
+      "narration": "接下来的半决赛,对手直接认输了。决赛,对手也认输了。于是,顾玄就这么\"一剑定乾坤\",莫名其妙地拿到了青州宗门大比的第一名。站在领奖台上,捧着冠军奖励——一枚珍贵的\"凝金丹\",顾玄整个人都是懵的。而远处高楼上,一个黑袍人默默注视着领奖台,嘴角勾起冷笑",
+      "internal_monologue": "顾玄的世界观,正在悄然崩塌",
+      "background_music": "荣耀转诡异",
       "sound_effects": [],
-      "volume_level": "正常"
+      "volume_level": "内心独白突出"
     },
     "editing": {
-      "transition_to_next": "直接切",
-      "pacing": "激烈",
-      "purpose": "推进剧情"
+      "transition_to_next": "快速切",
+      "pacing": "快速",
+      "purpose": "夺冠+黑袍人铺垫"
     },
     "notes": {
-      "production_note": "根据实际内容调整",
-      "reference_style": "仙侠风格",
+      "production_note": "对比剪辑",
+      "reference_style": "荣耀转悬疑",
       "difficulty_level": "中等"
     }
   },
@@ -435,288 +505,55 @@
     "shot_id": "EP09-S010",
     "chapter_number": 9,
     "scene_number": 10,
-    "duration": 6,
-    "shot_type": "中景",
-    "location": "场景10",
+    "duration": 11,
+    "shot_type": "系统界面特写+黑煞教场景",
+    "location": "领奖台+黑煞教总坛",
     "time_of_day": "白天",
     "composition": {
-      "camera_position": "正面拍摄",
-      "camera_movement": "固定镜头",
-      "framing": "标准构图",
-      "focus_type": "主体清晰"
+      "camera_position": "双场景切换",
+      "camera_movement": "对比切换",
+      "framing": "悬念构图",
+      "focus_type": "两场景清晰"
     },
     "characters": [
       {
-        "name": "主要角色",
-        "position": "画面中央",
-        "action": "推进剧情",
-        "expression": "根据情境",
-        "costume": "修仙服饰"
-      }
-    ],
-    "visual_effects": {
-      "environment": "根据场景",
-      "lighting": "自然光",
-      "color_palette": "自然色调",
-      "special_effects": "根据需要添加特效"
-    },
-    "audio": {
-      "dialogue": "“完了完了...”顾玄手心冒汗，“这次死定了...”",
-      "narration": "",
-      "internal_monologue": "",
-      "background_music": "中等",
-      "sound_effects": [],
-      "volume_level": "正常"
-    },
-    "editing": {
-      "transition_to_next": "直接切",
-      "pacing": "中等",
-      "purpose": "推进剧情"
-    },
-    "notes": {
-      "production_note": "根据实际内容调整",
-      "reference_style": "仙侠风格",
-      "difficulty_level": "中等"
-    }
-  },
-  {
-    "shot_id": "EP09-S011",
-    "chapter_number": 9,
-    "scene_number": 11,
-    "duration": 6,
-    "shot_type": "近景",
-    "location": "场景11",
-    "time_of_day": "白天",
-    "composition": {
-      "camera_position": "正面拍摄",
-      "camera_movement": "轻微推镜",
-      "framing": "标准构图",
-      "focus_type": "主体清晰"
-    },
-    "characters": [
+        "name": "顾玄",
+        "position": "领奖台上",
+        "action": "看着系统提示,欲哭无泪",
+        "expression": "心情复杂",
+        "costume": "道袍"
+      },
       {
-        "name": "主要角色",
-        "position": "画面中央",
-        "action": "推进剧情",
-        "expression": "根据情境",
-        "costume": "修仙服饰"
+        "name": "黑袍老者",
+        "position": "黑煞教总坛",
+        "action": "把玩令牌,冷笑",
+        "expression": "阴沉,冷笑",
+        "costume": "黑袍"
       }
     ],
     "visual_effects": {
-      "environment": "根据场景",
-      "lighting": "自然光",
-      "color_palette": "自然色调",
-      "special_effects": "根据需要添加特效"
+      "environment": "领奖台+黑煞教总坛",
+      "lighting": "系统界面蓝光+总坛昏暗",
+      "color_palette": "对比色调",
+      "special_effects": "系统界面:【检测到宿主完成\"大比夺冠成就\"】【奖励:积分+50】【当前积分:355】【管理员权限:Lv.1(封印中)...封印出现松动迹象】【警告:天魔力量正在苏醒...】【提示:宿主可能真的与天魔有关...】【新任务预告已触发】【任务:探寻身份真相】【任务描述:宿主的真实身份与天魔有关...请自行探寻真相】【警告:此任务涉及核心秘密...请谨慎行事】【下一阶段任务预告:黑煞教的阴谋...】,黑袍老者把玩令牌(刻着与系统界面相同符号)"
     },
     "audio": {
-      "dialogue": "陆尘却信心满满：“师兄加油！让那个炎昊知道什么叫天外有天！”",
-      "narration": "",
-      "internal_monologue": "",
-      "background_music": "对话",
-      "sound_effects": [],
-      "volume_level": "正常"
+      "dialogue": "天魔转世...天魔转世...我到底是什么人?有意思...天魔大人终于开始苏醒了...顾玄...不,应该称呼您为...天魔大人...看来,是时候启动那个计划了...我现在退赛还来得及吗?",
+      "narration": "那个声音在他脑海中挥之不去。顾玄第一次认真思考自己的身份。穿越、系统、封印、好运、天魔...这一切真的只是巧合吗?还是说,这一切都是命中注定?而在他不知道的地方,黑煞教总坛,黑袍老者听着探子的汇报,嘴角勾起冷笑",
+      "internal_monologue": "我现在退赛还来得及吗?",
+      "background_music": "悬疑诡异",
+      "sound_effects": ["系统提示音"],
+      "volume_level": "系统突出"
     },
     "editing": {
-      "transition_to_next": "直接切",
-      "pacing": "对话",
-      "purpose": "推进剧情"
+      "transition_to_next": "淡出",
+      "pacing": "缓慢",
+      "purpose": "悬念钩子+下章预告"
     },
     "notes": {
-      "production_note": "根据实际内容调整",
-      "reference_style": "仙侠风格",
-      "difficulty_level": "中等"
-    }
-  },
-  {
-    "shot_id": "EP09-S012",
-    "chapter_number": 9,
-    "scene_number": 12,
-    "duration": 6,
-    "shot_type": "中景",
-    "location": "场景12",
-    "time_of_day": "白天",
-    "composition": {
-      "camera_position": "正面拍摄",
-      "camera_movement": "快速跟随",
-      "framing": "标准构图",
-      "focus_type": "主体清晰"
-    },
-    "characters": [
-      {
-        "name": "主要角色",
-        "position": "画面中央",
-        "action": "推进剧情",
-        "expression": "根据情境",
-        "costume": "修仙服饰"
-      }
-    ],
-    "visual_effects": {
-      "environment": "根据场景",
-      "lighting": "自然光",
-      "color_palette": "自然色调",
-      "special_effects": "根据需要添加特效"
-    },
-    "audio": {
-      "dialogue": "比赛开始，前几场打得精彩纷呈。各派精英各显神通，法术剑气纵横，引来阵阵喝彩。",
-      "narration": "",
-      "internal_monologue": "",
-      "background_music": "激烈",
-      "sound_effects": [],
-      "volume_level": "正常"
-    },
-    "editing": {
-      "transition_to_next": "直接切",
-      "pacing": "激烈",
-      "purpose": "推进剧情"
-    },
-    "notes": {
-      "production_note": "根据实际内容调整",
-      "reference_style": "仙侠风格",
-      "difficulty_level": "中等"
-    }
-  },
-  {
-    "shot_id": "EP09-S013",
-    "chapter_number": 9,
-    "scene_number": 13,
-    "duration": 6,
-    "shot_type": "近景",
-    "location": "场景13",
-    "time_of_day": "白天",
-    "composition": {
-      "camera_position": "正面拍摄",
-      "camera_movement": "轻微推镜",
-      "framing": "标准构图",
-      "focus_type": "主体清晰"
-    },
-    "characters": [
-      {
-        "name": "主要角色",
-        "position": "画面中央",
-        "action": "推进剧情",
-        "expression": "根据情境",
-        "costume": "修仙服饰"
-      }
-    ],
-    "visual_effects": {
-      "environment": "根据场景",
-      "lighting": "自然光",
-      "color_palette": "自然色调",
-      "special_effects": "根据需要添加特效"
-    },
-    "audio": {
-      "dialogue": "顾玄硬着头皮走上擂台，对面是身材高大、一身火红道袍的炎昊。对方眼神凌厉，周身热气蒸腾，显然修为扎实。",
-      "narration": "",
-      "internal_monologue": "",
-      "background_music": "对话",
-      "sound_effects": [],
-      "volume_level": "正常"
-    },
-    "editing": {
-      "transition_to_next": "直接切",
-      "pacing": "对话",
-      "purpose": "推进剧情"
-    },
-    "notes": {
-      "production_note": "根据实际内容调整",
-      "reference_style": "仙侠风格",
-      "difficulty_level": "中等"
-    }
-  },
-  {
-    "shot_id": "EP09-S014",
-    "chapter_number": 9,
-    "scene_number": 14,
-    "duration": 6,
-    "shot_type": "近景",
-    "location": "场景14",
-    "time_of_day": "白天",
-    "composition": {
-      "camera_position": "正面拍摄",
-      "camera_movement": "轻微推镜",
-      "framing": "标准构图",
-      "focus_type": "主体清晰"
-    },
-    "characters": [
-      {
-        "name": "主要角色",
-        "position": "画面中央",
-        "action": "推进剧情",
-        "expression": "根据情境",
-        "costume": "修仙服饰"
-      }
-    ],
-    "visual_effects": {
-      "environment": "根据场景",
-      "lighting": "自然光",
-      "color_palette": "自然色调",
-      "special_effects": "根据需要添加特效"
-    },
-    "audio": {
-      "dialogue": "“顾玄是吧？”炎昊冷笑，“听说你很能装？今天我就撕下你的伪装！”",
-      "narration": "",
-      "internal_monologue": "",
-      "background_music": "对话",
-      "sound_effects": [],
-      "volume_level": "正常"
-    },
-    "editing": {
-      "transition_to_next": "直接切",
-      "pacing": "对话",
-      "purpose": "推进剧情"
-    },
-    "notes": {
-      "production_note": "根据实际内容调整",
-      "reference_style": "仙侠风格",
-      "difficulty_level": "中等"
-    }
-  },
-  {
-    "shot_id": "EP09-S015",
-    "chapter_number": 9,
-    "scene_number": 15,
-    "duration": 6,
-    "shot_type": "中景",
-    "location": "场景15",
-    "time_of_day": "白天",
-    "composition": {
-      "camera_position": "正面拍摄",
-      "camera_movement": "固定镜头",
-      "framing": "标准构图",
-      "focus_type": "主体清晰"
-    },
-    "characters": [
-      {
-        "name": "主要角色",
-        "position": "画面中央",
-        "action": "推进剧情",
-        "expression": "根据情境",
-        "costume": "修仙服饰"
-      }
-    ],
-    "visual_effects": {
-      "environment": "根据场景",
-      "lighting": "自然光",
-      "color_palette": "自然色调",
-      "special_effects": "根据需要添加特效"
-    },
-    "audio": {
-      "dialogue": "顾玄表面风轻云淡，实则腿都在抖：“请。”",
-      "narration": "",
-      "internal_monologue": "",
-      "background_music": "中等",
-      "sound_effects": [],
-      "volume_level": "正常"
-    },
-    "editing": {
-      "transition_to_next": "直接切",
-      "pacing": "中等",
-      "purpose": "推进剧情"
-    },
-    "notes": {
-      "production_note": "根据实际内容调整",
-      "reference_style": "仙侠风格",
-      "difficulty_level": "中等"
+      "production_note": "双场景对比+系统界面",
+      "reference_style": "悬疑诡异",
+      "difficulty_level": "复杂"
     }
   }
 ]

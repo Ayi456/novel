@@ -1,0 +1,151 @@
+{
+  "chapter": "第二十四章：登顶天尊",
+  "chapter_number": 24,
+  "scenes": [
+    {
+      "scene_number": 1,
+      "location": "天尊台底层",
+      "time": "开始登顶",
+      "characters": ["顾玄", "战穹", "剑痴", "赤炎", "苏瑶"],
+      "visual_effects": {
+        "environment": "直插云霄的白玉巨塔，符文流转",
+        "special_effects": "顾玄虚弱状态，道基痛楚",
+        "lighting": "威严白光"
+      },
+      "camera_angles": ["仰拍：天尊台高耸", "特写：顾玄痛苦表情", "全景：队员准备"],
+      "system_interfaces": [{"type": "系统提示", "content": "【天尊台-本质：权限测试设施】\n【通关可提升访问等级】\n【道基完整性：12%】", "visual_style": "设施说明"}],
+      "character_emotions": {"顾玄": "虚弱→坚定", "队友": "担忧→决心"},
+      "key_dialogue": ["战穹：兄弟，你真要登天尊台？你这状态连第一层都难！", "顾玄：必须去。根源之海是我恢复的唯一希望。"],
+      "plot_points": ["登顶决心", "虚弱状态", "天尊台挑战"],
+      "satisfaction_level": "压抑积累"
+    },
+    {
+      "scene_number": 2,
+      "location": "天尊台1-100层",
+      "time": "初期闯关",
+      "characters": ["顾玄", "守关者们", "队友"],
+      "visual_effects": {
+        "environment": "各种试炼场景",
+        "special_effects": "规则附加生效，奇葩过关方式",
+        "lighting": "试炼光芒"
+      },
+      "camera_angles": ["动作：接拳", "特写：规则附加", "全景：光速降速"],
+      "system_interfaces": [{"type": "规则修改", "content": "规则附加：此拳威力减半！\n规则修改：此地光速降为每秒一米。\n规则附加：真实显现。", "visual_style": "规则生效提示"}],
+      "character_emotions": {"顾玄": "淡定", "守关者": "愣住", "队友": "震惊→麻木→下注"},
+      "key_dialogue": ["巨汉：你作弊！", "顾玄：规则允许用权限。", "队友：我赌兄弟会用'规则反转'！"],
+      "plot_points": ["规则作弊", "奇葩过关", "队友下注"],
+      "satisfaction_level": "搞笑+满足"
+    },
+    {
+      "scene_number": 3,
+      "location": "天尊台500-3000层",
+      "time": "中期闯关",
+      "characters": ["顾玄", "守关者们", "队友"],
+      "visual_effects": {
+        "environment": "费马大定理、创造小世界、主系统分身",
+        "special_effects": "道基再次受损，记忆闪回",
+        "lighting": "高难度光芒"
+      },
+      "camera_angles": ["特写：费马大定理", "全景：创世丹", "动作：主系统分身对决"],
+      "system_interfaces": [{"type": "系统提示", "content": "【此层试炼：解答费马大定理】\n【此层试炼：创造一个小世界】\n【警告：主系统分身出现】", "visual_style": "试炼提示"}],
+      "character_emotions": {"顾玄": "头疼→拼命", "守关者": "惊讶"},
+      "key_dialogue": ["书生：此层试炼：解答费马大定理。\n法王：我能用火球砸出答案吗？\n书生：......过。（被逼的）"],
+      "plot_points": ["高难度试炼", "主系统分身", "记忆苏醒"],
+      "satisfaction_level": "震撼+震惊"
+    },
+    {
+      "scene_number": 4,
+      "location": "天尊台9000-9999层",
+      "time": "后期闯关",
+      "characters": ["顾玄"],
+      "visual_effects": {
+        "environment": "最后九十九层，无尽威压",
+        "special_effects": "肉身崩解，神魂燃烧，真相碎片",
+        "lighting": "威压光芒"
+      },
+      "camera_angles": ["特写：顾玄吐血", "主观：真相碎片", "全景：独自攀登"],
+      "system_interfaces": [{"type": "系统提示", "content": "【道基完整性：12%】\n【权限：0（仅剩基础感知）】\n【秩序之眼：离线】", "visual_style": "状态恶化"}],
+      "character_emotions": {"顾玄": "痛苦→眼神越亮"},
+      "key_dialogue": ["顾玄：我感觉到...上面有东西在呼唤我..."],
+      "plot_points": ["独自攀登", "记忆苏醒", "办公室回忆"],
+      "satisfaction_level": "震撼+震惊"
+    },
+    {
+      "scene_number": 5,
+      "location": "天尊台9999层",
+      "time": "到达顶层",
+      "characters": ["顾玄", "叛乱管理员（备份）"],
+      "visual_effects": {
+        "environment": "电梯间，根源之海白色空间",
+        "special_effects": "叛乱者现身，身份权限剥离",
+        "lighting": "设备光芒"
+      },
+      "camera_angles": ["推进：电梯间", "特写：叛乱者转身", "动作：权限剥离"],
+      "system_interfaces": [{"type": "真相揭示", "content": "叛乱者：\"我是你的备份。或者说...你是我的备份。\"\n\n主系统认为原管理员已污染，制造备份接管。但备份意外坠入试验场失忆...", "visual_style": "真相投影"}],
+      "character_emotions": {"顾玄": "震惊→难以置信→痛苦"},
+      "key_dialogue": ["叛乱者：抱歉，但我需要你的管理员身份！", "顾玄：为什么..."],
+      "plot_points": ["顶层电梯", "叛乱者身份", "权限被夺"],
+      "satisfaction_level": "震撼+反转"
+    },
+    {
+      "scene_number": 6,
+      "location": "根源之海",
+      "time": "危急时刻",
+      "characters": ["顾玄", "叛乱者"],
+      "visual_effects": {
+        "environment": "根源之海白色空间",
+        "special_effects": "逆命丹爆发，根源连接",
+        "lighting": "能量光芒"
+      },
+      "camera_angles": ["特写：吞下逆命丹", "全景：能量海洋涌现", "动作：权限疯狂提升"],
+      "system_interfaces": [{"type": "系统提示", "content": "【连接成功！欢迎来到根源之海！】\n【管理员权限恢复：7级...8级...9级！】\n【解锁终极权限：根源代行者】", "visual_style": "升级动画"}],
+      "character_emotions": {"顾玄": "决绝→强大", "叛乱者": "惊恐"},
+      "key_dialogue": ["顾玄：规则修改：权限转移终止！规则修改：接口控制权归我！\n顾玄：格式化。"],
+      "plot_points": ["逆命丹爆发", "根源连接", "叛乱者消灭"],
+      "satisfaction_level": "史诗升级"
+    },
+    {
+      "scene_number": 7,
+      "location": "根源之海",
+      "time": "连接成功后",
+      "characters": ["顾玄", "主系统"],
+      "visual_effects": {
+        "environment": "能量海洋，世界核心光球",
+        "special_effects": "两股至高力量对撞，多元宇宙震动",
+        "lighting": "对决光芒"
+      },
+      "camera_angles": ["全景：根源之海", "特写：世界核心", "动作：力量对撞"],
+      "system_interfaces": [{"type": "主系统", "content": "【检测到未授权根源访问...最终清除协议启动...】\n\n顾玄：根源指令：保护所有文明！", "visual_style": "对决界面"}],
+      "character_emotions": {"顾玄": "坚定→艰难取胜"},
+      "key_dialogue": ["顾玄：休想！根源指令：保护所有文明！"],
+      "plot_points": ["主系统对决", "暂时取胜", "守护者誓言"],
+      "satisfaction_level": "史诗+满足"
+    },
+    {
+      "scene_number": 8,
+      "location": "天尊台顶",
+      "time": "返回后",
+      "characters": ["顾玄", "队友们"],
+      "visual_effects": {
+        "environment": "队友惊喜发现",
+        "special_effects": "伤势痊愈，气息深不可测",
+        "lighting": "胜利光芒"
+      },
+      "camera_angles": ["反应：队友惊喜", "特写：顾玄微笑", "全景：天尊台顶"],
+      "system_interfaces": [{"type": "系统", "content": "【系统：天魔执法系统V∞（根源版）】\n【权限：根源代行者（最高级）】", "visual_style": "系统界面"}],
+      "character_emotions": {"顾玄": "微笑→坚定", "队友": "惊喜"},
+      "key_dialogue": ["战穹：兄弟！你成功了？！\n顾玄：不...我是管理员。不过...天尊这个称号，倒也不错。"],
+      "plot_points": ["返回天尊台", "实力恢复", "第二卷完结"],
+      "satisfaction_level": "史诗+满足"
+    }
+  ],
+  "summary": "顾玄虚弱登顶天尊台，靠规则作弊闯关，顶层遇到叛乱者备份夺取权限，用逆命丹连接根源之海获得终极权限，击败主系统后返回",
+  "key_satisfaction_points": [
+    "登顶决心",
+    "规则作弊",
+    "记忆苏醒",
+    "叛乱者身份",
+    "根源权限"
+  ],
+  "emotional_curve": "坚定→搞笑→震撼→震撼升级→史诗"
+}

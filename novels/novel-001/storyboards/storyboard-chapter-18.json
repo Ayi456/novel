@@ -3,47 +3,48 @@
     "shot_id": "EP18-S001",
     "chapter_number": 18,
     "scene_number": 1,
-    "duration": 6,
-    "shot_type": "中景",
-    "location": "场景1",
-    "time_of_day": "白天",
+    "duration": 8,
+    "shot_type": "特写",
+    "location": "后山密室",
+    "time_of_day": "无时间",
     "composition": {
-      "camera_position": "正面拍摄",
-      "camera_movement": "固定镜头",
-      "framing": "标准构图",
-      "focus_type": "主体清晰"
+      "camera_position": "主观视角",
+      "camera_movement": "缓慢推进",
+      "framing": "中心构图",
+      "focus_type": "玉简清晰"
     },
     "characters": [
       {
-        "name": "主要角色",
-        "position": "画面中央",
-        "action": "推进剧情",
-        "expression": "根据情境",
-        "costume": "修仙服饰"
+        "name": "顾玄",
+        "position": "盘膝而坐",
+        "action": "手持黑色玉简,信息涌入脑海",
+        "expression": "凝重→恍然大悟",
+        "costume": "白衣",
+        "props": "黑色玉简"
       }
     ],
     "visual_effects": {
-      "environment": "根据场景",
-      "lighting": "自然光",
-      "color_palette": "自然色调",
-      "special_effects": "根据需要添加特效"
+      "environment": "密室,幽暗寂静",
+      "lighting": "玉简发光,照亮面容",
+      "color_palette": "神秘黑→科技蓝",
+      "special_effects": "玉简散发幽幽光芒,无数信息流入脑海的特效,系统界面文字浮现"
     },
     "audio": {
-      "dialogue": "他手中的黑色玉简散发着幽幽光芒，无数信息流入脑海——那是真正的天魔传承，远比之前零散的秘法完整系统。",
+      "dialogue": "原来如此...天魔根本不是生物,而是一种...秩序法则的具现化?所谓的魔教完全理解错了!",
       "narration": "",
-      "internal_monologue": "",
-      "background_music": "中等",
-      "sound_effects": [],
-      "volume_level": "正常"
+      "internal_monologue": "所以我是...系统管理员转世?那这帮魔教分子就是在瞎拜码农?这误会也太大了吧!",
+      "background_music": "神秘→科技感",
+      "sound_effects": ["数据流动声", "系统提示音"],
+      "volume_level": "对话和内心独白交替"
     },
     "editing": {
       "transition_to_next": "直接切",
       "pacing": "中等",
-      "purpose": "推进剧情"
+      "purpose": "开篇,揭示天魔真相"
     },
     "notes": {
-      "production_note": "根据实际内容调整",
-      "reference_style": "仙侠风格",
+      "production_note": "需要CG制作信息流动特效",
+      "reference_style": "科幻+修仙",
       "difficulty_level": "中等"
     }
   },
@@ -51,143 +52,142 @@
     "shot_id": "EP18-S002",
     "chapter_number": 18,
     "scene_number": 2,
-    "duration": 6,
-    "shot_type": "中景",
-    "location": "场景2",
-    "time_of_day": "白天",
+    "duration": 10,
+    "shot_type": "特效全景",
+    "location": "后山密室",
+    "time_of_day": "无时间",
     "composition": {
-      "camera_position": "正面拍摄",
-      "camera_movement": "固定镜头",
-      "framing": "标准构图",
-      "focus_type": "主体清晰"
+      "camera_position": "环绕拍摄",
+      "camera_movement": "快速环绕",
+      "framing": "动态构图",
+      "focus_type": "特效突出"
     },
     "characters": [
       {
-        "name": "主要角色",
-        "position": "画面中央",
-        "action": "推进剧情",
-        "expression": "根据情境",
-        "costume": "修仙服饰"
+        "name": "顾玄",
+        "position": "密室中央",
+        "action": "被庞大信息流改造,身体发光",
+        "expression": "痛苦→平静",
+        "costume": "白衣"
       }
     ],
     "visual_effects": {
-      "environment": "根据场景",
-      "lighting": "自然光",
-      "color_palette": "自然色调",
-      "special_effects": "根据需要添加特效"
+      "environment": "密室",
+      "lighting": "机械音响起,光芒闪烁",
+      "color_palette": "科技蓝",
+      "special_effects": "机械音界面显示系统更新,庞大信息流涌入脑海,身体被改造,能量循环系统化"
     },
     "audio": {
-      "dialogue": "“原来如此...”顾玄恍然大悟，“天魔根本不是生物，而是一种...秩序法则的具现化？所谓的魔教完全理解错了！”",
+      "dialogue": "嗡——【检测到管理员权限激活...开始系统更新...】【当前版本:V1.0(残缺)】【更新至:V2.0(完整版)】【预计时间:72小时...】",
       "narration": "",
-      "internal_monologue": "",
-      "background_music": "中等",
-      "sound_effects": [],
-      "volume_level": "正常"
+      "internal_monologue": "还真特么是系统更新啊!",
+      "background_music": "科技感,震撼",
+      "sound_effects": ["机械音", "能量流动", "系统提示"],
+      "volume_level": "系统音突出"
     },
     "editing": {
-      "transition_to_next": "直接切",
+      "transition_to_next": "时间跳跃",
       "pacing": "中等",
-      "purpose": "推进剧情"
+      "purpose": "系统更新"
     },
     "notes": {
-      "production_note": "根据实际内容调整",
-      "reference_style": "仙侠风格",
-      "difficulty_level": "中等"
+      "production_note": "需要大量CG制作更新特效",
+      "reference_style": "科幻风格",
+      "difficulty_level": "复杂"
     }
   },
   {
     "shot_id": "EP18-S003",
     "chapter_number": 18,
     "scene_number": 3,
-    "duration": 6,
-    "shot_type": "中景",
-    "location": "场景3",
-    "time_of_day": "白天",
+    "duration": 7,
+    "shot_type": "主观视角",
+    "location": "后山密室",
+    "time_of_day": "无时间",
     "composition": {
-      "camera_position": "正面拍摄",
-      "camera_movement": "固定镜头",
-      "framing": "标准构图",
-      "focus_type": "主体清晰"
+      "camera_position": "主观视角",
+      "camera_movement": "快速扫描",
+      "framing": "第一视角",
+      "focus_type": "数据界面清晰"
     },
-    "characters": [
-      {
-        "name": "主要角色",
-        "position": "画面中央",
-        "action": "推进剧情",
-        "expression": "根据情境",
-        "costume": "修仙服饰"
-      }
-    ],
+    "characters": [],
     "visual_effects": {
-      "environment": "根据场景",
-      "lighting": "自然光",
-      "color_palette": "自然色调",
-      "special_effects": "根据需要添加特效"
+      "environment": "世界变成数据流",
+      "lighting": "数据光芒",
+      "color_palette": "科技蓝绿",
+      "special_effects": "秩序之眼开启,万物数据化,李道玄生命值87%,陆尘筑基初期,宗门大阵完整度23%,各种数据标注"
     },
     "audio": {
-      "dialogue": "根据传承记载，最初的天魔是某个高等文明创造的“宇宙秩序维护系统”，负责管理多元宇宙的平衡。但后来系统产生自我意识，分化出不同派系...",
+      "dialogue": "",
       "narration": "",
-      "internal_monologue": "",
-      "background_music": "中等",
-      "sound_effects": [],
-      "volume_level": "正常"
+      "internal_monologue": "这功能太实用了!简直是人形检测仪!",
+      "background_music": "科技感",
+      "sound_effects": ["数据流动", "扫描声"],
+      "volume_level": "内心独白为主"
     },
     "editing": {
       "transition_to_next": "直接切",
-      "pacing": "中等",
-      "purpose": "推进剧情"
+      "pacing": "快速",
+      "purpose": "展示秩序之眼功能"
     },
     "notes": {
-      "production_note": "根据实际内容调整",
-      "reference_style": "仙侠风格",
-      "difficulty_level": "中等"
+      "production_note": "需要大量CG制作数据流",
+      "reference_style": "科幻风格",
+      "difficulty_level": "复杂"
     }
   },
   {
     "shot_id": "EP18-S004",
     "chapter_number": 18,
     "scene_number": 4,
-    "duration": 6,
+    "duration": 8,
     "shot_type": "中景",
-    "location": "场景4",
+    "location": "荒州小村庄",
     "time_of_day": "白天",
     "composition": {
-      "camera_position": "正面拍摄",
-      "camera_movement": "固定镜头",
-      "framing": "标准构图",
-      "focus_type": "主体清晰"
+      "camera_position": "俯视拍摄",
+      "camera_movement": "缓慢下降",
+      "framing": "全景构图",
+      "focus_type": "村庄状态清晰"
     },
     "characters": [
       {
-        "name": "主要角色",
-        "position": "画面中央",
-        "action": "推进剧情",
-        "expression": "根据情境",
-        "costume": "修仙服饰"
+        "name": "顾玄",
+        "position": "村庄中",
+        "action": "查看水井,使用净化程序",
+        "expression": "凝重→释然",
+        "costume": "白衣"
+      },
+      {
+        "name": "村民",
+        "position": "村庄各处",
+        "action": "卧床不起,饮用井水后好转",
+        "expression": "痛苦→感激",
+        "costume": "粗布麻衣"
       }
     ],
     "visual_effects": {
-      "environment": "根据场景",
-      "lighting": "自然光",
-      "color_palette": "自然色调",
-      "special_effects": "根据需要添加特效"
+      "environment": "荒凉小村庄,死气沉沉",
+      "lighting": "苍白光线→白光净化",
+      "color_palette": "灰暗→明亮",
+      "special_effects": "秩序之眼标注生命值异常,井水泛起白光恢复清澈,村民饮用后生命值回升"
     },
     "audio": {
-      "dialogue": "“所以我是...系统管理员转世？”顾玄表情古怪，“那这帮魔教分子就是在瞎拜码农？”",
+      "dialogue": "是瘟疫吗? 不是瘟疫...是水源被污染了!是魔教干的!他们在水源下了噬灵散! 能治吗?【系统】推荐使用'基础净化程序',消耗能量3%。",
       "narration": "",
-      "internal_monologue": "",
-      "background_music": "中等",
-      "sound_effects": [],
-      "volume_level": "正常"
+      "internal_monologue": "原来赚功德这么简单?那之前扶老奶奶过马路是在搞笑吗?",
+      "background_music": "紧张→温暖",
+      "sound_effects": ["水声", "村民感谢声"],
+      "volume_level": "对话突出"
     },
     "editing": {
       "transition_to_next": "直接切",
       "pacing": "中等",
-      "purpose": "推进剧情"
+      "purpose": "展示净化功能"
     },
     "notes": {
-      "production_note": "根据实际内容调整",
-      "reference_style": "仙侠风格",
+      "production_note": "需要CG制作净化特效",
+      "reference_style": "温暖治愈",
       "difficulty_level": "中等"
     }
   },
@@ -195,47 +195,54 @@
     "shot_id": "EP18-S005",
     "chapter_number": 18,
     "scene_number": 5,
-    "duration": 6,
-    "shot_type": "特写",
-    "location": "场景5",
+    "duration": 7,
+    "shot_type": "中景",
+    "location": "荒州各地",
     "time_of_day": "白天",
     "composition": {
-      "camera_position": "正面拍摄",
-      "camera_movement": "推镜",
-      "framing": "标准构图",
-      "focus_type": "主体清晰"
+      "camera_position": "快速切换",
+      "camera_movement": "动态拍摄",
+      "framing": "蒙太奇",
+      "focus_type": "净化效果清晰"
     },
     "characters": [
       {
-        "name": "主要角色",
-        "position": "画面中央",
-        "action": "推进剧情",
-        "expression": "根据情境",
-        "costume": "修仙服饰"
+        "name": "顾玄",
+        "position": "各地",
+        "action": "一路净化,功德上涨",
+        "expression": "满足",
+        "costume": "白衣"
+      },
+      {
+        "name": "各地村民",
+        "position": "各地",
+        "action": "感谢",
+        "expression": "感激",
+        "costume": "粗布麻衣"
       }
     ],
     "visual_effects": {
-      "environment": "根据场景",
-      "lighting": "自然光",
-      "color_palette": "自然色调",
-      "special_effects": "根据需要添加特效"
+      "environment": "荒州各地",
+      "lighting": "正常光线",
+      "color_palette": "正常色调",
+      "special_effects": "秩序之眼扫描各地,净化程序特效,功德值快速上涨"
     },
     "audio": {
-      "dialogue": "更让他惊讶的是，传承中提到的“天魔之力”根本不是邪恶能量，而是一种高度秩序化的特殊能量，之所以被误认为邪恶，是因为它会强制“格式化”一切不符合秩序的存在！",
+      "dialogue": "【恭喜升级至3级管理员!】【解锁新功能:短距离传送、能量护盾、物质重构...】",
       "narration": "",
-      "internal_monologue": "",
-      "background_music": "震撼",
-      "sound_effects": [],
-      "volume_level": "正常"
+      "internal_monologue": "这系统也太好用了吧!早该更新的!",
+      "background_music": "轻快,满足",
+      "sound_effects": ["系统提示音", "功德上涨音效"],
+      "volume_level": "音效突出"
     },
     "editing": {
-      "transition_to_next": "直接切",
-      "pacing": "震撼",
-      "purpose": "推进剧情"
+      "transition_to_next": "快速切",
+      "pacing": "快速",
+      "purpose": "蒙太奇刷功德"
     },
     "notes": {
-      "production_note": "根据实际内容调整",
-      "reference_style": "仙侠风格",
+      "production_note": "需要多个场景",
+      "reference_style": "蒙太奇",
       "difficulty_level": "中等"
     }
   },
@@ -243,95 +250,109 @@
     "shot_id": "EP18-S006",
     "chapter_number": 18,
     "scene_number": 6,
-    "duration": 6,
-    "shot_type": "远景",
-    "location": "场景6",
+    "duration": 10,
+    "shot_type": "全景",
+    "location": "巨大峡谷",
     "time_of_day": "白天",
     "composition": {
-      "camera_position": "正面拍摄",
-      "camera_movement": "缓慢拉远",
-      "framing": "标准构图",
-      "focus_type": "主体清晰"
+      "camera_position": "俯视",
+      "camera_movement": "缓慢下降",
+      "framing": "全景构图",
+      "focus_type": "祭坛规模清晰"
     },
     "characters": [
       {
-        "name": "主要角色",
-        "position": "画面中央",
-        "action": "推进剧情",
-        "expression": "根据情境",
-        "costume": "修仙服饰"
+        "name": "顾玄",
+        "position": "峡谷边缘",
+        "action": "开启秩序之眼观察",
+        "expression": "震惊",
+        "costume": "白衣"
+      },
+      {
+        "name": "白芷",
+        "position": "身旁",
+        "action": "脸色苍白,指着祭坛",
+        "expression": "惊恐",
+        "costume": "布衣"
       }
     ],
     "visual_effects": {
-      "environment": "根据场景",
-      "lighting": "自然光",
-      "color_palette": "自然色调",
-      "special_effects": "根据需要添加特效"
+      "environment": "巨大峡谷,庞大祭坛",
+      "lighting": "魔气冲天",
+      "color_palette": "暗红调",
+      "special_effects": "秩序之眼显示庞大祭坛,数万魔教徒,巨大能量收集装置吸收生命能量,警告标注大规模违规行为"
     },
     "audio": {
-      "dialogue": "“这不就是宇宙级的杀毒软件吗？！”顾玄吐槽，“看谁不顺眼就格式化谁？”",
+      "dialogue": "就是这里!我看到的那个大祭坛!【警告!检测到超大规模违规行为!】【-非法能量收集(-100万功德)】【-准备非法献祭(-500万功德)】",
       "narration": "",
-      "internal_monologue": "",
-      "background_music": "舒缓",
-      "sound_effects": [],
-      "volume_level": "正常"
+      "internal_monologue": "这规模太大了!就算有系统帮忙也难搞啊!",
+      "background_music": "紧张,震撼",
+      "sound_effects": ["系统警报"],
+      "volume_level": "警报突出"
     },
     "editing": {
       "transition_to_next": "直接切",
-      "pacing": "舒缓",
-      "purpose": "推进剧情"
+      "pacing": "中等",
+      "purpose": "揭示巨大危机"
     },
     "notes": {
-      "production_note": "根据实际内容调整",
-      "reference_style": "仙侠风格",
-      "difficulty_level": "中等"
+      "production_note": "需要CG制作祭坛规模",
+      "reference_style": "震撼场面",
+      "difficulty_level": "复杂"
     }
   },
   {
     "shot_id": "EP18-S007",
     "chapter_number": 18,
     "scene_number": 7,
-    "duration": 6,
+    "duration": 8,
     "shot_type": "中景",
-    "location": "场景7",
+    "location": "祭坛入口",
     "time_of_day": "白天",
     "composition": {
       "camera_position": "正面拍摄",
-      "camera_movement": "固定镜头",
-      "framing": "标准构图",
-      "focus_type": "主体清晰"
+      "camera_movement": "跟随拍摄",
+      "framing": "中心构图",
+      "focus_type": "人物清晰"
     },
     "characters": [
       {
-        "name": "主要角色",
-        "position": "画面中央",
-        "action": "推进剧情",
-        "expression": "根据情境",
-        "costume": "修仙服饰"
+        "name": "顾玄",
+        "position": "推着车",
+        "action": "大摇大摆走向入口",
+        "expression": "淡定",
+        "costume": "白衣"
+      },
+      {
+        "name": "魔教守卫",
+        "position": "入口",
+        "action": "检查蜡烛,放行",
+        "expression": "疑惑→放松",
+        "costume": "黑袍"
       }
     ],
     "visual_effects": {
-      "environment": "根据场景",
-      "lighting": "自然光",
-      "color_palette": "自然色调",
-      "special_effects": "根据需要添加特效"
+      "environment": "祭坛入口",
+      "lighting": "正常光线",
+      "color_palette": "正常色调",
+      "special_effects": "物质重构功能展示,肉干变成极品血烛,完美伪装"
     },
     "audio": {
-      "dialogue": "他尝试按照传承方法引导体内力量。这一次，不再是零散的能量躁动，而是系统化的能量循环！",
+      "dialogue": "干什么的? 送祭品的。这是右使大人特订的极品血烛。怎么这么晚才到? 路上遇到天魔执法队了,差点被扣下!",
       "narration": "",
       "internal_monologue": "",
-      "background_music": "中等",
+      "background_music": "紧张带幽默",
       "sound_effects": [],
-      "volume_level": "正常"
+      "volume_level": "对话突出"
     },
     "editing": {
       "transition_to_next": "直接切",
       "pacing": "中等",
-      "purpose": "推进剧情"
+      "purpose": "混入祭坛"
     },
     "notes": {
-      "production_note": "根据实际内容调整",
-      "reference_style": "仙侠风格",
+      "production_note": "需要CG制作物质重构",
+      "reference_style": "幽默",
       "difficulty_level": "中等"
     }
   },
@@ -339,47 +360,61 @@
     "shot_id": "EP18-S008",
     "chapter_number": 18,
     "scene_number": 8,
-    "duration": 6,
+    "duration": 10,
     "shot_type": "中景",
-    "location": "场景8",
-    "time_of_day": "白天",
+    "location": "右使房间",
+    "time_of_day": "无时间",
     "composition": {
-      "camera_position": "正面拍摄",
-      "camera_movement": "固定镜头",
-      "framing": "标准构图",
-      "focus_type": "主体清晰"
+      "camera_position": "侧面拍摄",
+      "camera_movement": "轻微左右摇",
+      "framing": "中心构图",
+      "focus_type": "人物清晰"
     },
     "characters": [
       {
-        "name": "主要角色",
-        "position": "画面中央",
-        "action": "推进剧情",
-        "expression": "根据情境",
-        "costume": "修仙服饰"
+        "name": "顾玄",
+        "position": "房间内",
+        "action": "说服朱寿,操作控制台",
+        "expression": "严肃",
+        "costume": "白衣"
+      },
+      {
+        "name": "朱寿",
+        "position": "房间内",
+        "action": "犹豫→咬牙帮忙",
+        "expression": "挣扎→决然",
+        "costume": "助理黑袍"
+      },
+      {
+        "name": "陆尘",
+        "position": "门口",
+        "action": "警戒",
+        "expression": "紧张",
+        "costume": "布衣"
       }
     ],
     "visual_effects": {
-      "environment": "根据场景",
-      "lighting": "自然光",
-      "color_palette": "自然色调",
-      "special_effects": "根据需要添加特效"
+      "environment": "右使房间",
+      "lighting": "控制台光芒",
+      "color_palette": "科技蓝",
+      "special_effects": "秩序之眼查看忠诚度,宣传教育投影魔教罪证,控制台操作界面,终止能量收集"
     },
     "audio": {
-      "dialogue": "“检测到管理员权限激活...开始系统更新...",
+      "dialogue": "朱寿,魔教倒行逆施,残害生灵,你还要助纣为虐吗? 我...我帮你们!【检测到高级权限...允许访问】【当前操作:终止能量收集】【警告:此操作将触发警报!】 终止!",
       "narration": "",
       "internal_monologue": "",
-      "background_music": "中等",
-      "sound_effects": [],
-      "volume_level": "正常"
+      "background_music": "紧张,急促",
+      "sound_effects": ["控制台操作声", "警报响起"],
+      "volume_level": "对话突出"
     },
     "editing": {
       "transition_to_next": "直接切",
-      "pacing": "中等",
-      "purpose": "推进剧情"
+      "pacing": "快速",
+      "purpose": "破坏能量收集"
     },
     "notes": {
-      "production_note": "根据实际内容调整",
-      "reference_style": "仙侠风格",
+      "production_note": "需要CG制作UI界面",
+      "reference_style": "紧张",
       "difficulty_level": "中等"
     }
   },
@@ -387,144 +422,119 @@
     "shot_id": "EP18-S009",
     "chapter_number": 18,
     "scene_number": 9,
-    "duration": 6,
-    "shot_type": "中景",
-    "location": "场景9",
-    "time_of_day": "白天",
+    "duration": 10,
+    "shot_type": "特效全景",
+    "location": "祭坛",
+    "time_of_day": "无时间",
     "composition": {
-      "camera_position": "正面拍摄",
-      "camera_movement": "固定镜头",
-      "framing": "标准构图",
-      "focus_type": "主体清晰"
+      "camera_position": "环绕拍摄",
+      "camera_movement": "快速环绕",
+      "framing": "动态构图",
+      "focus_type": "特效突出"
     },
     "characters": [
       {
-        "name": "主要角色",
-        "position": "画面中央",
-        "action": "推进剧情",
-        "expression": "根据情境",
-        "costume": "修仙服饰"
+        "name": "魔教徒",
+        "position": "祭坛各处",
+        "action": "突然飘起,不适应失重",
+        "expression": "惊慌",
+        "costume": "黑袍"
+      },
+      {
+        "name": "右使",
+        "position": "追击",
+        "action": "强行适应失重,追击",
+        "expression": "暴怒",
+        "costume": "华贵黑袍"
+      },
+      {
+        "name": "顾玄",
+        "position": "突围",
+        "action": "启动格式化攻击",
+        "expression": "决然",
+        "costume": "白衣",
+        "props": "天魔剑"
       }
     ],
     "visual_effects": {
-      "environment": "根据场景",
-      "lighting": "自然光",
-      "color_palette": "自然色调",
-      "special_effects": "根据需要添加特效"
+      "environment": "祭坛一片混乱",
+      "lighting": "失重环境,能量光芒",
+      "color_palette": "高对比度",
+      "special_effects": "修改重力规则,所有魔教徒突然飘起,失重环境混乱,顾玄趁机突围,右使追击,天魔剑爆发出白光,右使半条手臂被格式化消失"
     },
     "audio": {
-      "dialogue": "他只觉得一股庞大的信息流涌入脑海，同时身体被某种力量改造着...",
+      "dialogue": "系统!能不能修改这里的规则?【可修改范围:重力规则(消耗能量80%)】修改重力! 怎么可能?!这是什么力量?! 想跑? 系统!启动最终方案!【最终方案:局部格式化】【消耗:全部能量】",
       "narration": "",
       "internal_monologue": "",
-      "background_music": "中等",
-      "sound_effects": [],
-      "volume_level": "正常"
+      "background_music": "紧张→震撼",
+      "sound_effects": ["失重音效", "能量爆炸", "右使惨叫"],
+      "volume_level": "音效突出"
     },
     "editing": {
-      "transition_to_next": "直接切",
-      "pacing": "中等",
-      "purpose": "推进剧情"
+      "transition_to_next": "快速切",
+      "pacing": "快速",
+      "purpose": "规则修改和格式化攻击"
     },
     "notes": {
-      "production_note": "根据实际内容调整",
-      "reference_style": "仙侠风格",
-      "difficulty_level": "中等"
+      "production_note": "需要大量CG制作失重和格式化特效",
+      "reference_style": "震撼+科幻",
+      "difficulty_level": "复杂"
     }
   },
   {
     "shot_id": "EP18-S010",
     "chapter_number": 18,
     "scene_number": 10,
-    "duration": 6,
+    "duration": 8,
     "shot_type": "中景",
-    "location": "场景10",
-    "time_of_day": "白天",
+    "location": "返回青云宗的飞舟",
+    "time_of_day": "夜晚",
     "composition": {
       "camera_position": "正面拍摄",
-      "camera_movement": "固定镜头",
-      "framing": "标准构图",
-      "focus_type": "主体清晰"
+      "camera_movement": "轻微推近",
+      "framing": "中心构图",
+      "focus_type": "人物清晰"
     },
     "characters": [
       {
-        "name": "主要角色",
-        "position": "画面中央",
-        "action": "推进剧情",
-        "expression": "根据情境",
-        "costume": "修仙服饰"
-      }
-    ],
-    "visual_effects": {
-      "environment": "根据场景",
-      "lighting": "自然光",
-      "color_palette": "自然色调",
-      "special_effects": "根据需要添加特效"
-    },
-    "audio": {
-      "dialogue": "修为还是筑基中期——系统更新不包升级服务，差评！",
-      "narration": "",
-      "internal_monologue": "",
-      "background_music": "中等",
-      "sound_effects": [],
-      "volume_level": "正常"
-    },
-    "editing": {
-      "transition_to_next": "直接切",
-      "pacing": "中等",
-      "purpose": "推进剧情"
-    },
-    "notes": {
-      "production_note": "根据实际内容调整",
-      "reference_style": "仙侠风格",
-      "difficulty_level": "中等"
-    }
-  },
-  {
-    "shot_id": "EP18-S011",
-    "chapter_number": 18,
-    "scene_number": 11,
-    "duration": 6,
-    "shot_type": "中景",
-    "location": "场景11",
-    "time_of_day": "白天",
-    "composition": {
-      "camera_position": "正面拍摄",
-      "camera_movement": "固定镜头",
-      "framing": "标准构图",
-      "focus_type": "主体清晰"
-    },
-    "characters": [
+        "name": "顾玄",
+        "position": "飞舟上",
+        "action": "看向西北方向,握紧天魔剑",
+        "expression": "凝重,坚定",
+        "costume": "白衣",
+        "props": "天魔剑"
+      },
       {
-        "name": "主要角色",
-        "position": "画面中央",
-        "action": "推进剧情",
-        "expression": "根据情境",
-        "costume": "修仙服饰"
+        "name": "白芷",
+        "position": "昏迷",
+        "action": "昏迷中",
+        "expression": "痛苦",
+        "costume": "布衣"
       }
     ],
     "visual_effects": {
-      "environment": "根据场景",
-      "lighting": "自然光",
-      "color_palette": "自然色调",
-      "special_effects": "根据需要添加特效"
+      "environment": "飞舟,夜空",
+      "lighting": "星光,月光",
+      "color_palette": "冷色调",
+      "special_effects": "白芷突然坐起,眼中黑光闪烁,看到幻象,深渊之眼被发现"
     },
     "audio": {
-      "dialogue": "但对力量的掌控完全不一样了！现在他能清晰感知到体内那股“天魔之力”的运转，如同呼吸般自然！",
+      "dialogue": "虽然破坏了能量收集,但祭坛还在...魔教肯定会加快进度! 我看到了...祭坛下面...还有个更大的装置! 他们在收集能量不是为了血祭...是为了激活某个...远古兵器! 那兵器一旦激活,整个世界都会...",
       "narration": "",
-      "internal_monologue": "",
-      "background_music": "中等",
+      "internal_monologue": "远古兵器?灭世?!事情远比想象的严重!",
+      "background_music": "凝重,悬疑",
       "sound_effects": [],
-      "volume_level": "正常"
+      "volume_level": "对话突出"
     },
     "editing": {
-      "transition_to_next": "直接切",
-      "pacing": "中等",
-      "purpose": "推进剧情"
+      "transition_to_next": "淡出",
+      "pacing": "舒缓",
+      "purpose": "收尾,埋下伏笔"
     },
     "notes": {
-      "production_note": "根据实际内容调整",
-      "reference_style": "仙侠风格",
-      "difficulty_level": "中等"
+      "production_note": "实景拍摄",
+      "reference_style": "凝重氛围",
+      "difficulty_level": "简单"
     }
   }
 ]

@@ -3,116 +3,109 @@
     "shot_id": "EP06-S001",
     "chapter_number": 6,
     "scene_number": 1,
-    "duration": 8,
-    "shot_type": "全景",
-    "location": "青云宗山门",
-    "time_of_day": "清晨",
+    "duration": 9,
+    "shot_type": "全景蒙太奇",
+    "location": "青州城各处",
+    "time_of_day": "白天",
     "composition": {
-      "camera_position": "山门外仰拍",
-      "camera_movement": "缓慢推近",
-      "framing": "大场面",
-      "focus_type": "整体清晰"
+      "camera_position": "多地点快速切换",
+      "camera_movement": "流畅切换",
+      "framing": "蒙太奇构图",
+      "focus_type": "议论清晰"
     },
     "characters": [
       {
-        "name": "天衍宗使者",
-        "position": "山门前",
-        "action": "递交鎏金请柬",
-        "expression": "恭敬",
-        "costume": "天衍宗礼服"
+        "name": "青州城修士们",
+        "position": "各处议论",
+        "action": "议论纷纷",
+        "expression": "兴奋,猜测",
+        "costume": "各式修士服饰"
       },
       {
         "name": "顾玄",
-        "position": "山门内",
-        "action": "接请柬,疑惑",
-        "expression": "疑惑 → 凝重",
+        "position": "躲在房里",
+        "action": "听着议论,不敢出门",
+        "expression": "慌乱,无奈",
         "costume": "粗布麻衣"
       }
     ],
     "visual_effects": {
-      "environment": "山门广场,请柬金光闪烁",
-      "lighting": "晨光+请柬金光",
-      "color_palette": "富丽堂皇",
-      "special_effects": "鎏金请柬散发着威压"
+      "environment": "青州城热闹场景",
+      "lighting": "明亮自然光",
+      "color_palette": "热闹色调",
+      "special_effects": "传言四起,各种夸张想象画面"
     },
     "audio": {
-      "dialogue": "使者: '十宗论道帖！恭请青云宗莅临！'",
+      "dialogue": "听说了吗?青云宗那个特效仙人,其实是个隐藏大佬!一招未出就晋级!这才是真正的高人啊!连玄天剑宗的赵铭都被他秒了!甚至有人说顾玄其实是化神期老怪伪装成的筑基修士",
       "narration": "",
-      "internal_monologue": "顾玄: 十宗论道？那可是大场面！",
-      "background_music": "庄重带紧张",
-      "sound_effects": [],
-      "volume_level": "对话清晰"
+      "internal_monologue": "完了完了,这下玩脱了...正赛的时候可怎么混啊?总不能每次都指望对手自己摔倒吧?而且名声太响了,肯定会被盯上!我这小身板哪扛得住啊!",
+      "background_music": "轻松转为紧张",
+      "sound_effects": ["议论声", "传言声"],
+      "volume_level": "议论突出"
     },
     "editing": {
-      "transition_to_next": "直接切",
-      "pacing": "庄重",
-      "purpose": "引入重大事件"
+      "transition_to_next": "快速切",
+      "pacing": "快速",
+      "purpose": "名声压力蒙太奇"
     },
     "notes": {
-      "production_note": "注重请柬道具",
-      "reference_style": "仙侠礼仪",
-      "difficulty_level": "简单"
+      "production_note": "多场景切换",
+      "reference_style": "轻松转紧张",
+      "difficulty_level": "中等"
     }
   },
   {
     "shot_id": "EP06-S002",
     "chapter_number": 6,
     "scene_number": 2,
-    "duration": 6,
+    "duration": 8,
     "shot_type": "中景",
-    "location": "青云宗主殿",
-    "time_of_day": "上午",
+    "location": "青云宗-院落",
+    "time_of_day": "白天",
     "composition": {
-      "camera_position": "侧面拍摄",
-      "camera_movement": "固定镜头",
-      "framing": "三人构图",
-      "focus_type": "主体清晰"
+      "camera_position": "对话角度",
+      "camera_movement": "缓慢推近",
+      "framing": "双人对话",
+      "focus_type": "对话清晰"
     },
     "characters": [
       {
-        "name": "李道玄",
-        "position": "画面中央",
-        "action": "捧请柬,手发抖",
-        "expression": "激动 → 紧张",
-        "costume": "掌门袍"
+        "name": "陆尘",
+        "position": "练习剑法",
+        "action": "练习奔雷刺,带起电弧",
+        "expression": "认真,信心爆棚",
+        "costume": "布衣少年"
       },
       {
         "name": "顾玄",
-        "position": "画面左侧",
-        "action": "安慰师尊",
-        "expression": "表面淡定",
+        "position": "看着师弟",
+        "action": "拍拍肩膀,安慰",
+        "expression": "表面淡定,内心慌乱",
         "costume": "粗布麻衣"
-      },
-      {
-        "name": "陆尘",
-        "position": "画面右侧",
-        "action": "担忧地看着",
-        "expression": "忧虑",
-        "costume": "布衣少女"
       }
     ],
     "visual_effects": {
-      "environment": "主殿内",
+      "environment": "青云宗院落",
       "lighting": "明亮自然光",
-      "color_palette": "庄重色调",
-      "special_effects": "请柬金光闪烁"
+      "color_palette": "温暖色调",
+      "special_effects": "木剑挥动间带起细微电弧"
     },
     "audio": {
-      "dialogue": "李道玄: '这是青州最高级别的宗门盛会！往年只有十大宗门有资格！'",
+      "dialogue": "师兄,我一定会努力修炼,不给您丢脸!嗯...加油",
       "narration": "",
-      "internal_monologue": "顾玄: 这下麻烦大了...",
-      "background_music": "紧张带幽默",
-      "sound_effects": [],
+      "internal_monologue": "顾玄实在不忍心告诉他真相,只能拍拍他肩膀",
+      "background_music": "温馨转为紧张",
+      "sound_effects": ["剑声", "电弧声"],
       "volume_level": "对话突出"
     },
     "editing": {
       "transition_to_next": "直接切",
-      "pacing": "紧张",
-      "purpose": "展现危机"
+      "pacing": "中等",
+      "purpose": "师弟信心vs师兄慌乱"
     },
     "notes": {
-      "production_note": "注重演技",
-      "reference_style": "紧张场景",
+      "production_note": "注重演技对比",
+      "reference_style": "温馨带压抑",
       "difficulty_level": "简单"
     }
   },
@@ -120,117 +113,96 @@
     "shot_id": "EP06-S003",
     "chapter_number": 6,
     "scene_number": 3,
-    "duration": 7,
+    "duration": 9,
     "shot_type": "全景",
-    "location": "前往天衍宗路上",
-    "time_of_day": "次日清晨",
+    "location": "青云宗-深夜",
+    "time_of_day": "深夜",
     "composition": {
-      "camera_position": "航拍",
-      "camera_movement": "跟随飞舟",
-      "framing": "大场面",
-      "focus_type": "飞舟清晰"
+      "camera_position": "俯拍山顶",
+      "camera_movement": "缓慢旋转",
+      "framing": "氛围构图",
+      "focus_type": "环境清晰"
     },
     "characters": [
       {
         "name": "顾玄",
-        "position": "飞舟上",
-        "action": "乘坐最便宜的飞舟",
-        "expression": "尴尬(强行淡定)",
+        "position": "房中",
+        "action": "研究特效灵石,推开窗户",
+        "expression": "疑惑→紧张",
         "costume": "粗布麻衣"
-      },
-      {
-        "name": "陆尘",
-        "position": "顾玄身边",
-        "action": "好奇地看着云海",
-        "expression": "兴奋 → 期待",
-        "costume": "布衣少女"
-      },
-      {
-        "name": "李道玄",
-        "position": "飞舟另一侧",
-        "action": "紧张地整理衣服",
-        "expression": "紧张",
-        "costume": "掌门袍"
       }
     ],
     "visual_effects": {
-      "environment": "云海之上,其他豪华飞舟穿梭",
-      "lighting": "明亮晨光",
-      "color_palette": "清新明亮",
-      "special_effects": "破旧飞舟与豪华飞舟形成对比"
+      "environment": "月黑风高,凄厉鸦叫,山下黑影",
+      "lighting": "昏暗月光",
+      "color_palette": "阴冷色调",
+      "special_effects": "血腥气弥漫,黑衣人阴冷气息"
     },
     "audio": {
       "dialogue": "",
-      "narration": "青云宗三人乘坐最便宜的飞舟,寒酸得像来要饭的...",
-      "internal_monologue": "顾玄: 有钱谁不想坐好的？！",
-      "background_music": "轻松带尴尬",
-      "sound_effects": ["飞舟破空声"],
-      "volume_level": "音乐为主"
+      "narration": "忽然,远处传来几声凄厉的鸦叫,空气中似乎弥漫起一丝若有若无的血腥气",
+      "internal_monologue": "不会吧?难道是白天太出风头,被人盯上了?我就知道!装逼是要遭雷劈的!对面有金丹大佬啊!我们这破宗门拿什么打?",
+      "background_music": "紧张悬疑",
+      "sound_effects": ["鸦叫声", "风声"],
+      "volume_level": "环境音突出"
     },
     "editing": {
-      "transition_to_next": "直接切",
-      "pacing": "轻松",
-      "purpose": "展示寒酸,制造笑点"
+      "transition_to_next": "快速切",
+      "pacing": "紧张",
+      "purpose": "敌袭氛围铺垫"
     },
     "notes": {
-      "production_note": "注重对比",
-      "reference_style": "轻喜剧",
-      "difficulty_level": "简单"
+      "production_note": "注重氛围营造",
+      "reference_style": "悬疑紧张",
+      "difficulty_level": "中等"
     }
   },
   {
     "shot_id": "EP06-S004",
     "chapter_number": 6,
     "scene_number": 4,
-    "duration": 8,
-    "shot_type": "全景",
-    "location": "天衍宗山门",
-    "time_of_day": "正午",
+    "duration": 10,
+    "shot_type": "系统界面特写",
+    "location": "顾玄房中",
+    "time_of_day": "深夜",
     "composition": {
-      "camera_position": "仰拍天衍宗",
-      "camera_movement": "缓慢推近",
-      "framing": "大场面",
-      "focus_type": "整体清晰"
+      "camera_position": "特写系统界面",
+      "camera_movement": "界面弹出动画",
+      "framing": "界面构图",
+      "focus_type": "界面清晰"
     },
     "characters": [
       {
-        "name": "各宗弟子",
-        "position": "山门前,锦衣华服",
-        "action": "嘲笑青云宗",
-        "expression": "轻蔑 → 嘲讽",
-        "costume": "各宗华丽服饰"
-      },
-      {
-        "name": "顾玄一行",
-        "position": "寒酸入场",
-        "action": "淡定应对嘲笑",
-        "expression": "表面淡定",
-        "costume": "朴素衣物"
+        "name": "顾玄",
+        "position": "看着系统界面",
+        "action": "看到系统建议,慌乱",
+        "expression": "紧张→崩溃",
+        "costume": "粗布麻衣"
       }
     ],
     "visual_effects": {
-      "environment": "天衍宗山门,仙宫林立",
-      "lighting": "明亮日光",
-      "color_palette": "富丽堂皇",
-      "special_effects": "各宗法宝精良,光芒闪烁"
+      "environment": "房中",
+      "lighting": "系统界面蓝光",
+      "color_palette": "科技蓝+紧张红",
+      "special_effects": "系统界面闪烁:【警告:检测到敌袭!】【敌对势力:黑煞教】【敌方战力:金丹中期×1,筑基后期×5,筑基中期×10】【宿主战力评估:筑基初期(且战五渣)】【推荐方案:跑!快跑!现在就跑!】"
     },
     "audio": {
-      "dialogue": "众弟子: '看！青云宗的破飞舟！还好意思来？！'",
+      "dialogue": "",
       "narration": "",
-      "internal_monologue": "顾玄: 等着,早晚让你们好看！",
-      "background_music": "尴尬带紧张",
-      "sound_effects": ["嘲笑声"],
-      "volume_level": "嘲笑突出"
+      "internal_monologue": "顾玄:......系统你这建议很中肯,但我往哪跑啊!",
+      "background_music": "紧张急促",
+      "sound_effects": ["系统提示音"],
+      "volume_level": "系统音突出"
     },
     "editing": {
-      "transition_to_next": "直接切",
-      "pacing": "尴尬紧张",
-      "purpose": "制造冲突,为后续打脸铺垫"
+      "transition_to_next": "快速切",
+      "pacing": "紧张",
+      "purpose": "系统界面吐槽"
     },
     "notes": {
-      "production_note": "注重对比效果",
-      "reference_style": "仙侠场面",
-      "difficulty_level": "简单"
+      "production_note": "系统界面特效",
+      "reference_style": "科技感紧张",
+      "difficulty_level": "中等"
     }
   },
   {
@@ -238,149 +210,692 @@
     "chapter_number": 6,
     "scene_number": 5,
     "duration": 8,
-    "shot_type": "全景",
-    "location": "天衍宗论道会场",
-    "time_of_day": "下午",
+    "shot_type": "中景",
+    "location": "青云宗院落",
+    "time_of_day": "深夜",
     "composition": {
-      "camera_position": "高角度俯拍",
+      "camera_position": "三人构图",
       "camera_movement": "缓慢推近",
-      "framing": "大场面",
-      "focus_type": "整体清晰"
+      "framing": "紧张对话",
+      "focus_type": "表情清晰"
     },
     "characters": [
       {
-        "name": "各宗精英",
-        "position": "展示绝学",
-        "action": "依次登场表演",
-        "expression": "自信 → 狂傲",
-        "costume": "华丽服饰"
+        "name": "顾玄",
+        "position": "院中",
+        "action": "大喊,慌乱",
+        "expression": "紧张,崩溃",
+        "costume": "粗布麻衣"
+      },
+      {
+        "name": "李道玄",
+        "position": "被惊醒",
+        "action": "脸色变了",
+        "expression": "凝重,苦笑",
+        "costume": "睡衣"
+      },
+      {
+        "name": "陆尘",
+        "position": "紧张询问",
+        "action": "紧张地问",
+        "expression": "忧虑",
+        "costume": "睡衣"
       }
     ],
     "visual_effects": {
-      "environment": "论道会场,恢弘壮观",
-      "lighting": "明亮+特效光",
-      "color_palette": "绚丽多彩",
-      "special_effects": "各宗展示绝学,特效华丽"
+      "environment": "院落深夜",
+      "lighting": "昏暗月光",
+      "color_palette": "紧张色调",
+      "special_effects": "山下魔修结阵,阴邪气息笼罩"
     },
     "audio": {
-      "dialogue": "",
-      "narration": "各宗依次登场,绝学纷呈,轮到青云宗时...",
-      "internal_monologue": "",
-      "background_music": "恢弘震撼",
-      "sound_effects": ["掌声", "惊呼声"],
-      "volume_level": "震撼突出"
+      "dialogue": "掌门!师弟!快起来!有敌袭!是魔教的人!看服饰像是黑煞教的...他们怎么会盯上我们这种小宗门?怎么办?跑吗?跑不掉的...黑煞教擅长追踪,既然找上门,就绝不会让我们逃脱",
+      "narration": "",
+      "internal_monologue": "顾玄心里叫苦:还能为什么?肯定是我白天太装逼,引来了麻烦!我就知道!装逼装过头了!这下真要完了!对面有金丹大佬啊!我们这破宗门拿什么打?",
+      "background_music": "紧张压抑",
+      "sound_effects": ["魔修结阵声"],
+      "volume_level": "对话突出"
     },
     "editing": {
-      "transition_to_next": "直接切",
-      "pacing": "震撼",
-      "purpose": "铺垫高潮"
+      "transition_to_next": "快速切",
+      "pacing": "紧张",
+      "purpose": "三人紧张对话"
     },
     "notes": {
-      "production_note": "大场面制作",
-      "reference_style": "仙侠盛会",
-      "difficulty_level": "中等"
+      "production_note": "注重紧张氛围",
+      "reference_style": "压抑紧张",
+      "difficulty_level": "简单"
     }
   },
   {
     "shot_id": "EP06-S006",
     "chapter_number": 6,
-    "scene_number": 5,
+    "scene_number": 6,
     "duration": 10,
-    "shot_type": "特效特写",
-    "location": "天衍宗论道会场",
-    "time_of_day": "下午",
+    "shot_type": "特效全景",
+    "location": "青云宗山门",
+    "time_of_day": "深夜",
     "composition": {
-      "camera_position": "环绕拍摄",
-      "camera_movement": "快速环绕",
-      "framing": "动态构图",
-      "focus_type": "特效突出"
+      "camera_position": "仰拍山门",
+      "camera_movement": "震撼推近",
+      "framing": "大场面",
+      "focus_type": "特效清晰"
     },
     "characters": [
       {
-        "name": "陆尘",
-        "position": "画面中央",
-        "action": "天魔之力加持,剑法施展",
-        "expression": "茫然 → 威严",
-        "costume": "布衣少女,剑气缭绕"
+        "name": "魔修们",
+        "position": "山下结阵",
+        "action": "发动攻击,释放煞气",
+        "expression": "阴冷,狂妄",
+        "costume": "黑衣"
+      },
+      {
+        "name": "顾玄三人",
+        "position": "山上",
+        "action": "扑倒躲避",
+        "expression": "惊恐",
+        "costume": "睡衣"
       }
     ],
     "visual_effects": {
-      "environment": "论道会场",
-      "lighting": "雷电亮光",
+      "environment": "山门摇摇欲坠",
+      "lighting": "黑色煞气光芒",
       "color_palette": "高对比度",
-      "special_effects": "天魔之力加持,陆尘剑引天雷,古老剑意爆发,天地异象"
+      "special_effects": "黑色煞气如巨蟒轰在山门上,山门崩塌,碎石四溅"
     },
     "audio": {
       "dialogue": "",
-      "narration": "",
-      "internal_monologue": "顾玄: 卧槽！这么猛？！",
-      "background_music": "震撼恢弘",
-      "sound_effects": ["雷声轰鸣", "全场惊呼"],
+      "narration": "话没说完,山下魔修已经发动攻击!一道黑色煞气如巨蟒般扑向山门!小心!黑色煞气轰在山门上,震得整个山头都在颤抖。那破旧的山门顿时裂开数道缝隙,眼看就要崩塌",
+      "internal_monologue": "完了完了...我才筑基期啊!对面有金丹大佬!这要怎么打?",
+      "background_music": "震撼紧张",
+      "sound_effects": ["煞气轰鸣", "山门崩塌"],
       "volume_level": "震撼突出"
     },
     "editing": {
-      "transition_to_next": "直接切",
+      "transition_to_next": "快速切",
       "pacing": "震撼",
-      "purpose": "打脸高潮,震撼全场"
+      "purpose": "山门崩塌危机"
     },
     "notes": {
-      "production_note": "大量特效",
-      "reference_style": "仙侠高潮",
-      "difficulty_level": "复杂"
+      "production_note": "特效场景",
+      "reference_style": "震撼紧张",
+      "difficulty_level": "中等"
     }
   },
   {
     "shot_id": "EP06-S007",
     "chapter_number": 6,
-    "scene_number": 6,
-    "duration": 7,
-    "shot_type": "全景",
-    "location": "天衍宗论道会场",
-    "time_of_day": "下午",
+    "scene_number": 7,
+    "duration": 9,
+    "shot_type": "中景",
+    "location": "后院枯井",
+    "time_of_day": "深夜",
     "composition": {
-      "camera_position": "高角度俯拍",
-      "camera_movement": "固定镜头",
-      "framing": "大场面",
-      "focus_type": "全场震惊"
+      "camera_position": "井底俯拍",
+      "camera_movement": "快速推近",
+      "framing": "紧张构图",
+      "focus_type": "阵盘清晰"
     },
     "characters": [
       {
-        "name": "各大宗门长老",
-        "position": "贵宾席",
-        "action": "齐齐起身,面色骇然",
-        "expression": "震惊 → 敬畏",
-        "costume": "长老服饰"
+        "name": "顾玄",
+        "position": "井边",
+        "action": "连滚带爬冲到井边,胡乱操作",
+        "expression": "慌乱→决绝",
+        "costume": "粗布麻衣"
       },
       {
+        "name": "李道玄",
+        "position": "远处",
+        "action": "指路",
+        "expression": "无奈",
+        "costume": "睡衣"
+      }
+    ],
+    "visual_effects": {
+      "environment": "井底枯井,残破阵盘",
+      "lighting": "昏暗",
+      "color_palette": "紧张色调",
+      "special_effects": "第二波攻击轰来,山门彻底崩塌,中品灵石拍在阵盘上"
+    },
+    "audio": {
+      "dialogue": "不行!得启动护山大阵!掌门,阵眼在哪?就在井底...但真的没用啊!不管了!死马当活马医!不管了!死马当活马医!",
+      "narration": "",
+      "internal_monologue": "不管了!死马当活马医!反正横竖都是死,不如拼一把!",
+      "background_music": "紧张急促",
+      "sound_effects": ["山门崩塌", "灵石拍击"],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "快速切",
+      "pacing": "极快",
+      "purpose": "启动护山大阵"
+    },
+    "notes": {
+      "production_note": "紧张动作戏",
+      "reference_style": "急促紧张",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP06-S008",
+    "chapter_number": 6,
+    "scene_number": 8,
+    "duration": 11,
+    "shot_type": "特效特写",
+    "location": "枯井阵盘",
+    "time_of_day": "深夜",
+    "composition": {
+      "camera_position": "特写阵盘",
+      "camera_movement": "环绕拍摄",
+      "framing": "特效构图",
+      "focus_type": "特效清晰"
+    },
+    "characters": [
+      {
         "name": "顾玄",
-        "position": "台下,表面淡定",
-        "action": "强装镇定",
-        "expression": "表面淡定,内心慌乱",
+        "position": "操控阵盘",
+        "action": "胡乱掐诀念咒,胡乱操控",
+        "expression": "紧张→懵逼",
         "costume": "粗布麻衣"
       }
     ],
     "visual_effects": {
-      "environment": "会场死寂,然后爆发出惊呼",
-      "lighting": "自然光",
-      "color_palette": "震撼色调",
-      "special_effects": "无"
+      "environment": "阵盘",
+      "lighting": "符文亮光",
+      "color_palette": "绚丽色彩",
+      "special_effects": "中品灵石爆发出刺目光芒,阵盘符文逐一亮起但明灭不定如接触不良,符文运行轨迹完全错乱"
     },
     "audio": {
-      "dialogue": "众长老: '此剑意...古老而霸道！青云宗到底什么来头？！'",
+      "dialogue": "天地无极,乾坤借法!护山大阵,开!",
+      "narration": "然而就在他念完咒语的瞬间,那块中品灵石突然爆发出刺目光芒!整个阵盘上的符文逐一亮起,虽然明灭不定像是接触不良的灯泡,但确实被激活了!但他完全不懂正确操作方法,只能凭着感觉胡乱操控。那些符文在他胡乱注入灵力下,运行轨迹完全错乱",
+      "internal_monologue": "有戏!",
+      "background_music": "紧张转惊喜",
+      "sound_effects": ["阵盘启动声"],
+      "volume_level": "特效突出"
+    },
+    "editing": {
+      "transition_to_next": "快速切",
+      "pacing": "快速",
+      "purpose": "意外激活+乱操作"
+    },
+    "notes": {
+      "production_note": "大量特效",
+      "reference_style": "搞笑紧张",
+      "difficulty_level": "复杂"
+    }
+  },
+  {
+    "shot_id": "EP06-S009",
+    "chapter_number": 6,
+    "scene_number": 9,
+    "duration": 10,
+    "shot_type": "特效全景",
+    "location": "青云宗上空-山下",
+    "time_of_day": "深夜",
+    "composition": {
+      "camera_position": "多视角切换",
+      "camera_movement": "快速切换",
+      "framing": "对峙构图",
+      "focus_type": "特效清晰"
+    },
+    "characters": [
+      {
+        "name": "魔修们",
+        "position": "山下",
+        "action": "看到护山大阵,结更强阵",
+        "expression": "冷笑→自信",
+        "costume": "黑衣"
+      },
+      {
+        "name": "顾玄",
+        "position": "井边",
+        "action": "手忙脚乱操控,胡乱转动",
+        "expression": "慌乱",
+        "costume": "粗布麻衣"
+      }
+    ],
+    "visual_effects": {
+      "environment": "青云宗上空光罩+山下魔修大阵",
+      "lighting": "光罩光芒+黑色邪气",
+      "color_palette": "对撞色彩",
+      "special_effects": "破破烂烂满是漏洞的护山大阵光罩,巨大的黑色骷髅头嘶吼着扑向光罩"
+    },
+    "audio": {
+      "dialogue": "哦?居然还有护山阵?可惜残破不堪,一击可破!结黑煞灭魂阵!别别别过来啊!",
+      "narration": "山下,魔修们正准备发动第三波攻击,突然看见青云宗上空亮起一个巨大的光罩——虽然破破烂烂满是漏洞,但确实是护山大阵!魔修们立即变换阵型,更强的邪气凝聚,化作一个巨大的黑色骷髅头,嘶吼着扑向光罩",
+      "internal_monologue": "",
+      "background_music": "紧张震撼",
+      "sound_effects": ["骷髅嘶吼"],
+      "volume_level": "震撼突出"
+    },
+    "editing": {
+      "transition_to_next": "快速切",
+      "pacing": "紧张",
+      "purpose": "对峙升级"
+    },
+    "notes": {
+      "production_note": "大量CG特效",
+      "reference_style": "紧张震撼",
+      "difficulty_level": "复杂"
+    }
+  },
+  {
+    "shot_id": "EP06-S010",
+    "chapter_number": 6,
+    "scene_number": 10,
+    "duration": 11,
+    "shot_type": "系统界面特写",
+    "location": "枯井边",
+    "time_of_day": "深夜",
+    "composition": {
+      "camera_position": "特写系统界面",
+      "camera_movement": "界面弹出",
+      "framing": "界面构图",
+      "focus_type": "界面清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "看着系统界面",
+        "action": "看到警告,懵逼",
+        "expression": "懵逼→崩溃",
+        "costume": "粗布麻衣"
+      }
+    ],
+    "visual_effects": {
+      "environment": "阵盘",
+      "lighting": "系统界面+阵盘红光",
+      "color_palette": "警告红色",
+      "special_effects": "系统界面闪烁:【警告:宿主触发了\"阵法自毁\"符文!】【效果:将阵法内所有能量定向释放】【目标:锁定最近的最大能量源(敌方大阵)】【宿主操作:纯属意外...但运气爆棚】"
+    },
+    "audio": {
+      "dialogue": "",
+      "narration": "这一转,恰好触发了某个极其古老的隐藏符文——那并非防御符文,而是一个标记为\"极度危险,切勿触碰\"的自毁符文",
+      "internal_monologue": "顾玄:......这是要炸了吗?!",
+      "background_music": "紧张转惊悚",
+      "sound_effects": ["系统警告音"],
+      "volume_level": "系统突出"
+    },
+    "editing": {
+      "transition_to_next": "快速切",
+      "pacing": "极快",
+      "purpose": "系统警告+意外转折"
+    },
+    "notes": {
+      "production_note": "系统界面特效",
+      "reference_style": "惊悚搞笑",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP06-S011",
+    "chapter_number": 6,
+    "scene_number": 11,
+    "duration": 12,
+    "shot_type": "特效全景",
+    "location": "青云宗-山下",
+    "time_of_day": "深夜",
+    "composition": {
+      "camera_position": "宏大视角",
+      "camera_movement": "震撼推拉",
+      "framing": "爆炸构图",
+      "focus_type": "特效清晰"
+    },
+    "characters": [
+      {
+        "name": "魔修们",
+        "position": "大阵中心",
+        "action": "被血色细线射入,爆炸吞噬",
+        "expression": "惊恐→惨叫",
+        "costume": "黑衣"
+      },
+      {
+        "name": "顾玄三人",
+        "position": "山上",
+        "action": "抱头蹲防,目瞪口呆",
+        "expression": "惊恐→懵逼",
+        "costume": "睡衣"
+      }
+    ],
+    "visual_effects": {
+      "environment": "护山大阵血红色,爆炸场景",
+      "lighting": "血红色光芒+爆炸光芒",
+      "color_palette": "震撼红黑",
+      "special_effects": "血红色光芒凝聚成细线射向山下,黑煞灭魂阵自爆,恐怖爆炸能量吞噬魔修,金丹头领尸骨无存,爆炸余波震得山头摇晃"
+    },
+    "audio": {
+      "dialogue": "嗡,轰——!!!",
+      "narration": "\"嗡\"的一声,整个护山大阵突然变成血红色!阵盘剧烈震动,发出不堪重负的哀鸣!然而预想中的爆炸并没有发生。那血红色的光芒反而凝聚成一道细线,精准地射向山下魔修结阵的中心点!一声惊天动地的巨响!黑煞灭魂阵就像被点燃的火药桶,瞬间自爆!恐怖的爆炸能量将十几个魔修全部吞噬",
+      "internal_monologue": "完了!要炸了!这...这是真的吗?我把对面的大阵炸了?这都行?!",
+      "background_music": "震撼恢弘",
+      "sound_effects": ["阵盘震动", "惊天爆炸", "惨叫声"],
+      "volume_level": "震撼突出"
+    },
+    "editing": {
+      "transition_to_next": "快速切",
+      "pacing": "震撼",
+      "purpose": "意外反杀高潮"
+    },
+    "notes": {
+      "production_note": "大量CG特效",
+      "reference_style": "震撼爆炸",
+      "difficulty_level": "非常复杂"
+    }
+  },
+  {
+    "shot_id": "EP06-S012",
+    "chapter_number": 6,
+    "scene_number": 12,
+    "duration": 9,
+    "shot_type": "中景",
+    "location": "青云宗院落",
+    "time_of_day": "深夜",
+    "composition": {
+      "camera_position": "三人构图",
+      "camera_movement": "缓慢推近",
+      "framing": "懵逼对话",
+      "focus_type": "表情清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "院中",
+        "action": "负手而立,表面装逼",
+        "expression": "表面宗师,内心慌乱",
+        "costume": "睡衣,衣摆飘动"
+      },
+      {
+        "name": "陆尘",
+        "position": "看着山下,双眼放光",
+        "action": "脑补补正",
+        "expression": "崇拜→恍然",
+        "costume": "睡衣"
+      },
+      {
+        "name": "李道玄",
+        "position": "看着山下,恍然大悟",
+        "action": "脑补补正",
+        "expression": "懵逼→赞赏",
+        "costume": "睡衣"
+      }
+    ],
+    "visual_effects": {
+      "environment": "山下大坑,残肢断臂,幸存魔修哀嚎",
+      "lighting": "夜风,月光",
+      "color_palette": "震撼转搞笑",
+      "special_effects": "顾玄手中灵石化为粉末,阵盘彻底碎裂"
+    },
+    "audio": {
+      "dialogue": "发、发生了什么?护山大阵...什么时候有这种威力了?哼,黑煞教不过如此。连我随手布下的反噬之阵都看不破,也敢来犯我青云宗?原来师兄早有准备!故意引他们结阵,再用阵法反噬!高明啊!不愧是我的好徒儿!这招借力打力,妙极妙极!",
+      "narration": "院内,顾玄三人目瞪口呆地看着山下的一片狼藉。原本魔修站立的地方只剩下一个大坑,到处是残肢断臂,几个侥幸未死的魔修在地上哀嚎打滚",
+      "internal_monologue": "顾玄:......我不是,我没有,别瞎说啊!他纯粹是瞎猫碰上死耗子,谁知道那阵法还有自爆功能?",
+      "background_music": "震撼转搞笑",
+      "sound_effects": ["魔修哀嚎"],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "快速切",
+      "pacing": "中等",
+      "purpose": "脑补补正三连击"
+    },
+    "notes": {
+      "production_note": "注重演技反差",
+      "reference_style": "搞笑装逼",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP06-S013",
+    "chapter_number": 6,
+    "scene_number": 13,
+    "duration": 8,
+    "shot_type": "中景",
+    "location": "山下",
+    "time_of_day": "深夜",
+    "composition": {
+      "camera_position": "魔修视角",
+      "camera_movement": "颤抖晃动",
+      "framing": "惊恐构图",
+      "focus_type": "魔修清晰"
+    },
+    "characters": [
+      {
+        "name": "幸存魔修",
+        "position": "挣扎爬起",
+        "action": "惊恐看山上,连滚带爬逃跑",
+        "expression": "惊恐,崩溃",
+        "costume": "破烂黑衣"
+      },
+      {
+        "name": "顾玄",
+        "position": "山上(远景)",
+        "action": "负手而立",
+        "expression": "表面宗师气度",
+        "costume": "睡衣"
+      }
+    ],
+    "visual_effects": {
+      "environment": "一片狼藉,大坑,残肢断臂",
+      "lighting": "昏暗月光",
+      "color_palette": "惊恐色调",
+      "special_effects": "魔修视角的顾玄如鬼如神"
+    },
+    "audio": {
+      "dialogue": "他、他早就看穿了我们的阵法!还设置了反制手段...这是何等的心机和阵法造诣!快跑!青云宗有高人!",
       "narration": "",
-      "internal_monologue": "顾玄: 完了,玩大了...",
-      "background_music": "震撼后转为紧张",
-      "sound_effects": ["全场哗然"],
-      "volume_level": "惊呼突出"
+      "internal_monologue": "",
+      "background_music": "惊悚搞笑",
+      "sound_effects": ["魔修逃跑声"],
+      "volume_level": "魔修声音突出"
+    },
+    "editing": {
+      "transition_to_next": "快速切",
+      "pacing": "快速",
+      "purpose": "魔修脑补补正"
+    },
+    "notes": {
+      "production_note": "魔修视角镜头",
+      "reference_style": "惊悚搞笑",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP06-S014",
+    "chapter_number": 6,
+    "scene_number": 14,
+    "duration": 10,
+    "shot_type": "全景蒙太奇",
+    "location": "青州城各处",
+    "time_of_day": "第二天白天",
+    "composition": {
+      "camera_position": "多地点快速切换",
+      "camera_movement": "流畅切换",
+      "framing": "蒙太奇构图",
+      "focus_type": "议论清晰"
+    },
+    "characters": [
+      {
+        "name": "青州城修士们",
+        "position": "各处议论",
+        "action": "议论纷纷",
+        "expression": "震惊,崇拜",
+        "costume": "各式修士服饰"
+      }
+    ],
+    "visual_effects": {
+      "environment": "青州城热闹场景",
+      "lighting": "明亮自然光",
+      "color_palette": "兴奋色调",
+      "special_effects": "传言画面,各种夸张想象"
+    },
+    "audio": {
+      "dialogue": "听说了吗?昨晚黑煞教偷袭青云宗,全军覆没!据说那个顾玄早就布下陷阱,一招反噬大阵灭了所有魔修!连金丹中期的魔头都被秒了!这绝对是隐藏大佬啊!经此一役,再没人敢叫顾玄\"特效仙人\",取而代之的是\"阵道宗师\"、\"隐藏大佬\"等称号",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "兴奋快速",
+      "sound_effects": ["议论声", "惊呼"],
+      "volume_level": "议论突出"
+    },
+    "editing": {
+      "transition_to_next": "快速切",
+      "pacing": "快速",
+      "purpose": "名声大噪蒙太奇"
+    },
+    "notes": {
+      "production_note": "多场景切换",
+      "reference_style": "兴奋快速",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP06-S015",
+    "chapter_number": 6,
+    "scene_number": 15,
+    "duration": 9,
+    "shot_type": "系统界面特写",
+    "location": "顾玄房中",
+    "time_of_day": "白天",
+    "composition": {
+      "camera_position": "特写系统界面",
+      "camera_movement": "界面弹出",
+      "framing": "界面构图",
+      "focus_type": "界面清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "看着系统界面",
+        "action": "心情复杂",
+        "expression": "复杂,担忧",
+        "costume": "粗布麻衣"
+      }
+    ],
+    "visual_effects": {
+      "environment": "房中",
+      "lighting": "系统界面蓝光",
+      "color_palette": "科技蓝+警告红",
+      "special_effects": "系统界面闪烁:【检测到宿主完成\"意外反杀成就\"】【奖励:积分+40】【当前积分:280】【管理员权限:Lv.1(封印中)...运气值再次异常波动】【警告:宿主的\"运气\"已引起更多势力注意】【提示:黑煞教不会善罢甘休,请宿主做好准备...或祈祷更多运气】"
+    },
+    "audio": {
+      "dialogue": "",
+      "narration": "顾玄看着系统提示,心情复杂",
+      "internal_monologue": "",
+      "background_music": "复杂音乐",
+      "sound_effects": ["系统提示音"],
+      "volume_level": "系统突出"
+    },
+    "editing": {
+      "transition_to_next": "快速切",
+      "pacing": "中等",
+      "purpose": "系统奖励+警告"
+    },
+    "notes": {
+      "production_note": "系统界面特效",
+      "reference_style": "科技感紧张",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP06-S016",
+    "chapter_number": 6,
+    "scene_number": 16,
+    "duration": 10,
+    "shot_type": "中景",
+    "location": "黑煞教总坛",
+    "time_of_day": "白天",
+    "composition": {
+      "camera_position": "压迫性仰拍",
+      "camera_movement": "缓慢推近",
+      "framing": "压迫构图",
+      "focus_type": "长老清晰"
+    },
+    "characters": [
+      {
+        "name": "黑袍老者",
+        "position": "高位坐下",
+        "action": "听着汇报,面色阴沉",
+        "expression": "阴沉,冷厉",
+        "costume": "黑袍"
+      },
+      {
+        "name": "幸存魔修",
+        "position": "跪着汇报",
+        "action": "颤抖汇报",
+        "expression": "恐惧",
+        "costume": "破烂黑衣"
+      }
+    ],
+    "visual_effects": {
+      "environment": "黑煞教总坛,阴森氛围",
+      "lighting": "昏暗光",
+      "color_palette": "阴冷色调",
+      "special_effects": "威压弥漫"
+    },
+    "audio": {
+      "dialogue": "青云宗...顾玄...能一眼看破黑煞灭魂阵的破绽,并设下反制...此子阵法造诣恐怕不在本座之下。长老,那顾玄恐怕至少是元婴期伪装...元婴期?恐怕不止...继续监视,但不要轻举妄动。本座要亲自会会这个顾玄",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "阴森压迫",
+      "sound_effects": ["手指敲击扶手"],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "快速切",
+      "pacing": "缓慢压迫",
+      "purpose": "反派铺垫悬念"
+    },
+    "notes": {
+      "production_note": "压迫氛围",
+      "reference_style": "阴森反派",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP06-S017",
+    "chapter_number": 6,
+    "scene_number": 17,
+    "duration": 8,
+    "shot_type": "中景",
+    "location": "青云宗-顾玄房中",
+    "time_of_day": "白天",
+    "composition": {
+      "camera_position": "对话角度",
+      "camera_movement": "固定镜头",
+      "framing": "独白构图",
+      "focus_type": "顾玄清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "房中",
+        "action": "发愁",
+        "expression": "担忧,无奈",
+        "costume": "粗布麻衣"
+      }
+    ],
+    "visual_effects": {
+      "environment": "房中",
+      "lighting": "自然光",
+      "color_palette": "温馨带忧愁",
+      "special_effects": "碎裂的阵盘"
+    },
+    "audio": {
+      "dialogue": "护山大阵被我玩坏了...下次再来人可怎么办啊?要不...再买个更贵点的特效灵石?",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "轻松搞笑",
+      "sound_effects": [],
+      "volume_level": "对话清晰"
     },
     "editing": {
       "transition_to_next": "淡出",
-      "pacing": "震撼",
-      "purpose": "章节高潮,留下悬念"
+      "pacing": "舒缓",
+      "purpose": "搞笑结尾+下章预告"
     },
     "notes": {
-      "production_note": "注重氛围",
-      "reference_style": "震撼场景",
+      "production_note": "轻松收尾",
+      "reference_style": "搞笑温馨",
       "difficulty_level": "简单"
     }
   }

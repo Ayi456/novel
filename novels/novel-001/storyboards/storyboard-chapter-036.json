@@ -3,294 +3,12 @@
     "shot_id": "EP36-S001",
     "chapter_number": 36,
     "scene_number": 1,
-    "duration": 10,
-    "shot_type": "中景",
-    "location": "升华之域",
-    "time_of_day": "无",
-    "composition": {
-      "camera_position": "对话角度",
-      "camera_movement": "缓慢推近",
-      "framing": "对话构图",
-      "focus_type": "对话清晰"
-    },
-    "characters": [
-      {
-        "name": "顾玄",
-        "position": "升华之域",
-        "action": "理解新身份",
-        "expression": "困惑→接受",
-        "costume": "管理者长袍"
-      },
-      {
-        "name": "引导者",
-        "position": "光之生命体",
-        "action": "解释,发放徽章",
-        "expression": "温和",
-        "costume": "光之形态"
-      }
-    ],
-    "visual_effects": {
-      "environment": "升华之域",
-      "lighting": "柔和光芒",
-      "color_palette": "神圣色调",
-      "special_effects": "光之生命体,徽章【初级宇宙管理者】【权限等级:幼儿园小班】"
-    },
-    "audio": {
-      "dialogue": "所以...我现在是...宇宙管理员plus pro max版?可以这么说。你的宇宙刚刚'毕业',需要学习如何与其他成熟宇宙相处。这是...我这算是降级了?管理单个宇宙和管理多元宇宙是两回事。首先你要参加...警报!原生宇宙正在发生巨变!",
-      "narration": "",
-      "internal_monologue": "",
-      "background_music": "轻松转为紧张",
-      "sound_effects": ["徽章声", "警报"],
-      "volume_level": "对话突出"
-    },
-    "editing": {
-      "transition_to_next": "快速切",
-      "pacing": "中等转快速",
-      "purpose": "新身份+危机"
-    },
-    "notes": {
-      "production_note": "实景+CG",
-      "reference_style": "幽默转折紧张",
-      "difficulty_level": "中等"
-    }
-  },
-  {
-    "shot_id": "EP36-S002",
-    "chapter_number": 36,
-    "scene_number": 2,
-    "duration": 11,
-    "shot_type": "全景蒙太奇",
-    "location": "原生宇宙-各处",
-    "time_of_day": "无",
-    "composition": {
-      "camera_position": "多地点",
-      "camera_movement": "快速切换",
-      "framing": "混乱进化构图",
-      "focus_type": "进化清晰"
-    },
-    "characters": [
-      {
-        "name": "进化后的文明",
-        "position": "宇宙各处",
-        "action": "过度进化",
-        "expression": "兴奋,失控",
-        "costume": "进化形态"
-      },
-      {
-        "name": "顾玄",
-        "position": "返回宇宙",
-        "action": "稳定规则",
-        "expression": "头疼",
-        "costume": "管理者长袍"
-      }
-    ],
-    "visual_effects": {
-      "environment": "过度进化的宇宙",
-      "lighting": "进化光芒",
-      "color_palette": "高对比度",
-      "special_effects": "科技文明突破维度科技,魔法文明领悟创世魔法,蘑菇人光合小型宇宙,AI宇宙化,精灵创造多余维度,星系长满可食用蘑菇"
-    },
-    "audio": {
-      "dialogue": "我们在探索无限可能!这是魔法的自由!蘑菇要自由生长!规则稳定!都给我冷静下来!这不叫降级,新生宇宙文明就像熊孩子,有能力却没分寸!管理员plus pro max版现在当幼儿园园长...",
-      "narration": "",
-      "internal_monologue": "",
-      "background_music": "混乱幽默",
-      "sound_effects": ["进化混乱声"],
-      "volume_level": "对话突出"
-    },
-    "editing": {
-      "transition_to_next": "快速切",
-      "pacing": "极快",
-      "purpose": "进化混乱蒙太奇"
-    },
-    "notes": {
-      "production_note": "大量特效",
-      "reference_style": "混乱幽默",
-      "difficulty_level": "复杂"
-    }
-  },
-  {
-    "shot_id": "EP36-S003",
-    "chapter_number": 36,
-    "scene_number": 3,
-    "duration": 10,
-    "shot_type": "中景",
-    "location": "原生宇宙-各处",
-    "time_of_day": "无",
-    "composition": {
-      "camera_position": "多管理者",
-      "camera_movement": "流畅切换",
-      "framing": "家访构图",
-      "focus_type": "互动清晰"
-    },
-    "characters": [
-      {
-        "name": "成熟宇宙管理者",
-        "position": "来访",
-        "action": "家访,指导",
-        "expression": "严肃→尴尬",
-        "costume": "各异形态"
-      },
-      {
-        "name": "顾玄",
-        "position": "调解",
-        "action": "调解纠纷",
-        "expression": "崩溃",
-        "costume": "园长形态"
-      },
-      {
-        "name": "新生文明",
-        "position": "被指导",
-        "action": "反抗,学习",
-        "expression": "不满→接受",
-        "costume": "各异"
-      }
-    ],
-    "visual_effects": {
-      "environment": "多元宇宙",
-      "lighting": "指导光芒",
-      "color_palette": "多彩互动",
-      "special_effects": "机械至尊批评AI,魔法老法师教精灵标准姿势,生态花要求修剪蘑菇人,顾玄调解如园长,宇宙互助小组成立"
-    },
-    "audio": {
-      "dialogue": "不规范!缺乏安全协议!缺乏优雅!破坏生态平衡!不许给同学装芯片!别强迫别人摆姿势!蘑菇人有权利长成自己喜欢的样子!看到问题了吗?新生宇宙需要指导,而非管制",
-      "narration": "",
-      "internal_monologue": "",
-      "background_music": "混乱转和谐",
-      "sound_effects": ["指导冲突声"],
-      "volume_level": "对话突出"
-    },
-    "editing": {
-      "transition_to_next": "快速切",
-      "pacing": "快速",
-      "purpose": "家访冲突转和谐"
-    },
-    "notes": {
-      "production_note": "多角色+特效",
-      "reference_style": "幽默指导",
-      "difficulty_level": "中等"
-    }
-  },
-  {
-    "shot_id": "EP36-S004",
-    "chapter_number": 36,
-    "scene_number": 4,
-    "duration": 11,
-    "shot_type": "全景蒙太奇",
-    "location": "宇宙边界-各处",
-    "time_of_day": "无",
-    "composition": {
-      "camera_position": "多边界点",
-      "camera_movement": "快速切换",
-      "framing": "边界摩擦构图",
-      "focus_type": "摩擦清晰"
-    },
-    "characters": [
-      {
-        "name": "各宇宙文明",
-        "position": "边界处",
-        "action": "摩擦,冲突",
-        "expression": "冲突",
-        "costume": "各异"
-      },
-      {
-        "name": "顾玄",
-        "position": "主持会议",
-        "action": "制定公约",
-        "expression": "头疼,负责",
-        "costume": "管理者长袍"
-      }
-    ],
-    "visual_effects": {
-      "environment": "宇宙边界",
-      "lighting": "边界光芒",
-      "color_palette": "多彩冲突",
-      "special_effects": "科技飞船误入魔法宇宙被当成金属龙,魔法咒语泄漏让电脑说谜语,蘑菇孢子飘到其他宇宙长唱歌蘑菇,宇宙边界会议制定《维度邻里公约》"
-    },
-    "audio": {
-      "dialogue": "设立边界标识!建立跨宇宙交警!蘑菇孢子需经过灭菌处理!咕噜(抗议)!无效!检测到'虚空残余'正在聚集!它们进化了!必须用超越规则的力量!文明多样性!科技文明演奏恒星交响乐,魔法文明编织命运织锦,蘑菇人举办史诗级蘑菇展!",
-      "narration": "",
-      "internal_monologue": "",
-      "background_music": "冲突转文明",
-      "sound_effects": ["边界冲突声", "文明展示声"],
-      "volume_level": "对话突出"
-    },
-    "editing": {
-      "transition_to_next": "快速切",
-      "pacing": "极快",
-      "purpose": "边界摩擦转对抗"
-    },
-    "notes": {
-      "production_note": "大量特效",
-      "reference_style": "冲突文明",
-      "difficulty_level": "复杂"
-    }
-  },
-  {
-    "shot_id": "EP36-S005",
-    "chapter_number": 36,
-    "scene_number": 5,
     "duration": 12,
-    "shot_type": "特效全景",
-    "location": "多元宇宙",
-    "time_of_day": "无",
-    "composition": {
-      "camera_position": "宇宙视角",
-      "camera_movement": "宏大运动",
-      "framing": "文明多样性构图",
-      "focus_type": "展示清晰"
-    },
-    "characters": [
-      {
-        "name": "各文明",
-        "position": "宇宙各处",
-        "action": "展示独特一面",
-        "expression": "自豪,创作",
-        "costume": "各异"
-      },
-      {
-        "name": "虚空残余",
-        "position": "被驱散",
-        "action": "无法理解,消散",
-        "expression": "困惑,失败",
-        "costume": "虚空形态"
-      }
-    ],
-    "visual_effects": {
-      "environment": "多元宇宙",
-      "lighting": "文明光芒",
-      "color_palette": "绚丽多彩",
-      "special_effects": "恒星交响乐,命运织锦,史诗蘑菇展,虚空在文明多样性前无法理解无法侵蚀被驱散,宇宙成熟度飙升60%"
-    },
-    "audio": {
-      "dialogue": "这就是通过过滤器的意义!不是变得强大,而是变得...丰富!你终于明白了。管理宇宙不是控制,而是守护可能性。创始者去哪了?他们去了'源头'...探索所有宇宙之外的未知。也许有一天,你也会去。还是先当好幼儿园园长吧",
-      "narration": "",
-      "internal_monologue": "",
-      "background_music": "智慧史诗",
-      "sound_effects": ["文明展示声", "虚空消散"],
-      "volume_level": "对话突出"
-    },
-    "editing": {
-      "transition_to_next": "光芒转场",
-      "pacing": "宏大",
-      "purpose": "文明胜利"
-    },
-    "notes": {
-      "production_note": "大量CG特效",
-      "reference_style": "史诗级文明",
-      "difficulty_level": "非常复杂"
-    }
-  },
-  {
-    "shot_id": "EP36-S006",
-    "chapter_number": 36,
-    "scene_number": 6,
-    "duration": 10,
     "shot_type": "中景",
-    "location": "维度办公室",
+    "location": "升华之域-办公室",
     "time_of_day": "无",
     "composition": {
-      "camera_position": "办公桌角度",
+      "camera_position": "办公室全景",
       "camera_movement": "缓慢推近",
       "framing": "日常构图",
       "focus_type": "文件清晰"
@@ -299,14 +17,14 @@
       {
         "name": "顾玄",
         "position": "办公桌前",
-        "action": "处理文件,微笑",
+        "action": "处理文件",
         "expression": "无奈,满足",
         "costume": "管理者长袍"
       },
       {
         "name": "零",
         "position": "跳出来",
-        "action": "报告新事务",
+        "action": "报告事务",
         "expression": "习惯性",
         "costume": "虚拟形象"
       },
@@ -319,28 +37,688 @@
       }
     ],
     "visual_effects": {
-      "environment": "维度办公室",
+      "environment": "升华之域办公室",
       "lighting": "日常办公光芒",
       "color_palette": "温馨色调",
-      "special_effects": "桌上堆满文件:关于蘑菇孢子过敏的投诉、跨宇宙交通法修订案、如何防止AI给自己宇宙化指南,零跳出来,塔克哭诉,蘑菇人咕噜"
+      "special_effects": "超越维度的办公室、无数宇宙的全景、堆积如山的文件:关于蘑菇孢子过敏的投诉、跨宇宙交通法修订案、如何防止AI给自己宇宙化指南、零跳出来报告、塔克哭诉、蘑菇人咕噜"
     },
     "audio": {
-      "dialogue": "兄弟!新来的几个宇宙打起来了!因为争论哪个物理定律更优美!阁下!有文明投诉我们的章鱼语是噪音污染!咕噜(申请更多花盆)!...开始工作吧。全书阶段性完结。感谢陪伴顾玄从特效仙人到宇宙园长的旅程。也许某天,新的冒险还会开始...",
+      "dialogue": "升华之域,顾玄站在自己的办公室里,看着眼前流转的无数宇宙。这里已经不是简单的维度办公室,而是一个超越维度的存在——所有通过大过滤器的宇宙管理者的家园。桌上堆满了文件。零跳出来:兄弟!新来的几个宇宙打起来了!因为争论哪个物理定律更优美!塔克哭诉:阁下!有文明投诉我们的章鱼语是噪音污染!蘑菇代表:咕噜(申请更多花盆)...开始工作吧。这已经是他成为宇宙管理者的第三年了",
       "narration": "",
-      "internal_monologue": "",
+      "internal_monologue": "从最初的青云宗弟子,到特效修仙者,到多元宇宙监察使,再到如今的维度管理者...这条旅程,远超他最初的想象。从宗门弟子到宇宙园长,这跨度也太大了吧?不过...好像挺有意思的",
       "background_music": "温馨日常",
       "sound_effects": ["日常事务声"],
       "volume_level": "对话突出"
     },
     "editing": {
-      "transition_to_next": "淡出",
+      "transition_to_next": "直接切",
       "pacing": "舒缓",
-      "purpose": "温馨完结"
+      "purpose": "管理日常温馨"
     },
     "notes": {
       "production_note": "温馨日常场景",
-      "reference_style": "温馨完结",
+      "reference_style": "温馨日常",
       "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP36-S002",
+    "chapter_number": 36,
+    "scene_number": 2,
+    "duration": 11,
+    "shot_type": "中景",
+    "location": "升华之域-办公室",
+    "time_of_day": "无",
+    "composition": {
+      "camera_position": "对话角度",
+      "camera_movement": "推近",
+      "framing": "新生指导构图",
+      "focus_type": "对话清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "办公室",
+        "action": "准备接收新生",
+        "expression": "期待",
+        "costume": "管理者长袍"
+      },
+      {
+        "name": "零",
+        "position": "旁边",
+        "action": "兴奋报告",
+        "expression": "兴奋",
+        "costume": "虚拟形象"
+      }
+    ],
+    "visual_effects": {
+      "environment": "升华之域办公室",
+      "lighting": "新生光芒",
+      "color_palette": "期待色调",
+      "special_effects": "零兴奋报告、全息屏展示:宇宙编号β-12、通过预考时间昨天、文明类型混合型、顾玄整理仪表准备接收新生"
+    },
+    "audio": {
+      "dialogue": "零兴奋道:对了兄弟!有新生宇宙通过预考了!你要当导师了!顾玄查看数据:【宇宙编号:β-12】、【通过预考时间:昨天】、【文明类型:混合型】。准备接收新生。顾玄整理了一下仪表",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "期待欢快",
+      "sound_effects": ["全息屏声"],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "光门转场",
+      "pacing": "中等",
+      "purpose": "新生宇宙指导"
+    },
+    "notes": {
+      "production_note": "实景+CG",
+      "reference_style": "期待欢快",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP36-S003",
+    "chapter_number": 36,
+    "scene_number": 3,
+    "duration": 11,
+    "shot_type": "中景",
+    "location": "升华之域",
+    "time_of_day": "无",
+    "composition": {
+      "camera_position": "欢迎角度",
+      "camera_movement": "推近",
+      "framing": "欢迎构图",
+      "focus_type": "新管理员清晰"
+    },
+    "characters": [
+      {
+        "name": "咪咪",
+        "position": "被传送",
+        "action": "紧张报到",
+        "expression": "紧张",
+        "costume": "天猫形态"
+      },
+      {
+        "name": "顾玄",
+        "position": "欢迎",
+        "action": "温和接待",
+        "expression": "温和,微笑",
+        "costume": "管理者长袍"
+      },
+      {
+        "name": "塔克,精灵贤者,AI总管,蘑菇人",
+        "position": "欢迎",
+        "action": "赠送礼物",
+        "expression": "友好",
+        "costume": "各异"
+      }
+    ],
+    "visual_effects": {
+      "environment": "升华之域",
+      "lighting": "欢迎光芒",
+      "color_palette": "友好色调",
+      "special_effects": "通过预考的β-12宇宙管理员——个四只眼睛的天猫型生物——被传送过来、顾玄温和道别紧张开始介绍其他管理员、塔克用触手递上欢迎礼物《宇宙管理新手指南章鱼语版》、精灵贤者赠送了幸运法杖其实是个自拍杆、AI总管提供了管理助手软件偶尔会死机、蘑菇人送了袋孢子据说能种出会唱歌的蘑菇"
+    },
+    "audio": {
+      "dialogue": "通过预考的β-12宇宙管理员——一个四只眼睛的天猫型生物——被传送过来。导...导师好!我叫咪咪,第一次当管理员,什么都不懂...顾玄温和道:别紧张。我也是从新手过来的。来,我先介绍下其他管理员...他介绍了塔克(章鱼)、精灵贤者(代表魔法文明)、AI总管(代表科技文明)、蘑菇人(代表...蘑菇文明)。咪咪看得目瞪口呆:都...好厉害!",
+      "narration": "",
+      "internal_monologue": "这只天猫...好像比我当初还紧张?",
+      "background_music": "友好温馨",
+      "sound_effects": ["礼物赠送声"],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "快速切",
+      "pacing": "中等",
+      "purpose": "新生欢迎"
+    },
+    "notes": {
+      "production_note": "CG天猫角色",
+      "reference_style": "友好温馨",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP36-S004",
+    "chapter_number": 36,
+    "scene_number": 4,
+    "duration": 12,
+    "shot_type": "蒙太奇",
+    "location": "顾玄管理的宇宙",
+    "time_of_day": "无",
+    "composition": {
+      "camera_position": "多参观点",
+      "camera_movement": "流畅切换",
+      "framing": "参观构图",
+      "focus_type": "展示清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "带队参观",
+        "action": "展示成果",
+        "expression": "自豪",
+        "costume": "管理者长袍"
+      },
+      {
+        "name": "咪咪",
+        "position": "参观",
+        "action": "惊叹学习",
+        "expression": "惊叹,兴奋",
+        "costume": "天猫形态"
+      }
+    ],
+    "visual_effects": {
+      "environment": "顾玄管理的宇宙",
+      "lighting": "参观光芒",
+      "color_palette": "融合色调",
+      "special_effects": "顾玄带咪咪参观自己的宇宙展示各个文明的发展成果、精灵在教人类魔法AI在帮精灵优化施法效率蘑菇人在种蘑菇、指导开始了、咪咪试图复制顾玄宇宙的模式结果导致自己的宇宙混乱:精灵和AI打架因为对方都不懂对方的规则、蘑菇人过度繁殖因为没有天敌、甚至连物理定律都开始冲突、顾玄及时阻止:停每个宇宙都是独特的不能简单复制"
+    },
+    "audio": {
+      "dialogue": "指导开始了。顾玄带咪咪参观自己的宇宙,展示各个文明的发展成果。这里,他指着星球上繁荣的城市,是不同文明和谐共存的典范。精灵在教人类魔法,AI在帮精灵优化施法效率,蘑菇人...在种蘑菇。咪咪惊叹:太厉害了!我也要学!但很快,问题出现了。咪咪试图复制顾玄宇宙的模式,结果导致自己的宇宙混乱...顾玄及时阻止:停!每个宇宙都是独特的!不能简单复制!",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "学习转混乱",
+      "sound_effects": ["混乱声"],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "快速切",
+      "pacing": "快速",
+      "purpose": "模仿失败"
+    },
+    "notes": {
+      "production_note": "多场景+混乱",
+      "reference_style": "混乱学习",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP36-S005",
+    "chapter_number": 36,
+    "scene_number": 5,
+    "duration": 11,
+    "shot_type": "中景",
+    "location": "β-12宇宙",
+    "time_of_day": "无",
+    "composition": {
+      "camera_position": "对话角度",
+      "camera_movement": "推近",
+      "framing": "真谛构图",
+      "focus_type": "对话清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "指导",
+        "action": "改变指导方式",
+        "expression": "领悟,微笑",
+        "costume": "管理者长袍"
+      },
+      {
+        "name": "咪咪",
+        "position": "学习",
+        "action": "思考,领悟",
+        "expression": "思考→开心",
+        "costume": "天猫形态"
+      }
+    ],
+    "visual_effects": {
+      "environment": "β-12宇宙",
+      "lighting": "领悟光芒",
+      "color_palette": "成长色调",
+      "special_effects": "顾玄引导咪咪观察自己宇宙的特点、你的宇宙有什么独特之处、我的宇宙...所有生物都长得很萌、顾玄突然明白管理不是复制模式而是发现每个宇宙的独特价值、他改变了指导方式帮助咪咪发掘自己宇宙的特色、萌力文明有自己的优势、顾玄帮咪咪制定了萌力发展计划"
+    },
+    "audio": {
+      "dialogue": "他引导咪咪观察自己宇宙的特点:你的宇宙有什么独特之处?咪咪想了想:我的宇宙...所有生物都长得很萌?顾玄:......零忍不住笑:这是...萌力宇宙?顾玄突然明白:管理不是复制模式,而是发现每个宇宙的独特价值!他改变了指导方式,帮助咪咪发掘自己宇宙的特色:萌力文明有自己的优势——更容易获得其他文明的好感、在冲突中更容易被原谅、甚至能通过'可爱外交'解决争端!",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "领悟成长",
+      "sound_effects": ["领悟声"],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "流畅转场",
+      "pacing": "舒缓",
+      "purpose": "真谛领悟"
+    },
+    "notes": {
+      "production_note": "实景+CG",
+      "reference_style": "领悟成长",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP36-S006",
+    "chapter_number": 36,
+    "scene_number": 6,
+    "duration": 10,
+    "shot_type": "蒙太奇",
+    "location": "β-12宇宙-各处",
+    "time_of_day": "无",
+    "composition": {
+      "camera_position": "多发展点",
+      "camera_movement": "流畅切换",
+      "framing": "发展构图",
+      "focus_type": "发展清晰"
+    },
+    "characters": [
+      {
+        "name": "β-12文明",
+        "position": "各处发展",
+        "action": "萌力发展",
+        "expression": "开心,成功",
+        "costume": "萌态各异"
+      },
+      {
+        "name": "顾玄",
+        "position": "观察",
+        "action": "欣慰观察",
+        "expression": "欣慰",
+        "costume": "管理者长袍"
+      }
+    ],
+    "visual_effects": {
+      "environment": "β-12宇宙",
+      "lighting": "发展光芒",
+      "color_palette": "萌色调",
+      "special_effects": "顾玄帮咪咪制定了萌力发展计划:1.建立萌力评估体系 2.培养萌力外交官 3.开发萌力文化产业(比如毛绒玩具宠物直播等)、结果出奇的好β-12宇宙凭借萌力优势很快在多元宇宙中建立了友好关系甚至解决了几个跨宇宙纠纷(大家都受不了萌物的攻势)、咪咪感激道:谢谢导师我终于明白了、引导者出现欣慰地看着这一幕"
+    },
+    "audio": {
+      "dialogue": "顾玄帮咪咪制定了'萌力发展计划':1.建立'萌力评估体系' 2.培养'萌力外交官' 3.开发'萌力文化产业'(比如毛绒玩具、宠物直播等)。结果出奇的好!β-12宇宙凭借萌力优势,很快在多元宇宙中建立了友好关系,甚至解决了几个跨宇宙纠纷(大家都受不了萌物的攻势)。咪咪感激道:谢谢导师!我终于明白了!顾玄微笑:管理宇宙,就是发现并守护每个文明的独特价值。引导者出现,欣慰地看着这一幕:你学会了最重要的课程",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "成功温馨",
+      "sound_effects": ["发展声"],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "流畅转场",
+      "pacing": "舒缓",
+      "purpose": "指导成功"
+    },
+    "notes": {
+      "production_note": "多场景发展",
+      "reference_style": "成功温馨",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP36-S007",
+    "chapter_number": 36,
+    "scene_number": 7,
+    "duration": 12,
+    "shot_type": "全景",
+    "location": "地球-临州市",
+    "time_of_day": "白天",
+    "composition": {
+      "camera_position": "城市全景",
+      "camera_movement": "缓慢推近",
+      "framing": "回归构图",
+      "focus_type": "城市清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "街道上",
+        "action": "隐身观察",
+        "expression": "感慨,温馨",
+        "costume": "现代服装"
+      }
+    ],
+    "visual_effects": {
+      "environment": "三年后的地球",
+      "lighting": "融合光芒",
+      "color_palette": "融合色调",
+      "special_effects": "三年过去了地球变化很大、魔法与科技的融合让城市焕然一新:摩天楼间飘浮着魔法塔、汽车与扫帚在空中并行、街角有精灵开的奶茶店机器人开的修理铺、甚至公园里都有蘑菇人在种蘑菇(当然是合法的)、顾玄隐去身形走在熟悉的街道上"
+    },
+    "audio": {
+      "dialogue": "忙完新生指导,顾玄决定回地球看看。通过维度传送,他出现在临州市——那个他穿越前生活的地方。三年过去了,地球变化很大。魔法与科技的融合让城市焕然一新:摩天楼间飘浮着魔法塔、汽车与扫帚在空中并行、街角有精灵开的奶茶店、机器人开的修理铺、甚至公园里都有蘑菇人在种蘑菇(当然是合法的)",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "温馨回归",
+      "sound_effects": ["城市融合环境音"],
+      "volume_level": "环境音突出"
+    },
+    "editing": {
+      "transition_to_next": "流畅转场",
+      "pacing": "舒缓",
+      "purpose": "回归故里"
+    },
+    "notes": {
+      "production_note": "实景拍摄",
+      "reference_style": "温馨回归",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP36-S008",
+    "chapter_number": 36,
+    "scene_number": 8,
+    "duration": 11,
+    "shot_type": "中景",
+    "location": "顾玄旧家-阳光小区3单元402室",
+    "time_of_day": "晚上",
+    "composition": {
+      "camera_position": "房间角度",
+      "camera_movement": "推近",
+      "framing": "传承构图",
+      "focus_type": "场景清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "门口",
+        "action": "观察,现身",
+        "expression": "感慨,欣慰",
+        "costume": "现代服装"
+      },
+      {
+        "name": "顾浩",
+        "position": "房间内",
+        "action": "编程研究",
+        "expression": "专注,兴奋",
+        "costume": "大学生服装"
+      }
+    ],
+    "visual_effects": {
+      "environment": "旧家",
+      "lighting": "房间光芒",
+      "color_palette": "温馨色调",
+      "special_effects": "路过曾经的住址、那里住着新的家庭但窗台上还放着他当年送小浩的游戏机、系统提示:检测到创始者遗物...正在被使用、顾玄一愣立即感知进去——是小浩、他正在用游戏机做什么不是在编程、屏幕上的代码异常复杂、顾玄现身、小浩吓了一跳"
+    },
+    "audio": {
+      "dialogue": "路过曾经的住址——阳光小区3单元402室。那里住着新的家庭,但窗台上还放着他当年送小浩的游戏机。顾玄一愣,立即感知进去——是小浩!他正在用游戏机做什么...不,是在编程!屏幕上的代码异常复杂,但顾玄能看出...那是在编写'现实编辑器'!小浩,顾玄现身。小浩吓了一跳:哥?!你怎么回来了?",
+      "narration": "",
+      "internal_monologue": "三年不见,他已经从高中生成长为大学生——而且是计算机系的顶尖学生。弟弟已经隐约触及了规则的边缘!",
+      "background_music": "温馨传承",
+      "sound_effects": ["编程声"],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "中等",
+      "purpose": "传承开始"
+    },
+    "notes": {
+      "production_note": "实景拍摄",
+      "reference_style": "温馨传承",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP36-S009",
+    "chapter_number": 36,
+    "scene_number": 9,
+    "duration": 12,
+    "shot_type": "中景",
+    "location": "顾浩房间",
+    "time_of_day": "晚上",
+    "composition": {
+      "camera_position": "兄弟对话角度",
+      "camera_movement": "缓慢推近",
+      "framing": "传承构图",
+      "focus_type": "对话清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "教导弟弟",
+        "action": "激活权限教导",
+        "expression": "欣慰,认真",
+        "costume": "现代服装"
+      },
+      {
+        "name": "顾浩",
+        "position": "学习",
+        "action": "聆听,领悟",
+        "expression": "兴奋,求知",
+        "costume": "大学生服装"
+      }
+    ],
+    "visual_effects": {
+      "environment": "房间",
+      "lighting": "传承光芒",
+      "color_palette": "温暖色调",
+      "special_effects": "顾玄看着弟弟三年不见他已经从高中生成长为大学生——而且是计算机系的顶尖学生、你在做什么、我在研究...如何用代码修改现实哥你不是说这游戏机能编程现实吗我想搞清楚原理、顾玄心中一震:弟弟已经隐约触及了规则的边缘、小浩眼睛一亮:想、顾玄笑了他激活创始者权限开始教导弟弟、不是直接灌输知识而是引导他理解规则的本质、兄弟俩聊了许久"
+    },
+    "audio": {
+      "dialogue": "你在做什么?顾玄问。小浩挠头:我在研究...如何用代码修改现实。哥你不是说这游戏机能编程现实吗?我想搞清楚原理。顾玄心中一震:弟弟已经隐约触及了规则的边缘!小浩,顾玄认真道,你想学真正的规则吗?小浩眼睛一亮:想!顾玄笑了。他激活创始者权限,开始教导弟弟。不是直接灌输知识,而是引导他理解规则的本质。规则不是代码,他说,而是...可能性的边界。你修改现实的努力,本质上是在拓展这个边界。小浩似懂非懂,但眼中闪烁着求知的光芒。兄弟俩聊了许久。顾玄发现,小浩的天赋远超常人——他几乎直觉性地理解了维度概念!也许,顾玄想,下一个管理者,就在我身边",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "传承温馨",
+      "sound_effects": ["传承声"],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "流畅转场",
+      "pacing": "舒缓",
+      "purpose": "传承完成"
+    },
+    "notes": {
+      "production_note": "实景+光芒",
+      "reference_style": "传承温馨",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP36-S010",
+    "chapter_number": 36,
+    "scene_number": 10,
+    "duration": 11,
+    "shot_type": "中景",
+    "location": "临州市-街道",
+    "time_of_day": "晚上",
+    "composition": {
+      "camera_position": "告别角度",
+      "camera_movement": "缓慢推近",
+      "framing": "传承构图",
+      "focus_type": "对话清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "街道上",
+        "action": "告别,交代",
+        "expression": "欣慰,期望",
+        "costume": "现代服装"
+      },
+      {
+        "name": "顾浩",
+        "position": "旁边",
+        "action": "聆听",
+        "expression": "震惊,感动",
+        "costume": "大学生服装"
+      }
+    ],
+    "visual_effects": {
+      "environment": "临州市街道",
+      "lighting": "温馨光芒",
+      "color_palette": "温暖色调",
+      "special_effects": "告别时小浩问:哥你还会回来吗、顾玄微笑:当然这里是我的家乡、而且他看着天空我还有个任务要交给你、什么任务、等我真正离开的那天顾玄说你就要接手这片宇宙的管理了、小浩震惊:我、别急着回答顾玄拍拍他肩你有的是时间学习"
+    },
+    "audio": {
+      "dialogue": "告别时,小浩问:哥,你还会回来吗?顾玄微笑:当然。这里是我的家乡。而且,他看着天空,我还有个任务要交给你。什么任务?等我真正离开的那天,顾玄说,你就要接手这片宇宙的管理了。小浩震惊:我?!别急着回答,顾玄拍拍他肩,你有的是时间学习",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "传承感动",
+      "sound_effects": ["环境声"],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "流畅转场",
+      "pacing": "舒缓",
+      "purpose": "传承交代"
+    },
+    "notes": {
+      "production_note": "实景拍摄",
+      "reference_style": "传承感动",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP36-S011",
+    "chapter_number": 36,
+    "scene_number": 11,
+    "duration": 13,
+    "shot_type": "特效全景",
+    "location": "升华之域",
+    "time_of_day": "无",
+    "composition": {
+      "camera_position": "终极使命角度",
+      "camera_movement": "震撼运动",
+      "framing": "使命构图",
+      "focus_type": "源头清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "升华之域",
+        "action": "面对终极使命",
+        "expression": "震撼,决然",
+        "costume": "管理者长袍"
+      },
+      {
+        "name": "引导者",
+        "position": "光之生命体",
+        "action": "指引",
+        "expression": "温和,庄严",
+        "costume": "光之形态"
+      }
+    ],
+    "visual_effects": {
+      "environment": "升华之域",
+      "lighting": "源头之光",
+      "color_palette": "神圣色调",
+      "special_effects": "回到升华之域引导者正在等他、准备好了吗它问、准备什么顾玄疑惑、引导者指向远方那里、顾玄顺着看去看到了源头——一个超越所有宇宙的存在散发着无穷的光芒、创始者们去了那里探索所有宇宙之外的未知、现在轮到你了、顾玄震惊:我但我还不够格、你已经准备好了引导者微笑你学会了守护可能性学会了因材施教学会了传承、这些就是成为探索者的资格、顾玄沉默良久问:如果我去了我的宇宙怎么办、会由新的管理者接手引导者说就像你当初接手一样、而小浩它笑了已经准备好成为下一任管理者了、顾玄恍然大悟原来一切都是为了这一刻"
+    },
+    "audio": {
+      "dialogue": "回到升华之域,引导者正在等他。准备好了吗?它问。准备什么?顾玄疑惑。引导者指向远方:那里。顾玄顺着看去,看到了'源头'——一个超越所有宇宙的存在,散发着无穷的光芒。创始者们去了那里,探索所有宇宙之外的未知。现在,轮到你了。顾玄震惊:我?但我还不够格...你已经准备好了,引导者微笑,你学会了守护可能性,学会了因材施教,学会了传承...这些,就是成为探索者的资格。顾玄沉默良久,问:如果我去了,我的宇宙怎么办?会由新的管理者接手,引导者说,就像你当初接手一样。而小浩...它笑了,已经准备好成为下一任管理者了。顾玄恍然大悟:原来,一切都是为了这一刻!",
+      "narration": "",
+      "internal_monologue": "从青云宗弟子,到多元宇宙管理员,到宇宙园长...每一步,都在为这终极使命做准备!",
+      "background_music": "史诗使命",
+      "sound_effects": ["源头之光"],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "光芒转场",
+      "pacing": "宏大",
+      "purpose": "终极使命"
+    },
+    "notes": {
+      "production_note": "大量CG特效",
+      "reference_style": "史诗级使命",
+      "difficulty_level": "非常复杂"
+    }
+  },
+  {
+    "shot_id": "EP36-S012",
+    "chapter_number": 36,
+    "scene_number": 12,
+    "duration": 14,
+    "shot_type": "特效全景",
+    "location": "顾玄管理的宇宙→源头",
+    "time_of_day": "无",
+    "composition": {
+      "camera_position": "宇宙视角→源头视角",
+      "camera_movement": "终极运动",
+      "framing": "告别构图",
+      "focus_type": "告别清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "告别→出发",
+        "action": "告别,迈步",
+        "expression": "欣慰,决然",
+        "costume": "管理者长袍发光"
+      },
+      {
+        "name": "各文明",
+        "position": "宇宙中",
+        "action": "繁荣发展",
+        "expression": "祝福",
+        "costume": "各异"
+      }
+    ],
+    "visual_effects": {
+      "environment": "顾玄的宇宙→源头",
+      "lighting": "告别之光→源头之光",
+      "color_palette": "温暖→神圣",
+      "special_effects": "他看向自己的宇宙——那里无数文明正在繁荣发展迎接新的未来、精灵贤者已经培养了下一代魔法师、AI总管创造了自我更新的系统、蘑菇人建立了星际蘑菇联盟(专门推广蘑菇美食)、塔克写了本《章鱼语宇宙通》成为跨宇宙畅销书作者、零正在和几个AI探讨机器人的哲学意义、所有的一切都在继续、顾玄明白真正的管理者不是控制一切而是让一切能够自我发展、他的使命已经完成了、现在是时候迎接新的挑战了、他看向引导者:我准备好了、引导者点头:那么出发吧、它递给顾玄一样东西:源头的坐标探索者徽章、记住它说源头不是终点而是新的起点、那里有所有问题的答案也有更多未知的问题、顾玄接过徽章看向那神秘的光芒、他知道这可能是单程票但他不害怕、因为他留下了传承——小浩会接手文明会继续发展宇宙会自我运转、这就够了、那么顾玄最后看了一眼自己的宇宙再见了、他迈步走向源头、光芒吞没了他、在消失前他听到无数声音在祝福:再见园长先生谢谢你导师一路顺风探索者"
+    },
+    "audio": {
+      "dialogue": "他看向自己的宇宙——那里,无数文明正在繁荣发展,迎接新的未来。精灵贤者已经培养了下一代魔法师、AI总管创造了自我更新的系统、蘑菇人...建立了'星际蘑菇联盟'(专门推广蘑菇美食)、塔克...写了本《章鱼语宇宙通》,成为跨宇宙畅销书作者、零...正在和几个AI探讨'机器人的哲学意义'...所有的一切,都在继续。顾玄明白:真正的管理者,不是控制一切,而是让一切能够自我发展。他的使命,已经完成了。现在,是时候迎接新的挑战了。他看向引导者:我准备好了。引导者点头:那么,出发吧。它递给顾玄一样东西:【源头的坐标】、【探索者徽章】。记住,它说,源头不是终点,而是新的起点。那里,有所有问题的答案,也有更多未知的问题。顾玄接过徽章,看向那神秘的光芒。他知道,这可能是单程票。但他不害怕。因为他留下了传承——小浩会接手,文明会继续发展,宇宙会自我运转。这就够了。那么,顾玄最后看了一眼自己的宇宙,再见了。他迈步走向源头。光芒吞没了他。在消失前,他听到无数声音在祝福:再见,园长先生!谢谢你,导师!一路顺风,探索者!",
+      "narration": "",
+      "internal_monologue": "",
+      "background_music": "史诗感动",
+      "sound_effects": ["祝福声", "光芒声"],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "光芒转场",
+      "pacing": "宏大",
+      "purpose": "终极告别"
+    },
+    "notes": {
+      "production_note": "大量CG特效",
+      "reference_style": "史诗级告别",
+      "difficulty_level": "非常复杂"
+    }
+  },
+  {
+    "shot_id": "EP36-S013",
+    "chapter_number": 36,
+    "scene_number": 13,
+    "duration": 12,
+    "shot_type": "特效全景",
+    "location": "源头",
+    "time_of_day": "无",
+    "composition": {
+      "camera_position": "源头全景",
+      "camera_movement": "终极运动",
+      "framing": "新开始构图",
+      "focus_type": "源头清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "源头",
+        "action": "看到新世界",
+        "expression": "震撼,微笑",
+        "costume": "管理者长袍"
+      },
+      {
+        "name": "创始者们",
+        "position": "源头",
+        "action": "欢迎",
+        "expression": "微笑",
+        "costume": "伟大形态"
+      }
+    ],
+    "visual_effects": {
+      "environment": "源头",
+      "lighting": "源头之光",
+      "color_palette": "无限色彩",
+      "special_effects": "源头之光中顾玄看到了不可思议的景象:无数宇宙如同气泡般漂浮每个气泡都有自己的故事而源头之外...还有更多、原来他喃喃自语这才是真正的多元宇宙、一个声音响起:欢迎探索者、顾玄转身看到创始者们——那些曾经留下遗物的伟大存在、他们微笑着我们等你很久了、准备好探索真正的未知了吗、顾玄看着眼前无限的可能性露出笑容、当然、他迈步向前踏入那片无人涉足的领域、新的冒险才刚刚开始、全书完"
+    },
+    "audio": {
+      "dialogue": "源头之光中,顾玄看到了不可思议的景象:无数宇宙如同气泡般漂浮,每个气泡都有自己的故事,而源头之外...还有更多。原来,他喃喃自语,这才是真正的多元宇宙。一个声音响起:欢迎,探索者。顾玄转身,看到创始者们——那些曾经留下遗物的伟大存在。他们微笑着:我们等你很久了。准备好,探索真正的未知了吗?顾玄看着眼前无限的可能性,露出笑容。当然。他迈步向前,踏入那片无人涉足的领域。新的冒险,才刚刚开始",
+      "narration": "感谢你陪伴顾玄走过这段旅程:从青云宗的特效修仙者,到多元宇宙的监察使,到维度管理者,再到最终的宇宙探索者...这不是终点,而是新的起点。就像故事中所说:每个文明都是独一无二的。而我们的使命,就是守护这种独特性,并探索无限的可能性。也许某天,新的冒险还会继续...在源头之外,在未知的领域,等待着勇敢的探索者。感谢阅读。祝你在自己的多元宇宙中,也能找到独特的道路",
+      "internal_monologue": "",
+      "background_music": "史诗完结",
+      "sound_effects": ["源头之声"],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "淡出",
+      "pacing": "宏大舒缓",
+      "purpose": "全书完结"
+    },
+    "notes": {
+      "production_note": "大量CG特效",
+      "reference_style": "史诗级完结",
+      "difficulty_level": "非常复杂"
     }
   }
 ]
