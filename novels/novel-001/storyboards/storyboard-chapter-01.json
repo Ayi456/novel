@@ -127,10 +127,6 @@
         {
           "speaker": "顾玄",
           "text": "等等,这系统也太智能了吧……而且'管理员权限'是什么鬼?还有'封印中'……"
-        },
-        {
-          "speaker": "旁白",
-          "text": "这系统似乎有着某种不为人知的秘密"
         }
       ],
       "background_music": "轻快带悬疑",
@@ -141,6 +137,57 @@
       "transition_to_next": "直接切",
       "pacing": "中等",
       "purpose": "展示主角对系统的疑惑"
+    },
+    "notes": {
+      "production_note": "实景+CG界面",
+      "reference_style": "现代修仙轻喜剧",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP01-S003-2",
+    "chapter_number": 1,
+    "scene_number": 1,
+    "duration": 3,
+    "shot_type": "特写",
+    "location": "青云宗外门弟子房",
+    "time_of_day": "清晨",
+    "composition": {
+      "camera_position": "侧面拍摄",
+      "camera_movement": "固定镜头",
+      "framing": "中心构图",
+      "focus_type": "主体清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "画面中央",
+        "action": "看着系统界面沉思",
+        "expression": "疑惑",
+        "costume": "粗布麻衣"
+      }
+    ],
+    "visual_effects": {
+      "environment": "木屋内景",
+      "lighting": "昏暗自然光 + 界面蓝光",
+      "color_palette": "冷暖对比",
+      "special_effects": "系统界面浮现在眼前,管理员权限字样闪烁微光"
+    },
+    "audio": {
+      "dialogues": [
+        {
+          "speaker": "旁白",
+          "text": "这系统似乎有着某种不为人知的秘密"
+        }
+      ],
+      "background_music": "悬疑",
+      "sound_effects": ["系统机械音持续"],
+      "volume_level": "旁白为主"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "中等",
+      "purpose": "旁白补充,埋下伏笔"
     },
     "notes": {
       "production_note": "实景+CG界面",
@@ -403,10 +450,10 @@
     }
   },
   {
-    "shot_id": "EP01-S009",
+    "shot_id": "EP01-S009-1",
     "chapter_number": 1,
     "scene_number": 4,
-    "duration": 7,
+    "duration": 3,
     "shot_type": "中景",
     "location": "青云宗山门广场",
     "time_of_day": "清晨",
@@ -450,11 +497,133 @@
         {
           "speaker": "陆尘",
           "text": "请问……贵宗,还招收弟子吗?"
-        },
+        }
+      ],
+      "background_music": "温情轻快",
+      "sound_effects": [],
+      "volume_level": "对话清晰"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "温情",
+      "purpose": "展现陆尘询问"
+    },
+    "notes": {
+      "production_note": "实景拍摄",
+      "reference_style": "温情场景",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP01-S009-2",
+    "chapter_number": 1,
+    "scene_number": 4,
+    "duration": 3,
+    "shot_type": "中景",
+    "location": "青云宗山门广场",
+    "time_of_day": "清晨",
+    "composition": {
+      "camera_position": "平视,三人之间",
+      "camera_movement": "轻微推拉",
+      "framing": "三人构图",
+      "focus_type": "三人都清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "画面左侧",
+        "action": "站在一旁",
+        "expression": "淡定",
+        "costume": "粗布麻衣"
+      },
+      {
+        "name": "李道玄",
+        "position": "画面中间",
+        "action": "激动地抓住少女的手",
+        "expression": "激动",
+        "costume": "宗门掌门服"
+      },
+      {
+        "name": "陆尘",
+        "position": "画面右侧",
+        "action": "怯生生地站着",
+        "expression": "期待",
+        "costume": "布衣少女"
+      }
+    ],
+    "visual_effects": {
+      "environment": "山门广场",
+      "lighting": "明亮晨光",
+      "color_palette": "温暖色调",
+      "special_effects": "无"
+    },
+    "audio": {
+      "dialogues": [
         {
           "speaker": "李道玄",
           "text": "收!当然收!小友骨骼清奇,一看就是修仙奇才啊!"
-        },
+        }
+      ],
+      "background_music": "温情轻快",
+      "sound_effects": [],
+      "volume_level": "对话清晰"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "温情",
+      "purpose": "展现李道玄的热情"
+    },
+    "notes": {
+      "production_note": "实景拍摄",
+      "reference_style": "温情场景",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP01-S009-3",
+    "chapter_number": 1,
+    "scene_number": 4,
+    "duration": 3,
+    "shot_type": "中景",
+    "location": "青云宗山门广场",
+    "time_of_day": "清晨",
+    "composition": {
+      "camera_position": "平视,三人之间",
+      "camera_movement": "轻微推拉",
+      "framing": "三人构图",
+      "focus_type": "三人都清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "画面左侧",
+        "action": "站在一旁",
+        "expression": "淡定",
+        "costume": "粗布麻衣"
+      },
+      {
+        "name": "李道玄",
+        "position": "画面中间",
+        "action": "抓住少女的手",
+        "expression": "激动",
+        "costume": "宗门掌门服"
+      },
+      {
+        "name": "陆尘",
+        "position": "画面右侧",
+        "action": "怯生生地自我介绍",
+        "expression": "紧张 → 期待",
+        "costume": "布衣少女"
+      }
+    ],
+    "visual_effects": {
+      "environment": "山门广场",
+      "lighting": "明亮晨光",
+      "color_palette": "温暖色调",
+      "special_effects": "无"
+    },
+    "audio": {
+      "dialogues": [
         {
           "speaker": "陆尘",
           "text": "我叫陆尘,从邻村来的……但是,其他宗门都说我没有灵根,修不了仙……"
@@ -467,7 +636,7 @@
     "editing": {
       "transition_to_next": "直接切",
       "pacing": "温情",
-      "purpose": "展现陆尘的执着和李道玄的热情"
+      "purpose": "展现陆尘的顾虑"
     },
     "notes": {
       "production_note": "实景拍摄",
@@ -476,7 +645,72 @@
     }
   },
   {
-    "shot_id": "EP01-S010",
+    "shot_id": "EP01-S010-1",
+    "chapter_number": 1,
+    "scene_number": 4,
+    "duration": 3,
+    "shot_type": "中景",
+    "location": "青云宗山门广场",
+    "time_of_day": "清晨",
+    "composition": {
+      "camera_position": "侧面,拍摄顾玄和陆尘",
+      "camera_movement": "轻微推近",
+      "framing": "双人构图",
+      "focus_type": "两人清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "画面左侧",
+        "action": "站在一旁",
+        "expression": "淡定",
+        "costume": "粗布麻衣"
+      },
+      {
+        "name": "陆尘",
+        "position": "画面右侧",
+        "action": "眼眶一红,转身要离开",
+        "expression": "失落 → 伤心",
+        "costume": "布衣少女"
+      },
+      {
+        "name": "玄天剑宗弟子",
+        "position": "背景",
+        "action": "冷笑嘲讽",
+        "expression": "轻蔑",
+        "costume": "玄天剑宗弟子服"
+      }
+    ],
+    "visual_effects": {
+      "environment": "山门广场",
+      "lighting": "明亮晨光",
+      "color_palette": "温暖色调",
+      "special_effects": "无"
+    },
+    "audio": {
+      "dialogues": [
+        {
+          "speaker": "玄天剑宗弟子",
+          "text": "没有灵根也配修仙?我看你们就是骗钱吧!"
+        }
+      ],
+      "background_music": "温情转严肃",
+      "sound_effects": [],
+      "volume_level": "对话清晰"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "严肃",
+      "purpose": "玄天剑宗弟子嘲讽"
+    },
+    "notes": {
+      "production_note": "实景拍摄",
+      "reference_style": "温情场景",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP01-S010-2",
     "chapter_number": 1,
     "scene_number": 4,
     "duration": 5,
@@ -500,14 +734,14 @@
       {
         "name": "陆尘",
         "position": "画面右侧",
-        "action": "眼眶一红,转身要离开",
-        "expression": "失落 → 伤心",
+        "action": "停下脚步,回过头",
+        "expression": "失落 → 期待",
         "costume": "布衣少女"
       },
       {
         "name": "玄天剑宗弟子",
         "position": "背景",
-        "action": "冷笑嘲讽",
+        "action": "站在一旁",
         "expression": "轻蔑",
         "costume": "玄天剑宗弟子服"
       }
@@ -520,10 +754,6 @@
     },
     "audio": {
       "dialogues": [
-        {
-          "speaker": "玄天剑宗弟子",
-          "text": "没有灵根也配修仙?我看你们就是骗钱吧!"
-        },
         {
           "speaker": "顾玄",
           "text": "你确实没有灵根。但是,你体内有特殊的雷灵力。这种灵力极为罕见,若是好好修炼,将来成就未必输给那些有灵根的人。"
@@ -545,10 +775,10 @@
     }
   },
   {
-    "shot_id": "EP01-S011",
+    "shot_id": "EP01-S011-1",
     "chapter_number": 1,
     "scene_number": 4,
-    "duration": 6,
+    "duration": 4,
     "shot_type": "中景",
     "location": "青云宗山门广场",
     "time_of_day": "清晨",
@@ -569,6 +799,64 @@
       {
         "name": "玄天剑宗弟子",
         "position": "画面一侧",
+        "action": "冷笑嘲讽",
+        "expression": "轻蔑",
+        "costume": "玄天剑宗弟子服"
+      }
+    ],
+    "visual_effects": {
+      "environment": "山门广场",
+      "lighting": "明亮晨光",
+      "color_palette": "自然色调",
+      "special_effects": "无"
+    },
+    "audio": {
+      "dialogues": [
+        {
+          "speaker": "顾玄",
+          "text": "笑话?你若是再敢多嘴半句,我不介意让你见识一下,什么叫真正的笑话。"
+        }
+      ],
+      "background_music": "紧张",
+      "sound_effects": [],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "紧张",
+      "purpose": "顾玄反击"
+    },
+    "notes": {
+      "production_note": "实景拍摄",
+      "reference_style": "紧张对峙",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP01-S011-2",
+    "chapter_number": 1,
+    "scene_number": 4,
+    "duration": 3,
+    "shot_type": "中景",
+    "location": "青云宗山门广场",
+    "time_of_day": "清晨",
+    "composition": {
+      "camera_position": "正面拍摄顾玄",
+      "camera_movement": "轻微环绕",
+      "framing": "中心构图",
+      "focus_type": "主体清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "画面中央",
+        "action": "看向玄天剑宗弟子",
+        "expression": "淡然 → 威严",
+        "costume": "粗布麻衣"
+      },
+      {
+        "name": "玄天剑宗弟子",
+        "position": "画面一侧",
         "action": "涨红了脸,愤怒挑衅",
         "expression": "愤怒 → 紧张",
         "costume": "玄天剑宗弟子服"
@@ -578,25 +866,13 @@
       "environment": "山门广场",
       "lighting": "明亮晨光",
       "color_palette": "自然色调",
-      "special_effects": "系统界面:【系统提示:检测到敌意目标,触发隐藏任务:展现实力】【消耗50积分,激活'绝对防御'(持续10秒)】"
+      "special_effects": "无"
     },
     "audio": {
       "dialogues": [
         {
-          "speaker": "顾玄",
-          "text": "笑话?你若是再敢多嘴半句,我不介意让你见识一下,什么叫真正的笑话。"
-        },
-        {
           "speaker": "玄天剑宗弟子",
           "text": "好!既然你这么牛逼,那敢不敢比试比试?"
-        },
-        {
-          "speaker": "顾玄",
-          "text": "比就比。不过,我可不想欺负筑基中期的小辈。不如这样——我让你三招。三招之内,你若是能伤我分毫,就算我输。如何?"
-        },
-        {
-          "speaker": "顾玄",
-          "text": "完了完了,筑基中期?我只能拼运气了!系统,救命啊!"
         }
       ],
       "background_music": "紧张",
@@ -604,9 +880,9 @@
       "volume_level": "对话突出"
     },
     "editing": {
-      "transition_to_next": "快速切",
+      "transition_to_next": "直接切",
       "pacing": "紧张",
-      "purpose": "冲突升级"
+      "purpose": "玄天剑宗弟子挑衅"
     },
     "notes": {
       "production_note": "实景拍摄",
@@ -615,10 +891,119 @@
     }
   },
   {
-    "shot_id": "EP01-S012",
+    "shot_id": "EP01-S011-3",
     "chapter_number": 1,
     "scene_number": 4,
-    "duration": 10,
+    "duration": 4,
+    "shot_type": "中景",
+    "location": "青云宗山门广场",
+    "time_of_day": "清晨",
+    "composition": {
+      "camera_position": "正面拍摄顾玄",
+      "camera_movement": "轻微环绕",
+      "framing": "中心构图",
+      "focus_type": "主体清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "画面中央",
+        "action": "淡定地看着玄天剑宗弟子",
+        "expression": "淡然 → 威严",
+        "costume": "粗布麻衣"
+      },
+      {
+        "name": "玄天剑宗弟子",
+        "position": "画面一侧",
+        "action": "愤怒",
+        "expression": "愤怒 → 紧张",
+        "costume": "玄天剑宗弟子服"
+      }
+    ],
+    "visual_effects": {
+      "environment": "山门广场",
+      "lighting": "明亮晨光",
+      "color_palette": "自然色调",
+      "special_effects": "无"
+    },
+    "audio": {
+      "dialogues": [
+        {
+          "speaker": "顾玄",
+          "text": "比就比。不过,我可不想欺负筑基中期的小辈。不如这样——我让你三招。三招之内,你若是能伤我分毫,就算我输。如何?"
+        }
+      ],
+      "background_music": "紧张",
+      "sound_effects": [],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "紧张",
+      "purpose": "顾玄应战"
+    },
+    "notes": {
+      "production_note": "实景拍摄",
+      "reference_style": "紧张对峙",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP01-S011-4",
+    "chapter_number": 1,
+    "scene_number": 4,
+    "duration": 3,
+    "shot_type": "特写",
+    "location": "青云宗山门广场",
+    "time_of_day": "清晨",
+    "composition": {
+      "camera_position": "正面拍摄顾玄面部",
+      "camera_movement": "固定镜头",
+      "framing": "中心构图",
+      "focus_type": "面部表情清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "画面中央",
+        "action": "表面淡定,内心慌张",
+        "expression": "表面淡然,内心慌张",
+        "costume": "粗布麻衣"
+      }
+    ],
+    "visual_effects": {
+      "environment": "山门广场",
+      "lighting": "明亮晨光",
+      "color_palette": "自然色调",
+      "special_effects": "无"
+    },
+    "audio": {
+      "dialogues": [
+        {
+          "speaker": "顾玄",
+          "text": "完了完了,筑基中期?我只能拼运气了!系统,救命啊!"
+        }
+      ],
+      "background_music": "紧张",
+      "sound_effects": [],
+      "volume_level": "内心独白突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "紧张",
+      "purpose": "主角内心OS,增加紧张感"
+    },
+    "notes": {
+      "production_note": "实景拍摄",
+      "reference_style": "紧张对峙",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP01-S012-1",
+    "chapter_number": 1,
+    "scene_number": 4,
+    "duration": 3,
     "shot_type": "特效特写",
     "location": "青云宗山门广场",
     "time_of_day": "清晨",
@@ -632,7 +1017,181 @@
       {
         "name": "玄天剑宗弟子",
         "position": "画面一侧",
-        "action": "接连施法攻击,脸色大变",
+        "action": "施法攻击",
+        "expression": "愤怒",
+        "costume": "玄天剑宗弟子服"
+      },
+      {
+        "name": "顾玄",
+        "position": "画面中央",
+        "action": "连动都不动,随意抬手",
+        "expression": "淡然",
+        "costume": "粗布麻衣"
+      }
+    ],
+    "visual_effects": {
+      "environment": "山门广场",
+      "lighting": "自然光 + 法术光芒",
+      "color_palette": "高对比度,多彩",
+      "special_effects": "火龙呼啸而出被无形屏障消散"
+    },
+    "audio": {
+      "dialogues": [
+        {
+          "speaker": "玄天剑宗弟子",
+          "text": "狂妄!"
+        }
+      ],
+      "background_music": "紧张震撼",
+      "sound_effects": ["火龙呼啸"],
+      "volume_level": "音效突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "快速震撼",
+      "purpose": "第一招攻击"
+    },
+    "notes": {
+      "production_note": "需要大量CG特效",
+      "reference_style": "仙侠特效",
+      "difficulty_level": "复杂"
+    }
+  },
+  {
+    "shot_id": "EP01-S012-2",
+    "chapter_number": 1,
+    "scene_number": 4,
+    "duration": 3,
+    "shot_type": "特效特写",
+    "location": "青云宗山门广场",
+    "time_of_day": "清晨",
+    "composition": {
+      "camera_position": "环绕拍摄",
+      "camera_movement": "快速环绕",
+      "framing": "动态构图",
+      "focus_type": "主体清晰,特效突出"
+    },
+    "characters": [
+      {
+        "name": "玄天剑宗弟子",
+        "position": "画面一侧",
+        "action": "脸色大变",
+        "expression": "愤怒 → 惊恐",
+        "costume": "玄天剑宗弟子服"
+      },
+      {
+        "name": "顾玄",
+        "position": "画面中央",
+        "action": "连动都不动,随意抬手",
+        "expression": "淡然",
+        "costume": "粗布麻衣"
+      }
+    ],
+    "visual_effects": {
+      "environment": "山门广场",
+      "lighting": "自然光 + 法术光芒",
+      "color_palette": "高对比度,多彩",
+      "special_effects": "火龙被无形屏障消散"
+    },
+    "audio": {
+      "dialogues": [
+        {
+          "speaker": "顾玄",
+          "text": "第一招。还有两招。"
+        }
+      ],
+      "background_music": "紧张震撼",
+      "sound_effects": ["火龙消散"],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "快速震撼",
+      "purpose": "第一招失败"
+    },
+    "notes": {
+      "production_note": "需要大量CG特效",
+      "reference_style": "仙侠特效",
+      "difficulty_level": "复杂"
+    }
+  },
+  {
+    "shot_id": "EP01-S012-3",
+    "chapter_number": 1,
+    "scene_number": 4,
+    "duration": 3,
+    "shot_type": "特效特写",
+    "location": "青云宗山门广场",
+    "time_of_day": "清晨",
+    "composition": {
+      "camera_position": "环绕拍摄",
+      "camera_movement": "快速环绕",
+      "framing": "动态构图",
+      "focus_type": "主体清晰,特效突出"
+    },
+    "characters": [
+      {
+        "name": "玄天剑宗弟子",
+        "position": "画面一侧",
+        "action": "再次施法攻击",
+        "expression": "愤怒 → 惊恐",
+        "costume": "玄天剑宗弟子服"
+      },
+      {
+        "name": "顾玄",
+        "position": "画面中央",
+        "action": "连动都不动,随意抬手",
+        "expression": "淡然",
+        "costume": "粗布麻衣"
+      }
+    ],
+    "visual_effects": {
+      "environment": "山门广场",
+      "lighting": "自然光 + 法术光芒 + 雷电光芒",
+      "color_palette": "高对比度,多彩",
+      "special_effects": "冰锥自行消散"
+    },
+    "audio": {
+      "dialogues": [
+        {
+          "speaker": "顾玄",
+          "text": "第二招。"
+        }
+      ],
+      "background_music": "紧张震撼",
+      "sound_effects": ["冰锥破碎"],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "快速震撼",
+      "purpose": "第二招失败"
+    },
+    "notes": {
+      "production_note": "需要大量CG特效",
+      "reference_style": "仙侠特效",
+      "difficulty_level": "复杂"
+    }
+  },
+  {
+    "shot_id": "EP01-S012-4",
+    "chapter_number": 1,
+    "scene_number": 4,
+    "duration": 5,
+    "shot_type": "特效特写",
+    "location": "青云宗山门广场",
+    "time_of_day": "清晨",
+    "composition": {
+      "camera_position": "环绕拍摄",
+      "camera_movement": "快速环绕",
+      "framing": "动态构图",
+      "focus_type": "主体清晰,特效突出"
+    },
+    "characters": [
+      {
+        "name": "玄天剑宗弟子",
+        "position": "画面一侧",
+        "action": "使出最强法术,脸色大变",
         "expression": "愤怒 → 惊恐 → 绝望",
         "costume": "玄天剑宗弟子服"
       },
@@ -642,36 +1201,31 @@
         "action": "连动都不动,随意抬手,吸收雷霆反向射出",
         "expression": "淡然",
         "costume": "粗布麻衣,周身电弧缭绕"
+      },
+      {
+        "name": "众人",
+        "position": "周围",
+        "action": "目瞪口呆",
+        "expression": "震撼",
+        "costume": "各色服装"
       }
     ],
     "visual_effects": {
       "environment": "山门广场",
       "lighting": "自然光 + 法术光芒 + 雷电光芒",
       "color_palette": "高对比度,多彩",
-      "special_effects": "火龙呼啸而出被无形屏障消散,冰锥自行消散,雷霆从天而降被吸收后从顾玄手中反向射出直冲云霄,天空中雷光涌动"
+      "special_effects": "雷霆从天而降被吸收后从顾玄手中反向射出直冲云霄,天空中雷光涌动"
     },
     "audio": {
       "dialogues": [
-        {
-          "speaker": "玄天剑宗弟子",
-          "text": "狂妄!"
-        },
-        {
-          "speaker": "顾玄",
-          "text": "第一招。还有两招。"
-        },
-        {
-          "speaker": "顾玄",
-          "text": "第二招。"
-        },
         {
           "speaker": "众人",
           "text": "这……这是什么法术?太、太强了吧!连雷霆都能吸收?这还是人吗?"
         }
       ],
       "background_music": "紧张震撼",
-      "sound_effects": ["火龙呼啸", "冰锥破碎", "雷声轰隆", "众人惊呼"],
-      "volume_level": "音效突出"
+      "sound_effects": ["雷声轰隆", "众人惊呼"],
+      "volume_level": "众人惊呼突出"
     },
     "editing": {
       "transition_to_next": "直接切",
@@ -685,10 +1239,10 @@
     }
   },
   {
-    "shot_id": "EP01-S013",
+    "shot_id": "EP01-S013-1",
     "chapter_number": 1,
     "scene_number": 4,
-    "duration": 7,
+    "duration": 3,
     "shot_type": "近景",
     "location": "青云宗山门广场",
     "time_of_day": "清晨",
@@ -732,18 +1286,6 @@
         {
           "speaker": "玄天剑宗弟子",
           "text": "前、前辈饶命!"
-        },
-        {
-          "speaker": "顾玄",
-          "text": "区区筑基中期,也敢在我面前放肆。今日小惩大诫,望你好自为之。"
-        },
-        {
-          "speaker": "众人",
-          "text": "天哪!这是什么实力?连雷霆都能吸收,这得多强的修为啊!不愧是青云宗的大师兄!"
-        },
-        {
-          "speaker": "顾玄",
-          "text": "完了完了,这下装过头了!积分只剩50了……下次怎么办?"
         }
       ],
       "background_music": "震撼后转为恢弘",
@@ -753,7 +1295,7 @@
     "editing": {
       "transition_to_next": "直接切",
       "pacing": "舒缓满足",
-      "purpose": "打脸成功,震撼全场"
+      "purpose": "玄天剑宗弟子求饶"
     },
     "notes": {
       "production_note": "实景拍摄",
@@ -762,10 +1304,198 @@
     }
   },
   {
-    "shot_id": "EP01-S014",
+    "shot_id": "EP01-S013-2",
+    "chapter_number": 1,
+    "scene_number": 4,
+    "duration": 3,
+    "shot_type": "近景",
+    "location": "青云宗山门广场",
+    "time_of_day": "清晨",
+    "composition": {
+      "camera_position": "正面拍摄顾玄",
+      "camera_movement": "缓慢推近",
+      "framing": "中心构图",
+      "focus_type": "主体清晰"
+    },
+    "characters": [
+      {
+        "name": "玄天剑宗弟子",
+        "position": "跪在地上",
+        "action": "瑟瑟发抖",
+        "expression": "惊恐",
+        "costume": "玄天剑宗弟子服"
+      },
+      {
+        "name": "顾玄",
+        "position": "画面中央",
+        "action": "负手而立,45度角望天",
+        "expression": "淡然",
+        "costume": "粗布麻衣"
+      },
+      {
+        "name": "陆尘",
+        "position": "背景",
+        "action": "激动得浑身颤抖",
+        "expression": "崇拜",
+        "costume": "布衣少女"
+      }
+    ],
+    "visual_effects": {
+      "environment": "山门广场,周遭众人目瞪口呆",
+      "lighting": "明亮自然光",
+      "color_palette": "温暖色调",
+      "special_effects": "周身雷光缓缓消散"
+    },
+    "audio": {
+      "dialogues": [
+        {
+          "speaker": "顾玄",
+          "text": "区区筑基中期,也敢在我面前放肆。今日小惩大诫,望你好自为之。"
+        }
+      ],
+      "background_music": "震撼后转为恢弘",
+      "sound_effects": [],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "舒缓满足",
+      "purpose": "顾玄训话"
+    },
+    "notes": {
+      "production_note": "实景拍摄",
+      "reference_style": "传统仙侠",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP01-S013-3",
+    "chapter_number": 1,
+    "scene_number": 4,
+    "duration": 4,
+    "shot_type": "全景",
+    "location": "青云宗山门广场",
+    "time_of_day": "清晨",
+    "composition": {
+      "camera_position": "广场上方,俯拍",
+      "camera_movement": "固定镜头",
+      "framing": "广角",
+      "focus_type": "全景清晰"
+    },
+    "characters": [
+      {
+        "name": "玄天剑宗弟子",
+        "position": "跪在地上",
+        "action": "瑟瑟发抖",
+        "expression": "惊恐",
+        "costume": "玄天剑宗弟子服"
+      },
+      {
+        "name": "顾玄",
+        "position": "画面中央",
+        "action": "负手而立,45度角望天",
+        "expression": "淡然",
+        "costume": "粗布麻衣"
+      },
+      {
+        "name": "众人",
+        "position": "周围",
+        "action": "目瞪口呆,惊呼",
+        "expression": "震撼",
+        "costume": "各色服装"
+      },
+      {
+        "name": "陆尘",
+        "position": "背景",
+        "action": "激动得浑身颤抖",
+        "expression": "崇拜",
+        "costume": "布衣少女"
+      }
+    ],
+    "visual_effects": {
+      "environment": "山门广场,周遭众人目瞪口呆",
+      "lighting": "明亮自然光",
+      "color_palette": "温暖色调",
+      "special_effects": "周身雷光缓缓消散"
+    },
+    "audio": {
+      "dialogues": [
+        {
+          "speaker": "众人",
+          "text": "天哪!这是什么实力?连雷霆都能吸收,这得多强的修为啊!不愧是青云宗的大师兄!"
+        }
+      ],
+      "background_music": "恢弘",
+      "sound_effects": [],
+      "volume_level": "众人惊呼突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "舒缓满足",
+      "purpose": "众人惊叹"
+    },
+    "notes": {
+      "production_note": "实景拍摄",
+      "reference_style": "传统仙侠",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP01-S013-4",
+    "chapter_number": 1,
+    "scene_number": 4,
+    "duration": 3,
+    "shot_type": "特写",
+    "location": "青云宗山门广场",
+    "time_of_day": "清晨",
+    "composition": {
+      "camera_position": "正面拍摄顾玄面部",
+      "camera_movement": "固定镜头",
+      "framing": "中心构图",
+      "focus_type": "面部表情清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "画面中央",
+        "action": "表面风轻云淡,内心慌得一批",
+        "expression": "表面淡然,内心慌张",
+        "costume": "粗布麻衣"
+      }
+    ],
+    "visual_effects": {
+      "environment": "山门广场,背景模糊",
+      "lighting": "明亮自然光",
+      "color_palette": "温暖色调",
+      "special_effects": "无"
+    },
+    "audio": {
+      "dialogues": [
+        {
+          "speaker": "顾玄",
+          "text": "完了完了,这下装过头了!积分只剩50了……下次怎么办?"
+        }
+      ],
+      "background_music": "恢弘转为轻快",
+      "sound_effects": [],
+      "volume_level": "内心独白突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "舒缓满足",
+      "purpose": "主角内心OS,增加喜剧效果"
+    },
+    "notes": {
+      "production_note": "实景拍摄",
+      "reference_style": "轻喜剧",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP01-S014-1",
     "chapter_number": 1,
     "scene_number": 5,
-    "duration": 6,
+    "duration": 4,
     "shot_type": "远景→特写",
     "location": "青云宗山门广场上空",
     "time_of_day": "正午",
@@ -795,10 +1525,6 @@
         {
           "speaker": "玄天剑宗掌门",
           "text": "小辈,你伤我弟子,该当何罪?"
-        },
-        {
-          "speaker": "顾玄",
-          "text": "金丹后期?这下完了!"
         }
       ],
       "background_music": "压抑紧张",
@@ -814,6 +1540,57 @@
       "production_note": "实景+特效",
       "reference_style": "传统仙侠",
       "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP01-S014-2",
+    "chapter_number": 1,
+    "scene_number": 5,
+    "duration": 3,
+    "shot_type": "特写",
+    "location": "青云宗山门广场",
+    "time_of_day": "正午",
+    "composition": {
+      "camera_position": "正面拍摄顾玄面部",
+      "camera_movement": "固定镜头",
+      "framing": "中心构图",
+      "focus_type": "面部表情清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "画面中央",
+        "action": "内心慌张",
+        "expression": "表面淡然,内心慌张",
+        "costume": "粗布麻衣"
+      }
+    ],
+    "visual_effects": {
+      "environment": "山门广场",
+      "lighting": "自然光",
+      "color_palette": "自然色调",
+      "special_effects": "无"
+    },
+    "audio": {
+      "dialogues": [
+        {
+          "speaker": "顾玄",
+          "text": "金丹后期?这下完了!"
+        }
+      ],
+      "background_music": "压抑紧张",
+      "sound_effects": [],
+      "volume_level": "内心独白突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "压抑紧张",
+      "purpose": "主角内心OS,增加紧张感"
+    },
+    "notes": {
+      "production_note": "实景拍摄",
+      "reference_style": "紧张",
+      "difficulty_level": "简单"
     }
   },
   {
@@ -875,10 +1652,10 @@
     }
   },
   {
-    "shot_id": "EP01-S016",
+    "shot_id": "EP01-S016-1",
     "chapter_number": 1,
     "scene_number": 5,
-    "duration": 6,
+    "duration": 4,
     "shot_type": "近景",
     "location": "青云宗山门广场",
     "time_of_day": "正午",
@@ -899,8 +1676,8 @@
       {
         "name": "玄天剑宗掌门",
         "position": "画面右侧",
-        "action": "咬咬牙,不敢再留下一句狠话,狼狈离去",
-        "expression": "惊恐 → 无奈",
+        "action": "脸色苍白,不敢说话",
+        "expression": "惊恐",
         "costume": "掌门长袍"
       }
     ],
@@ -915,7 +1692,61 @@
         {
           "speaker": "顾玄",
           "text": "滚。"
-        },
+        }
+      ],
+      "background_music": "压抑后转为轻松",
+      "sound_effects": [],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "压抑→释放",
+      "purpose": "震慑掌门"
+    },
+    "notes": {
+      "production_note": "实景拍摄",
+      "reference_style": "传统仙侠",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP01-S016-2",
+    "chapter_number": 1,
+    "scene_number": 5,
+    "duration": 4,
+    "shot_type": "全景",
+    "location": "青云宗山门广场",
+    "time_of_day": "正午",
+    "composition": {
+      "camera_position": "广场上方,俯拍",
+      "camera_movement": "固定镜头",
+      "framing": "广角",
+      "focus_type": "全景清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "画面中央",
+        "action": "收回威压,黑气消散",
+        "expression": "冷漠威严",
+        "costume": "粗布麻衣,黑气消散"
+      },
+      {
+        "name": "玄天剑宗掌门",
+        "position": "画面一侧",
+        "action": "咬咬牙,带着弟子狼狈离去",
+        "expression": "惊恐 → 无奈",
+        "costume": "掌门长袍"
+      }
+    ],
+    "visual_effects": {
+      "environment": "山门广场,周围人群吓散",
+      "lighting": "自然光 + 黑气",
+      "color_palette": "高对比度",
+      "special_effects": "黑气缭绕"
+    },
+    "audio": {
+      "dialogues": [
         {
           "speaker": "旁白",
           "text": "玄天剑宗掌门咬牙,最终不敢说话,带着弟子狼狈离去。系统音:【任务完成!奖励积分100】"
@@ -923,7 +1754,7 @@
       ],
       "background_music": "压抑后转为轻松",
       "sound_effects": ["系统提示音"],
-      "volume_level": "对话突出"
+      "volume_level": "旁白突出"
     },
     "editing": {
       "transition_to_next": "直接切",
@@ -937,18 +1768,18 @@
     }
   },
   {
-    "shot_id": "EP01-S017",
+    "shot_id": "EP01-S017-1",
     "chapter_number": 1,
     "scene_number": 6,
-    "duration": 7,
-    "shot_type": "全景",
+    "duration": 3,
+    "shot_type": "中景",
     "location": "青云宗山门广场→宗门内",
     "time_of_day": "午后",
     "composition": {
-      "camera_position": "高角度俯拍",
-      "camera_movement": "缓慢拉远",
-      "framing": "大广角",
-      "focus_type": "全景清晰"
+      "camera_position": "平视,三人之间",
+      "camera_movement": "轻微推拉",
+      "framing": "三人构图",
+      "focus_type": "三人都清晰"
     },
     "characters": [
       {
@@ -984,28 +1815,197 @@
         {
           "speaker": "顾玄",
           "text": "走吧,回宗门。"
-        },
+        }
+      ],
+      "background_music": "恢弘逐渐转为轻松",
+      "sound_effects": [],
+      "volume_level": "对话清晰"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "轻松满足",
+      "purpose": "顾玄招呼回宗门"
+    },
+    "notes": {
+      "production_note": "实景拍摄",
+      "reference_style": "轻喜剧",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP01-S017-2",
+    "chapter_number": 1,
+    "scene_number": 6,
+    "duration": 3,
+    "shot_type": "中景",
+    "location": "青云宗山门广场→宗门内",
+    "time_of_day": "午后",
+    "composition": {
+      "camera_position": "平视,三人之间",
+      "camera_movement": "轻微推拉",
+      "framing": "三人构图",
+      "focus_type": "三人都清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "画面中央",
+        "action": "站在一旁",
+        "expression": "淡然",
+        "costume": "粗布麻衣,黑气消散"
+      },
+      {
+        "name": "陆尘",
+        "position": "顾玄身旁",
+        "action": "机械地点头",
+        "expression": "崇拜",
+        "costume": "布衣少女"
+      },
+      {
+        "name": "李道玄",
+        "position": "画面边缘",
+        "action": "激动得老泪纵横,拍着顾玄肩膀",
+        "expression": "激动",
+        "costume": "宗门掌门服"
+      }
+    ],
+    "visual_effects": {
+      "environment": "山门广场,乌云散去,阳光重现",
+      "lighting": "明亮自然光",
+      "color_palette": "温暖色调",
+      "special_effects": "黑气消散,顾玄重新变回'人畜无害'的白衣青年"
+    },
+    "audio": {
+      "dialogues": [
         {
           "speaker": "李道玄",
           "text": "好徒儿!为师就知道你深藏不露!原来你一直在隐藏修为!"
-        },
+        }
+      ],
+      "background_music": "恢弘逐渐转为轻松",
+      "sound_effects": [],
+      "volume_level": "对话清晰"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "轻松满足",
+      "purpose": "掌门误解"
+    },
+    "notes": {
+      "production_note": "实景拍摄",
+      "reference_style": "轻喜剧",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP01-S017-3",
+    "chapter_number": 1,
+    "scene_number": 6,
+    "duration": 3,
+    "shot_type": "中景",
+    "location": "青云宗山门广场→宗门内",
+    "time_of_day": "午后",
+    "composition": {
+      "camera_position": "平视,三人之间",
+      "camera_movement": "轻微推拉",
+      "framing": "三人构图",
+      "focus_type": "三人都清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "画面中央",
+        "action": "站在一旁",
+        "expression": "淡然",
+        "costume": "粗布麻衣,黑气消散"
+      },
+      {
+        "name": "陆尘",
+        "position": "顾玄身旁",
+        "action": "机械地点头",
+        "expression": "崇拜",
+        "costume": "布衣少女"
+      },
+      {
+        "name": "李道玄",
+        "position": "画面边缘",
+        "action": "激动得老泪纵横",
+        "expression": "激动",
+        "costume": "宗门掌门服"
+      }
+    ],
+    "visual_effects": {
+      "environment": "山门广场,乌云散去,阳光重现",
+      "lighting": "明亮自然光",
+      "color_palette": "温暖色调",
+      "special_effects": "系统界面浮现:【新手任务完成!奖励积分+20】【系统商城已解锁!】"
+    },
+    "audio": {
+      "dialogues": [
         {
           "speaker": "旁白",
           "text": "系统音:【新手任务完成!奖励积分+20】【系统商城已解锁!】"
-        },
+        }
+      ],
+      "background_music": "恢弘逐渐转为轻松",
+      "sound_effects": ["系统提示音"],
+      "volume_level": "系统音突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "轻松满足",
+      "purpose": "系统提示"
+    },
+    "notes": {
+      "production_note": "实景+CG界面",
+      "reference_style": "轻喜剧",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP01-S017-4",
+    "chapter_number": 1,
+    "scene_number": 6,
+    "duration": 3,
+    "shot_type": "特写",
+    "location": "青云宗山门广场→宗门内",
+    "time_of_day": "午后",
+    "composition": {
+      "camera_position": "正面拍摄顾玄面部",
+      "camera_movement": "固定镜头",
+      "framing": "中心构图",
+      "focus_type": "面部表情清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "画面中央",
+        "action": "表面淡然,内心无奈",
+        "expression": "表面淡然,内心无奈",
+        "costume": "粗布麻衣"
+      }
+    ],
+    "visual_effects": {
+      "environment": "山门广场,背景模糊",
+      "lighting": "明亮自然光",
+      "color_palette": "温暖色调",
+      "special_effects": "无"
+    },
+    "audio": {
+      "dialogues": [
         {
           "speaker": "顾玄",
           "text": "你们想多了,我真的只是运气好"
         }
       ],
-      "background_music": "恢弘逐渐转为轻松",
-      "sound_effects": ["系统提示音"],
-      "volume_level": "对话突出"
+      "background_music": "轻松",
+      "sound_effects": [],
+      "volume_level": "内心独白突出"
     },
     "editing": {
       "transition_to_next": "直接切",
       "pacing": "轻松满足",
-      "purpose": "任务完成,商城解锁"
+      "purpose": "主角内心OS,增加喜剧效果"
     },
     "notes": {
       "production_note": "实景拍摄",
@@ -1019,7 +2019,7 @@
     "scene_number": 7,
     "duration": 8,
     "shot_type": "特写",
-    "location": "顾玄脑海/眼前",
+    "location": "顾玄脑海/���前",
     "time_of_day": "午后",
     "composition": {
       "camera_position": "主观视角",
@@ -1151,10 +2151,10 @@
     }
   },
   {
-    "shot_id": "EP01-S021",
+    "shot_id": "EP01-S021-1",
     "chapter_number": 1,
     "scene_number": 10,
-    "duration": 6,
+    "duration": 4,
     "shot_type": "远景",
     "location": "玄天剑宗某处密室",
     "time_of_day": "夜晚",
@@ -1191,7 +2191,61 @@
         {
           "speaker": "玄天剑宗掌门",
           "text": "掌门,今日遇到的那个人……他的气息,与传说中的……"
-        },
+        }
+      ],
+      "background_music": "神秘悬疑",
+      "sound_effects": [],
+      "volume_level": "对话清晰"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "悬疑",
+      "purpose": "伏笔埋设"
+    },
+    "notes": {
+      "production_note": "暗黑场景",
+      "reference_style": "悬疑风",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP01-S021-2",
+    "chapter_number": 1,
+    "scene_number": 10,
+    "duration": 4,
+    "shot_type": "远景",
+    "location": "玄天剑宗某处密室",
+    "time_of_day": "夜晚",
+    "composition": {
+      "camera_position": "黑暗中隐约可见",
+      "camera_movement": "固定镜头",
+      "framing": "神秘构图",
+      "focus_type": "人物模糊"
+    },
+    "characters": [
+      {
+        "name": "玄天剑宗掌门",
+        "position": "画面一侧",
+        "action": "恭敬站立",
+        "expression": "恭敬",
+        "costume": "掌门长袍"
+      },
+      {
+        "name": "神秘势力代表",
+        "position": "黑暗中",
+        "action": "低沉回应",
+        "expression": "冷漠",
+        "costume": "看不清"
+      }
+    ],
+    "visual_effects": {
+      "environment": "密室,黑暗",
+      "lighting": "昏暗",
+      "color_palette": "冷色调,黑白灰",
+      "special_effects": "无"
+    },
+    "audio": {
+      "dialogues": [
         {
           "speaker": "旁白",
           "text": "神秘声音: '继续观察。此人……不简单。'"
@@ -1199,7 +2253,7 @@
       ],
       "background_music": "神秘悬疑",
       "sound_effects": [],
-      "volume_level": "对话清晰"
+      "volume_level": "旁白清晰"
     },
     "editing": {
       "transition_to_next": "淡出",
