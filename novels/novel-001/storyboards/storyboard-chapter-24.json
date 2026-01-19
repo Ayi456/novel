@@ -1,151 +1,565 @@
-{
-  "chapter": "第二十四章：登顶天尊",
-  "chapter_number": 24,
-  "scenes": [
-    {
-      "scene_number": 1,
-      "location": "天尊台底层",
-      "time": "开始登顶",
-      "characters": ["顾玄", "战穹", "剑痴", "赤炎", "苏瑶"],
-      "visual_effects": {
-        "environment": "直插云霄的白玉巨塔，符文流转",
-        "special_effects": "顾玄虚弱状态，道基痛楚",
-        "lighting": "威严白光"
-      },
-      "camera_angles": ["仰拍：天尊台高耸", "特写：顾玄痛苦表情", "全景：队员准备"],
-      "system_interfaces": [{"type": "系统提示", "content": "【天尊台-本质：权限测试设施】\n【通关可提升访问等级】\n【道基完整性：12%】", "visual_style": "设施说明"}],
-      "character_emotions": {"顾玄": "虚弱→坚定", "队友": "担忧→决心"},
-      "key_dialogue": ["战穹：兄弟，你真要登天尊台？你这状态连第一层都难！", "顾玄：必须去。根源之海是我恢复的唯一希望。"],
-      "plot_points": ["登顶决心", "虚弱状态", "天尊台挑战"],
-      "satisfaction_level": "压抑积累"
+[
+  {
+    "shot_id": "EP24-S001",
+    "chapter_number": 24,
+    "scene_number": 1,
+    "duration": 12,
+    "shot_type": "仰拍→特写→全景",
+    "location": "天尊台底层",
+    "time_of_day": "开始登顶",
+    "composition": {
+      "camera_position": "仰拍→特写→全景",
+      "camera_movement": "仰拍高耸后天尊台，特写顾玄痛苦，全景队员准备",
+      "framing": "登顶构图",
+      "focus_type": "角色清晰"
     },
-    {
-      "scene_number": 2,
-      "location": "天尊台1-100层",
-      "time": "初期闯关",
-      "characters": ["顾玄", "守关者们", "队友"],
-      "visual_effects": {
-        "environment": "各种试炼场景",
-        "special_effects": "规则附加生效，奇葩过关方式",
-        "lighting": "试炼光芒"
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "天尊台前",
+        "action": "准备登顶",
+        "expression": "虚弱→坚定",
+        "costume": "青云宗道袍"
       },
-      "camera_angles": ["动作：接拳", "特写：规则附加", "全景：光速降速"],
-      "system_interfaces": [{"type": "规则修改", "content": "规则附加：此拳威力减半！\n规则修改：此地光速降为每秒一米。\n规则附加：真实显现。", "visual_style": "规则生效提示"}],
-      "character_emotions": {"顾玄": "淡定", "守关者": "愣住", "队友": "震惊→麻木→下注"},
-      "key_dialogue": ["巨汉：你作弊！", "顾玄：规则允许用权限。", "队友：我赌兄弟会用'规则反转'！"],
-      "plot_points": ["规则作弊", "奇葩过关", "队友下注"],
-      "satisfaction_level": "搞笑+满足"
+      {
+        "name": "战穹",
+        "position": "旁边",
+        "action": "劝阻",
+        "expression": "担忧",
+        "costume": "武者法袍"
+      },
+      {
+        "name": "剑痴",
+        "position": "旁边",
+        "action": "准备",
+        "expression": "决心",
+        "costume": "剑客法袍"
+      },
+      {
+        "name": "赤炎",
+        "position": "旁边",
+        "action": "准备",
+        "expression": "决心",
+        "costume": "法师法袍"
+      },
+      {
+        "name": "苏瑶",
+        "position": "旁边",
+        "action": "担忧",
+        "expression": "担忧",
+        "costume": "医仙法袍"
+      }
+    ],
+    "visual_effects": {
+      "environment": "直插云霄的白玉巨塔，符文流转",
+      "lighting": "威严白光",
+      "color_palette": "威严色调",
+      "special_effects": "顾玄虚弱状态，道基痛楚"
     },
-    {
-      "scene_number": 3,
-      "location": "天尊台500-3000层",
-      "time": "中期闯关",
-      "characters": ["顾玄", "守关者们", "队友"],
-      "visual_effects": {
-        "environment": "费马大定理、创造小世界、主系统分身",
-        "special_effects": "道基再次受损，记忆闪回",
-        "lighting": "高难度光芒"
-      },
-      "camera_angles": ["特写：费马大定理", "全景：创世丹", "动作：主系统分身对决"],
-      "system_interfaces": [{"type": "系统提示", "content": "【此层试炼：解答费马大定理】\n【此层试炼：创造一个小世界】\n【警告：主系统分身出现】", "visual_style": "试炼提示"}],
-      "character_emotions": {"顾玄": "头疼→拼命", "守关者": "惊讶"},
-      "key_dialogue": ["书生：此层试炼：解答费马大定理。\n法王：我能用火球砸出答案吗？\n书生：......过。（被逼的）"],
-      "plot_points": ["高难度试炼", "主系统分身", "记忆苏醒"],
-      "satisfaction_level": "震撼+震惊"
+    "audio": {
+      "dialogues": [
+        {
+          "speaker": "系统音",
+          "text": "【天尊台-本质：权限测试设施】【通关可提升访问等级】【道基完整性：12%】"
+        },
+        {
+          "speaker": "战穹",
+          "text": "兄弟，你真要登天尊台？你这状态连第一层都难！"
+        },
+        {
+          "speaker": "顾玄",
+          "text": "必须去。根源之海是我恢复的唯一希望。"
+        }
+      ],
+      "background_music": "悲壮坚定",
+      "sound_effects": ["符文流转声"],
+      "volume_level": "对话突出"
     },
-    {
-      "scene_number": 4,
-      "location": "天尊台9000-9999层",
-      "time": "后期闯关",
-      "characters": ["顾玄"],
-      "visual_effects": {
-        "environment": "最后九十九层，无尽威压",
-        "special_effects": "肉身崩解，神魂燃烧，真相碎片",
-        "lighting": "威压光芒"
-      },
-      "camera_angles": ["特写：顾玄吐血", "主观：真相碎片", "全景：独自攀登"],
-      "system_interfaces": [{"type": "系统提示", "content": "【道基完整性：12%】\n【权限：0（仅剩基础感知）】\n【秩序之眼：离线】", "visual_style": "状态恶化"}],
-      "character_emotions": {"顾玄": "痛苦→眼神越亮"},
-      "key_dialogue": ["顾玄：我感觉到...上面有东西在呼唤我..."],
-      "plot_points": ["独自攀登", "记忆苏醒", "办公室回忆"],
-      "satisfaction_level": "震撼+震惊"
+    "editing": {
+      "transition_to_next": "流畅切",
+      "pacing": "缓慢",
+      "purpose": "登顶决心"
     },
-    {
-      "scene_number": 5,
-      "location": "天尊台9999层",
-      "time": "到达顶层",
-      "characters": ["顾玄", "叛乱管理员（备份）"],
-      "visual_effects": {
-        "environment": "电梯间，根源之海白色空间",
-        "special_effects": "叛乱者现身，身份权限剥离",
-        "lighting": "设备光芒"
-      },
-      "camera_angles": ["推进：电梯间", "特写：叛乱者转身", "动作：权限剥离"],
-      "system_interfaces": [{"type": "真相揭示", "content": "叛乱者：\"我是你的备份。或者说...你是我的备份。\"\n\n主系统认为原管理员已污染，制造备份接管。但备份意外坠入试验场失忆...", "visual_style": "真相投影"}],
-      "character_emotions": {"顾玄": "震惊→难以置信→痛苦"},
-      "key_dialogue": ["叛乱者：抱歉，但我需要你的管理员身份！", "顾玄：为什么..."],
-      "plot_points": ["顶层电梯", "叛乱者身份", "权限被夺"],
-      "satisfaction_level": "震撼+反转"
-    },
-    {
-      "scene_number": 6,
-      "location": "根源之海",
-      "time": "危急时刻",
-      "characters": ["顾玄", "叛乱者"],
-      "visual_effects": {
-        "environment": "根源之海白色空间",
-        "special_effects": "逆命丹爆发，根源连接",
-        "lighting": "能量光芒"
-      },
-      "camera_angles": ["特写：吞下逆命丹", "全景：能量海洋涌现", "动作：权限疯狂提升"],
-      "system_interfaces": [{"type": "系统提示", "content": "【连接成功！欢迎来到根源之海！】\n【管理员权限恢复：7级...8级...9级！】\n【解锁终极权限：根源代行者】", "visual_style": "升级动画"}],
-      "character_emotions": {"顾玄": "决绝→强大", "叛乱者": "惊恐"},
-      "key_dialogue": ["顾玄：规则修改：权限转移终止！规则修改：接口控制权归我！\n顾玄：格式化。"],
-      "plot_points": ["逆命丹爆发", "根源连接", "叛乱者消灭"],
-      "satisfaction_level": "史诗升级"
-    },
-    {
-      "scene_number": 7,
-      "location": "根源之海",
-      "time": "连接成功后",
-      "characters": ["顾玄", "主系统"],
-      "visual_effects": {
-        "environment": "能量海洋，世界核心光球",
-        "special_effects": "两股至高力量对撞，多元宇宙震动",
-        "lighting": "对决光芒"
-      },
-      "camera_angles": ["全景：根源之海", "特写：世界核心", "动作：力量对撞"],
-      "system_interfaces": [{"type": "主系统", "content": "【检测到未授权根源访问...最终清除协议启动...】\n\n顾玄：根源指令：保护所有文明！", "visual_style": "对决界面"}],
-      "character_emotions": {"顾玄": "坚定→艰难取胜"},
-      "key_dialogue": ["顾玄：休想！根源指令：保护所有文明！"],
-      "plot_points": ["主系统对决", "暂时取胜", "守护者誓言"],
-      "satisfaction_level": "史诗+满足"
-    },
-    {
-      "scene_number": 8,
-      "location": "天尊台顶",
-      "time": "返回后",
-      "characters": ["顾玄", "队友们"],
-      "visual_effects": {
-        "environment": "队友惊喜发现",
-        "special_effects": "伤势痊愈，气息深不可测",
-        "lighting": "胜利光芒"
-      },
-      "camera_angles": ["反应：队友惊喜", "特写：顾玄微笑", "全景：天尊台顶"],
-      "system_interfaces": [{"type": "系统", "content": "【系统：天魔执法系统V∞（根源版）】\n【权限：根源代行者（最高级）】", "visual_style": "系统界面"}],
-      "character_emotions": {"顾玄": "微笑→坚定", "队友": "惊喜"},
-      "key_dialogue": ["战穹：兄弟！你成功了？！\n顾玄：不...我是管理员。不过...天尊这个称号，倒也不错。"],
-      "plot_points": ["返回天尊台", "实力恢复", "第二卷完结"],
-      "satisfaction_level": "史诗+满足"
+    "notes": {
+      "production_note": "实景+CG",
+      "reference_style": "悲壮坚定",
+      "difficulty_level": "中等"
     }
-  ],
-  "summary": "顾玄虚弱登顶天尊台，靠规则作弊闯关，顶层遇到叛乱者备份夺取权限，用逆命丹连接根源之海获得终极权限，击败主系统后返回",
-  "key_satisfaction_points": [
-    "登顶决心",
-    "规则作弊",
-    "记忆苏醒",
-    "叛乱者身份",
-    "根源权限"
-  ],
-  "emotional_curve": "坚定→搞笑→震撼→震撼升级→史诗"
-}
+  },
+  {
+    "shot_id": "EP24-S002",
+    "chapter_number": 24,
+    "scene_number": 2,
+    "duration": 12,
+    "shot_type": "动作→特写→全景",
+    "location": "天尊台1-100层",
+    "time_of_day": "初期闯关",
+    "composition": {
+      "camera_position": "动作→特写→全景",
+      "camera_movement": "动作接拳后特写规则附加，全景光速降速",
+      "framing": "闯关构图",
+      "focus_type": "规则清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "闯关位置",
+        "action": "规则作弊闯关",
+        "expression": "淡定",
+        "costume": "青云宗道袍"
+      },
+      {
+        "name": "守关者们",
+        "position": "各层",
+        "action": "被击败",
+        "expression": "愣住",
+        "costume": "各色守关者服装"
+      },
+      {
+        "name": "队友",
+        "position": "观看",
+        "action": "下注",
+        "expression": "震惊→麻木→下注",
+        "costume": "各色法袍"
+      }
+    ],
+    "visual_effects": {
+      "environment": "各种试炼场景",
+      "lighting": "试炼光芒",
+      "color_palette": "奇幻色调",
+      "special_effects": "规则附加生效，奇葩过关方式"
+    },
+    "audio": {
+      "dialogues": [
+        {
+          "speaker": "巨汉",
+          "text": "你作弊！"
+        },
+        {
+          "speaker": "顾玄",
+          "text": "规则允许用权限。"
+        },
+        {
+          "speaker": "系统音",
+          "text": "规则附加：此拳威力减半！规则修改：此地光速降为每秒一米。规则附加：真实显现。"
+        },
+        {
+          "speaker": "队友",
+          "text": "我赌兄弟会用'规则反转'！"
+        }
+      ],
+      "background_music": "轻松搞笑",
+      "sound_effects": ["碰撞声", "规则生效声"],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "快速切",
+      "pacing": "中等",
+      "purpose": "规则作弊"
+    },
+    "notes": {
+      "production_note": "实景+CG",
+      "reference_style": "轻松搞笑",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP24-S003",
+    "chapter_number": 24,
+    "scene_number": 3,
+    "duration": 15,
+    "shot_type": "特写→全景→动作",
+    "location": "天尊台500-3000层",
+    "time_of_day": "中期闯关",
+    "composition": {
+      "camera_position": "特写→全景→动作",
+      "camera_movement": "特写费马大定理，全景创世丹，动作主系统分身",
+      "framing": "高难度构图",
+      "focus_type": "试炼清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "闯关位置",
+        "action": "高难度试炼",
+        "expression": "头疼→拼命",
+        "costume": "青云宗道袍"
+      },
+      {
+        "name": "书生",
+        "position": "试炼层",
+        "action": "出题",
+        "expression": "惊讶",
+        "costume": "书生服"
+      },
+      {
+        "name": "法王",
+        "position": "试炼层",
+        "action": "火球砸",
+        "expression": "得意",
+        "costume": "法师法袍"
+      }
+    ],
+    "visual_effects": {
+      "environment": "费马大定理、创造小世界、主系统分身",
+      "lighting": "高难度光芒",
+      "color_palette": "困难色调",
+      "special_effects": "道基再次受损，记忆闪回"
+    },
+    "audio": {
+      "dialogues": [
+        {
+          "speaker": "系统音",
+          "text": "【此层试炼：解答费马大定理】【此层试炼：创造一个小世界】【警告：主系统分身出现】"
+        },
+        {
+          "speaker": "书生",
+          "text": "此层试炼：解答费马大定理。"
+        },
+        {
+          "speaker": "法王",
+          "text": "我能用火球砸出答案吗？"
+        },
+        {
+          "speaker": "书生",
+          "text": "......过。（被逼的）"
+        }
+      ],
+      "background_music": "紧张搞笑",
+      "sound_effects": ["试炼声", "记忆闪回声"],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "流畅切",
+      "pacing": "中等",
+      "purpose": "高难度试炼"
+    },
+    "notes": {
+      "production_note": "实景+CG",
+      "reference_style": "紧张搞笑",
+      "difficulty_level": "复杂"
+    }
+  },
+  {
+    "shot_id": "EP24-S004",
+    "chapter_number": 24,
+    "scene_number": 4,
+    "duration": 12,
+    "shot_type": "特写→主观→全景",
+    "location": "天尊台9000-9999层",
+    "time_of_day": "后期闯关",
+    "composition": {
+      "camera_position": "特写→主观→全景",
+      "camera_movement": "特写吐血，主观真相碎片，全景独自攀登",
+      "framing": "攀登构图",
+      "focus_type": "顾玄清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "攀登",
+        "action": "独自攀登",
+        "expression": "痛苦→眼神越亮",
+        "costume": "青云宗道袍，破烂"
+      }
+    ],
+    "visual_effects": {
+      "environment": "最后九十九层，无尽威压",
+      "lighting": "威压光芒",
+      "color_palette": "痛苦色调",
+      "special_effects": "肉身崩解，神魂燃烧，真相碎片"
+    },
+    "audio": {
+      "dialogues": [
+        {
+          "speaker": "系统音",
+          "text": "【道基完整性：12%】【权限：0（仅剩基础感知）】【秩序之眼：离线】"
+        },
+        {
+          "speaker": "顾玄",
+          "text": "我感觉到...上面有东西在呼唤我..."
+        }
+      ],
+      "background_music": "悲壮震撼",
+      "sound_effects": ["威压声", "呼吸声"],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "缓慢切",
+      "pacing": "极慢",
+      "purpose": "独自攀登"
+    },
+    "notes": {
+      "production_note": "实景+CG",
+      "reference_style": "悲壮震撼",
+      "difficulty_level": "复杂"
+    }
+  },
+  {
+    "shot_id": "EP24-S005",
+    "chapter_number": 24,
+    "scene_number": 5,
+    "duration": 15,
+    "shot_type": "推进→特写→动作",
+    "location": "天尊台9999层",
+    "time_of_day": "到达顶层",
+    "composition": {
+      "camera_position": "推进→特写→动作",
+      "camera_movement": "推进电梯间，特写叛乱者转身，动作权限剥离",
+      "framing": "对决构图",
+      "focus_type": "叛乱者清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "电梯间",
+        "action": "被夺权限",
+        "expression": "震惊→难以置信→痛苦",
+        "costume": "青云宗道袍，破烂"
+      },
+      {
+        "name": "叛乱管理员（备份）",
+        "position": "前方",
+        "action": "转身夺取",
+        "expression": "冷漠",
+        "costume": "和顾玄相同"
+      }
+    ],
+    "visual_effects": {
+      "environment": "电梯间，根源之海白色空间",
+      "lighting": "设备光芒",
+      "color_palette": "冷色调",
+      "special_effects": "叛乱者现身，身份权限剥离"
+    },
+    "audio": {
+      "dialogues": [
+        {
+          "speaker": "叛乱者",
+          "text": "抱歉，但我需要你的管理员身份！"
+        },
+        {
+          "speaker": "顾玄",
+          "text": "为什么..."
+        },
+        {
+          "speaker": "系统音",
+          "text": "叛乱者：\"我是你的备份。或者说...你是我的备份。\"主系统认为原管理员已污染，制造备份接管。但备份意外坠入试验场失忆..."
+        }
+      ],
+      "background_music": "悬疑震撼",
+      "sound_effects": ["权限剥离声"],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "快速切",
+      "pacing": "极快",
+      "purpose": "叛乱者身份"
+    },
+    "notes": {
+      "production_note": "实景+CG",
+      "reference_style": "悬疑震撼",
+      "difficulty_level": "复杂"
+    }
+  },
+  {
+    "shot_id": "EP24-S006",
+    "chapter_number": 24,
+    "scene_number": 6,
+    "duration": 15,
+    "shot_type": "特写→全景→动作",
+    "location": "根源之海",
+    "time_of_day": "危急时刻",
+    "composition": {
+      "camera_position": "特写→全景→动作",
+      "camera_movement": "特写吞丹，全景能量海洋，动作权限提升",
+      "framing": "逆转构图",
+      "focus_type": "顾玄清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "根源之海",
+        "action": "吞下逆命丹",
+        "expression": "决绝→强大",
+        "costume": "青云宗道袍，破烂"
+      },
+      {
+        "name": "叛乱者",
+        "position": "对面",
+        "action": "震惊",
+        "expression": "惊恐",
+        "costume": "和顾玄相同"
+      }
+    ],
+    "visual_effects": {
+      "environment": "根源之海白色空间",
+      "lighting": "能量光芒",
+      "color_palette": "纯白光芒",
+      "special_effects": "逆命丹爆发，根源连接"
+    },
+    "audio": {
+      "dialogues": [
+        {
+          "speaker": "顾玄",
+          "text": "规则修改：权限转移终止！规则修改：接口控制权归我！"
+        },
+        {
+          "speaker": "系统音",
+          "text": "【连接成功！欢迎来到根源之海！】【管理员权限恢复：7级...8级...9级！】【解锁终极权限：根源代行者】"
+        },
+        {
+          "speaker": "顾玄",
+          "text": "格式化。"
+        }
+      ],
+      "background_music": "史诗震撼",
+      "sound_effects": ["连接声", "升级声"],
+      "volume_level": "音效突出"
+    },
+    "editing": {
+      "transition_to_next": "特效转场",
+      "pacing": "极快",
+      "purpose": "根源连接"
+    },
+    "notes": {
+      "production_note": "大量CG特效",
+      "reference_style": "史诗震撼",
+      "difficulty_level": "非常复杂"
+    }
+  },
+  {
+    "shot_id": "EP24-S007",
+    "chapter_number": 24,
+    "scene_number": 7,
+    "duration": 15,
+    "shot_type": "全景→特写→动作",
+    "location": "根源之海",
+    "time_of_day": "连接成功后",
+    "composition": {
+      "camera_position": "全景→特写→动作",
+      "camera_movement": "全景根源之海，特写世界核心，动作力量对撞",
+      "framing": "对决构图",
+      "focus_type": "对决清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "根源之海",
+        "action": "对决主系统",
+        "expression": "坚定→艰难取胜",
+        "costume": "青云宗道袍，能量环绕"
+      },
+      {
+        "name": "主系统",
+        "position": "对面",
+        "action": "对抗",
+        "expression": "冰冷",
+        "costume": "纯能量形态"
+      }
+    ],
+    "visual_effects": {
+      "environment": "能量海洋，世界核心光球",
+      "lighting": "对决光芒",
+      "color_palette": "至高对决",
+      "special_effects": "两股至高力量对撞，多元宇宙震动"
+    },
+    "audio": {
+      "dialogues": [
+        {
+          "speaker": "系统音",
+          "text": "【检测到未授权根源访问...最终清除协议启动...】"
+        },
+        {
+          "speaker": "顾玄",
+          "text": "休想！根源指令：保护所有文明！"
+        }
+      ],
+      "background_music": "史诗对决",
+      "sound_effects": ["能量对撞声", "多元宇宙震动声"],
+      "volume_level": "音效突出"
+    },
+    "editing": {
+      "transition_to_next": "特效转场",
+      "pacing": "宏大",
+      "purpose": "主系统对决"
+    },
+    "notes": {
+      "production_note": "大量CG特效",
+      "reference_style": "史诗对决",
+      "difficulty_level": "非常复杂"
+    }
+  },
+  {
+    "shot_id": "EP24-S008",
+    "chapter_number": 24,
+    "scene_number": 8,
+    "duration": 15,
+    "shot_type": "反应→特写→全景",
+    "location": "天尊台顶",
+    "time_of_day": "返回后",
+    "composition": {
+      "camera_position": "反应→特写→全景",
+      "camera_movement": "队友惊喜反应，特写顾玄微笑，全景天尊台顶",
+      "framing": "胜利构图",
+      "focus_type": "角色清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "天尊台顶",
+        "action": "返回",
+        "expression": "微笑→坚定",
+        "costume": "青云宗道袍，能量环绕"
+      },
+      {
+        "name": "战穹",
+        "position": "迎接",
+        "action": "惊喜",
+        "expression": "惊喜",
+        "costume": "武者法袍"
+      },
+      {
+        "name": "队友们",
+        "position": "周围",
+        "action": "庆祝",
+        "expression": "惊喜",
+        "costume": "各色法袍"
+      }
+    ],
+    "visual_effects": {
+      "environment": "队友惊喜发现",
+      "lighting": "胜利光芒",
+      "color_palette": "胜利色调",
+      "special_effects": "伤势痊愈，气息深不可测"
+    },
+    "audio": {
+      "dialogues": [
+        {
+          "speaker": "系统音",
+          "text": "【系统：天魔执法系统V∞（根源版）】【权限：根源代行者（最高级）】"
+        },
+        {
+          "speaker": "战穹",
+          "text": "兄弟！你成功了？！"
+        },
+        {
+          "speaker": "顾玄",
+          "text": "不...我是管理员。不过...天尊这个称号，倒也不错。"
+        }
+      ],
+      "background_music": "史诗胜利",
+      "sound_effects": ["欢呼声", "系统提示声"],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "缓慢淡出",
+      "pacing": "缓慢",
+      "purpose": "第二卷完结"
+    },
+    "notes": {
+      "production_note": "实景+CG",
+      "reference_style": "史诗胜利",
+      "difficulty_level": "中等"
+    }
+  }
+]

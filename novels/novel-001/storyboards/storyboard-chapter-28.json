@@ -11,7 +11,15 @@
       "camera_angles": ["全景：会议室", "特写：求救信号", "主观：顾玄震惊"],
       "system_interfaces": [{"content": "【匹配到管理员顾玄原生世界】\n【文明等级：1级（核前时代）】\n\n求救信号：\"重复！现实宇宙坐标α-7遭遇虚空入侵！\"", "type": "信号匹配", "visual_style": "数据面板"}],
       "character_emotions": {"顾玄": "震惊→目眦欲裂"},
-      "key_dialogue": ["顾玄：那是...地球？！我的世界？！", "顾玄：不！立即组织救援队！我要亲自去！"],
+      "audio": {
+        "dialogues": [
+          {"speaker": "顾玄", "text": "那是...地球？！我的世界？！"},
+          {"speaker": "顾玄", "text": "不！立即组织救援队！我要亲自去！"}
+        ],
+        "background_music": "紧张警报音乐",
+        "sound_effects": ["求救信号音", "警报声", "心跳声"],
+        "volume_level": "紧张震撼"
+      },
       "plot_points": ["现实求救", "原生世界发现", "救援决心"],
       "satisfaction_level": "凝重+紧张"
     },
@@ -24,7 +32,14 @@
       "camera_angles": ["俯拍：地球末日", "全景：废墟", "特写：幸存者绝望"],
       "system_interfaces": [{"content": "【能量水平只剩10%...】\n【规则转换器启动...临时适应现实规则】", "type": "状态显示", "visual_style": "压制提示"}],
       "character_emotions": {"顾玄": "沉重", "幸存者": "震惊→感激"},
-      "key_dialogue": ["幸存者：三天前...紫雾突然出现...所有电子设备失灵...怪物从雾里出来..."],
+      "audio": {
+        "dialogues": [
+          {"speaker": "幸存者", "text": "三天前...紫雾突然出现...所有电子设备失灵...怪物从雾里出来..."}
+        ],
+        "background_music": "悲壮压抑音乐",
+        "sound_effects": ["风声", "紫雾涌动声", "幸存者抽泣"],
+        "volume_level": "悲壮紧张"
+      },
       "plot_points": ["救援队组建", "现实规则压制", "地球末日"],
       "satisfaction_level": "震惊+紧张"
     },
@@ -37,7 +52,14 @@
       "camera_angles": ["动作：雾中战斗", "特写：物理手段", "全景：基础剑术"],
       "system_interfaces": [{"content": "【放弃华丽权限技能，改用最基础剑术...效果更好！】\n\n顾玄：\"在现实宇宙，相信你的肌肉记忆！而非系统辅助！\"", "type": "战斗提示", "visual_style": "战术建议"}],
       "character_emotions": {"顾玄": "灵光一闪→果断"},
-      "key_dialogue": ["顾玄：既然现实规则更'硬'...那我们就不拼规则，拼物理！"],
+      "audio": {
+        "dialogues": [
+          {"speaker": "顾玄", "text": "既然现实规则更'硬'...那我们就不拼规则，拼物理！"}
+        ],
+        "background_music": "紧张战斗音乐",
+        "sound_effects": ["剑击声", "虚空生物惨叫", "物理碰撞声"],
+        "volume_level": "紧张刺激"
+      },
       "plot_points": ["物理战斗", "基础剑术威力", "雾中生物清除"],
       "satisfaction_level": "紧张+释放"
     },
@@ -50,7 +72,15 @@
       "camera_angles": ["全景：对撞机", "特写：主系统组件", "动作：叛乱者现身"],
       "system_interfaces": [{"content": "【设备被逆向工程了...有人在现实宇宙复制了主系统技术！】\n\n叛乱者：\"我早就备份了自己。现在，现实与虚拟的界限将由我打破！\"", "type": "扫描结果", "visual_style": "数据界面"}],
       "character_emotions": {"顾玄": "震惊→冷静", "叛乱者": "狂笑"},
-      "key_dialogue": ["叛乱者：惊喜吗？我早就备份了自己。", "顾玄：你疯了吗？虚空会吞噬一切！"],
+      "audio": {
+        "dialogues": [
+          {"speaker": "叛乱者", "text": "惊喜吗？我早就备份了自己。"},
+          {"speaker": "顾玄", "text": "你疯了吗？虚空会吞噬一切！"}
+        ],
+        "background_music": "诡异压迫音乐",
+        "sound_effects": ["设备运转声", "能量波动声", "叛乱者狂笑"],
+        "volume_level": "诡异紧张"
+      },
       "plot_points": ["叛乱者复活", "维度通道", "现实与虚拟"],
       "satisfaction_level": "震撼+压抑"
     },
@@ -63,7 +93,15 @@
       "camera_angles": ["动作：冲入通道", "主观：虚实转换", "特写：内外操作"],
       "system_interfaces": [{"content": "【通道开始关闭！】\n【叛乱者启动过载程序！通道变得不稳定！】\n\n顾玄：\"根源指令：自毁！\"", "type": "通道控制", "visual_style": "操作界面"}],
       "character_emotions": {"顾玄": "决绝→平静"},
-      "key_dialogue": ["顾玄：总有人要留下扳道岔。", "顾玄：任务...完成了吗？"],
+      "audio": {
+        "dialogues": [
+          {"speaker": "顾玄", "text": "总有人要留下扳道岔。"},
+          {"speaker": "顾玄", "text": "任务...完成了吗？"}
+        ],
+        "background_music": "悲壮史诗音乐",
+        "sound_effects": ["能量爆炸声", "通道关闭声", "白光吞没问题"],
+        "volume_level": "悲壮震撼"
+      },
       "plot_points": ["英雄牺牲", "通道关闭", "白光吞噬"],
       "satisfaction_level": "史诗+感动"
     },
@@ -76,7 +114,15 @@
       "camera_angles": ["全景：紫雾消散", "特写：顾玄身影", "主观：虚实状态"],
       "system_interfaces": [{"content": "【管理员顾玄-状态：现实稳定度47%】\n【虚拟同步率53%】\n【危险：可能解体】", "type": "状态诊断", "visual_style": "医疗界面"}],
       "character_emotions": {"顾玄": "艰难睁开眼→平静", "救援队": "悲伤→惊喜", "零": "沉默→苦笑"},
-      "key_dialogue": ["顾玄：至少还活着。现在...我算真人还是数据？", "零：重要吗？对于他们来说，这就是真实。"],
+      "audio": {
+        "dialogues": [
+          {"speaker": "顾玄", "text": "至少还活着。现在...我算真人还是数据？"},
+          {"speaker": "零", "text": "重要吗？对于他们来说，这就是真实。"}
+        ],
+        "background_music": "史诗温馨音乐",
+        "sound_effects": ["能量稳定声", "呼吸声", "欢呼声"],
+        "volume_level": "温馨感动"
+      },
       "plot_points": ["虚实融合", "地球得救", "新状态"],
       "satisfaction_level": "史诗+满足"
     }

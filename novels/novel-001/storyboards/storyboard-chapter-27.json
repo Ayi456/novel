@@ -11,7 +11,15 @@
       "camera_angles": ["全景：办公室", "特写：全息报表", "主观：顾玄视角"],
       "system_interfaces": [{"content": "【世界Z-73：灵气浓度异常下降-建议检查灵脉】\n【世界S-42：机械文明申请加入联合体-需文化适应评估】", "type": "待办事项", "visual_style": "报表界面"}],
       "character_emotions": {"顾玄": "头疼→惊讶", "零": "焦急"},
-      "key_dialogue": ["零：兄弟！第三宇宙块出事了！有个世界突然'掉线'了！", "顾玄：掉线？服务器故障？"],
+      "audio": {
+        "dialogues": [
+          {"speaker": "零", "text": "兄弟！第三宇宙块出事了！有个世界突然'掉线'了！"},
+          {"speaker": "顾玄", "text": "掉线？服务器故障？"}
+        ],
+        "background_music": "忙碌办公音乐",
+        "sound_effects": ["系统提示音", "全息投影音", "警报声"],
+        "volume_level": "紧张忙碌"
+      },
       "plot_points": ["监察使日常", "世界掉线危机", "紧急任务"],
       "satisfaction_level": "压抑积累"
     },
@@ -24,7 +32,15 @@
       "camera_angles": ["俯拍：废墟全景", "动作：虚空生物攻击", "特效：剑气被吸收"],
       "system_interfaces": [{"content": "【检测到高浓度虚空能量】\n【世界规则被改写：科技无效化】\n【加载本地备份规则...临时适应】", "type": "扫描结果", "visual_style": "环境数据"}],
       "character_emotions": {"顾玄": "警惕→震惊", "幸存者": "绝望→激动"},
-      "key_dialogue": ["女科学家：是总部的人？！我们以为被抛弃了！", "顾玄：管理员顾玄，来调查世界异常。"],
+      "audio": {
+        "dialogues": [
+          {"speaker": "女科学家", "text": "是总部的人？！我们以为被抛弃了！"},
+          {"speaker": "顾玄", "text": "管理员顾玄，来调查世界异常。"}
+        ],
+        "background_music": "荒凉压抑音乐",
+        "sound_effects": ["废墟风声", "虚空低吼", "能量吸收声"],
+        "volume_level": "荒凉紧张"
+      },
       "plot_points": ["末日世界", "科技失效", "虚空生物"],
       "satisfaction_level": "荒凉+紧张"
     },
@@ -37,7 +53,15 @@
       "camera_angles": ["全景：漩涡", "特写：科学家诡异微笑", "动作：虚空能量体形成"],
       "system_interfaces": [{"content": "【检测到异常维度连接】\n【源头：未知】\n\n女科学家（虚空领主）：\"终于...等到你了...\"", "type": "扫描结果", "visual_style": "警告界面"}],
       "character_emotions": {"顾玄": "警惕→冷静", "虚空领主": "狂笑"},
-      "key_dialogue": ["虚空领主：感谢你带来完整的权限...现在，这个世界归我了！", "顾玄：规则覆盖：恢复默认设置！"],
+      "audio": {
+        "dialogues": [
+          {"speaker": "虚空领主", "text": "感谢你带来完整的权限...现在，这个世界归我了！"},
+          {"speaker": "顾玄", "text": "规则覆盖：恢复默认设置！"}
+        ],
+        "background_music": "诡异恐怖音乐",
+        "sound_effects": ["虚空低吼", "能量汇聚声", "规则碰撞声"],
+        "volume_level": "诡异紧张"
+      },
       "plot_points": ["虚空领主伪装", "冒险冲入虚空", "天道意识觉醒"],
       "satisfaction_level": "紧张+释放"
     },
@@ -50,7 +74,15 @@
       "camera_angles": ["全景：会议室", "特写：主系统被入侵", "主观：倒计时"],
       "system_interfaces": [{"content": "【主系统被黑！】\n【主系统正在启动自毁程序！】\n【三小时后爆炸！】", "type": "紧急警报", "visual_style": "红色警报"}],
       "character_emotions": {"顾玄": "震惊→当机立断", "零": "满头大汗", "管理员": "震惊→决心"},
-      "key_dialogue": ["零：除非有'最高管理员'权限...但那需要三个宇宙块的管理员同时授权！", "顾玄：那就投票！同意的举手！"],
+      "audio": {
+        "dialogues": [
+          {"speaker": "零", "text": "除非有'最高管理员'权限...但那需要三个宇宙块的管理员同时授权！"},
+          {"speaker": "顾玄", "text": "那就投票！同意的举手！"}
+        ],
+        "background_music": "紧张警报音乐",
+        "sound_effects": ["警报声", "倒计时滴答声", "键盘敲击声"],
+        "volume_level": "紧张震撼"
+      },
       "plot_points": ["主系统危机", "管理员联合", "密码破解"],
       "satisfaction_level": "震撼+搞笑"
     },
@@ -63,7 +95,15 @@
       "camera_angles": ["全景：规则汇聚", "特写：密码破解", "动作：净化爆发"],
       "system_interfaces": [{"content": "密码破解：\n'欢迎使用主系统'？不对！\n'管理员都是帅哥'？不对！\n'密码123456'？也不对！\n顾玄：试试'恭喜发财'？\n零：...对了？！", "type": "密码破解", "visual_style": "破解界面"}],
       "character_emotions": {"顾玄": "灵光一闪", "零": "焦急→惊喜", "虚空大君": "惨叫"},
-      "key_dialogue": ["顾玄：或许...有别的办法。我们将各自世界的规则注入主系统！用多元宇宙的力量覆盖虚空！", "虚空大君：不！这不可能！"],
+      "audio": {
+        "dialogues": [
+          {"speaker": "顾玄", "text": "或许...有别的办法。我们将各自世界的规则注入主系统！用多元宇宙的力量覆盖虚空！"},
+          {"speaker": "虚空大君", "text": "不！这不可能！"}
+        ],
+        "background_music": "史诗战斗音乐",
+        "sound_effects": ["密码输入音", "能量汇聚声", "净化爆发声"],
+        "volume_level": "史诗震撼"
+      },
       "plot_points": ["密码破解荒诞", "多元宇宙净化", "主系统重生"],
       "satisfaction_level": "史诗+满足"
     },
@@ -76,7 +116,15 @@
       "camera_angles": ["特写：主屏幕", "主观：顾玄视角", "反应：零惊讶"],
       "system_interfaces": [{"content": "【检测到未知信号源...来源：现实宇宙】\n\n求救信号：\"求救！现实正在被虚空入侵！请求任何可用援助！\"", "type": "求救信号", "visual_style": "信号界面"}],
       "character_emotions": {"顾玄": "与零对视", "零": "担忧"},
-      "key_dialogue": ["顾玄：我能做的，就是全力以赴。", "零：现实宇宙都沦陷了...我们该怎么办？"],
+      "audio": {
+        "dialogues": [
+          {"speaker": "顾玄", "text": "我能做的，就是全力以赴。"},
+          {"speaker": "零", "text": "现实宇宙都沦陷了...我们该怎么办？"}
+        ],
+        "background_music": "沉重悬疑音乐",
+        "sound_effects": ["求救信号音", "电流杂音", "沉重呼吸声"],
+        "volume_level": "沉重期待"
+      },
       "plot_points": ["主系统重生", "现实求救", "最终决战准备"],
       "satisfaction_level": "史诗+期待"
     }
