@@ -58,10 +58,10 @@
     }
   },
   {
-    "shot_id": "EP03-S002",
+    "shot_id": "EP03-S002-1",
     "chapter_number": 3,
     "scene_number": 1,
-    "duration": 7,
+    "duration": 4,
     "shot_type": "中景",
     "location": "青云宗主殿角落",
     "time_of_day": "清晨",
@@ -82,6 +82,64 @@
       {
         "name": "李道玄",
         "position": "画面右侧",
+        "action": "掏钱袋",
+        "expression": "尴尬",
+        "costume": "掌门袍(略显破旧)"
+      }
+    ],
+    "visual_effects": {
+      "environment": "破败的主殿角落",
+      "lighting": "晨光从破损窗户射入",
+      "color_palette": "灰暗色调",
+      "special_effects": "无"
+    },
+    "audio": {
+      "dialogues": [
+        {
+          "speaker": "顾玄",
+          "text": "掌门,咱们宗门...真的连买米的钱都没了?"
+        }
+      ],
+      "background_music": "压抑带点幽默",
+      "sound_effects": [],
+      "volume_level": "对话清晰"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "中等",
+      "purpose": "顾玄询问财政"
+    },
+    "notes": {
+      "production_note": "注重窘迫感",
+      "reference_style": "搞笑窘迫",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP03-S002-2",
+    "chapter_number": 3,
+    "scene_number": 1,
+    "duration": 4,
+    "shot_type": "中景",
+    "location": "青云宗主殿角落",
+    "time_of_day": "清晨",
+    "composition": {
+      "camera_position": "侧面拍摄",
+      "camera_movement": "轻微摇镜",
+      "framing": "私密对话构图",
+      "focus_type": "对话清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "画面左侧",
+        "action": "听着",
+        "expression": "担忧",
+        "costume": "粗布麻衣"
+      },
+      {
+        "name": "李道玄",
+        "position": "画面右侧",
         "action": "掏钱袋,尴尬",
         "expression": "尴尬,无奈",
         "costume": "掌门袍(略显破旧)"
@@ -96,10 +154,6 @@
     "audio": {
       "dialogues": [
         {
-          "speaker": "顾玄",
-          "text": "掌门,咱们宗门...真的连买米的钱都没了?"
-        },
-        {
           "speaker": "李道玄",
           "text": "就这些了。原本指望招到富家子弟收点学费,结果就招到陆尘这么个比我们还穷的..."
         }
@@ -111,7 +165,7 @@
     "editing": {
       "transition_to_next": "直接切",
       "pacing": "中等",
-      "purpose": "展现财政危机"
+      "purpose": "掌门说明窘境"
     },
     "notes": {
       "production_note": "注重窘迫感",
@@ -120,10 +174,10 @@
     }
   },
   {
-    "shot_id": "EP03-S003",
+    "shot_id": "EP03-S003-1",
     "chapter_number": 3,
     "scene_number": 1,
-    "duration": 6,
+    "duration": 3,
     "shot_type": "特写",
     "location": "青云宗主殿角落",
     "time_of_day": "清晨",
@@ -144,8 +198,8 @@
       {
         "name": "李道玄",
         "position": "画面右侧",
-        "action": "瞪眼,拒绝",
-        "expression": "严肃",
+        "action": "听着",
+        "expression": "平静",
         "costume": "掌门袍"
       }
     ],
@@ -160,11 +214,119 @@
         {
           "speaker": "顾玄",
           "text": "要不...我去城里找个活干?"
-        },
+        }
+      ],
+      "background_music": "幽默窘迫",
+      "sound_effects": [],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "轻快",
+      "purpose": "顾玄提议打工"
+    },
+    "notes": {
+      "production_note": "注重表演",
+      "reference_style": "搞笑对话",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP03-S003-2",
+    "chapter_number": 3,
+    "scene_number": 1,
+    "duration": 2,
+    "shot_type": "特写",
+    "location": "青云宗主殿角落",
+    "time_of_day": "清晨",
+    "composition": {
+      "camera_position": "正面近景",
+      "camera_movement": "固定镜头",
+      "framing": "对话构图",
+      "focus_type": "表情清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "画面中央",
+        "action": "被训斥",
+        "expression": "无奈",
+        "costume": "粗布麻衣"
+      },
+      {
+        "name": "李道玄",
+        "position": "画面右侧",
+        "action": "瞪眼,拒绝",
+        "expression": "严肃",
+        "costume": "掌门袍"
+      }
+    ],
+    "visual_effects": {
+      "environment": "破败主殿",
+      "lighting": "晨光",
+      "color_palette": "灰暗色调",
+      "special_effects": "无"
+    },
+    "audio": {
+      "dialogues": [
         {
           "speaker": "李道玄",
           "text": "胡闹!青云宗大弟子去打工?传出去我们脸往哪搁!"
-        },
+        }
+      ],
+      "background_music": "幽默窘迫",
+      "sound_effects": [],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "轻快",
+      "purpose": "掌门拒绝"
+    },
+    "notes": {
+      "production_note": "注重表演",
+      "reference_style": "搞笑对话",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP03-S003-3",
+    "chapter_number": 3,
+    "scene_number": 1,
+    "duration": 2,
+    "shot_type": "特写",
+    "location": "青云宗主殿角落",
+    "time_of_day": "清晨",
+    "composition": {
+      "camera_position": "正面近景",
+      "camera_movement": "固定镜头",
+      "framing": "对话构图",
+      "focus_type": "表情清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "画面中央",
+        "action": "反问",
+        "expression": "无奈",
+        "costume": "粗布麻衣"
+      },
+      {
+        "name": "李道玄",
+        "position": "画面右侧",
+        "action": "听着",
+        "expression": "严肃",
+        "costume": "掌门袍"
+      }
+    ],
+    "visual_effects": {
+      "environment": "破败主殿",
+      "lighting": "晨光",
+      "color_palette": "灰暗色调",
+      "special_effects": "无"
+    },
+    "audio": {
+      "dialogues": [
         {
           "speaker": "顾玄",
           "text": "那怎么办?总不能喝西北风吧?"
@@ -175,9 +337,9 @@
       "volume_level": "对话突出"
     },
     "editing": {
-      "transition_to_next": "快速切",
+      "transition_to_next": "直接切",
       "pacing": "轻快",
-      "purpose": "窘迫对话"
+      "purpose": "顾玄反问"
     },
     "notes": {
       "production_note": "注重表演",
@@ -186,10 +348,10 @@
     }
   },
   {
-    "shot_id": "EP03-S004",
+    "shot_id": "EP03-S004-1",
     "chapter_number": 3,
     "scene_number": 2,
-    "duration": 6,
+    "duration": 3,
     "shot_type": "中景",
     "location": "青云宗主殿",
     "time_of_day": "清晨",
@@ -210,8 +372,8 @@
       {
         "name": "顾玄",
         "position": "画面左侧",
-        "action": "嘴角抽搐",
-        "expression": "无语",
+        "action": "听着",
+        "expression": "平静",
         "costume": "粗布麻衣"
       }
     ],
@@ -226,11 +388,119 @@
         {
           "speaker": "李道玄",
           "text": "对了!祖师堂里不是还有几幅祖传的古画吗?据说有些年头了,说不定能值点钱。"
-        },
+        }
+      ],
+      "background_music": "转折轻松",
+      "sound_effects": [],
+      "volume_level": "对话清晰"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "轻快",
+      "purpose": "掌门想到主意"
+    },
+    "notes": {
+      "production_note": "注重表演转折",
+      "reference_style": "轻松转折",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP03-S004-2",
+    "chapter_number": 3,
+    "scene_number": 2,
+    "duration": 2,
+    "shot_type": "中景",
+    "location": "青云宗主殿",
+    "time_of_day": "清晨",
+    "composition": {
+      "camera_position": "正面拍摄",
+      "camera_movement": "推近",
+      "framing": "单人构图",
+      "focus_type": "表情清晰"
+    },
+    "characters": [
+      {
+        "name": "李道玄",
+        "position": "画面中央",
+        "action": "兴奋地说",
+        "expression": "兴奋",
+        "costume": "掌门袍"
+      },
+      {
+        "name": "顾玄",
+        "position": "画面左侧",
+        "action": "嘴角抽搐",
+        "expression": "无语",
+        "costume": "粗布麻衣"
+      }
+    ],
+    "visual_effects": {
+      "environment": "破败主殿",
+      "lighting": "晨光",
+      "color_palette": "灰暗转亮",
+      "special_effects": "无"
+    },
+    "audio": {
+      "dialogues": [
         {
           "speaker": "顾玄",
           "text": "掌门,那些画都快烂成渣了...上次我打扫时差点把它们当抹布用了。"
-        },
+        }
+      ],
+      "background_music": "转折轻松",
+      "sound_effects": [],
+      "volume_level": "对话清晰"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "轻快",
+      "purpose": "顾玄吐槽"
+    },
+    "notes": {
+      "production_note": "注重表演转折",
+      "reference_style": "轻松转折",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP03-S004-3",
+    "chapter_number": 3,
+    "scene_number": 2,
+    "duration": 3,
+    "shot_type": "中景",
+    "location": "青云宗主殿",
+    "time_of_day": "清晨",
+    "composition": {
+      "camera_position": "正面拍摄",
+      "camera_movement": "推近",
+      "framing": "单人构图",
+      "focus_type": "表情清晰"
+    },
+    "characters": [
+      {
+        "name": "李道玄",
+        "position": "画面中央",
+        "action": "高深莫测地说",
+        "expression": "高深莫测",
+        "costume": "掌门袍"
+      },
+      {
+        "name": "顾玄",
+        "position": "画面左侧",
+        "action": "听着",
+        "expression": "无奈",
+        "costume": "粗布麻衣"
+      }
+    ],
+    "visual_effects": {
+      "environment": "破败主殿",
+      "lighting": "晨光",
+      "color_palette": "灰暗转亮",
+      "special_effects": "无"
+    },
+    "audio": {
+      "dialogues": [
         {
           "speaker": "李道玄",
           "text": "你不懂!万一是宝贝呢?走,带上画,我们去趟珍宝斋!"
@@ -243,7 +513,7 @@
     "editing": {
       "transition_to_next": "直接切",
       "pacing": "轻快",
-      "purpose": "转折点"
+      "purpose": "决定去珍宝斋"
     },
     "notes": {
       "production_note": "注重表演转折",
@@ -252,10 +522,10 @@
     }
   },
   {
-    "shot_id": "EP03-S005",
+    "shot_id": "EP03-S005-1",
     "chapter_number": 3,
     "scene_number": 3,
-    "duration": 8,
+    "duration": 5,
     "shot_type": "全景",
     "location": "青州城-珍宝斋门前",
     "time_of_day": "上午",
@@ -285,17 +555,13 @@
       "environment": "青州城最大典当行,气派建筑",
       "lighting": "上午阳光",
       "color_palette": "明亮色调",
-      "special_effects": "顾玄瞬间气场转变"
+      "special_effects": "无"
     },
     "audio": {
       "dialogues": [
         {
           "speaker": "李道玄",
           "text": "记住,摆出高人的架势!越是落魄越要端着,这些商人最吃这套!"
-        },
-        {
-          "speaker": "旁白",
-          "text": "青州城最大的典当行'珍宝斋'。一老一少两个身影出现在门前。李道玄怀里抱着个破木匣,里面装着三卷泛黄破损的古画"
         }
       ],
       "background_music": "轻松神秘",
@@ -305,7 +571,7 @@
     "editing": {
       "transition_to_next": "直接切",
       "pacing": "中等",
-      "purpose": "场景转换+装逼准备"
+      "purpose": "掌门嘱咐装逼"
     },
     "notes": {
       "production_note": "注重气场转变",
@@ -314,10 +580,68 @@
     }
   },
   {
-    "shot_id": "EP03-S006",
+    "shot_id": "EP03-S005-2",
     "chapter_number": 3,
     "scene_number": 3,
-    "duration": 7,
+    "duration": 4,
+    "shot_type": "全景",
+    "location": "青州城-珍宝斋门前",
+    "time_of_day": "上午",
+    "composition": {
+      "camera_position": "珍宝斋门外,仰视",
+      "camera_movement": "缓慢推近",
+      "framing": "建筑构图",
+      "focus_type": "整体清晰"
+    },
+    "characters": [
+      {
+        "name": "李道玄",
+        "position": "门前,怀抱木匣",
+        "action": "站在一旁",
+        "expression": "严肃",
+        "costume": "掌门袍"
+      },
+      {
+        "name": "顾玄",
+        "position": "门前",
+        "action": "调整状态,进入装逼模式",
+        "expression": "淡漠→高深",
+        "costume": "粗布麻衣"
+      }
+    ],
+    "visual_effects": {
+      "environment": "青州城最大典当行,气派建筑",
+      "lighting": "上午阳光",
+      "color_palette": "明亮色调",
+      "special_effects": "无"
+    },
+    "audio": {
+      "dialogues": [
+        {
+          "speaker": "旁白",
+          "text": "青州城最大的典当行'珍宝斋'。一老一少两个身影出现在门前。李道玄怀里抱着个破木匣,里面装着三卷泛黄破损的古画"
+        }
+      ],
+      "background_music": "轻松神秘",
+      "sound_effects": ["市集喧嚣声"],
+      "volume_level": "旁白清晰"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "中等",
+      "purpose": "场景介绍"
+    },
+    "notes": {
+      "production_note": "注重气场转变",
+      "reference_style": "装逼时刻",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP03-S006-1",
+    "chapter_number": 3,
+    "scene_number": 3,
+    "duration": 3,
     "shot_type": "中景",
     "location": "珍宝斋内",
     "time_of_day": "上午",
@@ -338,7 +662,137 @@
       {
         "name": "李道玄",
         "position": "淡定",
+        "action": "捋胡须",
+        "expression": "高深莫测",
+        "costume": "掌门袍"
+      },
+      {
+        "name": "掌柜",
+        "position": "背景",
+        "action": "准备走出",
+        "expression": "笑容",
+        "costume": "掌柜服"
+      }
+    ],
+    "visual_effects": {
+      "environment": "珍宝斋内部,琳琅满目宝物",
+      "lighting": "室内明亮光线",
+      "color_palette": "富丽堂皇",
+      "special_effects": "无"
+    },
+    "audio": {
+      "dialogues": [
+        {
+          "speaker": "店伙计",
+          "text": "二位仙长有何贵干?"
+        }
+      ],
+      "background_music": "轻松商务",
+      "sound_effects": [],
+      "volume_level": "对话清晰"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "中等",
+      "purpose": "伙计迎接"
+    },
+    "notes": {
+      "production_note": "注重商务氛围",
+      "reference_style": "传统商务场景",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP03-S006-2",
+    "chapter_number": 3,
+    "scene_number": 3,
+    "duration": 2,
+    "shot_type": "中景",
+    "location": "珍宝斋内",
+    "time_of_day": "上午",
+    "composition": {
+      "camera_position": "正面拍摄",
+      "camera_movement": "跟随移动",
+      "framing": "对话构图",
+      "focus_type": "互动清晰"
+    },
+    "characters": [
+      {
+        "name": "店伙计",
+        "position": "一旁",
+        "action": "恭敬站立",
+        "expression": "恭敬",
+        "costume": "伙计服"
+      },
+      {
+        "name": "李道玄",
+        "position": "画面中央",
         "action": "捋胡须,高深莫测",
+        "expression": "高深莫测",
+        "costume": "掌门袍"
+      },
+      {
+        "name": "掌柜",
+        "position": "背景",
+        "action": "听着",
+        "expression": "笑容",
+        "costume": "掌柜服"
+      }
+    ],
+    "visual_effects": {
+      "environment": "珍宝斋内部,琳琅满目宝物",
+      "lighting": "室内明亮光线",
+      "color_palette": "富丽堂皇",
+      "special_effects": "无"
+    },
+    "audio": {
+      "dialogues": [
+        {
+          "speaker": "李道玄",
+          "text": "叫你们掌柜出来,有些祖传下来的小玩意,不知能否入他法眼。"
+        }
+      ],
+      "background_music": "轻松商务",
+      "sound_effects": [],
+      "volume_level": "对话清晰"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "中等",
+      "purpose": "李道玄要求见掌柜"
+    },
+    "notes": {
+      "production_note": "注重商务氛围",
+      "reference_style": "传统商务场景",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP03-S006-3",
+    "chapter_number": 3,
+    "scene_number": 3,
+    "duration": 3,
+    "shot_type": "中景",
+    "location": "珍宝斋内",
+    "time_of_day": "上午",
+    "composition": {
+      "camera_position": "正面拍摄",
+      "camera_movement": "跟随移动",
+      "framing": "对话构图",
+      "focus_type": "互动清晰"
+    },
+    "characters": [
+      {
+        "name": "店伙计",
+        "position": "一旁",
+        "action": "恭敬站立",
+        "expression": "恭敬",
+        "costume": "伙计服"
+      },
+      {
+        "name": "李道玄",
+        "position": "画面一侧",
+        "action": "捋胡须",
         "expression": "高深莫测",
         "costume": "掌门袍"
       },
@@ -359,14 +813,6 @@
     "audio": {
       "dialogues": [
         {
-          "speaker": "店伙计",
-          "text": "二位仙长有何贵干?"
-        },
-        {
-          "speaker": "李道玄",
-          "text": "叫你们掌柜出来,有些祖传下来的小玩意,不知能否入他法眼。"
-        },
-        {
           "speaker": "掌柜",
           "text": "二位仙长光临,蓬荜生辉啊。不知有何宝物要让在下开眼?"
         }
@@ -378,7 +824,7 @@
     "editing": {
       "transition_to_next": "直接切",
       "pacing": "中等",
-      "purpose": "进入珍宝斋"
+      "purpose": "掌柜迎接"
     },
     "notes": {
       "production_note": "注重商务氛围",
@@ -387,10 +833,10 @@
     }
   },
   {
-    "shot_id": "EP03-S007",
+    "shot_id": "EP03-S007-1",
     "chapter_number": 3,
     "scene_number": 4,
-    "duration": 9,
+    "duration": 4,
     "shot_type": "特写",
     "location": "珍宝斋内",
     "time_of_day": "上午",
@@ -434,14 +880,6 @@
         {
           "speaker": "掌柜",
           "text": "这画...年代是有些,但笔墨粗糙,保存又差,不值什么钱。"
-        },
-        {
-          "speaker": "掌柜",
-          "text": "抱歉,这种品相,最多值十文钱"
-        },
-        {
-          "speaker": "旁白",
-          "text": "李道玄故作高深地打开木匣,取出第一幅画。那画纸黄得发黑,边角破损严重,上面画着模糊的山水,看不出任何特别之处。李道玄老脸有点挂不住,又拿出第二幅"
         }
       ],
       "background_music": "尴尬音乐",
@@ -449,9 +887,139 @@
       "volume_level": "对话突出"
     },
     "editing": {
-      "transition_to_next": "快速切",
+      "transition_to_next": "直接切",
       "pacing": "尴尬",
-      "purpose": "连续碰壁,尴尬升级"
+      "purpose": "第一幅画被拒"
+    },
+    "notes": {
+      "production_note": "注重尴尬感",
+      "reference_style": "尴尬碰壁",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP03-S007-2",
+    "chapter_number": 3,
+    "scene_number": 4,
+    "duration": 3,
+    "shot_type": "特写",
+    "location": "珍宝斋内",
+    "time_of_day": "上午",
+    "composition": {
+      "camera_position": "俯拍画作",
+      "camera_movement": "缓慢扫过",
+      "framing": "特写构图",
+      "focus_type": "画清晰"
+    },
+    "characters": [
+      {
+        "name": "李道玄",
+        "position": "手持画卷",
+        "action": "拿出第二幅",
+        "expression": "尴尬",
+        "costume": "掌门袍"
+      },
+      {
+        "name": "掌柜",
+        "position": "仔细观看",
+        "action": "再次摇头",
+        "expression": "失望",
+        "costume": "掌柜服"
+      },
+      {
+        "name": "顾玄",
+        "position": "一旁观看",
+        "action": "尴尬",
+        "expression": "尴尬想找地缝",
+        "costume": "粗布麻衣"
+      }
+    ],
+    "visual_effects": {
+      "environment": "珍宝斋柜台",
+      "lighting": "明亮光线聚焦画作",
+      "color_palette": "画作发黄",
+      "special_effects": "第二幅画:人物面容模糊不清"
+    },
+    "audio": {
+      "dialogues": [
+        {
+          "speaker": "掌柜",
+          "text": "抱歉,这种品相,最多值十文钱"
+        }
+      ],
+      "background_music": "尴尬音乐",
+      "sound_effects": [],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "尴尬",
+      "purpose": "第二幅画被拒"
+    },
+    "notes": {
+      "production_note": "注重尴尬感",
+      "reference_style": "尴尬碰壁",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP03-S007-3",
+    "chapter_number": 3,
+    "scene_number": 4,
+    "duration": 3,
+    "shot_type": "特写",
+    "location": "珍宝斋内",
+    "time_of_day": "上午",
+    "composition": {
+      "camera_position": "俯拍画作",
+      "camera_movement": "缓慢扫过",
+      "framing": "特写构图",
+      "focus_type": "画清晰"
+    },
+    "characters": [
+      {
+        "name": "李道玄",
+        "position": "手持画卷",
+        "action": "垂头丧气准备收起",
+        "expression": "尴尬",
+        "costume": "掌门袍"
+      },
+      {
+        "name": "掌柜",
+        "position": "一旁",
+        "action": "看着",
+        "expression": "失望",
+        "costume": "掌柜服"
+      },
+      {
+        "name": "顾玄",
+        "position": "一旁",
+        "action": "看着",
+        "expression": "尴尬",
+        "costume": "粗布麻衣"
+      }
+    ],
+    "visual_effects": {
+      "environment": "珍宝斋柜台",
+      "lighting": "明亮光线",
+      "color_palette": "画作发黄",
+      "special_effects": "无"
+    },
+    "audio": {
+      "dialogues": [
+        {
+          "speaker": "旁白",
+          "text": "李道玄故作高深地打开木匣,取出第一幅画。那画纸黄得发黑,边角破损严重,上面画着模糊的山水,看不出任何特别之处。李道玄老脸有点挂不住,又拿出第二幅"
+        }
+      ],
+      "background_music": "尴尬音乐",
+      "sound_effects": [],
+      "volume_level": "旁白清晰"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "尴尬",
+      "purpose": "连续碰壁描述"
     },
     "notes": {
       "production_note": "注重尴尬感",
@@ -511,10 +1079,10 @@
     }
   },
   {
-    "shot_id": "EP03-S009",
+    "shot_id": "EP03-S009-1",
     "chapter_number": 3,
     "scene_number": 5,
-    "duration": 10,
+    "duration": 3,
     "shot_type": "特写",
     "location": "珍宝斋内",
     "time_of_day": "上午",
@@ -536,6 +1104,180 @@
         "name": "掌柜",
         "position": "凑近观看",
         "action": "仔细看画",
+        "expression": "怀疑",
+        "costume": "掌柜服"
+      }
+    ],
+    "visual_effects": {
+      "environment": "珍宝斋柜台",
+      "lighting": "正常光线",
+      "color_palette": "正常色调",
+      "special_effects": "无"
+    },
+    "audio": {
+      "dialogues": [
+        {
+          "speaker": "顾玄",
+          "text": "掌柜的再仔细看看?此画乃我先祖于北海之极,观万年玄冰领悟所绘,其中暗藏玄机。"
+        }
+      ],
+      "background_music": "神秘紧张",
+      "sound_effects": [],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "紧张",
+      "purpose": "顾玄开始装逼"
+    },
+    "notes": {
+      "production_note": "特效+表演",
+      "reference_style": "神秘异象",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP03-S009-2",
+    "chapter_number": 3,
+    "scene_number": 5,
+    "duration": 3,
+    "shot_type": "特写",
+    "location": "珍宝斋内",
+    "time_of_day": "上午",
+    "composition": {
+      "camera_position": "俯拍画作+顾玄手",
+      "camera_movement": "缓慢推近",
+      "framing": "特写构图",
+      "focus_type": "画作和手清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "手指指向画",
+        "action": "继续信口胡诌",
+        "expression": "高深莫测",
+        "costume": "粗布麻衣"
+      },
+      {
+        "name": "掌柜",
+        "position": "凑近观看",
+        "action": "被唬住",
+        "expression": "怀疑→认真",
+        "costume": "掌柜服"
+      }
+    ],
+    "visual_effects": {
+      "environment": "珍宝斋柜台",
+      "lighting": "正常光线",
+      "color_palette": "正常色调",
+      "special_effects": "无"
+    },
+    "audio": {
+      "dialogues": [
+        {
+          "speaker": "顾玄",
+          "text": "你看此处笔墨走势,是否暗合天道运转?再看这留白,是否似有无尽寒意蕴藏其中?"
+        }
+      ],
+      "background_music": "神秘紧张",
+      "sound_effects": [],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "紧张",
+      "purpose": "顾玄继续装逼"
+    },
+    "notes": {
+      "production_note": "特效+表演",
+      "reference_style": "神秘异象",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP03-S009-3",
+    "chapter_number": 3,
+    "scene_number": 5,
+    "duration": 2,
+    "shot_type": "特写",
+    "location": "珍宝斋内",
+    "time_of_day": "上午",
+    "composition": {
+      "camera_position": "俯拍画作+顾玄手",
+      "camera_movement": "缓慢推近",
+      "framing": "特写构图",
+      "focus_type": "画作和手清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "手指指向画",
+        "action": "继续装逼",
+        "expression": "高深莫测",
+        "costume": "粗布麻衣"
+      },
+      {
+        "name": "掌柜",
+        "position": "凑近观看",
+        "action": "认真看画",
+        "expression": "认真",
+        "costume": "掌柜服"
+      }
+    ],
+    "visual_effects": {
+      "environment": "珍宝斋柜台",
+      "lighting": "正常光线",
+      "color_palette": "正常色调",
+      "special_effects": "无"
+    },
+    "audio": {
+      "dialogues": [
+        {
+          "speaker": "顾玄",
+          "text": "此画非凡物,需有缘人方能得见真谛"
+        }
+      ],
+      "background_music": "神秘紧张",
+      "sound_effects": [],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "紧张",
+      "purpose": "顾玄装逼高潮"
+    },
+    "notes": {
+      "production_note": "特效+表演",
+      "reference_style": "神秘异象",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP03-S009-4",
+    "chapter_number": 3,
+    "scene_number": 5,
+    "duration": 3,
+    "shot_type": "特写",
+    "location": "珍宝斋内",
+    "time_of_day": "上午",
+    "composition": {
+      "camera_position": "俯拍画作+顾玄手",
+      "camera_movement": "缓慢推近",
+      "framing": "特写构图",
+      "focus_type": "画作和手清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "手指指向画",
+        "action": "装逼",
+        "expression": "高深莫测",
+        "costume": "粗布麻衣"
+      },
+      {
+        "name": "掌柜",
+        "position": "凑近观看",
+        "action": "震惊",
         "expression": "怀疑→震惊",
         "costume": "掌柜服"
       }
@@ -549,30 +1291,18 @@
     "audio": {
       "dialogues": [
         {
-          "speaker": "顾玄",
-          "text": "掌柜的再仔细看看?此画乃我先祖于北海之极,观万年玄冰领悟所绘,其中暗藏玄机。"
-        },
-        {
-          "speaker": "顾玄",
-          "text": "你看此处笔墨走势,是否暗合天道运转?再看这留白,是否似有无尽寒意蕴藏其中?"
-        },
-        {
-          "speaker": "顾玄",
-          "text": "此画非凡物,需有缘人方能得见真谛"
-        },
-        {
           "speaker": "旁白",
           "text": "他纯粹是信口胡诌,把前世看的那些艺术鉴赏节目里的词瞎掰出来。然而就在这时,诡异的事情发生了——那画上被顾玄手指点中的地方,忽然泛起一丝极细微的蓝光"
         }
       ],
       "background_music": "神秘紧张",
       "sound_effects": ["蓝光出现音效", "温度下降音效"],
-      "volume_level": "对话+特效音"
+      "volume_level": "旁白+特效音"
     },
     "editing": {
       "transition_to_next": "直接切",
       "pacing": "紧张",
-      "purpose": "瞎猫碰死耗子显异象"
+      "purpose": "异象显现"
     },
     "notes": {
       "production_note": "特效+表演",
@@ -581,10 +1311,61 @@
     }
   },
   {
-    "shot_id": "EP03-S010",
+    "shot_id": "EP03-S010-1",
     "chapter_number": 3,
     "scene_number": 6,
-    "duration": 7,
+    "duration": 4,
+    "shot_type": "特写",
+    "location": "珍宝斋内",
+    "time_of_day": "上午",
+    "composition": {
+      "camera_position": "顾玄主观视角",
+      "camera_movement": "界面叠加",
+      "framing": "系统界面+画作",
+      "focus_type": "两者都清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "画面边缘",
+        "action": "盯着画角",
+        "expression": "惊讶→恍然大悟",
+        "costume": "粗布麻衣"
+      }
+    ],
+    "visual_effects": {
+      "environment": "珍宝斋内",
+      "lighting": "正常光线+系统蓝光",
+      "color_palette": "系统冷色调",
+      "special_effects": "无"
+    },
+    "audio": {
+      "dialogues": [
+        {
+          "speaker": "顾玄",
+          "text": "咦?"
+        }
+      ],
+      "background_music": "科技感+神秘",
+      "sound_effects": [],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "紧张",
+      "purpose": "顾玄发现异常"
+    },
+    "notes": {
+      "production_note": "CG系统界面+符文特效",
+      "reference_style": "系统提示+神秘符文",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP03-S010-2",
+    "chapter_number": 3,
+    "scene_number": 6,
+    "duration": 4,
     "shot_type": "特写",
     "location": "珍宝斋内",
     "time_of_day": "上午",
@@ -612,10 +1393,6 @@
     "audio": {
       "dialogues": [
         {
-          "speaker": "顾玄",
-          "text": "咦?"
-        },
-        {
           "speaker": "旁白",
           "text": "他忽然盯着画的一角,那里有几处看似随意的墨点,原本毫不起眼。但此刻在光线下,这些墨点竟隐约组成了一个奇特的符文!"
         }
@@ -636,10 +1413,10 @@
     }
   },
   {
-    "shot_id": "EP03-S011",
+    "shot_id": "EP03-S011-1",
     "chapter_number": 3,
     "scene_number": 7,
-    "duration": 11,
+    "duration": 4,
     "shot_type": "特写",
     "location": "珍宝斋内",
     "time_of_day": "上午",
@@ -654,6 +1431,71 @@
         "name": "顾玄",
         "position": "自信满满",
         "action": "继续瞎掰",
+        "expression": "高深莫测",
+        "costume": "粗布麻衣"
+      },
+      {
+        "name": "掌柜",
+        "position": "震惊观看",
+        "action": "震惊",
+        "expression": "震惊",
+        "costume": "掌柜服"
+      },
+      {
+        "name": "李道玄",
+        "position": "一旁",
+        "action": "看着",
+        "expression": "震惊",
+        "costume": "掌门袍"
+      }
+    ],
+    "visual_effects": {
+      "environment": "珍宝斋柜台",
+      "lighting": "画作发光+正常光线",
+      "color_palette": "高对比度",
+      "special_effects": "画上小山微微发光,一道极其微弱的光线从山形中射出,指向西北方向"
+    },
+    "audio": {
+      "dialogues": [
+        {
+          "speaker": "顾玄",
+          "text": "原来如此!我明白了!此画表面是山水,实则暗藏秘境舆图!这些墨点并非瑕疵,而是指引方位的标记!你看这里——此山形似卧龙,下有灵脉经过。若我猜得不错,山中必有前人洞府!"
+        }
+      ],
+      "background_music": "神秘→紧张",
+      "sound_effects": ["小山发光", "光线射出"],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "紧张",
+      "purpose": "顾玄揭示'真相'"
+    },
+    "notes": {
+      "production_note": "特效+多角色表演",
+      "reference_style": "意外发财",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP03-S011-2",
+    "chapter_number": 3,
+    "scene_number": 7,
+    "duration": 3,
+    "shot_type": "特写",
+    "location": "珍宝斋内",
+    "time_of_day": "上午",
+    "composition": {
+      "camera_position": "多角度切换",
+      "camera_movement": "快速切换",
+      "framing": "互动构图",
+      "focus_type": "反应清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "自信满满",
+        "action": "假装要收画",
         "expression": "高深莫测",
         "costume": "粗布麻衣"
       },
@@ -676,35 +1518,23 @@
       "environment": "珍宝斋柜台",
       "lighting": "画作发光+正常光线",
       "color_palette": "高对比度",
-      "special_effects": "画上小山微微发光,一道极其微弱的光线从山形中射出,指向西北方向。掌柜揉眼睛"
+      "special_effects": "画上小山微微发光"
     },
     "audio": {
       "dialogues": [
         {
           "speaker": "顾玄",
-          "text": "原来如此!我明白了!此画表面是山水,实则暗藏秘境舆图!这些墨点并非瑕疵,而是指引方位的标记!你看这里——此山形似卧龙,下有灵脉经过。若我猜得不错,山中必有前人洞府!"
-        },
-        {
-          "speaker": "顾玄",
           "text": "此画与我宗门有缘,今日显现异象,怕是秘境即将现世。罢了,既然无缘,我们便..."
-        },
-        {
-          "speaker": "掌柜",
-          "text": "仙长留步!此画...此画您开个价!"
-        },
-        {
-          "speaker": "旁白",
-          "text": "顾玄前世好歹是985高材生,记忆力超群,恰好记得在某本古籍上见过类似图案——那是一个表示'封印'或'隐藏'的古符!他心念电转,立即改口"
         }
       ],
       "background_music": "神秘→紧张",
-      "sound_effects": ["小山发光", "光线射出", "掌柜震惊吸气"],
+      "sound_effects": [],
       "volume_level": "对话突出"
     },
     "editing": {
-      "transition_to_next": "快速切",
-      "pacing": "紧张→快速",
-      "purpose": "瞎猫碰上死耗子-天价卖出"
+      "transition_to_next": "直接切",
+      "pacing": "紧张",
+      "purpose": "顾玄欲擒故纵"
     },
     "notes": {
       "production_note": "特效+多角色表演",
@@ -713,10 +1543,140 @@
     }
   },
   {
-    "shot_id": "EP03-S012",
+    "shot_id": "EP03-S011-3",
     "chapter_number": 3,
     "scene_number": 7,
-    "duration": 9,
+    "duration": 2,
+    "shot_type": "特写",
+    "location": "珍宝斋内",
+    "time_of_day": "上午",
+    "composition": {
+      "camera_position": "多角度切换",
+      "camera_movement": "快速切换",
+      "framing": "互动构图",
+      "focus_type": "反应清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "假装要走",
+        "action": "作势要收起画",
+        "expression": "高深莫测",
+        "costume": "粗布麻衣"
+      },
+      {
+        "name": "掌柜",
+        "position": "急忙拦住",
+        "action": "拦住",
+        "expression": "狂喜",
+        "costume": "掌柜服"
+      },
+      {
+        "name": "李道玄",
+        "position": "一旁",
+        "action": "看着",
+        "expression": "震惊",
+        "costume": "掌门袍"
+      }
+    ],
+    "visual_effects": {
+      "environment": "珍宝斋柜台",
+      "lighting": "画作发光+正常光线",
+      "color_palette": "高对比度",
+      "special_effects": "画上小山微微发光"
+    },
+    "audio": {
+      "dialogues": [
+        {
+          "speaker": "掌柜",
+          "text": "仙长留步!此画...此画您开个价!"
+        }
+      ],
+      "background_music": "神秘→紧张",
+      "sound_effects": ["掌柜震惊吸气"],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "紧张",
+      "purpose": "掌柜上钩"
+    },
+    "notes": {
+      "production_note": "特效+多角色表演",
+      "reference_style": "意外发财",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP03-S011-4",
+    "chapter_number": 3,
+    "scene_number": 7,
+    "duration": 3,
+    "shot_type": "特写",
+    "location": "珍宝斋内",
+    "time_of_day": "上午",
+    "composition": {
+      "camera_position": "多角度切换",
+      "camera_movement": "快速切换",
+      "framing": "互动构图",
+      "focus_type": "反应清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "一旁",
+        "action": "淡定",
+        "expression": "高深莫测",
+        "costume": "粗布麻衣"
+      },
+      {
+        "name": "掌柜",
+        "position": "拦住",
+        "action": "拦住",
+        "expression": "狂喜",
+        "costume": "掌柜服"
+      },
+      {
+        "name": "李道玄",
+        "position": "一旁",
+        "action": "看着",
+        "expression": "震惊",
+        "costume": "掌门袍"
+      }
+    ],
+    "visual_effects": {
+      "environment": "珍宝斋柜台",
+      "lighting": "正常光线",
+      "color_palette": "高对比度",
+      "special_effects": "无"
+    },
+    "audio": {
+      "dialogues": [
+        {
+          "speaker": "旁白",
+          "text": "顾玄前世好歹是985高材生,记忆力超群,恰好记得在某本古籍上见过类似图案——那是一个表示'封印'或'隐藏'的古符!他心念电转,立即改口"
+        }
+      ],
+      "background_music": "神秘→紧张",
+      "sound_effects": [],
+      "volume_level": "旁白清晰"
+    },
+    "editing": {
+      "transition_to_next": "快速切",
+      "pacing": "紧张→快速",
+      "purpose": "旁白解释"
+    },
+    "notes": {
+      "production_note": "特效+多角色表演",
+      "reference_style": "意外发财",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP03-S012-1",
+    "chapter_number": 3,
+    "scene_number": 7,
+    "duration": 2,
     "shot_type": "中景",
     "location": "珍宝斋内",
     "time_of_day": "上午",
@@ -731,21 +1691,21 @@
         "name": "李道玄",
         "position": "画面中央",
         "action": "伸出五根手指",
-        "expression": "紧张→震惊",
+        "expression": "紧张",
         "costume": "掌门袍"
       },
       {
         "name": "掌柜",
         "position": "画面右侧",
-        "action": "试探询问",
-        "expression": "试探→决心",
+        "action": "看着",
+        "expression": "认真",
         "costume": "掌柜服"
       },
       {
         "name": "顾玄",
         "position": "画面左侧",
-        "action": "淡定接话",
-        "expression": "淡定(内心狂喜)",
+        "action": "淡定",
+        "expression": "淡定",
         "costume": "粗布麻衣"
       }
     ],
@@ -760,32 +1720,276 @@
         {
           "speaker": "李道玄",
           "text": "此乃祖传之物,本不该出售。不过既然与掌柜有缘...这个数(伸出五根手指,意思是五两银子)。"
-        },
+        }
+      ],
+      "background_music": "紧张",
+      "sound_effects": [],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "紧张",
+      "purpose": "李道玄出价"
+    },
+    "notes": {
+      "production_note": "注重表演误会",
+      "reference_style": "误会发财",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP03-S012-2",
+    "chapter_number": 3,
+    "scene_number": 7,
+    "duration": 2,
+    "shot_type": "中景",
+    "location": "珍宝斋内",
+    "time_of_day": "上午",
+    "composition": {
+      "camera_position": "三人全景",
+      "camera_movement": "快速推近",
+      "framing": "交易构图",
+      "focus_type": "表情清晰"
+    },
+    "characters": [
+      {
+        "name": "李道玄",
+        "position": "画面中央",
+        "action": "伸出五根手指",
+        "expression": "紧张",
+        "costume": "掌门袍"
+      },
+      {
+        "name": "掌柜",
+        "position": "画面右侧",
+        "action": "试探询问",
+        "expression": "试探",
+        "costume": "掌柜服"
+      },
+      {
+        "name": "顾玄",
+        "position": "画面左侧",
+        "action": "淡定",
+        "expression": "淡定",
+        "costume": "粗布麻衣"
+      }
+    ],
+    "visual_effects": {
+      "environment": "珍宝斋柜台",
+      "lighting": "正常光线",
+      "color_palette": "明亮色调",
+      "special_effects": "无"
+    },
+    "audio": {
+      "dialogues": [
         {
           "speaker": "掌柜",
           "text": "五百...灵石?"
-        },
+        }
+      ],
+      "background_music": "紧张",
+      "sound_effects": [],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "紧张",
+      "purpose": "掌柜误会价格"
+    },
+    "notes": {
+      "production_note": "注重表演误会",
+      "reference_style": "误会发财",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP03-S012-3",
+    "chapter_number": 3,
+    "scene_number": 7,
+    "duration": 2,
+    "shot_type": "中景",
+    "location": "珍宝斋内",
+    "time_of_day": "上午",
+    "composition": {
+      "camera_position": "三人全景",
+      "camera_movement": "快速推近",
+      "framing": "交易构图",
+      "focus_type": "表情清晰"
+    },
+    "characters": [
+      {
+        "name": "李道玄",
+        "position": "画面中央",
+        "action": "伸出五根手指",
+        "expression": "紧张",
+        "costume": "掌门袍"
+      },
+      {
+        "name": "掌柜",
+        "position": "画面右侧",
+        "action": "试探询问",
+        "expression": "试探",
+        "costume": "掌柜服"
+      },
+      {
+        "name": "顾玄",
+        "position": "画面左侧",
+        "action": "淡定",
+        "expression": "淡定",
+        "costume": "粗布麻衣"
+      }
+    ],
+    "visual_effects": {
+      "environment": "珍宝斋柜台",
+      "lighting": "正常光线",
+      "color_palette": "明亮色调",
+      "special_effects": "无"
+    },
+    "audio": {
+      "dialogues": [
         {
           "speaker": "旁白",
           "text": "李道玄伸出五根手指,意思是五两银子——他觉得能卖这个价就谢天谢地了。掌柜的却误会了,试探着问'五百...灵石?'"
-        },
+        }
+      ],
+      "background_music": "紧张",
+      "sound_effects": [],
+      "volume_level": "旁白清晰"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "紧张",
+      "purpose": "旁白解释误会"
+    },
+    "notes": {
+      "production_note": "注重表演误会",
+      "reference_style": "误会发财",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP03-S012-4",
+    "chapter_number": 3,
+    "scene_number": 7,
+    "duration": 2,
+    "shot_type": "中景",
+    "location": "珍宝斋内",
+    "time_of_day": "上午",
+    "composition": {
+      "camera_position": "三人全景",
+      "camera_movement": "快速推近",
+      "framing": "交易构图",
+      "focus_type": "表情清晰"
+    },
+    "characters": [
+      {
+        "name": "李道玄",
+        "position": "画面中央",
+        "action": "听着",
+        "expression": "紧张→震惊",
+        "costume": "掌门袍"
+      },
+      {
+        "name": "掌柜",
+        "position": "画面右侧",
+        "action": "咬牙决定",
+        "expression": "决心",
+        "costume": "掌柜服"
+      },
+      {
+        "name": "顾玄",
+        "position": "画面左侧",
+        "action": "淡定",
+        "expression": "淡定",
+        "costume": "粗布麻衣"
+      }
+    ],
+    "visual_effects": {
+      "environment": "珍宝斋柜台",
+      "lighting": "正常光线",
+      "color_palette": "明亮色调",
+      "special_effects": "无"
+    },
+    "audio": {
+      "dialogues": [
         {
           "speaker": "掌柜",
           "text": "五百上品灵石确实贵了些...但此画若能指引秘境,值这个价!成交!"
-        },
-        {
-          "speaker": "顾玄",
-          "text": "掌柜的好眼力"
         }
       ],
-      "background_music": "震惊→狂喜",
+      "background_music": "紧张→狂喜",
       "sound_effects": ["交易达成音效"],
       "volume_level": "对话突出"
     },
     "editing": {
       "transition_to_next": "直接切",
       "pacing": "紧张→快速",
-      "purpose": "误会升级+交易达成"
+      "purpose": "交易达成"
+    },
+    "notes": {
+      "production_note": "注重表演误会",
+      "reference_style": "误会发财",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP03-S012-5",
+    "chapter_number": 3,
+    "scene_number": 7,
+    "duration": 2,
+    "shot_type": "中景",
+    "location": "珍宝斋内",
+    "time_of_day": "上午",
+    "composition": {
+      "camera_position": "聚焦顾玄",
+      "camera_movement": "快速推近",
+      "framing": "单人构图",
+      "focus_type": "表情清晰"
+    },
+    "characters": [
+      {
+        "name": "李道玄",
+        "position": "背景",
+        "action": "震惊",
+        "expression": "震惊",
+        "costume": "掌门袍"
+      },
+      {
+        "name": "掌柜",
+        "position": "背景",
+        "action": "高兴",
+        "expression": "满意",
+        "costume": "掌柜服"
+      },
+      {
+        "name": "顾玄",
+        "position": "画面中央",
+        "action": "淡定接话",
+        "expression": "淡定(内心狂喜)",
+        "costume": "粗布麻衣"
+      }
+    ],
+    "visual_effects": {
+      "environment": "珍宝斋柜台",
+      "lighting": "正常光线",
+      "color_palette": "明亮色调",
+      "special_effects": "无"
+    },
+    "audio": {
+      "dialogues": [
+        {
+          "speaker": "顾玄",
+          "text": "掌柜的好眼力"
+        }
+      ],
+      "background_music": "狂喜",
+      "sound_effects": [],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "紧张→快速",
+      "purpose": "顾玄淡定回应"
     },
     "notes": {
       "production_note": "注重表演误会",
@@ -845,10 +2049,10 @@
     }
   },
   {
-    "shot_id": "EP03-S014",
+    "shot_id": "EP03-S014-1",
     "chapter_number": 3,
     "scene_number": 9,
-    "duration": 8,
+    "duration": 2,
     "shot_type": "全景",
     "location": "青州城外-安全处",
     "time_of_day": "上午",
@@ -862,8 +2066,8 @@
       {
         "name": "顾玄",
         "position": "画面左侧",
-        "action": "笑到一半突然僵住",
-        "expression": "狂喜→僵硬→震惊",
+        "action": "抱着又跳又笑",
+        "expression": "狂喜",
         "costume": "粗布麻衣"
       },
       {
@@ -885,40 +2089,16 @@
         {
           "speaker": "两人",
           "text": "发财了!发财了啊!"
-        },
-        {
-          "speaker": "李道玄",
-          "text": "五百上品灵石!我这辈子都没见过这么多钱!"
-        },
-        {
-          "speaker": "李道玄",
-          "text": "顾玄你太厉害了!居然真能看出那画的玄机!"
-        },
-        {
-          "speaker": "顾玄",
-          "text": "等等...掌门,那画好像真的有问题..."
-        },
-        {
-          "speaker": "顾玄",
-          "text": "我不会是...误打误撞说中了吧?那画真是什么秘境舆图?"
-        },
-        {
-          "speaker": "李道玄",
-          "text": "不能吧?那就是祖师爷随手画的啊...都挂了几百年了..."
-        },
-        {
-          "speaker": "旁白",
-          "text": "走出老远,确认没人跟踪后,一老一少突然抱在一起,又跳又笑"
         }
       ],
-      "background_music": "狂喜→疑惑→紧张",
+      "background_music": "狂喜",
       "sound_effects": [],
       "volume_level": "对话突出"
     },
     "editing": {
-      "transition_to_next": "快速切",
-      "pacing": "快速→紧张",
-      "purpose": "狂喜转疑虑"
+      "transition_to_next": "直接切",
+      "pacing": "快速",
+      "purpose": "狂喜庆祝"
     },
     "notes": {
       "production_note": "注重情绪转变",
@@ -927,10 +2107,358 @@
     }
   },
   {
-    "shot_id": "EP03-S015",
+    "shot_id": "EP03-S014-2",
+    "chapter_number": 3,
+    "scene_number": 9,
+    "duration": 2,
+    "shot_type": "全景",
+    "location": "青州城外-安全处",
+    "time_of_day": "上午",
+    "composition": {
+      "camera_position": "侧面拍摄",
+      "camera_movement": "跟随",
+      "framing": "双人构图",
+      "focus_type": "表情清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "画面左侧",
+        "action": "看着掌门",
+        "expression": "狂喜",
+        "costume": "粗布麻衣"
+      },
+      {
+        "name": "李道玄",
+        "position": "画面右侧",
+        "action": "抱着又跳又笑",
+        "expression": "狂喜",
+        "costume": "掌门袍"
+      }
+    ],
+    "visual_effects": {
+      "environment": "城外安全处",
+      "lighting": "自然光线",
+      "color_palette": "明亮色调",
+      "special_effects": "无"
+    },
+    "audio": {
+      "dialogues": [
+        {
+          "speaker": "李道玄",
+          "text": "五百上品灵石!我这辈子都没见过这么多钱!"
+        }
+      ],
+      "background_music": "狂喜",
+      "sound_effects": [],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "快速",
+      "purpose": "李道玄狂喜"
+    },
+    "notes": {
+      "production_note": "注重情绪转变",
+      "reference_style": "狂喜转紧张",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP03-S014-3",
+    "chapter_number": 3,
+    "scene_number": 9,
+    "duration": 2,
+    "shot_type": "全景",
+    "location": "青州城外-安全处",
+    "time_of_day": "上午",
+    "composition": {
+      "camera_position": "侧面拍摄",
+      "camera_movement": "跟随",
+      "framing": "双人构图",
+      "focus_type": "表情清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "画面左侧",
+        "action": "被夸奖",
+        "expression": "狂喜",
+        "costume": "粗布麻衣"
+      },
+      {
+        "name": "李道玄",
+        "position": "画面右侧",
+        "action": "夸奖顾玄",
+        "expression": "狂喜",
+        "costume": "掌门袍"
+      }
+    ],
+    "visual_effects": {
+      "environment": "城外安全处",
+      "lighting": "自然光线",
+      "color_palette": "明亮色调",
+      "special_effects": "无"
+    },
+    "audio": {
+      "dialogues": [
+        {
+          "speaker": "李道玄",
+          "text": "顾玄你太厉害了!居然真能看出那画的玄机!"
+        }
+      ],
+      "background_music": "狂喜",
+      "sound_effects": [],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "快速",
+      "purpose": "李道玄夸奖"
+    },
+    "notes": {
+      "production_note": "注重情绪转变",
+      "reference_style": "狂喜转紧张",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP03-S014-4",
+    "chapter_number": 3,
+    "scene_number": 9,
+    "duration": 2,
+    "shot_type": "全景",
+    "location": "青州城外-安全处",
+    "time_of_day": "上午",
+    "composition": {
+      "camera_position": "侧面拍摄",
+      "camera_movement": "跟随",
+      "framing": "双人构图",
+      "focus_type": "表情清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "画面左侧",
+        "action": "笑到一半突然僵住",
+        "expression": "狂喜→僵硬→震惊",
+        "costume": "粗布麻衣"
+      },
+      {
+        "name": "李道玄",
+        "position": "画面右侧",
+        "action": "看着顾玄",
+        "expression": "狂喜→疑惑",
+        "costume": "掌门袍"
+      }
+    ],
+    "visual_effects": {
+      "environment": "城外安全处",
+      "lighting": "自然光线",
+      "color_palette": "明亮色调",
+      "special_effects": "无"
+    },
+    "audio": {
+      "dialogues": [
+        {
+          "speaker": "顾玄",
+          "text": "等等...掌门,那画好像真的有问题..."
+        }
+      ],
+      "background_music": "狂喜→疑惑→紧张",
+      "sound_effects": [],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "快速→紧张",
+      "purpose": "顾玄发现问题"
+    },
+    "notes": {
+      "production_note": "注重情绪转变",
+      "reference_style": "狂喜转紧张",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP03-S014-5",
+    "chapter_number": 3,
+    "scene_number": 9,
+    "duration": 2,
+    "shot_type": "全景",
+    "location": "青州城外-安全处",
+    "time_of_day": "上午",
+    "composition": {
+      "camera_position": "侧面拍摄",
+      "camera_movement": "跟随",
+      "framing": "双人构图",
+      "focus_type": "表情清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "画面左侧",
+        "action": "担忧",
+        "expression": "震惊→惊慌",
+        "costume": "粗布麻衣"
+      },
+      {
+        "name": "李道玄",
+        "position": "画面右侧",
+        "action": "愣住",
+        "expression": "狂喜→疑惑",
+        "costume": "掌门袍"
+      }
+    ],
+    "visual_effects": {
+      "environment": "城外安全处",
+      "lighting": "自然光线",
+      "color_palette": "明亮色调",
+      "special_effects": "无"
+    },
+    "audio": {
+      "dialogues": [
+        {
+          "speaker": "顾玄",
+          "text": "我不会是...误打误撞说中了吧?那画真是什么秘境舆图?"
+        }
+      ],
+      "background_music": "狂喜→疑惑→紧张",
+      "sound_effects": [],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "快速→紧张",
+      "purpose": "顾玄怀疑自己"
+    },
+    "notes": {
+      "production_note": "注重情绪转变",
+      "reference_style": "狂喜转紧张",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP03-S014-6",
+    "chapter_number": 3,
+    "scene_number": 9,
+    "duration": 2,
+    "shot_type": "全景",
+    "location": "青州城外-安全处",
+    "time_of_day": "上午",
+    "composition": {
+      "camera_position": "侧面拍摄",
+      "camera_movement": "跟随",
+      "framing": "双人构图",
+      "focus_type": "表情清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "画面左侧",
+        "action": "担忧",
+        "expression": "震惊→惊慌",
+        "costume": "粗布麻衣"
+      },
+      {
+        "name": "李道玄",
+        "position": "画面右侧",
+        "action": "愣住",
+        "expression": "疑惑",
+        "costume": "掌门袍"
+      }
+    ],
+    "visual_effects": {
+      "environment": "城外安全处",
+      "lighting": "自然光线",
+      "color_palette": "明亮色调",
+      "special_effects": "无"
+    },
+    "audio": {
+      "dialogues": [
+        {
+          "speaker": "李道玄",
+          "text": "不能吧?那就是祖师爷随手画的啊...都挂了几百年了..."
+        }
+      ],
+      "background_music": "狂喜→疑惑→紧张",
+      "sound_effects": [],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "快速→紧张",
+      "purpose": "李道玄也疑惑"
+    },
+    "notes": {
+      "production_note": "注重情绪转变",
+      "reference_style": "狂喜转紧张",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP03-S014-7",
+    "chapter_number": 3,
+    "scene_number": 9,
+    "duration": 2,
+    "shot_type": "全景",
+    "location": "青州城外-安全处",
+    "time_of_day": "上午",
+    "composition": {
+      "camera_position": "侧面拍摄",
+      "camera_movement": "跟随",
+      "framing": "双人构图",
+      "focus_type": "表情清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "画面左侧",
+        "action": "抱着又跳又笑",
+        "expression": "狂喜",
+        "costume": "粗布麻衣"
+      },
+      {
+        "name": "李道玄",
+        "position": "画面右侧",
+        "action": "抱着又跳又笑",
+        "expression": "狂喜",
+        "costume": "掌门袍"
+      }
+    ],
+    "visual_effects": {
+      "environment": "城外安全处",
+      "lighting": "自然光线",
+      "color_palette": "明亮色调",
+      "special_effects": "无"
+    },
+    "audio": {
+      "dialogues": [
+        {
+          "speaker": "旁白",
+          "text": "走出老远,确认没人跟踪后,一老一少突然抱在一起,又跳又笑"
+        }
+      ],
+      "background_music": "狂喜→疑惑→紧张",
+      "sound_effects": [],
+      "volume_level": "旁白清晰"
+    },
+    "editing": {
+      "transition_to_next": "快速切",
+      "pacing": "快速→紧张",
+      "purpose": "狂喜描述"
+    },
+    "notes": {
+      "production_note": "注重情绪转变",
+      "reference_style": "狂喜转紧张",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP03-S015-1",
     "chapter_number": 3,
     "scene_number": 10,
-    "duration": 7,
+    "duration": 2,
     "shot_type": "全景",
     "location": "城外→珍宝斋方向",
     "time_of_day": "上午",
@@ -944,7 +2472,7 @@
       {
         "name": "顾玄",
         "position": "城外",
-        "action": "面面相觑,咽唾沫",
+        "action": "面面相觑",
         "expression": "震惊→惊慌",
         "costume": "粗布麻衣"
       },
@@ -974,36 +2502,16 @@
         {
           "speaker": "掌柜(远处声音)",
           "text": "是真的!真的是秘境舆图!快!快通知家主!我们发现上古秘境了!"
-        },
-        {
-          "speaker": "两人",
-          "text": "跑!"
-        },
-        {
-          "speaker": "顾玄",
-          "text": "我就随口瞎编的啊!这都能蒙对?这个世界是不是有什么毛病?"
-        },
-        {
-          "speaker": "李道玄",
-          "text": "好徒儿,以后宗门发财就靠你了!下次咱们去库房看看还有没有别的'祖传宝贝'..."
-        },
-        {
-          "speaker": "顾玄",
-          "text": "......"
-        },
-        {
-          "speaker": "旁白",
-          "text": "就在这时,身后珍宝斋方向突然传来一阵强烈的灵力波动,紧接着是掌柜惊喜若狂的喊声"
         }
       ],
-      "background_music": "紧张→搞笑",
-      "sound_effects": ["灵力波动", "奔跑声"],
+      "background_music": "紧张",
+      "sound_effects": ["灵力波动"],
       "volume_level": "对话+音效突出"
     },
     "editing": {
       "transition_to_next": "快速切",
       "pacing": "紧张→搞笑",
-      "purpose": "逃离现场+搞笑收尾"
+      "purpose": "掌柜确认真相"
     },
     "notes": {
       "production_note": "紧张+搞笑",
@@ -1012,10 +2520,321 @@
     }
   },
   {
-    "shot_id": "EP03-S016",
+    "shot_id": "EP03-S015-2",
+    "chapter_number": 3,
+    "scene_number": 10,
+    "duration": 2,
+    "shot_type": "全景",
+    "location": "城外→珍宝斋方向",
+    "time_of_day": "上午",
+    "composition": {
+      "camera_position": "多角度快速切换",
+      "camera_movement": "快速推拉",
+      "framing": "紧张构图",
+      "focus_type": "反应清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "城外",
+        "action": "异口同声喊",
+        "expression": "惊慌",
+        "costume": "粗布麻衣"
+      },
+      {
+        "name": "李道玄",
+        "position": "城外",
+        "action": "异口同声喊",
+        "expression": "惊慌",
+        "costume": "掌门袍"
+      },
+      {
+        "name": "掌柜(声音)",
+        "position": "珍宝斋方向(远处)",
+        "action": "惊喜若狂喊",
+        "expression": "无(仅声音)",
+        "costume": "无"
+      }
+    ],
+    "visual_effects": {
+      "environment": "城外+远眺珍宝斋",
+      "lighting": "自然光线+远处灵力波动",
+      "color_palette": "明亮+灵力光芒",
+      "special_effects": "珍宝斋方向传来强烈灵力波动"
+    },
+    "audio": {
+      "dialogues": [
+        {
+          "speaker": "两人",
+          "text": "跑!"
+        }
+      ],
+      "background_music": "紧张→搞笑",
+      "sound_effects": [],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "快速切",
+      "pacing": "紧张→搞笑",
+      "purpose": "决定逃跑"
+    },
+    "notes": {
+      "production_note": "紧张+搞笑",
+      "reference_style": "逃离现场",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP03-S015-3",
+    "chapter_number": 3,
+    "scene_number": 10,
+    "duration": 2,
+    "shot_type": "全景",
+    "location": "城外→珍宝斋方向",
+    "time_of_day": "上午",
+    "composition": {
+      "camera_position": "多角度快速切换",
+      "camera_movement": "快速推拉",
+      "framing": "紧张构图",
+      "focus_type": "反应清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "城外,奔跑",
+        "action": "扶着墙喘气",
+        "expression": "震惊→惊慌→崩溃",
+        "costume": "粗布麻衣"
+      },
+      {
+        "name": "李道玄",
+        "position": "城外,奔跑",
+        "action": "跑",
+        "expression": "惊慌",
+        "costume": "掌门袍"
+      },
+      {
+        "name": "掌柜(声音)",
+        "position": "珍宝斋方向(远处)",
+        "action": "惊喜若狂喊",
+        "expression": "无(仅声音)",
+        "costume": "无"
+      }
+    ],
+    "visual_effects": {
+      "environment": "城外",
+      "lighting": "自然光线",
+      "color_palette": "明亮色调",
+      "special_effects": "无"
+    },
+    "audio": {
+      "dialogues": [
+        {
+          "speaker": "顾玄",
+          "text": "我就随口瞎编的啊!这都能蒙对?这个世界是不是有什么毛病?"
+        }
+      ],
+      "background_music": "紧张→搞笑",
+      "sound_effects": ["奔跑声"],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "快速切",
+      "pacing": "紧张→搞笑",
+      "purpose": "顾玄崩溃"
+    },
+    "notes": {
+      "production_note": "紧张+搞笑",
+      "reference_style": "逃离现场",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP03-S015-4",
+    "chapter_number": 3,
+    "scene_number": 10,
+    "duration": 2,
+    "shot_type": "全景",
+    "location": "城外→珍宝斋方向",
+    "time_of_day": "上午",
+    "composition": {
+      "camera_position": "多角度快速切换",
+      "camera_movement": "快速推拉",
+      "framing": "紧张构图",
+      "focus_type": "反应清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "城外,安全处",
+        "action": "扶着墙喘气",
+        "expression": "崩溃",
+        "costume": "粗布麻衣"
+      },
+      {
+        "name": "李道玄",
+        "position": "城外,安全处",
+        "action": "笑眯眯地拍肩膀",
+        "expression": "冷静→满意",
+        "costume": "掌门袍"
+      },
+      {
+        "name": "掌柜(声音)",
+        "position": "珍宝斋方向(远处)",
+        "action": "惊喜若狂喊",
+        "expression": "无(仅声音)",
+        "costume": "无"
+      }
+    ],
+    "visual_effects": {
+      "environment": "城外安全处",
+      "lighting": "自然光线",
+      "color_palette": "明亮色调",
+      "special_effects": "无"
+    },
+    "audio": {
+      "dialogues": [
+        {
+          "speaker": "李道玄",
+          "text": "好徒儿,以后宗门发财就靠你了!下次咱们去库房看看还有没有别的'祖传宝贝'..."
+        }
+      ],
+      "background_music": "紧张→搞笑",
+      "sound_effects": [],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "快速切",
+      "pacing": "紧张→搞笑",
+      "purpose": "李道玄打算继续"
+    },
+    "notes": {
+      "production_note": "紧张+搞笑",
+      "reference_style": "逃离现场",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP03-S015-5",
+    "chapter_number": 3,
+    "scene_number": 10,
+    "duration": 2,
+    "shot_type": "全景",
+    "location": "城外→珍宝斋方向",
+    "time_of_day": "上午",
+    "composition": {
+      "camera_position": "多角度快速切换",
+      "camera_movement": "快速推拉",
+      "framing": "紧张构图",
+      "focus_type": "反应清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "城外,安全处",
+        "action": "扶着墙喘气",
+        "expression": "崩溃→无语",
+        "costume": "粗布麻衣"
+      },
+      {
+        "name": "李道玄",
+        "position": "城外,安全处",
+        "action": "笑眯眯地拍肩膀",
+        "expression": "满意",
+        "costume": "掌门袍"
+      }
+    ],
+    "visual_effects": {
+      "environment": "城外安全处",
+      "lighting": "自然光线",
+      "color_palette": "明亮色调",
+      "special_effects": "无"
+    },
+    "audio": {
+      "dialogues": [
+        {
+          "speaker": "顾玄",
+          "text": "......"
+        }
+      ],
+      "background_music": "搞笑",
+      "sound_effects": [],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "快速切",
+      "pacing": "搞笑",
+      "purpose": "顾玄无语"
+    },
+    "notes": {
+      "production_note": "紧张+搞笑",
+      "reference_style": "逃离现场",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP03-S015-6",
+    "chapter_number": 3,
+    "scene_number": 10,
+    "duration": 2,
+    "shot_type": "全景",
+    "location": "城外→珍宝斋方向",
+    "time_of_day": "上午",
+    "composition": {
+      "camera_position": "多角度快速切换",
+      "camera_movement": "快速推拉",
+      "framing": "紧张构图",
+      "focus_type": "反应清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "城外,奔跑",
+        "action": "拔腿就往城外冲",
+        "expression": "惊慌",
+        "costume": "粗布麻衣"
+      },
+      {
+        "name": "李道玄",
+        "position": "城外,奔跑",
+        "action": "拔腿就往城外冲",
+        "expression": "惊慌",
+        "costume": "掌门袍"
+      }
+    ],
+    "visual_effects": {
+      "environment": "城外+远眺珍宝斋",
+      "lighting": "自然光线+远处灵力波动",
+      "color_palette": "明亮+灵力光芒",
+      "special_effects": "珍宝斋方向传来强烈灵力波动"
+    },
+    "audio": {
+      "dialogues": [
+        {
+          "speaker": "旁白",
+          "text": "就在这时,身后珍宝斋方向突然传来一阵强烈的灵力波动,紧接着是掌柜惊喜若狂的喊声"
+        }
+      ],
+      "background_music": "紧张→搞笑",
+      "sound_effects": ["灵力波动"],
+      "volume_level": "旁白+音效突出"
+    },
+    "editing": {
+      "transition_to_next": "快速切",
+      "pacing": "紧张→搞笑",
+      "purpose": "旁白描述灵力波动"
+    },
+    "notes": {
+      "production_note": "紧张+搞笑",
+      "reference_style": "逃离现场",
+      "difficulty_level": "简单"
+    }
+  },
+  {
+    "shot_id": "EP03-S016-1",
     "chapter_number": 3,
     "scene_number": 11,
-    "duration": 8,
+    "duration": 5,
     "shot_type": "中景",
     "location": "珍宝斋二楼-阴影处",
     "time_of_day": "上午",
@@ -1038,17 +2857,13 @@
       "environment": "珍宝斋二楼阴影处",
       "lighting": "昏暗光线+令牌微光",
       "color_palette": "暗色调",
-      "special_effects": "黑影手中把玩令牌,令牌上刻着奇怪符号,与顾玄系统界面'管理员权限'标志极其相似"
+      "special_effects": "无"
     },
     "audio": {
       "dialogues": [
         {
           "speaker": "黑影",
           "text": "上古秘境舆图...有趣...看来青州要热闹了"
-        },
-        {
-          "speaker": "旁白",
-          "text": "就在顾玄和李道玄离开不久,珍宝斋二楼,一道黑影悄然出现"
         }
       ],
       "background_music": "神秘紧张",
@@ -1058,7 +2873,7 @@
     "editing": {
       "transition_to_next": "直接切",
       "pacing": "缓慢神秘",
-      "purpose": "悬念钩子-神秘势力"
+      "purpose": "神秘人物登场"
     },
     "notes": {
       "production_note": "神秘氛围",
@@ -1067,10 +2882,61 @@
     }
   },
   {
-    "shot_id": "EP03-S017",
+    "shot_id": "EP03-S016-2",
+    "chapter_number": 3,
+    "scene_number": 11,
+    "duration": 4,
+    "shot_type": "中景",
+    "location": "珍宝斋二楼-阴影处",
+    "time_of_day": "上午",
+    "composition": {
+      "camera_position": "阴影中拍摄",
+      "camera_movement": "缓慢推近",
+      "framing": "神秘构图",
+      "focus_type": "黑影+令牌清晰"
+    },
+    "characters": [
+      {
+        "name": "神秘黑影",
+        "position": "阴影中",
+        "action": "把玩令牌",
+        "expression": "神秘",
+        "costume": "黑袍"
+      }
+    ],
+    "visual_effects": {
+      "environment": "珍宝斋二楼阴影处",
+      "lighting": "昏暗光线+令牌微光",
+      "color_palette": "暗色调",
+      "special_effects": "黑影手中把玩令牌,令牌上刻着奇怪符号,与顾玄系统界面'管理员权限'标志极其相似"
+    },
+    "audio": {
+      "dialogues": [
+        {
+          "speaker": "旁白",
+          "text": "就在顾玄和李道玄离开不久,珍宝斋二楼,一道黑影悄然出现"
+        }
+      ],
+      "background_music": "神秘紧张",
+      "sound_effects": ["令牌碰撞"],
+      "volume_level": "旁白清晰"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "缓慢神秘",
+      "purpose": "旁白描述"
+    },
+    "notes": {
+      "production_note": "神秘氛围",
+      "reference_style": "悬念钩子",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP03-S017-1",
     "chapter_number": 3,
     "scene_number": 12,
-    "duration": 10,
+    "duration": 4,
     "shot_type": "全景",
     "location": "青云宗后院-屋顶",
     "time_of_day": "夜晚",
@@ -1093,18 +2959,112 @@
       "environment": "满天繁星,后院宁静",
       "lighting": "星光+月色",
       "color_palette": "星空色调",
-      "special_effects": "系统界面闪烁:【管理员权限:Lv.1(封印中)...波动频率再次增加】【提示:宿主的'运气'可能与权限封印有关】【提示:继续完成任务,逐步解锁权限,可探索'运气'的真相】【下一阶段任务预告:百宗宴...】"
+      "special_effects": "无"
     },
     "audio": {
       "dialogues": [
         {
           "speaker": "顾玄",
           "text": "今天这一切...到底是运气,还是...?"
-        },
+        }
+      ],
+      "background_music": "沉思神秘",
+      "sound_effects": ["夜虫鸣叫"],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "舒缓",
+      "purpose": "顾玄开始沉思"
+    },
+    "notes": {
+      "production_note": "星空夜景+系统界面",
+      "reference_style": "沉思悬念",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP03-S017-2",
+    "chapter_number": 3,
+    "scene_number": 12,
+    "duration": 4,
+    "shot_type": "全景",
+    "location": "青云宗后院-屋顶",
+    "time_of_day": "夜晚",
+    "composition": {
+      "camera_position": "仰拍屋顶+星空",
+      "camera_movement": "缓慢拉远",
+      "framing": "孤独构图",
+      "focus_type": "顾玄+星空清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "屋顶仰望星空",
+        "action": "沉思",
+        "expression": "疑惑→沉思",
+        "costume": "粗布麻衣"
+      }
+    ],
+    "visual_effects": {
+      "environment": "满天繁星,后院宁静",
+      "lighting": "星光+月色",
+      "color_palette": "星空色调",
+      "special_effects": "无"
+    },
+    "audio": {
+      "dialogues": [
         {
           "speaker": "顾玄",
           "text": "难道说...我的这些'运气',其实都是系统权限封印松动造成的影响?"
-        },
+        }
+      ],
+      "background_music": "沉思神秘",
+      "sound_effects": ["夜虫鸣叫"],
+      "volume_level": "对话突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "舒缓",
+      "purpose": "顾玄继续思考"
+    },
+    "notes": {
+      "production_note": "星空夜景+系统界面",
+      "reference_style": "沉思悬念",
+      "difficulty_level": "中等"
+    }
+  },
+  {
+    "shot_id": "EP03-S017-3",
+    "chapter_number": 3,
+    "scene_number": 12,
+    "duration": 3,
+    "shot_type": "全景",
+    "location": "青云宗后院-屋顶",
+    "time_of_day": "夜晚",
+    "composition": {
+      "camera_position": "仰拍屋顶+星空",
+      "camera_movement": "缓慢拉远",
+      "framing": "孤独构图",
+      "focus_type": "顾玄+星空清晰"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "屋顶仰望星空",
+        "action": "沉思",
+        "expression": "疑惑→沉思",
+        "costume": "粗布麻衣"
+      }
+    ],
+    "visual_effects": {
+      "environment": "满天繁星,后院宁静",
+      "lighting": "星光+月色+系统蓝光",
+      "color_palette": "星空色调",
+      "special_effects": "系统界面闪烁:【管理员权限:Lv.1(封印中)...波动频率再次增加】【提示:宿主的'运气'可能与权限封印有关】【提示:继续完成任务,逐步解锁权限,可探索'运气'的真相】【下一阶段任务预告:百宗宴...】"
+    },
+    "audio": {
+      "dialogues": [
         {
           "speaker": "旁白",
           "text": "顾玄躺在屋顶上,看着满天繁星,陷入了沉思。他回想起那画上自动浮现的符文,那指向性的光线,还有掌柜毫不犹豫的成交..."
@@ -1112,7 +3072,7 @@
       ],
       "background_music": "沉思神秘",
       "sound_effects": ["夜虫鸣叫", "系统提示音"],
-      "volume_level": "对话+系统音突出"
+      "volume_level": "旁白+系统音突出"
     },
     "editing": {
       "transition_to_next": "淡出",
