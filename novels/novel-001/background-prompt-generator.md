@@ -37,10 +37,14 @@
       "location_type": "室内/室外/特殊空间",
       "time_of_day": "时间",
       "main_prompt": "完整的英文图像生成提示词",
+      "main_prompt_cn": "完整的中文图像生成提示词",
+
       "sub_scenes": [
         {
           "name": "衍生场景名称",
-          "prompt": "衍生场景的英文提示词"
+          "prompt": "衍生场景的英文提示词",
+          "prompt_cn": "衍生场景的中文提示词"
+
         }
       ],
       "tags": ["标签1", "标签2", ...],
