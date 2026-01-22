@@ -8,37 +8,46 @@
       "main_prompt_cn": "修仙小说场景,青云宗外门弟子房,破旧的木屋房间,简陋的木家具,木床木桌,磨损的地板,有破洞的窗纸,窗外云雾缭绕远山如黛,柔和自然光,破败简陋的修仙氛围,传统仙侠风格,高质量,细节丰富,8K分辨率,无人物,无文本,无UI元素",
       "sub_scenes": [
         {
+          "main_id": "scene-001",
           "id": "scene-001-001",
           "name": "清晨日常状态",
           "prompt": "Chinese xianxia style, humble wooden room in cultivation sect at dawn, soft morning light through damaged paper window, golden sunbeams, dust motes dancing in light, peaceful awakening atmosphere, warm color temperature, humble cultivation life, high quality, detailed, 8k resolution, no people, no text, no UI elements",
           "prompt_cn": "修仙小说场景,破旧木屋清晨状态,晨光透过破损窗纸射入,金色光束,尘埃在光中飞舞,宁静苏醒的氛围,温暖色调,简陋修仙生活,高质量,细节丰富,无人物,无文本,无UI元素"
         },
         {
+          "main_id": "scene-001",
           "id": "scene-001-002",
           "name": "系统界面激活蓝光",
           "prompt": "Chinese xianxia style, humble wooden room with translucent blue system interface glowing, semi-transparent holographic screen floating in air, golden light illuminating room, technological and mystical fusion, mysterious cultivation power revelation, dramatic contrast between humble setting and magical interface, high quality, detailed, 8k resolution, no people, no text, no UI elements",
           "prompt_cn": "修仙小说场景,破旧木屋中半透明蓝色系统界面发光,全息屏幕悬浮空中,金光瞬间照亮整个昏暗房间,科技与修仙融合,神秘力量显现,简陋环境与魔法界面的戏剧性对比,高质量,细节丰富,无人物,无文本,无UI元素"
         },
         {
+          "main_id": "scene-001",
           "id": "scene-001-003",
           "name": "木桌案特写",
           "prompt": "Chinese xianxia style, close-up of simple wooden table in cultivation sect room, worn wooden texture, scattered cultivation books with yellowed pages, candle holder, incense burner with smoke rising, soft natural lighting, peaceful cultivation atmosphere, high quality, detailed, 8k resolution, no people, no text, no UI elements",
           "prompt_cn": "修仙小说特写,简陋木桌细节,斑驳的木纹,散放的泛黄修炼典籍,烛台,香炉烟雾袅袅升起,柔和自然光,宁静修仙氛围,高质量,细节丰富,无人物,无文本,无UI元素"
         },
         {
+          "main_id": "scene-001",
           "id": "scene-001-004",
           "name": "窗纸晨光投影",
           "prompt": "Chinese xianxia style, close-up of traditional paper window in cultivation sect, morning sunlight casting shadows through damaged window paper, wooden window frame texture, dust motes dancing in light beams, peaceful atmosphere, humble cultivation setting, high quality, detailed, 8k resolution, no people, no text, no UI elements",
           "prompt_cn": "修仙小说特写,传统窗纸细节,晨光透过破损窗纸投下阴影,木窗框纹理,光束中尘埃飞舞,宁静氛围,破败修仙场景,高质量,细节丰富,无人物,无文本,无UI元素"
         },
         {
+          "main_id": "scene-001",
           "id": "scene-001-005",
           "name": "夜晚悬念状态",
           "prompt": "Chinese xianxia style, humble wooden room at night, moonlight through paper window, mysterious blue system interface glow, contemplation atmosphere, quiet night, mystery and suspense, cool blue tones mixed with warm candlelight, high quality, detailed, 8k resolution, no people, no text, no UI elements",
           "prompt_cn": "修仙小说场景,破旧木屋夜晚状态,月光透过窗纸,神秘蓝色系统界面发光,沉思氛围,寂静夜晚,神秘和悬念,冷蓝调混合温暖烛光,高质量,细节丰富,无人物,无文本,无UI元素"
         }
       ],
-      "tags": ["青云宗外门弟子房", "室内", "破败"],
+      "tags": [
+        "青云宗外门弟子房",
+        "室内",
+        "破败"
+      ],
       "usage_count": 5,
       "description": "青云宗外门弟子房主场景 - 包含清晨日常、系统激活、夜晚悬念等多个状态变体"
     },
@@ -50,37 +59,46 @@
       "main_prompt_cn": "修仙小说场景,青云宗上空广阔天空,云海缭绕,下方可见山峰轮廓,自然日光,开阔天空氛围,宗门俯瞰视角,空气中灵力充盈,高质量,细节丰富,无人物,无文本,无UI元素",
       "sub_scenes": [
         {
+          "main_id": "scene-002",
           "id": "scene-002-001",
           "name": "御剑飞行金光特效",
           "prompt": "Chinese xianxia style, vast sky above cultivation sect mountains, sword flying through air leaving golden light trail, radiant spiritual energy surrounding, bright morning sunlight, golden and bright color palette, magnificent and awe-inspiring atmosphere, grand cultivation spectacle, breathtaking view, sea of clouds below, high quality, detailed, 8k resolution, no people, no text, no UI elements",
           "prompt_cn": "修仙小说场景,云海之上青山如画,飞剑拖出长长的光尾宛如流星划过,周身金光护体特效璀璨夺目,云雾缭绕仙气缭绕,清晨明亮阳光,金光明亮色调,宏大壮观的仙侠世界,震撼景象,高质量,细节丰富,无人物,无文本,无UI元素"
         },
         {
+          "main_id": "scene-002",
           "id": "scene-002-002",
           "name": "雷劫乌云密布",
           "prompt": "Chinese xianxia style, sky above cultivation sect mountains, dark clouds gathering densely, lightning snakes dancing between clouds, oppressive atmosphere, tribulation lightning approaching, dark and ominous sky view from ground, high contrast dark tones, tense and oppressive atmosphere, cultivation crisis imminent, midday but dark as night, high quality, detailed, 8k resolution, no people, no text, no UI elements",
           "prompt_cn": "修仙小说场景,天际乌云密布电蛇游走,昏暗天空雷电闪烁,从地面仰拍天空视角,高人渡劫的恐怖威压,压抑紧张的氛围,高对比度阴暗色调,危机感强烈,正午时分天空如夜,高质量,细节丰富,无人物,无文本,无UI元素"
         },
         {
+          "main_id": "scene-002",
           "id": "scene-002-003",
           "name": "飞剑光尾特写",
           "prompt": "Chinese xianxia style, close-up of flying sword trailing golden light, radiating energy trails, sparks and spiritual particles, bright blue sky background, sea of clouds visible, mystical cultivation atmosphere, magical transportation method, high quality, detailed, 8k resolution, no people, no text, no UI elements",
           "prompt_cn": "修仙小说特写,飞剑拖出金色光尾,能量轨迹和火花粒子,明亮蓝天背景,可见云海,神秘修仙氛围,神奇交通方式,高质量,细节丰富,无人物,无文本,无UI元素"
         },
         {
+          "main_id": "scene-002",
           "id": "scene-002-004",
           "name": "云海中的金光倒影",
           "prompt": "Chinese xianxia style, golden light reflection on sea of clouds, ethereal glow spreading through mist, mountain peaks visible below, dreamy otherworldly atmosphere, beautiful sunset colors or morning glow, peaceful yet mystical, high quality, detailed, 8k resolution, no people, no text, no UI elements",
           "prompt_cn": "修仙小说场景,云海中的金光倒影,雾气中扩散的神秘光芒,下方可见山峰,梦幻般的异世界氛围,美丽日落色彩或晨光,宁静但神秘,高质量,细节丰富,无人物,无文本,无UI元素"
         },
         {
+          "main_id": "scene-002",
           "id": "scene-002-005",
           "name": "乌云中的电蛇",
           "prompt": "Chinese xianxia style, close-up of dark clouds with lightning snakes, electrical arcs weaving between cloud masses, purple and blue lightning, ominous energy, mystical weather phenomenon, tribulation clouds formation, terrifying natural power, high quality, detailed, 8k resolution, no people, no text, no UI elements",
           "prompt_cn": "修仙小说特写,乌云中的电蛇细节,电弧在云层间穿梭,紫蓝色闪电,不祥的能量,神秘天气现象,雷劫云层形成,恐怖自然力量,高质量,细节丰富,无人物,无文本,无UI元素"
         }
       ],
-      "tags": ["青云宗上空", "室外", "天空"],
+      "tags": [
+        "青云宗上空",
+        "室外",
+        "天空"
+      ],
       "usage_count": 7,
       "description": "青云宗上空主场景 - 包含御剑飞行、雷劫逼近等多个特效状态"
     },
@@ -92,73 +110,88 @@
       "main_prompt_cn": "修仙小说场景,青云宗山门广场,几张旧红木桌,石板路,传统建筑,远山背景,自然光照,宗门入口区域,可见山门,开阔场地,高质量,细节丰富,无人物,无文本,无UI元素",
       "sub_scenes": [
         {
+          "main_id": "scene-003",
           "id": "scene-003-001",
           "name": "破败接待台-清晨",
           "prompt": "Chinese xianxia style, mountain gate plaza of cultivation sect, several old red wooden tables loosely arranged as reception desk, worn banner hanging crookedly, weeds growing on ground, uneven stone pavement, distant mountains, bright morning sunlight, worn and weathered atmosphere, humble cultivation sect, high quality, detailed, 8k resolution, no people, no text, no UI elements",
           "prompt_cn": "修仙小说场景,山门广场,几张破旧红木桌拼成接待台,横幅歪歪扭扭,广场周围杂草丛生,地面坑洼不平,远山背景,清晨明亮阳光,破败简陋氛围,寒酸宗门,高质量,细节丰富,无人物,无文本,无UI元素"
         },
         {
+          "main_id": "scene-003",
           "id": "scene-003-002",
           "name": "雷电对峙战斗-清晨",
           "prompt": "Chinese xianxia style, mountain gate plaza of cultivation sect during battle, dark clouds gathering in sky, lightning snakes dancing, fire dragon spell dispersing by invisible barrier, thunder striking from above and being absorbed, spiritual energy counter-attacking to sky, high contrast colorful magical effects, tense atmosphere, dramatic cultivation battle scene, morning but dark sky, high quality, detailed, 8k resolution, no people, no text, no UI elements",
           "prompt_cn": "修仙小说场景,山门广场战斗中,天空乌云密布,电蛇游走,火龙被无形屏障消散,雷霆从天而降被吸收后反向射出,高对比度多彩法术光芒,紧张氛围,戏剧性修仙战斗场面,清晨但天空昏暗,高质量,细节丰富,无人物,无文本,无UI元素"
         },
         {
+          "main_id": "scene-003",
           "id": "scene-003-003",
           "name": "天魔威压震慑-正午",
           "prompt": "Chinese xianxia style, mountain gate plaza of cultivation sect, oppressive dark energy spreading from center, black mist swirling, vague demon god phantom silhouette appearing, cold and terrifying pressure, high contrast black and gray color palette, oppressive and heavy atmosphere, dark cultivation energy, sense of foreboding, midday sunlight blocked by dark energy, high quality, detailed, 8k resolution, no people, no text, no UI elements",
           "prompt_cn": "修仙小说场景,山门广场,阴冷恐怖的威压从中心扩散,黑气缭绕旋转,模糊的魔神虚影轮廓出现,冷恐怖压力,高对比度黑白灰色调,压抑沉重氛围,黑暗修仙能量,不祥预感,正午阳光被黑暗能量阻挡,高质量,细节丰富,无人物,无文本,无UI元素"
         },
         {
+          "main_id": "scene-003",
           "id": "scene-003-004",
           "name": "门庭若市-白天",
           "prompt": "Chinese xianxia style, mountain gate plaza of cultivation sect, crowded with visitors, gift piles as mountain, lively bustling atmosphere, various cultivators' robes visible, bright natural daylight, warm and vibrant colors, prosperous and popular sect, grand competition aftermath celebration, banners waving, excited energy, high quality, detailed, 8k resolution, no people, no text, no UI elements",
           "prompt_cn": "修仙小说场景,山门广场,拥挤的访客,礼物堆积如山,热闹喧哗氛围,可见各式修仙者服装,明亮自然日光,温暖鲜艳色彩,繁荣受欢迎的宗门,大比后的庆祝盛况,旗帜飘扬,兴奋能量,高质量,细节丰富,无人物,无文本,无UI元素"
         },
         {
+          "main_id": "scene-003",
           "id": "scene-003-005",
           "name": "破旧红木桌特写",
           "prompt": "Chinese xianxia style, close-up of worn red wooden table at sect gate, scratches and damage on surface, old wood texture, dust accumulation, morning light casting shadows, humble sect atmosphere, reception desk detail, high quality, detailed, 8k resolution, no people, no text, no UI elements",
           "prompt_cn": "修仙小说特写,山门处破旧红木桌细节,桌面划痕和破损,老旧木纹,灰尘堆积,晨光投下阴影,寒酸宗门氛围,接待台细节,高质量,细节丰富,无人物,无文本,无UI元素"
         },
         {
+          "main_id": "scene-003",
           "id": "scene-003-006",
           "name": "歪斜横幅细节",
           "prompt": "Chinese xianxia style, close-up of worn banner hanging on bamboo pole at sect gate, faded calligraphy text, tattered fabric edges, wind blowing gently, humble cultivation atmosphere, sect banner detail, high quality, detailed, 8k resolution, no people, no text, no UI elements",
           "prompt_cn": "修仙小说特写,山门竹竿上挂着的磨损横幅,褪色的书法字样,破损的布料边缘,微风轻拂,寒酸修仙氛围,宗门旗帜细节,高质量,细节丰富,无人物,无文本,无UI元素"
         },
         {
+          "main_id": "scene-003",
           "id": "scene-003-007",
           "name": "火龙被屏障消散瞬间",
           "prompt": "Chinese xianxia style, close-up of fire dragon spell hitting invisible barrier and dispersing at plaza, magical energy particles scattering, bright red and orange colors, dramatic lighting, tense battle atmosphere, cultivation combat detail, high quality, detailed, 8k resolution, no people, no text, no UI elements",
           "prompt_cn": "修仙小说特写,火龙撞击无形屏障消散的瞬间,魔法能量粒子飞散,明亮的红橙色,戏剧性光照,紧张战斗氛围,修仙战斗细节,高质量,细节丰富,无人物,无文本,无UI元素"
         },
         {
+          "main_id": "scene-003",
           "id": "scene-003-008",
           "name": "雷霆吸收反击特效",
           "prompt": "Chinese xianxia style, close-up of lightning being absorbed and redirected at plaza, blue electrical arcs dancing, energy flowing in reverse direction, mystical formation patterns, spiritual energy concentration, cultivation battle moment, high quality, detailed, 8k resolution, no people, no text, no UI elements",
           "prompt_cn": "修仙小说特写,雷霆被吸收并反向引导,蓝色电弧跳动,能量逆向流动,神秘阵法纹路,灵力汇聚,修仙战斗瞬间,高质量,细节丰富,无人物,无文本,无UI元素"
         },
         {
+          "main_id": "scene-003",
           "id": "scene-003-009",
           "name": "黑气缭绕细节",
           "prompt": "Chinese xianxia style, close-up of swirling black mist at plaza, dark energy tendrils, ominous shadow shapes, cold blue lighting edge, mystical and dangerous atmosphere, dark cultivation manifestation, high quality, detailed, 8k resolution, no people, no text, no UI elements",
           "prompt_cn": "修仙小说特写,广场上旋转的黑气细节,黑暗能量触须,不祥的阴影形状,边缘冷蓝光照,神秘危险氛围,黑暗修仙显现,高质量,细节丰富,无人物,无文本,无UI元素"
         },
         {
+          "main_id": "scene-003",
           "id": "scene-003-010",
           "name": "魔神虚影轮廓",
           "prompt": "Chinese xianxia style, vague demon god phantom silhouette in dark mist at plaza, towering and menacing, ancient power aura, ominous pressure visualized, dark fantasy cultivation atmosphere, terrifying presence, high quality, detailed, 8k resolution, no people, no text, no UI elements",
           "prompt_cn": "修仙小说特写,广场黑暗雾气中模糊的魔神虚影轮廓,高耸而不祥,古老力量气场,不祥威压的视觉化,暗黑奇幻修仙氛围,恐怖存在,高质量,细节丰富,无人物,无文本,无UI元素"
         },
         {
+          "main_id": "scene-003",
           "id": "scene-003-011",
           "name": "礼物堆积细节",
           "prompt": "Chinese xianxia style, close-up of gift piles at sect gate plaza, boxes, spirit stones, precious items wrapped, various colors, generous offerings atmosphere, prosperity and abundance, bright lighting, celebration aftermath, high quality, detailed, 8k resolution, no people, no text, no UI elements",
           "prompt_cn": "修仙小说特写,山门广场堆积的礼物细节,礼盒,灵石,珍贵物品包装,各种颜色,慷慨赠礼氛围,繁荣和富足,明亮光照,庆祝后续,高质量,细节丰富,无人物,无文本,无UI元素"
         }
       ],
-      "tags": ["青云宗山门广场", "室外", "广场"],
+      "tags": [
+        "青云宗山门广场",
+        "室外",
+        "广场"
+      ],
       "usage_count": 11,
       "description": "青云宗山门广场主场景 - 包含破败接待、雷电战斗、天魔威压、门庭若市等多个状态"
     },
@@ -170,37 +203,46 @@
       "main_prompt_cn": "修仙小说场景,青云宗主殿,雕花柱子,石地板,仪式祭坛,符文符号,中央掌门座,传统修仙建筑,庄严氛围,高质量,细节丰富,无人物,无文本,无UI元素",
       "sub_scenes": [
         {
+          "main_id": "scene-004",
           "id": "scene-004-001",
           "name": "破败庄严-清晨",
           "prompt": "Chinese xianxia style, grand main hall of cultivation sect, four walls letting wind through, damaged roof with holes, morning sunlight beams through holes, ornate pillars but worn, sect master seat in center, ceremonial altar, spiritual symbols, dust floating in light beams, warm golden lighting, worn and weathered yet solemn atmosphere, humble cultivation sect, high quality, detailed, 8k resolution, no people, no text, no UI elements",
           "prompt_cn": "修仙小说场景,主殿,四面漏风的破旧大殿,屋顶有破洞透光,晨光从破洞斜射而入形成光柱,雕花柱子但磨损,中央掌门座,仪式祭坛,符文符号,尘埃飞舞在光束中,温暖金光,破败但庄严的氛围,寒酸宗门,高质量,细节丰富,无人物,无文本,无UI元素"
         },
         {
+          "main_id": "scene-004",
           "id": "scene-004-002",
           "name": "掌门座特写",
           "prompt": "Chinese xianxia style, close-up of sect master seat in main hall, worn wooden throne with carvings, spiritual symbols engraved, faded gold leaf, stone floor below, solemn yet humble atmosphere, morning light casting shadows, leadership position detail, high quality, detailed, 8k resolution, no people, no text, no UI elements",
           "prompt_cn": "修仙小说特写,主殿掌门座细节,磨损的木椅雕刻,符文刻印,褪色的金箔,下方石地板,庄严但破败的氛围,晨光投下阴影,领导位置细节,高质量,细节丰富,无人物,无文本,无UI元素"
         },
         {
+          "main_id": "scene-004",
           "id": "scene-004-003",
           "name": "屋顶破洞透光",
           "prompt": "Chinese xianxia style, close-up of damaged roof with holes in main hall, morning sunlight streaming through, dust particles dancing in beams, worn wooden beams, bird flying through hole, humble cultivation atmosphere, architectural damage detail, high quality, detailed, 8k resolution, no people, no text, no UI elements",
           "prompt_cn": "修仙小说特写,主殿破损屋顶的破洞,清晨阳光透过射入,尘埃在光束中飞舞,磨损的木梁,鸟儿穿过破洞,寒酸修仙氛围,建筑破损细节,高质量,细节丰富,无人物,无文本,无UI元素"
         },
         {
+          "main_id": "scene-004",
           "id": "scene-004-004",
           "name": "殿内角落-窘迫对话",
           "prompt": "Chinese xianxia style, corner inside grand main hall, dim lighting from damaged windows, worn walls, empty coin purse spilling few copper coins, gloomy atmosphere, humble sect poverty, private conversation spot, high quality, detailed, 8k resolution, no people, no text, no UI elements",
           "prompt_cn": "修仙小说场景,主殿内部角落,从破损窗户射入的昏暗光线,磨损的墙壁,空钱袋倒出几枚铜板,阴沉氛围,寒酸宗门贫困,私密对话地点,高质量,细节丰富,无人物,无文本,无UI元素"
         },
         {
+          "main_id": "scene-004",
           "id": "scene-004-005",
           "name": "灵石堆山-傍晚",
           "prompt": "Chinese xianxia style, grand main hall of cultivation sect, pile of high-grade spirit stones glowing on table, illuminating entire hall, spiritual energy radiating, warm evening lighting, prosperity and wealth contrasted with humble surroundings, treasure accumulation, precious resources, high quality, detailed, 8k resolution, no people, no text, no UI elements",
           "prompt_cn": "修仙小说场景,主殿,桌上堆放的上品灵石发光,照亮整个殿堂,灵力四溢,温暖傍晚光照,财富与破败环境的对比,宝物积累,珍贵资源,高质量,细节丰富,无人物,无文本,无UI元素"
         }
       ],
-      "tags": ["青云宗主殿", "室内", "庄严"],
+      "tags": [
+        "青云宗主殿",
+        "室内",
+        "庄严"
+      ],
       "usage_count": 6,
       "description": "青云宗主殿主场景 - 包含破败庄严、窘迫对话、灵石展示等多个状态"
     },
@@ -212,61 +254,74 @@
       "main_prompt_cn": "修仙小说场景,青云宗后院空地,石板路,周围传统建筑,自然环境,修炼区域,宗门私密空间,宁静氛围,高质量,细节丰富,无人物,无文本,无UI元素",
       "sub_scenes": [
         {
+          "main_id": "scene-005",
           "id": "scene-005-001",
           "name": "修炼教学-上午",
           "prompt": "Chinese xianxia style, open courtyard in cultivation sect, overgrown grass and weeds, training area with sword mark depression in ground, stone pavement, traditional buildings surrounding, clear natural daylight, soft shadows, peaceful and warm atmosphere, tranquil cultivation life, daily cultivation training, high quality, detailed, 8k resolution, no people, no text, no UI elements",
           "prompt_cn": "修仙小说场景,后院空地,长满杂草的空地,练剑砸出的坑,石板路,周围传统建筑,清晰自然日光,柔和阴影,宁静温暖氛围,宁静修仙生活,日常修炼训练,高质量,细节丰富,无人物,无文本,无UI元素"
         },
         {
+          "main_id": "scene-005",
           "id": "scene-005-002",
           "name": "雷劫降临-正午",
           "prompt": "Chinese xianxia style, cultivation sect courtyard after lightning strike, old tree burned to charcoal, smoking crater from lightning impact, residual lightning sparks around crater, natural light returning but slightly dim, awe-inspiring aftermath, dramatic survival moment, high contrast bright light, destruction and survival, high quality, detailed, 8k resolution, no people, no text, no UI elements",
           "prompt_cn": "修仙小说场景,后院雷击后,老槐树烧成焦炭,雷击坑冒烟,坑边缘残留雷光火花,自然光恢复但略暗,震撼的后果,戏剧性生存瞬间,高对比度亮光,毁灭与生存,高质量,细节丰富,无人物,无文本,无UI元素"
         },
         {
+          "main_id": "scene-005",
           "id": "scene-005-003",
           "name": "黄昏悬念-傍晚",
           "prompt": "Chinese xianxia style, cultivation sect courtyard at sunset, golden hour lighting, warm orange glow spreading across scene, long shadows, peaceful evening atmosphere, contemplation moment, transition from light to dark, warm and nostalgic color palette, daily cultivation life, mysterious system interface hint, high quality, detailed, 8k resolution, no people, no text, no UI elements",
           "prompt_cn": "修仙小说场景,后院夕阳西下,金色小时光照,温暖橙光蔓延,长影,宁静傍晚氛围,沉思时刻,从光明到黑暗的过渡,温暖怀旧色调,日常修仙生活,神秘系统界面暗示,高质量,细节丰富,无人物,无文本,无UI元素"
         },
         {
+          "main_id": "scene-005",
           "id": "scene-005-004",
           "name": "练剑坑特写",
           "prompt": "Chinese xianxia style, close-up of sword practice mark in courtyard ground, depression in earth from sword strikes, grass growing around edges, stone texture, fresh soil exposed, daily cultivation training atmosphere, martial arts practice evidence, high quality, detailed, 8k resolution, no people, no text, no UI elements",
           "prompt_cn": "修仙小说特写,院中练剑砸出的坑,地面凹陷痕迹,边缘杂草生长,石质纹理,翻出的新土,日常修炼训练氛围,武术练习证据,高质量,细节丰富,无人物,无文本,无UI元素"
         },
         {
+          "main_id": "scene-005",
           "id": "scene-005-005",
           "name": "后院杂草细节",
           "prompt": "Chinese xianxia style, close-up of overgrown grass in cultivation courtyard, wild plants and weeds, small flowers, stone pavement between, natural growth, humble sect atmosphere, soft sunlight, neglected garden detail, high quality, detailed, 8k resolution, no people, no text, no UI elements",
           "prompt_cn": "修仙小说特写,院中长满杂草细节,野生植物,小花,石板路缝隙,自然生长,寒酸宗门氛围,柔和阳光,荒废花园细节,高质量,细节丰富,无人物,无文本,无UI元素"
         },
         {
+          "main_id": "scene-005",
           "id": "scene-005-006",
           "name": "焦炭老槐树特写",
           "prompt": "Chinese xianxia style, close-up of old tree burned to charcoal by lightning, bark texture charred black, smoke still rising, residual red heat inside, dramatic destruction aftermath, lightning strike evidence, natural disaster result, high quality, detailed, 8k resolution, no people, no text, no UI elements",
           "prompt_cn": "修仙小说特写,被雷劈成焦炭的老槐树,树皮纹理炭化黑色,烟雾仍在升起,内部残留红色余热,戏剧性毁灭后果,雷击证据,自然灾害结果,高质量,细节丰富,无人物,无文本,无UI元素"
         },
         {
+          "main_id": "scene-005",
           "id": "scene-005-007",
           "name": "雷击坑边缘火花",
           "prompt": "Chinese xianxia style, close-up of lightning crater edge, blue electrical sparks dancing, charred earth texture, residual spiritual energy, mystical cultivation power aftermath, magical disaster trace, energy remnant, high quality, detailed, 8k resolution, no people, no text, no UI elements",
           "prompt_cn": "修仙小说特写,雷击坑边缘细节,蓝色电火花跳动,焦土纹理,残留灵力,神秘修仙力量余波,魔法灾难痕迹,能量残余,高质量,细节丰富,无人物,无文本,无UI元素"
         },
         {
+          "main_id": "scene-005",
           "id": "scene-005-008",
           "name": "手部电弧残留",
           "prompt": "Chinese xianxia style, close-up of hands with residual lightning energy, blue electrical arcs on skin surface, sparks between fingers, mystical power manifestation, cultivation breakthrough sign, spiritual energy absorption result, high quality, detailed, 8k resolution, no people, no text, no UI elements",
           "prompt_cn": "修仙小说特写,手部雷灵力残留细节,蓝色电弧在皮肤表面,手指间火花跳跃,神秘力量显现,修仙突破征兆,灵力吸收结果,高质量,细节丰富,无人物,无文本,无UI元素"
         },
         {
+          "main_id": "scene-005",
           "id": "scene-005-009",
           "name": "夕阳下的系统界面光晕",
           "prompt": "Chinese xianxia style, mysterious system interface glowing at sunset in courtyard, translucent blue screen floating in air, golden sunset backlight, technological and mystical fusion, enigmatic atmosphere, secret power hinting, cultivation world mystery, high quality, detailed, 8k resolution, no people, no text, no UI elements",
           "prompt_cn": "修仙小说特写,后院夕阳下神秘系统界面光晕,半透明蓝色屏幕悬浮空中,金色夕阳逆光,科技与神秘融合,耐人寻味的氛围,秘密力量暗示,修仙世界之谜,高质量,细节丰富,无人物,无文本,无UI元素"
         }
       ],
-      "tags": ["青云宗后院", "室外", "庭院"],
+      "tags": [
+        "青云宗后院",
+        "室外",
+        "庭院"
+      ],
       "usage_count": 9,
       "description": "青云宗后院主场景 - 包含修炼教学、雷劫降临、黄昏悬念等多个状态"
     },
@@ -278,25 +333,32 @@
       "main_prompt_cn": "修仙小说场景,青州城珍宝斋内部,华丽装潢,传统建筑,木柜台,陈列架,温暖灯笼照明,热闹市场氛围,繁荣生意,高质量,细节丰富,无人物,无文本,无UI元素",
       "sub_scenes": [
         {
+          "main_id": "scene-006",
           "id": "scene-006-001",
           "name": "繁华典当-上午",
           "prompt": "Chinese xianxia style, interior of antique shop in cultivation city, ornate decorations and displays, shelves with various treasures, warm lantern lighting, traditional architecture, wooden counters, bustling marketplace atmosphere, vibrant energy, various cultivation artifacts visible, appraisal setting, high quality, detailed, 8k resolution, no people, no text, no UI elements",
           "prompt_cn": "修仙小说场景,珍宝斋内部,华丽装潢和陈列,各种宝物的货架,温暖灯笼照明,传统建筑,木柜台,热闹市场氛围,活跃能量,可见各种修仙宝物,鉴定场景,高质量,细节丰富,无人物,无文本,无UI元素"
         },
         {
+          "main_id": "scene-006",
           "id": "scene-006-002",
           "name": "古画蓝光显灵",
           "prompt": "Chinese xianxia style, close-up of ancient painting with mysterious blue glow, aged yellowed paper surface, faint blue light emanating from ink marks, temperature drop visible, mystical revelation moment, magical artifact detail, ancient treasure awakening, high quality, detailed, 8k resolution, no people, no text, no UI elements",
           "prompt_cn": "修仙小说特写,泛黄破损的古画上神秘蓝光,老化泛黄纸面,墨痕散发微弱蓝光,可见温度下降,神秘启示时刻,魔法宝物细节,古代宝物觉醒,高质量,细节丰富,无人物,无文本,无UI元素"
         },
         {
+          "main_id": "scene-006",
           "id": "scene-006-003",
           "name": "符文墨点细节",
           "prompt": "Chinese xianxia style, extreme close-up of ink dots forming ancient rune pattern, mystical seal symbol, blue spiritual light flowing through lines, aged paper texture, secret realm map revelation, hidden treasure map detail, ancient cultivation wisdom, high quality, detailed, 8k resolution, no people, no text, no UI elements",
           "prompt_cn": "修仙小说特写,墨点形成古老符文图案的极端特写,神秘封印符号,蓝色灵光在线条间流动,老化纸张纹理,秘境地图启示,隐藏藏宝图细节,古代修仙智慧,高质量,细节丰富,无人物,无文本,无UI元素"
         }
       ],
-      "tags": ["青州城珍宝斋", "室内", "商铺"],
+      "tags": [
+        "青州城珍宝斋",
+        "室内",
+        "商铺"
+      ],
       "usage_count": 3,
       "description": "青州城珍宝斋主场景 - 包含繁华典当、古画显灵等状态"
     },
@@ -308,19 +370,25 @@
       "main_prompt_cn": "修仙小说场景,回青云宗的山间小路,自然环境,路边的树木和石头,远山景色,宁静旅程氛围,宁静自然风光,修仙世界景观,高质量,细节丰富,无人物,无文本,无UI元素",
       "sub_scenes": [
         {
+          "main_id": "scene-007",
           "id": "scene-007-001",
           "name": "夕阳喜悦-傍晚",
           "prompt": "Chinese xianxia style, mountain path returning to cultivation sect at sunset, warm golden sunset lighting, distant mountain silhouettes, peaceful journey atmosphere, joy and satisfaction in golden light, nostalgic warm tones, serene nature scenery, happy return journey, high quality, detailed, 8k resolution, no people, no text, no UI elements",
           "prompt_cn": "修仙小说场景,夕阳下山间小路,温暖金色彩光照,远山剪影,宁静旅程氛围,金色光中的喜悦和满足,怀旧温暖色调,宁静自然风光,愉快归途,高质量,细节丰富,无人物,无文本,无UI元素"
         },
         {
+          "main_id": "scene-007",
           "id": "scene-007-002",
           "name": "夕阳下的山路剪影",
           "prompt": "Chinese xianxia style, mountain path silhouettes at sunset, golden sky background, distant mountain outlines, peaceful journey atmosphere, warm nostalgic tones, nature beauty, tranquil evening scene, high quality, detailed, 8k resolution, no people, no text, no UI elements",
           "prompt_cn": "修仙小说场景,夕阳下山路的剪影,金色天空背景,远山轮廓,宁静旅程氛围,温暖怀旧色调,自然美景,宁静傍晚场景,高质量,细节丰富,无人物,无文本,无UI元素"
         }
       ],
-      "tags": ["回青云宗山路", "室外", "山路"],
+      "tags": [
+        "回青云宗山路",
+        "室外",
+        "山路"
+      ],
       "usage_count": 2,
       "description": "回青云宗山路主场景 - 包含夕阳喜悦等状态"
     },
@@ -332,25 +400,32 @@
       "main_prompt_cn": "修仙小说场景,青州城中心大广场,石板路,周围建筑,活动开放空间,城市修仙环境,聚会场所,自然日光,喧闹氛围潜力,高质量,细节丰富,无人物,无文本,无UI元素",
       "sub_scenes": [
         {
+          "main_id": "scene-008",
           "id": "scene-008-001",
           "name": "宗门大比盛会-上午",
           "prompt": "Chinese xianxia style, large city plaza for cultivation competition, tens of thousands square meters, multiple arena platforms, sect banners flying, cultivators with magical artifacts, crowded bustling atmosphere, vibrant colors, grand cultivation world gathering, spectacular event, clear daylight, lively energy, competition preparation, high quality, detailed, 8k resolution, no people, no text, no UI elements",
           "prompt_cn": "修仙小说场景,宗门大比的城市大广场,数万平方米,多个擂台平台,宗门旗帜飘扬,修仙者法器闪耀,拥挤热闹氛围,鲜艳色彩,盛大修仙世界聚会,壮观活动,清晰日光,活跃能量,竞赛准备,高质量,细节丰富,无人物,无文本,无UI元素"
         },
         {
+          "main_id": "scene-008",
           "id": "scene-008-002",
           "name": "宗门旗帜飘扬",
           "prompt": "Chinese xianxia style, close-up of cultivation sect banners waving in wind at plaza, embroidered sect symbols, colorful fabrics, bright sunlight, festive atmosphere, grand competition event, gathering representation, high quality, detailed, 8k resolution, no people, no text, no UI elements",
           "prompt_cn": "修仙小说特写,广场上飘扬的宗门旗帜,刺绣宗门符号,多彩布料,明亮阳光,节日氛围,盛大竞赛活动,聚会象征,高质量,细节丰富,无人物,无文本,无UI元素"
         },
         {
+          "main_id": "scene-008",
           "id": "scene-008-003",
           "name": "擂台平台细节",
           "prompt": "Chinese xianxia style, close-up of competition arena platform in plaza, stone surface texture, magical formation patterns, battle scars, cultivation sect symbol in center, sturdy construction, martial arts arena detail, combat preparation, high quality, detailed, 8k resolution, no people, no text, no UI elements",
           "prompt_cn": "修仙小说特写,广场竞赛擂台平台细节,石面纹理,魔法阵法纹路,战斗痕迹,中心宗门符号,坚固建筑,武术擂台细节,战斗准备,高质量,细节丰富,无人物,无文本,无UI元素"
         }
       ],
-      "tags": ["青州城中心广场", "室外", "城市广场"],
+      "tags": [
+        "青州城中心广场",
+        "室外",
+        "城市广场"
+      ],
       "usage_count": 3,
       "description": "青州城中心广场主场景 - 包含大比盛会等状态"
     },
@@ -362,19 +437,25 @@
       "main_prompt_cn": "修仙小说场景,青云宗整体外观,山上传统建筑,建筑排列,自然环境,宗门入口,宁静修仙环境,高质量,细节丰富,无人物,无文本,无UI元素",
       "sub_scenes": [
         {
+          "main_id": "scene-009",
           "id": "scene-009-001",
           "name": "宗门新气象-白天",
           "prompt": "Chinese xianxia style, cultivation sect after renovation, repaired roof no longer leaking, new furniture arranged visible from outside, bright and clean appearance, natural daylight, warm and hopeful atmosphere, sect improvement and prosperity, fresh new beginning, revitalized cultivation sect, high quality, detailed, 8k resolution, no people, no text, no UI elements",
           "prompt_cn": "修仙小说场景,修葺后的宗门,屋顶不再漏雨,可见新家具摆放,明亮干净外观,自然日光,温暖充满希望的氛围,宗门改善和繁荣,崭新开始,复兴的修仙宗门,高质量,细节丰富,无人物,无文本,无UI元素"
         },
         {
+          "main_id": "scene-009",
           "id": "scene-009-002",
           "name": "修葺后的屋顶细节",
           "prompt": "Chinese xianxia style, close-up of newly repaired sect roof, fresh tiles, neat arrangement, no more holes, bright sunlight reflecting, improvement and prosperity atmosphere, quality construction detail, sect renewal, high quality, detailed, 8k resolution, no people, no text, no UI elements",
           "prompt_cn": "修仙小说特写,修葺一新的宗门屋顶,新鲜瓦片,整齐排列,不再有破洞,明亮阳光反射,改善和繁荣的氛围,质量建筑细节,宗门更新,高质量,细节丰富,无人物,无文本,无UI元素"
         }
       ],
-      "tags": ["青云宗", "室外", "宗门整体"],
+      "tags": [
+        "青云宗",
+        "室外",
+        "宗门整体"
+      ],
       "usage_count": 2,
       "description": "青云宗整体外观主场景 - 包含新气象等状态"
     },
@@ -386,19 +467,25 @@
       "main_prompt_cn": "修仙小说场景,远处山峰云海之上,孤独位置,云雾缭绕,自然环境,宁静山景,修仙隐居,高质量,细节丰富,无人物,无文本,无UI元素",
       "sub_scenes": [
         {
+          "main_id": "scene-010",
           "id": "scene-010-001",
           "name": "渡劫大能疑惑-午后",
           "prompt": "Chinese xianxia style, distant mountain peak above clouds, solitary cultivation figure gazing at sky in confusion, clouds and mist surrounding peak, natural afternoon sunlight, peaceful mountain scenery, mysterious cultivation atmosphere, questioning moment, soft warm lighting, puzzlement over lightning deviation, high quality, detailed, 8k resolution, no people, no text, no UI elements",
           "prompt_cn": "修仙小说场景,云海之上的远处山峰,孤独的修仙者疑惑地凝视天空,云雾缭绕山峰,自然午后阳光,宁静山景,神秘修仙氛围,质疑时刻,柔和温暖光照,对雷电偏离的困惑,高质量,细节丰富,无人物,无文本,无UI元素"
         },
         {
+          "main_id": "scene-010",
           "id": "scene-010-002",
           "name": "云中山巅孤影",
           "prompt": "Chinese xianxia style, distant view of mountain peak in clouds, solitary silhouette on summit, sea of clouds below, ethereal otherworldly atmosphere, mystical cultivation setting, isolated cultivation practice, high quality, detailed, 8k resolution, no people, no text, no UI elements",
           "prompt_cn": "修仙小说远景,云海中的山峰,山顶上孤独的剪影,下方云海,超凡脱俗的氛围,神秘修仙场景,孤独修炼练习,高质量,细节丰富,无人物,无文本,无UI元素"
         }
       ],
-      "tags": ["远处山巅", "室外", "山峰"],
+      "tags": [
+        "远处山巅",
+        "室外",
+        "山峰"
+      ],
       "usage_count": 2,
       "description": "远处山巅主场景 - 包含渡劫大能疑惑等状态"
     },
@@ -410,25 +497,32 @@
       "main_prompt_cn": "修仙小说场景,修仙冥想室,简单木屋,传统修仙空间,安静隐居氛围,冥想设置,高质量,细节丰富,无人物,无文本,无UI元素",
       "sub_scenes": [
         {
+          "main_id": "scene-011",
           "id": "scene-011-001",
           "name": "结丹突破-夜晚",
           "prompt": "Chinese xianxia style, cultivation meditation room, simple wooden chamber, dim candlelight, spiritual energy gathering, mysterious blue seal symbol glowing, tension and breakthrough atmosphere, dark ambient lighting with mystical blue glow, dangerous cultivation moment, internal power struggle, breakthrough crisis, high quality, detailed, 8k resolution, no people, no text, no UI elements",
           "prompt_cn": "修仙小说场景,冥想室,简单木屋,昏暗烛光,灵力汇聚,神秘蓝色封印符号发光,紧张和突破氛围,黑暗环境配神秘蓝光,危险修炼时刻,内在力量斗争,突破危机,高质量,细节丰富,无人物,无文本,无UI元素"
         },
         {
+          "main_id": "scene-011",
           "id": "scene-011-002",
           "name": "封印符号发光",
           "prompt": "Chinese xianxia style, close-up of mystical seal symbol glowing blue in meditation room, ancient rune pattern, spiritual energy pulsing, mysterious power manifestation, dangerous cultivation atmosphere, dim lighting with blue glow, internal seal awakening, high quality, detailed, 8k resolution, no people, no text, no UI elements",
           "prompt_cn": "修仙小说特写,冥想室中神秘封印符号发蓝光,古老符文纹路,灵力脉动,神秘力量显现,危险修炼氛围,昏暗光照配蓝光,内在封印觉醒,高质量,细节丰富,无人物,无文本,无UI元素"
         },
         {
+          "main_id": "scene-011",
           "id": "scene-011-003",
           "name": "凝金丹药光",
           "prompt": "Chinese xianxia style, close-up of golden cultivation pill in meditation room, radiating spiritual energy, warm golden glow, precious artifact detail, breakthrough catalyst, mystical cultivation item, soft lighting, rare treasure, high quality, detailed, 8k resolution, no people, no text, no UI elements",
           "prompt_cn": "修仙小说特写,冥想室中的金色凝金丹,散发灵力波动,温暖金光,珍贵宝物细节,突破催化剂,神秘修仙物品,柔和光照,稀有珍宝,高质量,细节丰富,无人物,无文本,无UI元素"
         }
       ],
-      "tags": ["青云宗密室", "室内", "冥想室"],
+      "tags": [
+        "青云宗密室",
+        "室内",
+        "冥想室"
+      ],
       "usage_count": 3,
       "description": "青云宗密室主场景 - 包含结丹突破等状态"
     }
