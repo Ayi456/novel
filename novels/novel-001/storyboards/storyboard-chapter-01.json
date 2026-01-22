@@ -8,10 +8,10 @@
     "location": "青云宗外门弟子房",
     "time_of_day": "清晨",
     "composition": {
-      "camera_position": "床榻正上方,俯视",
-      "camera_movement": "缓慢拉远",
-      "framing": "中心构图",
-      "focus_type": "主体清晰,周围环境逐渐入画"
+      "camera_position": "床榻正上方45度角俯拍,初始距离面部80cm,高度距床面1.2米",
+      "camera_movement": "缓慢向后拉远同时镜头上升10度,从面部特写拉至半身中景,用时8秒,运动速度均匀缓慢",
+      "framing": "中心构图,人物从占据画面75%逐渐缩小至45%,利用窗户光线在人物周围形成自然柔光边,四周暗角逐渐消失",
+      "focus_type": "初始浅景深(f/2.8)聚焦面部,背景虚化;随着拉远景深逐渐加深至f/5.6,环境细节(窗外云雾、木屋陈设)逐渐清晰"
     },
     "characters": [
       {
@@ -59,10 +59,10 @@
     "location": "顾玄脑海/眼前",
     "time_of_day": "清晨",
     "composition": {
-      "camera_position": "主观视角",
-      "camera_movement": "界面浮入",
-      "framing": "中心构图",
-      "focus_type": "界面文字清晰,背景模糊"
+      "camera_position": "主观视角,从人物眼部位置拍摄,模拟第一人称视角",
+      "camera_movement": "界面从中心向外快速浮入,用时1.5秒,伴随轻微缩放特效强调科技感",
+      "framing": "中心构图,界面占据画面60%,四周保留环境空间形成层次感",
+      "focus_type": "界面文字清晰锐利,背景环境虚化(f/1.4),界面发光效果与昏暗木屋形成强烈对比"
     },
     "characters": [],
     "visual_effects": {
@@ -102,10 +102,10 @@
     "location": "青云宗外门弟子房",
     "time_of_day": "清晨",
     "composition": {
-      "camera_position": "正面拍摄",
-      "camera_movement": "轻微推近",
-      "framing": "中心构图",
-      "focus_type": "主体清晰"
+      "camera_position": "正面平视拍摄,镜头与人物视线齐平,距离2.5米",
+      "camera_movement": "极缓慢向前推近,从半身推至面部特写,用时7秒,配合轻微环绕(15度)",
+      "framing": "中心构图,人物逐渐占据画面从50%增至70%,利用界面蓝光在人物面部形成冷色轮廓光",
+      "focus_type": "深景深保持人物和界面都清晰,随着推近焦点逐渐集中在眼神,背景逐渐虚化至f/4"
     },
     "characters": [
       {
@@ -153,10 +153,10 @@
     "location": "青云宗外门弟子房",
     "time_of_day": "清晨",
     "composition": {
-      "camera_position": "侧面拍摄",
-      "camera_movement": "固定镜头",
-      "framing": "中心构图",
-      "focus_type": "主体清晰"
+      "camera_position": "侧面45度角拍摄,镜头高度与人物胸部齐平,距离2米",
+      "camera_movement": "完全固定镜头,无任何运动,营造沉思氛围",
+      "framing": "三分法构图,人物位于画面左侧三分之一,右侧留白给系统界面和空间感",
+      "focus_type": "人物和界面都保持清晰(f/8),界面管理员权限字样闪烁成为次焦点"
     },
     "characters": [
       {
@@ -204,10 +204,10 @@
     "location": "青云宗外门弟子房窗边",
     "time_of_day": "清晨",
     "composition": {
-      "camera_position": "从窗外拍摄",
-      "camera_movement": "轻微推拉",
-      "framing": "前景有窗框",
-      "focus_type": "窗外场景清晰"
+      "camera_position": "从室外向室内拍摄,镜头在窗外3米处,透过窗框形成框架",
+      "camera_movement": "轻微前后推拉,节奏缓慢,用时6秒,模拟人物犹豫感",
+      "framing": "框架构图,利用窗框形成自然前景,人物在框架内位于右侧三分之一",
+      "focus_type": "焦点在人物清晰(f/2.8),窗框前景和窗外背景都有适度虚化,突出主体"
     },
     "characters": [
       {
@@ -255,10 +255,10 @@
     "location": "顾玄脑海/眼前",
     "time_of_day": "清晨",
     "composition": {
-      "camera_position": "主观视角",
-      "camera_movement": "界面弹出",
-      "framing": "中心构图",
-      "focus_type": "界面清晰"
+      "camera_position": "主观视角,从人物眼部位置拍摄,模拟第一人称",
+      "camera_movement": "界面突然弹出式出现,用时0.8秒,配合轻微缩放强调紧迫感",
+      "framing": "中心构图,界面占据画面55%,任务文字部分放大突出",
+      "focus_type": "界面文字和选项按钮清晰锐利,背景完全虚化(f/1.2),聚焦用户注意力"
     },
     "characters": [],
     "visual_effects": {
@@ -298,10 +298,10 @@
     "location": "青云宗上空",
     "time_of_day": "清晨",
     "composition": {
-      "camera_position": "空中跟拍",
-      "camera_movement": "跟随飞剑移动",
-      "framing": "动态构图",
-      "focus_type": "主体清晰,背景虚化"
+      "camera_position": "侧后方跟拍,镜头在人物侧后方45度角,距离4米,高度与人物腰部齐平",
+      "camera_movement": "水平跟随人物移动,保持相对位置,轻微上下起伏模拟飞行感,用时8秒",
+      "framing": "动态构图,人物始终在画面三分之一处,云海背景快速流动形成速度感",
+      "focus_type": "人物和飞剑特效清晰锐利,云海背景动态模糊(f/2.8),强调飞行速度"
     },
     "characters": [
       {
@@ -349,10 +349,10 @@
     "location": "青云宗山门广场",
     "time_of_day": "清晨",
     "composition": {
-      "camera_position": "山门广场上方,俯拍",
-      "camera_movement": "从高空俯冲至近景",
-      "framing": "中心构图",
-      "focus_type": "从全景聚焦至主体"
+      "camera_position": "从广场正上方100米高空开始,垂直俯视",
+      "camera_movement": "急速俯冲至人物落地位置,用时3秒,然后突然停止形成对比,配合轻微震动模拟坠落感",
+      "framing": "从广角全景急速收缩至单人中景,利用速度感制造冲击,落地后构图稳定",
+      "focus_type": "俯冲时全景深清晰,落地后焦点集中在人物尴尬表情,背景虚化至f/2"
     },
     "characters": [
       {
@@ -407,10 +407,10 @@
     "location": "青云宗山门广场",
     "time_of_day": "清晨",
     "composition": {
-      "camera_position": "广场边缘,面向顾玄",
-      "camera_movement": "固定镜头",
-      "framing": "广角",
-      "focus_type": "全景清晰"
+      "camera_position": "广场边缘10米处,低角度仰拍,镜头高度与地面齐平",
+      "camera_movement": "完全固定镜头,无任何运动,增强嘲讽画面的静态感",
+      "framing": "广角构图,趴在地上的人物处于画面中央,嘲笑者在周围形成包围圈",
+      "focus_type": "全景深(f/11),所有人物和环境都清晰,强化尴尬处境"
     },
     "characters": [
       {
@@ -458,10 +458,10 @@
     "location": "青云宗山门广场",
     "time_of_day": "清晨",
     "composition": {
-      "camera_position": "平视,三人之间",
-      "camera_movement": "轻微推拉",
-      "framing": "三人构图",
-      "focus_type": "三人都清晰"
+      "camera_position": "正面平视,距离人物3米,镜头高度1.6米",
+      "camera_movement": "极轻微前后推拉,幅度±20cm,用时3秒,营造对话呼吸感",
+      "framing": "三人三角形构图,顾玄左侧三分之一,李道玄和陆尘在右侧三分之二形成互动区",
+      "focus_type": "三人都保持清晰(f/5.6),焦点在说话人陆尘身上轻微偏移"
     },
     "characters": [
       {
@@ -523,10 +523,10 @@
     "location": "青云宗山门广场",
     "time_of_day": "清晨",
     "composition": {
-      "camera_position": "平视,三人之间",
-      "camera_movement": "轻微推拉",
-      "framing": "三人构图",
-      "focus_type": "三人都清晰"
+      "camera_position": "正面平视,距离人物3米,镜头高度1.6米",
+      "camera_movement": "极轻微前后推拉,幅度±20cm,用时3秒,营造对话呼吸感",
+      "framing": "三人三角形构图,顾玄左侧三分之一,李道玄和陆尘在右侧三分之二形成互动区",
+      "focus_type": "三人都保持清晰(f/5.6),焦点在说话人陆尘身上轻微偏移"
     },
     "characters": [
       {
@@ -588,10 +588,10 @@
     "location": "青云宗山门广场",
     "time_of_day": "清晨",
     "composition": {
-      "camera_position": "平视,三人之间",
-      "camera_movement": "轻微推拉",
-      "framing": "三人构图",
-      "focus_type": "三人都清晰"
+      "camera_position": "正面平视,距离人物3米,镜头高度1.6米",
+      "camera_movement": "极轻微前后推拉,幅度±20cm,用时3秒,营造对话呼吸感",
+      "framing": "三人三角形构图,顾玄左侧三分之一,李道玄和陆尘在右侧三分之二形成互动区",
+      "focus_type": "三人都保持清晰(f/5.6),焦点在说话人陆尘身上轻微偏移"
     },
     "characters": [
       {
@@ -653,10 +653,10 @@
     "location": "青云宗山门广场",
     "time_of_day": "清晨",
     "composition": {
-      "camera_position": "侧面,拍摄顾玄和陆尘",
-      "camera_movement": "轻微推近",
-      "framing": "双人构图",
-      "focus_type": "两人清晰"
+      "camera_position": "侧面90度拍摄,镜头在顾玄和陆尘之间,距离2.5米",
+      "camera_movement": "缓慢向前推近,用时3秒,强调情感转变",
+      "framing": "双人构图,顾玄在左侧三分之一,陆尘在右侧三分之,背景中玄天剑宗弟子模糊",
+      "focus_type": "焦点在两人面部清晰(f/2.8),背景完全虚化,突出两人互动"
     },
     "characters": [
       {
@@ -718,10 +718,10 @@
     "location": "青云宗山门广场",
     "time_of_day": "清晨",
     "composition": {
-      "camera_position": "侧面,拍摄顾玄和陆尘",
-      "camera_movement": "轻微推近",
-      "framing": "双人构图",
-      "focus_type": "两人清晰"
+      "camera_position": "侧面90度拍摄,镜头在顾玄和陆尘之间,距离2.5米",
+      "camera_movement": "缓慢向前推近,用时3秒,强调情感转变",
+      "framing": "双人构图,顾玄在左侧三分之一,陆尘在右侧三分之,背景中玄天剑宗弟子模糊",
+      "focus_type": "焦点在两人面部清晰(f/2.8),背景完全虚化,突出两人互动"
     },
     "characters": [
       {
@@ -783,10 +783,10 @@
     "location": "青云宗山门广场",
     "time_of_day": "清晨",
     "composition": {
-      "camera_position": "正面拍摄顾玄",
-      "camera_movement": "轻微环绕",
-      "framing": "中心构图",
-      "focus_type": "主体清晰"
+      "camera_position": "正面拍摄,镜头与顾玄视线齐平,距离2米",
+      "camera_movement": "极缓慢推近,用时4秒,配合轻微左右摇摆(±5度)增加压迫感",
+      "framing": "中心构图,顾玄逐渐占据画面从45%增至60%,玄天剑宗弟子在边缘形成对比",
+      "focus_type": "焦点在顾玄眼神,浅景深(f/2),背景逐渐虚化突出威严"
     },
     "characters": [
       {
@@ -841,10 +841,10 @@
     "location": "青云宗山门广场",
     "time_of_day": "清晨",
     "composition": {
-      "camera_position": "正面拍摄顾玄",
-      "camera_movement": "轻微环绕",
-      "framing": "中心构图",
-      "focus_type": "主体清晰"
+      "camera_position": "正面拍摄,镜头与顾玄视线齐平,距离2米",
+      "camera_movement": "极缓慢推近,用时4秒,配合轻微左右摇摆(±5度)增加压迫感",
+      "framing": "中心构图,顾玄逐渐占据画面从45%增至60%,玄天剑宗弟子在边缘形成对比",
+      "focus_type": "焦点在顾玄眼神,浅景深(f/2),背景逐渐虚化突出威严"
     },
     "characters": [
       {
@@ -899,10 +899,10 @@
     "location": "青云宗山门广场",
     "time_of_day": "清晨",
     "composition": {
-      "camera_position": "正面拍摄顾玄",
-      "camera_movement": "轻微环绕",
-      "framing": "中心构图",
-      "focus_type": "主体清晰"
+      "camera_position": "正面拍摄,镜头与顾玄视线齐平,距离2米",
+      "camera_movement": "极缓慢推近,用时4秒,配合轻微左右摇摆(±5度)增加压迫感",
+      "framing": "中心构图,顾玄逐渐占据画面从45%增至60%,玄天剑宗弟子在边缘形成对比",
+      "focus_type": "焦点在顾玄眼神,浅景深(f/2),背景逐渐虚化突出威严"
     },
     "characters": [
       {
@@ -957,10 +957,10 @@
     "location": "青云宗山门广场",
     "time_of_day": "清晨",
     "composition": {
-      "camera_position": "正面拍摄顾玄面部",
-      "camera_movement": "固定镜头",
-      "framing": "中心构图",
-      "focus_type": "面部表情清晰"
+      "camera_position": "正面拍摄顾玄面部特写,距离80cm,镜头高度与鼻尖齐平",
+      "camera_movement": "完全固定镜头,轻微不规则抖动(±2mm)模拟内心紧张感",
+      "framing": "超大特写,面部占据画面80%,四周暗角强调内心独白",
+      "focus_type": "极浅景深(f/1.4),只有眼部清晰,其他部位柔焦虚化"
     },
     "characters": [
       {
@@ -1008,10 +1008,10 @@
     "location": "青云宗山门广场",
     "time_of_day": "清晨",
     "composition": {
-      "camera_position": "环绕拍摄",
-      "camera_movement": "快速环绕",
-      "framing": "动态构图",
-      "focus_type": "主体清晰,特效突出"
+      "camera_position": "快速环绕拍摄,高度与人物腰部齐平,半径3米",
+      "camera_movement": "快速360度环绕,用时3秒,配合急速推拉增强动态",
+      "framing": "动态构图,主体始终在画面中心,背景快速流动形成速度感",
+      "focus_type": "主体和特效清晰锐利,背景动态模糊,强调战斗张力"
     },
     "characters": [
       {
@@ -1066,10 +1066,10 @@
     "location": "青云宗山门广场",
     "time_of_day": "清晨",
     "composition": {
-      "camera_position": "环绕拍摄",
-      "camera_movement": "快速环绕",
-      "framing": "动态构图",
-      "focus_type": "主体清晰,特效突出"
+      "camera_position": "快速环绕拍摄,高度与人物腰部齐平,半径3米",
+      "camera_movement": "快速360度环绕,用时3秒,配合急速推拉增强动态",
+      "framing": "动态构图,主体始终在画面中心,背景快速流动形成速度感",
+      "focus_type": "主体和特效清晰锐利,背景动态模糊,强调战斗张力"
     },
     "characters": [
       {
@@ -1124,10 +1124,10 @@
     "location": "青云宗山门广场",
     "time_of_day": "清晨",
     "composition": {
-      "camera_position": "环绕拍摄",
-      "camera_movement": "快速环绕",
-      "framing": "动态构图",
-      "focus_type": "主体清晰,特效突出"
+      "camera_position": "快速环绕拍摄,高度与人物腰部齐平,半径3米",
+      "camera_movement": "快速360度环绕,用时3秒,配合急速推拉增强动态",
+      "framing": "动态构图,主体始终在画面中心,背景快速流动形成速度感",
+      "focus_type": "主体和特效清晰锐利,背景动态模糊,强调战斗张力"
     },
     "characters": [
       {
@@ -1182,10 +1182,10 @@
     "location": "青云宗山门广场",
     "time_of_day": "清晨",
     "composition": {
-      "camera_position": "环绕拍摄",
-      "camera_movement": "快速环绕",
-      "framing": "动态构图",
-      "focus_type": "主体清晰,特效突出"
+      "camera_position": "快速环绕拍摄,高度与人物腰部齐平,半径3米",
+      "camera_movement": "快速360度环绕,用时3秒,配合急速推拉增强动态",
+      "framing": "动态构图,主体始终在画面中心,背景快速流动形成速度感",
+      "focus_type": "主体和特效清晰锐利,背景动态模糊,强调战斗张力"
     },
     "characters": [
       {
@@ -1247,10 +1247,10 @@
     "location": "青云宗山门广场",
     "time_of_day": "清晨",
     "composition": {
-      "camera_position": "正面拍摄顾玄",
-      "camera_movement": "缓慢推近",
-      "framing": "中心构图",
-      "focus_type": "主体清晰"
+      "camera_position": "正面低角度仰拍,镜头在顾玄正前方,距离1.5米,高度与膝部齐平",
+      "camera_movement": "缓慢向前推近,用时3秒,增强威严感",
+      "framing": "仰视构图,顾玄占据画面上方60%,跪地的弟子在下方形成强烈对比",
+      "focus_type": "焦点在顾玄淡然表情(f/2.8),弟子和背景逐渐虚化"
     },
     "characters": [
       {
@@ -1312,10 +1312,10 @@
     "location": "青云宗山门广场",
     "time_of_day": "清晨",
     "composition": {
-      "camera_position": "正面拍摄顾玄",
-      "camera_movement": "缓慢推近",
-      "framing": "中心构图",
-      "focus_type": "主体清晰"
+      "camera_position": "正面低角度仰拍,镜头在顾玄正前方,距离1.5米,高度与膝部齐平",
+      "camera_movement": "缓慢向前推近,用时3秒,增强威严感",
+      "framing": "仰视构图,顾玄占据画面上方60%,跪地的弟子在下方形成强烈对比",
+      "focus_type": "焦点在顾玄淡然表情(f/2.8),弟子和背景逐渐虚化"
     },
     "characters": [
       {
@@ -1377,10 +1377,10 @@
     "location": "青云宗山门广场",
     "time_of_day": "清晨",
     "composition": {
-      "camera_position": "广场上方,俯拍",
-      "camera_movement": "固定镜头",
-      "framing": "广角",
-      "focus_type": "全景清晰"
+      "camera_position": "广场上方15米高,俯拍角度30度",
+      "camera_movement": "完全固定镜头,无任何运动,强化震撼场面",
+      "framing": "广角俯拍,顾玄在中央,跪地弟子、众人围绕形成同心圆构图",
+      "focus_type": "全景深(f/16),所有人都清晰,展现群像震撼"
     },
     "characters": [
       {
@@ -1449,10 +1449,10 @@
     "location": "青云宗山门广场",
     "time_of_day": "清晨",
     "composition": {
-      "camera_position": "正面拍摄顾玄面部",
-      "camera_movement": "固定镜头",
-      "framing": "中心构图",
-      "focus_type": "面部表情清晰"
+      "camera_position": "正面拍摄顾玄面部特写,距离80cm,镜头高度与鼻尖齐平",
+      "camera_movement": "完全固定镜头,轻微不规则抖动(±2mm)模拟内心紧张感",
+      "framing": "超大特写,面部占据画面80%,四周暗角强调内心独白",
+      "focus_type": "极浅景深(f/1.4),只有眼部清晰,其他部位柔焦虚化"
     },
     "characters": [
       {
@@ -1500,10 +1500,10 @@
     "location": "青云宗山门广场上空",
     "time_of_day": "正午",
     "composition": {
-      "camera_position": "从高空俯冲至近景",
-      "camera_movement": "急速推近",
-      "framing": "从全景聚焦至玄天剑宗掌门",
-      "focus_type": "突出压迫感"
+      "camera_position": "从高空200米开始,垂直俯视广场",
+      "camera_movement": "急速俯冲至玄天剑宗掌门面部特写,用时4秒,配合轻微震动强化压迫感",
+      "framing": "从远景急速收缩至单人大特写,速度感制造冲击",
+      "focus_type": "俯冲时全景深,落地后焦点集中在掌门威严表情,背景虚化至f/1.8"
     },
     "characters": [
       {
@@ -1551,10 +1551,10 @@
     "location": "青云宗山门广场",
     "time_of_day": "正午",
     "composition": {
-      "camera_position": "正面拍摄顾玄面部",
-      "camera_movement": "固定镜头",
-      "framing": "中心构图",
-      "focus_type": "面部表情清晰"
+      "camera_position": "正面拍摄顾玄面部特写,距离80cm,镜头高度与鼻尖齐平",
+      "camera_movement": "完全固定镜头,轻微不规则抖动(±2mm)模拟内心紧张感",
+      "framing": "超大特写,面部占据画面80%,四周暗角强调内心独白",
+      "focus_type": "极浅景深(f/1.4),只有眼部清晰,其他部位柔焦虚化"
     },
     "characters": [
       {
@@ -1660,10 +1660,10 @@
     "location": "青云宗山门广场",
     "time_of_day": "正午",
     "composition": {
-      "camera_position": "侧面拍摄顾玄和掌门",
-      "camera_movement": "固定镜头",
-      "framing": "双人构图",
-      "focus_type": "两人清晰"
+      "camera_position": "侧面低角度拍摄,镜头在两人连线中点,距离各2米,高度与腰部齐平",
+      "camera_movement": "完全固定镜头,无任何运动,强化对峙张力",
+      "framing": "双人对比构图,顾玄左侧占据40%,掌门右侧占据40%,中间留20%形成空间感",
+      "focus_type": "深景深(f/8),两人都清晰,背景虚化突出对峙"
     },
     "characters": [
       {
@@ -1718,10 +1718,10 @@
     "location": "青云宗山门广场",
     "time_of_day": "正午",
     "composition": {
-      "camera_position": "广场上方,俯拍",
-      "camera_movement": "固定镜头",
-      "framing": "广角",
-      "focus_type": "全景清晰"
+      "camera_position": "广场上方15米高,俯拍角度30度",
+      "camera_movement": "完全固定镜头,无任何运动,强化震撼场面",
+      "framing": "广角俯拍,顾玄在中央,跪地弟子、众人围绕形成同心圆构图",
+      "focus_type": "全景深(f/16),所有人都清晰,展现群像震撼"
     },
     "characters": [
       {
@@ -1776,10 +1776,10 @@
     "location": "青云宗山门广场→宗门内",
     "time_of_day": "午后",
     "composition": {
-      "camera_position": "平视,三人之间",
-      "camera_movement": "轻微推拉",
-      "framing": "三人构图",
-      "focus_type": "三人都清晰"
+      "camera_position": "正面平视,距离人物3米,镜头高度1.6米",
+      "camera_movement": "极轻微前后推拉,幅度±20cm,用时3秒,营造对话呼吸感",
+      "framing": "三人三角形构图,顾玄左侧三分之一,李道玄和陆尘在右侧三分之二形成互动区",
+      "focus_type": "三人都保持清晰(f/5.6),焦点在说话人陆尘身上轻微偏移"
     },
     "characters": [
       {
@@ -1841,10 +1841,10 @@
     "location": "青云宗山门广场→宗门内",
     "time_of_day": "午后",
     "composition": {
-      "camera_position": "平视,三人之间",
-      "camera_movement": "轻微推拉",
-      "framing": "三人构图",
-      "focus_type": "三人都清晰"
+      "camera_position": "正面平视,距离人物3米,镜头高度1.6米",
+      "camera_movement": "极轻微前后推拉,幅度±20cm,用时3秒,营造对话呼吸感",
+      "framing": "三人三角形构图,顾玄左侧三分之一,李道玄和陆尘在右侧三分之二形成互动区",
+      "focus_type": "三人都保持清晰(f/5.6),焦点在说话人陆尘身上轻微偏移"
     },
     "characters": [
       {
@@ -1906,10 +1906,10 @@
     "location": "青云宗山门广场→宗门内",
     "time_of_day": "午后",
     "composition": {
-      "camera_position": "平视,三人之间",
-      "camera_movement": "轻微推拉",
-      "framing": "三人构图",
-      "focus_type": "三人都清晰"
+      "camera_position": "正面平视,距离人物3米,镜头高度1.6米",
+      "camera_movement": "极轻微前后推拉,幅度±20cm,用时3秒,营造对话呼吸感",
+      "framing": "三人三角形构图,顾玄左侧三分之一,李道玄和陆尘在右侧三分之二形成互动区",
+      "focus_type": "三人都保持清晰(f/5.6),焦点在说话人陆尘身上轻微偏移"
     },
     "characters": [
       {
@@ -1971,10 +1971,10 @@
     "location": "青云宗山门广场→宗门内",
     "time_of_day": "午后",
     "composition": {
-      "camera_position": "正面拍摄顾玄面部",
-      "camera_movement": "固定镜头",
-      "framing": "中心构图",
-      "focus_type": "面部表情清晰"
+      "camera_position": "正面拍摄顾玄面部特写,距离80cm,镜头高度与鼻尖齐平",
+      "camera_movement": "完全固定镜头,轻微不规则抖动(±2mm)模拟内心紧张感",
+      "framing": "超大特写,面部占据画面80%,四周暗角强调内心独白",
+      "focus_type": "极浅景深(f/1.4),只有眼部清晰,其他部位柔焦虚化"
     },
     "characters": [
       {
@@ -2022,10 +2022,10 @@
     "location": "顾玄脑海/���前",
     "time_of_day": "午后",
     "composition": {
-      "camera_position": "主观视角",
-      "camera_movement": "界面浏览",
-      "framing": "中心构图",
-      "focus_type": "界面清晰"
+      "camera_position": "主观视角,从人物眼部位置拍摄,模拟浏览界面",
+      "camera_movement": "界面上下滚动浏览,用时8秒,节奏轻快有弹性",
+      "framing": "中心构图,界面占据画面70%,各商品分类清晰展示",
+      "focus_type": "界面文字和图标清晰锐利,背景完全虚化(f/1.2)"
     },
     "characters": [],
     "visual_effects": {
@@ -2065,10 +2065,10 @@
     "location": "顾玄脑海/眼前",
     "time_of_day": "午后",
     "composition": {
-      "camera_position": "主观视角",
-      "camera_movement": "界面弹出",
-      "framing": "中心构图",
-      "focus_type": "界面清晰"
+      "camera_position": "主观视角,从人物眼部位置拍摄,模拟第一人称",
+      "camera_movement": "任务界面突然弹出,用时1秒,配合轻微缩放强调冲击力",
+      "framing": "中心构图,任务文字占据画面50%,失败惩罚文字放大突出",
+      "focus_type": "任务文字清晰锐利,背景虚化(f/1.4)"
     },
     "characters": [],
     "visual_effects": {
@@ -2108,10 +2108,10 @@
     "location": "青云宗弟子房→远处",
     "time_of_day": "夜晚",
     "composition": {
-      "camera_position": "从房间拉远至远处",
-      "camera_movement": "缓慢拉远",
-      "framing": "从近景至远景",
-      "focus_type": "主体逐渐变小"
+      "camera_position": "从室内窗外开始,逐渐后退至室外远处",
+      "camera_movement": "缓慢连续拉远,从室内中景拉至远景,用时8秒,无停顿",
+      "framing": "从框架构图(窗框)过渡到开放构图,人物从清晰到微小,大量留白体现悠远",
+      "focus_type": "初始聚焦人物,随着拉远焦点逐渐转移到整体环境,最终呈现全景深"
     },
     "characters": [
       {
@@ -2159,10 +2159,10 @@
     "location": "玄天剑宗某处密室",
     "time_of_day": "夜晚",
     "composition": {
-      "camera_position": "黑暗中隐约可见",
-      "camera_movement": "固定镜头",
-      "framing": "神秘构图",
-      "focus_type": "人物模糊"
+      "camera_position": "密室角落隐藏机位,距离人物5米,高度1.8米",
+      "camera_movement": "完全固定镜头,无任何运动,强化神秘感",
+      "framing": "暗调构图,玄天剑宗掌门在前景右侧三分之一,神秘人在背景左半部处于阴影中",
+      "focus_type": "掌门清晰(f/2.8),神秘人故意虚化模糊,只保留轮廓"
     },
     "characters": [
       {
@@ -2217,10 +2217,10 @@
     "location": "玄天剑宗某处密室",
     "time_of_day": "夜晚",
     "composition": {
-      "camera_position": "黑暗中隐约可见",
-      "camera_movement": "固定镜头",
-      "framing": "神秘构图",
-      "focus_type": "人物模糊"
+      "camera_position": "密室角落隐藏机位,距离人物5米,高度1.8米",
+      "camera_movement": "完全固定镜头,无任何运动,强化神秘感",
+      "framing": "暗调构图,玄天剑宗掌门在前景右侧三分之一,神秘人在背景左半部处于阴影中",
+      "focus_type": "掌门清晰(f/2.8),神秘人故意虚化模糊,只保留轮廓"
     },
     "characters": [
       {
