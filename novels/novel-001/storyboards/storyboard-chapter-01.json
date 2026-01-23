@@ -1,5 +1,45 @@
 [
   {
+    "shot_id": "EP01-S000",
+    "chapter_number": 1,
+    "scene_number": 0,
+    "duration": 4,
+    "shot_type": "远景→推近",
+    "location": "青云宗→弟子房",
+    "time_of_day": "清晨",
+    "composition": {
+      "camera_position": "从青云宗远景开始,高度200米",
+      "camera_movement": "缓慢向前推进,最终停在弟子房窗外,用时4秒",
+      "framing": "从宗门全景(云雾缭绕)过渡至弟子房外景(破旧木屋)",
+      "focus_type": "全程深景深(f/11),环境清晰"
+    },
+    "characters": [],
+    "visual_effects": {
+      "environment": "晨光微亮,云雾缭绕的青云宗,破旧的弟子房",
+      "lighting": "金色晨光",
+      "color_palette": "暖色调,晨光金",
+      "special_effects": "无"
+    },
+    "audio": {
+      "dialogues": [],
+      "background_music": "轻柔神秘",
+      "sound_effects": ["鸟鸣声", "风吹树叶声"],
+      "volume_level": "环境音营造氛围"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "舒缓",
+      "purpose": "建立场景,交代时空"
+    },
+    "notes": {
+      "production_note": "航拍+实景",
+      "on_screen_text": "青云宗·外门弟子房 (2.5秒,底部居中,白字黑描边)",
+      "reference_style": "传统仙侠开场",
+      "difficulty_level": "中等"
+    },
+    "continuity_tags": ["establishing_shot", "time_location_set"]
+  },
+  {
     "shot_id": "EP01-S001",
     "chapter_number": 1,
     "scene_number": 1,
@@ -103,7 +143,7 @@
     "time_of_day": "清晨",
     "composition": {
       "camera_position": "正面平视拍摄,镜头与人物视线齐平,距离2.5米",
-      "camera_movement": "极缓慢向前推近,从半身推至面部特写,用时7秒,配合轻微环绕(15度)",
+      "camera_movement": "极缓慢向前推近,从半身推至面部特写,用时7秒",
       "framing": "中心构图,人物逐渐占据画面从50%增至70%,利用界面蓝光在人物面部形成冷色轮廓光",
       "focus_type": "深景深保持人物和界面都清晰,随着推近焦点逐渐集中在眼神,背景逐渐虚化至f/4"
     },
@@ -176,8 +216,8 @@
     "audio": {
       "dialogues": [
         {
-          "speaker": "旁白",
-          "text": "这系统似乎有着某种不为人知的秘密"
+          "speaker": "顾玄",
+          "text": "管理员权限...封印中...这系统到底隐藏了什么?"
         }
       ],
       "background_music": "悬疑",
@@ -399,6 +439,53 @@
     }
   },
   {
+    "shot_id": "EP01-S007-5",
+    "chapter_number": 1,
+    "scene_number": 4,
+    "duration": 2,
+    "shot_type": "中景",
+    "location": "青云宗山门广场",
+    "time_of_day": "清晨",
+    "composition": {
+      "camera_position": "低角度平视,距离2米,镜头高度与地面齐平",
+      "camera_movement": "完全固定镜头,强化尴尬静态感",
+      "framing": "趴在地上的顾玄占据画面下方60%,周围人群在上方俯视形成压迫",
+      "focus_type": "顾玄清晰(f/4),人群虚化突出孤立感"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "画面下方中央",
+        "action": "趴在地上,缓缓抬起头,脸上沾满尘土,尴尬地看着四周",
+        "expression": "疼痛 → 尴尬 → 无措",
+        "costume": "粗布麻衣,头发凌乱"
+      }
+    ],
+    "visual_effects": {
+      "environment": "山门广场,众人围观",
+      "lighting": "明亮自然光(与之前金色特效形成对比)",
+      "color_palette": "从金色光芒→平淡自然光",
+      "special_effects": "无"
+    },
+    "audio": {
+      "dialogues": [],
+      "background_music": "恢弘音乐突然中断,全场寂静",
+      "sound_effects": ["倒吸凉气声", "窃窃私语逐渐转为哄笑"],
+      "volume_level": "笑声渐强"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "尴尬停顿",
+      "purpose": "动作衔接,增强喜剧效果"
+    },
+    "notes": {
+      "production_note": "注重表情演技",
+      "reference_style": "轻喜剧",
+      "difficulty_level": "简单"
+    },
+    "continuity_tags": ["action_bridge", "情绪铺垫:尴尬"]
+  },
+  {
     "shot_id": "EP01-S008",
     "chapter_number": 1,
     "scene_number": 4,
@@ -523,10 +610,11 @@
     "location": "青云宗山门广场",
     "time_of_day": "清晨",
     "composition": {
-      "camera_position": "正面平视,距离人物3米,镜头高度1.6米",
-      "camera_movement": "极轻微前后推拉,幅度±20cm,用时3秒,营造对话呼吸感",
-      "framing": "三人三角形构图,顾玄左侧三分之一,李道玄和陆尘在右侧三分之二形成互动区",
-      "focus_type": "三人都保持清晰(f/5.6),焦点在说话人陆尘身上轻微偏移"
+      "camera_position": "陆尘身后过肩拍摄,镜头在陆尘右肩后方,距离李道玄2.5米",
+      "camera_movement": "极轻微前后推拉,幅度±15cm,用时3秒,营造对话呼吸感",
+      "framing": "陆尘背影和右肩占据左侧15%,李道玄在画面中央,顾玄在右侧边缘",
+      "focus_type": "李道玄清晰(f/2.8),陆尘肩膀虚化,顾玄轻微虚化",
+      "continuity_tags": ["over_shoulder", "axis_locked", "视线:陆尘→李道玄"]
     },
     "characters": [
       {
@@ -750,7 +838,7 @@
       "environment": "山门广场",
       "lighting": "明亮晨光",
       "color_palette": "温暖色调",
-      "special_effects": "系统界面浮现:【系统提示:检测到目标拥有特殊体质,自动开启'秩序之眼'功能】【目标:陆尘】【体质:药灵体(隐藏),对雷灵力有天然亲和】【潜力:评价为S级】"
+      "special_effects": "系统界面浮现,显示【检测到特殊体质:药灵体(隐藏)】【潜力:S级】(完整信息:系统提示:检测到目标拥有特殊体质,自动开启'秩序之眼'功能。目标:陆尘。体质:药灵体(隐藏),对雷灵力有天然亲和。)"
     },
     "audio": {
       "dialogues": [
@@ -784,7 +872,7 @@
     "time_of_day": "清晨",
     "composition": {
       "camera_position": "正面拍摄,镜头与顾玄视线齐平,距离2米",
-      "camera_movement": "极缓慢推近,用时4秒,配合轻微左右摇摆(±5度)增加压迫感",
+      "camera_movement": "极缓慢推近,用时4秒,通过推近增强压迫感",
       "framing": "中心构图,顾玄逐渐占据画面从45%增至60%,玄天剑宗弟子在边缘形成对比",
       "focus_type": "焦点在顾玄眼神,浅景深(f/2),背景逐渐虚化突出威严"
     },
@@ -842,7 +930,7 @@
     "time_of_day": "清晨",
     "composition": {
       "camera_position": "正面拍摄,镜头与顾玄视线齐平,距离2米",
-      "camera_movement": "极缓慢推近,用时4秒,配合轻微左右摇摆(±5度)增加压迫感",
+      "camera_movement": "极缓慢推近,用时4秒,通过推近增强压迫感",
       "framing": "中心构图,顾玄逐渐占据画面从45%增至60%,玄天剑宗弟子在边缘形成对比",
       "focus_type": "焦点在顾玄眼神,浅景深(f/2),背景逐渐虚化突出威严"
     },
@@ -900,7 +988,7 @@
     "time_of_day": "清晨",
     "composition": {
       "camera_position": "正面拍摄,镜头与顾玄视线齐平,距离2米",
-      "camera_movement": "极缓慢推近,用时4秒,配合轻微左右摇摆(±5度)增加压迫感",
+      "camera_movement": "极缓慢推近,用时4秒,通过推近增强压迫感",
       "framing": "中心构图,顾玄逐渐占据画面从45%增至60%,玄天剑宗弟子在边缘形成对比",
       "focus_type": "焦点在顾玄眼神,浅景深(f/2),背景逐渐虚化突出威严"
     },
@@ -1008,10 +1096,11 @@
     "location": "青云宗山门广场",
     "time_of_day": "清晨",
     "composition": {
-      "camera_position": "快速环绕拍摄,高度与人物腰部齐平,半径3米",
-      "camera_movement": "快速360度环绕,用时3秒,配合急速推拉增强动态",
-      "framing": "动态构图,主体始终在画面中心,背景快速流动形成速度感",
-      "focus_type": "主体和特效清晰锐利,背景动态模糊,强调战斗张力"
+      "camera_position": "侧面45度,距离3米",
+      "camera_movement": "快速环绕270度(非完整360),用时2.5秒,环绕方向与火龙袭入方向一致",
+      "framing": "火龙从画面右侧疾速掠入,顾玄在中央淡然应对",
+      "focus_type": "主体和特效清晰锐利,背景动态模糊,强调战斗张力",
+      "continuity_tags": ["combat_phase1", "camera_fast_270deg"]
     },
     "characters": [
       {
@@ -1066,10 +1155,11 @@
     "location": "青云宗山门广场",
     "time_of_day": "清晨",
     "composition": {
-      "camera_position": "快速环绕拍摄,高度与人物腰部齐平,半径3米",
-      "camera_movement": "快速360度环绕,用时3秒,配合急速推拉增强动态",
-      "framing": "动态构图,主体始终在画面中心,背景快速流动形成速度感",
-      "focus_type": "主体和特效清晰锐利,背景动态模糊,强调战斗张力"
+      "camera_position": "正面拍摄,距离2米",
+      "camera_movement": "环绕急停+快速推近至顾玄面部,从2米推至80cm,用时1秒",
+      "framing": "顾玄面部特写占据画面60%,表情淡然,体现从容",
+      "focus_type": "顾玄眼神锐利,玄天弟子在前景模糊",
+      "continuity_tags": ["combat_phase1_end", "camera_stop_push_close"]
     },
     "characters": [
       {
@@ -1124,10 +1214,11 @@
     "location": "青云宗山门广场",
     "time_of_day": "清晨",
     "composition": {
-      "camera_position": "快速环绕拍摄,高度与人物腰部齐平,半径3米",
-      "camera_movement": "快速360度环绕,用时3秒,配合急速推拉增强动态",
-      "framing": "动态构图,主体始终在画面中心,背景快速流动形成速度感",
-      "focus_type": "主体和特效清晰锐利,背景动态模糊,强调战斗张力"
+      "camera_position": "另一侧45度,距离3米",
+      "camera_movement": "反向环绕(与S012-1相反方向),用时2.5秒,配合冰锥从左侧袭入",
+      "framing": "冰锥从左侧疾速掠入,顾玄依然不动",
+      "focus_type": "主体和特效清晰锐利,背景动态模糊",
+      "continuity_tags": ["combat_phase2", "camera_reverse_direction"]
     },
     "characters": [
       {
@@ -1182,10 +1273,11 @@
     "location": "青云宗山门广场",
     "time_of_day": "清晨",
     "composition": {
-      "camera_position": "快速环绕拍摄,高度与人物腰部齐平,半径3米",
-      "camera_movement": "快速360度环绕,用时3秒,配合急速推拉增强动态",
-      "framing": "动态构图,主体始终在画面中心,背景快速流动形成速度感",
-      "focus_type": "主体和特效清晰锐利,背景动态模糊,强调战斗张力"
+      "camera_position": "环绕拍摄",
+      "camera_movement": "完整360度环绕+急速升降,从腰部升至头顶,用时3秒,体现雷霆威力",
+      "framing": "雷霆从天而降,顾玄吸收后反向射出直冲云霄,众人围观",
+      "focus_type": "主体和特效清晰锐利,背景动态模糊,强调战斗张力",
+      "continuity_tags": ["combat_climax", "camera_360deg_rise"]
     },
     "characters": [
       {
@@ -2131,8 +2223,8 @@
     "audio": {
       "dialogues": [
         {
-          "speaker": "旁白",
-          "text": "他穿越到了修仙世界,获得了一个神秘的系统,靠着系统的帮助,成功招收了第一名弟子,还震慑了玄天剑宗。但未来会怎样?他不知道。他只知道,从今天起,他就是顾玄,青云宗的大师兄,一个靠'特效'装逼的修仙者。而他的故事,才刚刚开始……"
+          "speaker": "顾玄",
+          "text": "系统,这管理员权限的封印...到底怎么解开?还有'波动频率增加'是什么意思?"
         }
       ],
       "background_music": "恢弘期待",
