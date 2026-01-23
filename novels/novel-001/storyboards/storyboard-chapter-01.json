@@ -21,7 +21,12 @@
       "special_effects": "无"
     },
     "audio": {
-      "dialogues": [],
+      "dialogues": [
+        {
+          "speaker": "旁白",
+          "text": "清晨，青云宗外门一隅的弟子房里，有人从梦中缓缓醒来。"
+        }
+      ],
       "background_music": "轻柔神秘",
       "sound_effects": ["鸟鸣声", "风吹树叶声"],
       "volume_level": "环境音营造氛围"
@@ -468,7 +473,12 @@
       "special_effects": "无"
     },
     "audio": {
-      "dialogues": [],
+      "dialogues": [
+        {
+          "speaker": "旁白",
+          "text": "全场一瞬死寂，随后压抑不住的笑声从四周炸开。"
+        }
+      ],
       "background_music": "恢弘音乐突然中断,全场寂静",
       "sound_effects": ["倒吸凉气声", "窃窃私语逐渐转为哄笑"],
       "volume_level": "笑声渐强"
