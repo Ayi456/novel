@@ -4,14 +4,14 @@
     "chapter_number": 1,
     "scene_number": 0,
     "duration": 4,
-    "shot_type": "远景→推近",
-    "location": "青云宗→弟子房",
+    "shot_type": "远景→中景",
+    "location": "青云宗外门弟子房区域",
     "time_of_day": "清晨",
     "composition": {
-      "camera_position": "从青云宗远景开始,高度200米",
-      "camera_movement": "缓慢向前推进,最终停在弟子房窗外,用时4秒",
-      "framing": "从宗门全景(云雾缭绕)过渡至弟子房外景(破旧木屋)",
-      "focus_type": "全程深景深(f/11),环境清晰"
+      "camera_position": "弟子房区域上空约40米,轻微俯视",
+      "camera_movement": "缓慢前推并轻微下降,靠近弟子房外景",
+      "framing": "从区域远景收至弟子房外景中景,建筑保持画面中心",
+      "focus_type": "前半段全景深,后半段焦点逐渐锁定在弟子房"
     },
     "characters": [],
     "visual_effects": {
@@ -54,9 +54,9 @@
     "time_of_day": "清晨",
     "composition": {
       "camera_position": "床榻正上方45度角俯拍,初始距离面部80cm,高度距床面1.2米",
-      "camera_movement": "缓慢向后拉远同时镜头上升10度,从面部特写拉至半身中景,用时8秒,运动速度均匀缓慢",
-      "framing": "中心构图,人物从占据画面75%逐渐缩小至45%,利用窗户光线在人物周围形成自然柔光边,四周暗角逐渐消失",
-      "focus_type": "初始浅景深(f/2.8)聚焦面部,背景虚化;随着拉远景深逐渐加深至f/5.6,环境细节(窗外云雾、木屋陈设)逐渐清晰"
+      "camera_movement": "极缓慢向后拉远(小幅),从面部特写拉至半身中景,避免明显升降",
+      "framing": "中心构图,人物从占据画面75%逐渐缩小至45%,利用窗户光线在人物周围形成自然柔光边",
+      "focus_type": "初始浅景深(f/2.8)聚焦面部,背景虚化;随后景深略加深至f/5.6,木屋陈设逐渐清晰"
     },
     "characters": [
       {
@@ -71,7 +71,7 @@
       "environment": "窗外云雾缭绕,远处青山如黛,晨光微亮",
       "lighting": "自然光从窗户斜射,柔和昏暗",
       "color_palette": "暖色调,晨光金",
-      "special_effects": "无"
+      "special_effects": "记忆涌入的眩晕感:画面短暂叠加3帧式碎片(外门弟子令牌、灵根测试石碑暗淡、被同门嘲笑的影子),不做复杂蒙太奇"
     },
     "audio": {
       "dialogues": [
@@ -81,7 +81,7 @@
         }
       ],
       "background_music": "轻柔神秘,缓慢引入",
-      "sound_effects": ["鸟鸣声", "木床轻微嘎吱声"],
+      "sound_effects": ["鸟鸣声", "木床轻微嘎吱声", "记忆涌入的低频嗡鸣(弱)"],
       "volume_level": "环境音为主,营造陌生感"
     },
     "editing": {
@@ -94,6 +94,58 @@
       "reference_style": "传统仙侠场景",
       "difficulty_level": "简单"
     }
+  },
+  {
+    "shot_id": "EP01-S001-5",
+    "chapter_number": 1,
+    "scene_number": 1,
+    "duration": 3,
+    "shot_type": "特写",
+    "location": "青云宗外门弟子房",
+    "time_of_day": "清晨",
+    "composition": {
+      "camera_position": "正面平视,距离人物约1.2米,取眼部与上半脸特写",
+      "camera_movement": "完全固定镜头,仅允许极轻微微推(≤10cm)",
+      "framing": "眼睛占据画面中心,四周轻微暗角,强化听觉冲击",
+      "focus_type": "极浅景深,瞳孔与眼睫清晰,背景虚化"
+    },
+    "characters": [
+      {
+        "name": "顾玄",
+        "position": "画面中央",
+        "action": "吐槽到一半忽然僵住,瞳孔收缩,像是听见脑海里的声音",
+        "expression": "困惑 → 惊疑",
+        "costume": "粗布麻衣"
+      }
+    ],
+    "visual_effects": {
+      "environment": "昏暗木屋内景,窗光微弱",
+      "lighting": "自然光中混入极弱冷蓝",
+      "color_palette": "暖色中冒出冷蓝",
+      "special_effects": "画面边缘出现细微蓝色扫描线/光点(0.3秒),像界面即将加载;房间尚未被金光照亮"
+    },
+    "audio": {
+      "dialogues": [
+        {
+          "speaker": "系统",
+          "text": "【天魔系统已激活】【正在绑定宿主……】"
+        }
+      ],
+      "background_music": "轻柔神秘中混入低频机械",
+      "sound_effects": ["脑海机械音炸响", "低频嗡鸣渐强"],
+      "volume_level": "机械音突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "骤然",
+      "purpose": "系统登场前奏,让系统出现不突兀"
+    },
+    "notes": {
+      "production_note": "实景+轻量CG叠加",
+      "reference_style": "轻科幻修仙",
+      "difficulty_level": "中等"
+    },
+    "continuity_tags": ["system_pre_cue", "emotion_turn"]
   },
   {
     "shot_id": "EP01-S002",
@@ -124,7 +176,7 @@
         }
       ],
       "background_music": "科技感机械音背景",
-      "sound_effects": ["系统机械音: '天魔系统已激活'"],
+      "sound_effects": ["界面浮现唰声", "金光爆闪"],
       "volume_level": "机械音突出"
     },
     "editing": {
@@ -147,10 +199,10 @@
     "location": "青云宗外门弟子房",
     "time_of_day": "清晨",
     "composition": {
-      "camera_position": "正面平视拍摄,镜头与人物视线齐平,距离2.5米",
-      "camera_movement": "极缓慢向前推近,从半身推至面部特写,用时7秒",
-      "framing": "中心构图,人物逐渐占据画面从50%增至70%,利用界面蓝光在人物面部形成冷色轮廓光",
-      "focus_type": "深景深保持人物和界面都清晰,随着推近焦点逐渐集中在眼神,背景逐渐虚化至f/4"
+      "camera_position": "正面平视,镜头与人物视线齐平,距离约2.2米",
+      "camera_movement": "轻微缓慢推近,小幅度收紧构图",
+      "framing": "人物居中,半身到胸部近景,画面稳定,界面蓝光在面部形成冷色轮廓光",
+      "focus_type": "人物面部清晰,背景轻微虚化,界面信息保持可读"
     },
     "characters": [
       {
@@ -264,7 +316,7 @@
       }
     ],
     "visual_effects": {
-      "environment": "山门外场景",
+      "environment": "山门外招新队伍骚动,少年少女被驱赶,布衣少女在队伍边缘挨个询问",
       "lighting": "明亮晨光",
       "color_palette": "自然色调",
       "special_effects": "无"
@@ -310,13 +362,13 @@
       "environment": "系统界面浮现",
       "lighting": "界面自发光",
       "color_palette": "冷色调",
-      "special_effects": "系统提示:【检测到宿主当前场景适合触发新手任务】【新手任务:招收第一名弟子】【任务奖励:积分+20,解锁系统商城】【是否接受?】"
+      "special_effects": "系统提示:【检测到宿主当前场景适合触发新手任务】【新手任务:招收第一名弟子】【任务奖励:积分+20,解锁系统商城】【是否接受?】→确认后弹出:【任务地点:青云宗山门广场】【快捷功能:御剑飞行(含特效)】【消耗积分:5】"
     },
     "audio": {
       "dialogues": [
         {
           "speaker": "顾玄",
-          "text": "接受!"
+          "text": "接受！山门在那边……我跑过去？等等，我是个修仙者啊，应该会飞吧？系统，御剑飞行（含特效），用！"
         }
       ],
       "background_music": "轻快",
@@ -324,9 +376,9 @@
       "volume_level": "对话突出"
     },
     "editing": {
-      "transition_to_next": "快速切",
+      "transition_to_next": "叠化",
       "pacing": "轻快",
-      "purpose": "任务触发"
+      "purpose": "任务触发→行动过渡"
     },
     "notes": {
       "production_note": "CG界面",
@@ -354,14 +406,14 @@
         "position": "画面中央,踩飞剑飞行",
         "action": "御剑飞行,周身光晕缭绕",
         "expression": "陶醉 → 兴奋",
-        "costume": "白衣飘逸,特效加持"
+        "costume": "粗布麻衣(被淡金光映亮像白衣),特效加持"
       }
     ],
     "visual_effects": {
       "environment": "云海之上,青山如画",
       "lighting": "金色晨光 + 特效光晕",
       "color_palette": "明亮清新",
-      "special_effects": "飞剑拖出长长的光尾,宛如流星划过天际,周身金光护体,系统界面一角显示【管理员权限:Lv.1(封印中)……微弱波动检测到】"
+      "special_effects": "飞剑带短光尾,周身淡金光护体,系统界面一角显示【管理员权限:Lv.1(封印中)……微弱波动检测到】"
     },
     "audio": {
       "dialogues": [
@@ -386,18 +438,137 @@
     }
   },
   {
+    "shot_id": "EP01-S006-5",
+    "chapter_number": 1,
+    "scene_number": 4,
+    "duration": 5,
+    "shot_type": "全景",
+    "location": "青云宗山门广场",
+    "time_of_day": "清晨",
+    "composition": {
+      "camera_position": "广场边缘10米处,平视,略带广角",
+      "camera_movement": "镜头稳定,轻微缓慢横移,建立场景",
+      "framing": "接待台与破旧红木桌在画面中央,李道玄趴桌酣睡,王明在一旁叹气",
+      "focus_type": "全景深,环境清晰"
+    },
+    "characters": [
+      {
+        "name": "李道玄",
+        "position": "桌后",
+        "action": "趴在桌上酣睡,口水差点滴到登记册",
+        "expression": "酣睡",
+        "costume": "宗门掌门服(略邋遢)"
+      },
+      {
+        "name": "王明",
+        "position": "一旁",
+        "action": "叹气,整理破旧接待台",
+        "expression": "无奈",
+        "costume": "宗门弟子服"
+      }
+    ],
+    "visual_effects": {
+      "environment": "青州城外的青云宗山门招新,几张破旧红木桌拼成接待台,横幅歪歪扭扭",
+      "lighting": "明亮晨光",
+      "color_palette": "自然暖色调",
+      "special_effects": "无"
+    },
+    "audio": {
+      "dialogues": [
+        {
+          "speaker": "王明",
+          "text": "第十天了,掌门……连只苍蝇都没飞进来。"
+        }
+      ],
+      "background_music": "轻松带一点尴尬",
+      "sound_effects": ["风声", "远处嗡鸣声渐近"],
+      "volume_level": "对话为主"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "舒缓→关注",
+      "purpose": "建立山门招新场景,为顾玄登场做铺垫"
+    },
+    "notes": {
+      "production_note": "实景拍摄",
+      "on_screen_text": "青州城外·青云宗山门 (2秒,底部居中,白字黑描边)",
+      "reference_style": "现代修仙轻喜剧",
+      "difficulty_level": "简单"
+    },
+    "continuity_tags": ["establishing_shot", "scene_setup"]
+  },
+  {
+    "shot_id": "EP01-S006-6",
+    "chapter_number": 1,
+    "scene_number": 4,
+    "duration": 3,
+    "shot_type": "近景",
+    "location": "青云宗山门广场",
+    "time_of_day": "清晨",
+    "composition": {
+      "camera_position": "接待台桌前正面平视,距离约2米,镜头高度1.6米",
+      "camera_movement": "完全固定镜头,只允许极轻微微推(≤15cm)",
+      "framing": "李道玄占画面中心,王明在侧边入画,突出掌门的强撑面子",
+      "focus_type": "李道玄清晰,背景轻微虚化"
+    },
+    "characters": [
+      {
+        "name": "李道玄",
+        "position": "画面中央",
+        "action": "被叹气声惊醒,抬起头强撑气势,嘴硬回应",
+        "expression": "迷糊 → 逞强",
+        "costume": "宗门掌门服(略邋遢)"
+      },
+      {
+        "name": "王明",
+        "position": "画面一侧",
+        "action": "看着掌门,一脸无奈",
+        "expression": "无奈",
+        "costume": "宗门弟子服"
+      }
+    ],
+    "visual_effects": {
+      "environment": "破旧接待台,横幅'青云宗招生,包教包会'歪歪扭扭",
+      "lighting": "明亮晨光",
+      "color_palette": "自然暖色调",
+      "special_effects": "无"
+    },
+    "audio": {
+      "dialogues": [
+        {
+          "speaker": "李道玄",
+          "text": "胡说!我青云堂堂千年名门,只不过是……近来低调罢了……"
+        }
+      ],
+      "background_music": "轻松带一点尴尬",
+      "sound_effects": ["掌门惊醒的桌面轻响", "远处嗡鸣更近"],
+      "volume_level": "对话为主"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "舒缓→关注",
+      "purpose": "补完对话,并把注意力引向天际嗡鸣"
+    },
+    "notes": {
+      "production_note": "实景拍摄",
+      "reference_style": "现代修仙轻喜剧",
+      "difficulty_level": "简单"
+    },
+    "continuity_tags": ["dialogue_split", "scene_setup"]
+  },
+  {
     "shot_id": "EP01-S007",
     "chapter_number": 1,
     "scene_number": 4,
     "duration": 8,
-    "shot_type": "全景→特写",
+    "shot_type": "全景→中景",
     "location": "青云宗山门广场",
     "time_of_day": "清晨",
     "composition": {
-      "camera_position": "从广场正上方100米高空开始,垂直俯视",
-      "camera_movement": "急速俯冲至人物落地位置,用时3秒,然后突然停止形成对比,配合轻微震动模拟坠落感",
-      "framing": "从广角全景急速收缩至单人中景,利用速度感制造冲击,落地后构图稳定",
-      "focus_type": "俯冲时全景深清晰,落地后焦点集中在人物尴尬表情,背景虚化至f/2"
+      "camera_position": "广场上空约25米,轻微俯视,人物坠落区域在画面中心",
+      "camera_movement": "平稳跟随人物下落并轻微收紧构图,落地瞬间轻微震动一次后迅速稳定",
+      "framing": "从广角全景收至中景,保持人物居中,落地后构图稳定",
+      "focus_type": "人物清晰,背景适度虚化,强调尴尬表情"
     },
     "characters": [
       {
@@ -405,14 +576,14 @@
         "position": "从空中坠落",
         "action": "御剑飞行时突然特效耗尽,狗啃泥摔落",
         "expression": "陶醉 → 惊恐 → 尴尬",
-        "costume": "白衣变粗布麻衣(特效消失)"
+        "costume": "粗布麻衣(特效消失,狼狈沾土)"
       },
       {
         "name": "李道玄,王明",
         "position": "山门前",
         "action": "抬头仰望,目瞪口呆",
         "expression": "震撼 → 困惑",
-        "costume": "宗门长袍"
+        "costume": "掌门服(略邋遢)/宗门弟子服"
       }
     ],
     "visual_effects": {
@@ -1098,6 +1269,50 @@
     }
   },
   {
+    "shot_id": "EP01-S011-5",
+    "chapter_number": 1,
+    "scene_number": 4,
+    "duration": 3,
+    "shot_type": "特写",
+    "location": "顾玄脑海/眼前",
+    "time_of_day": "清晨",
+    "composition": {
+      "camera_position": "主观视角,从人物眼部位置拍摄,模拟第一人称",
+      "camera_movement": "界面快速弹出(≤1秒)后保持稳定,不做大幅缩放",
+      "framing": "中心构图,任务与防御提示占据画面60%,扣费与持续时间信息放在底部醒目区",
+      "focus_type": "界面文字清晰锐利,背景完全虚化(f/1.2)"
+    },
+    "characters": [],
+    "visual_effects": {
+      "environment": "系统界面",
+      "lighting": "界面自发光",
+      "color_palette": "冷色调,蓝白色",
+      "special_effects": "系统提示:【检测到敌意目标,触发隐藏任务:展现实力】【消耗50积分,激活'绝对防御'(持续10秒)】【已吸收敌方攻击能量,自动反击】"
+    },
+    "audio": {
+      "dialogues": [
+        {
+          "speaker": "系统",
+          "text": "【触发隐藏任务:展现实力】【消耗50积分 激活绝对防御(10秒)】【吸收→自动反击】"
+        }
+      ],
+      "background_music": "紧张",
+      "sound_effects": ["系统提示音"],
+      "volume_level": "提示音突出"
+    },
+    "editing": {
+      "transition_to_next": "直接切",
+      "pacing": "骤然",
+      "purpose": "交代系统救场机制与积分消耗"
+    },
+    "notes": {
+      "production_note": "CG界面",
+      "reference_style": "科技感+仙侠",
+      "difficulty_level": "简单"
+    },
+    "continuity_tags": ["system_explain", "combat_setup"]
+  },
+  {
     "shot_id": "EP01-S012-1",
     "chapter_number": 1,
     "scene_number": 4,
@@ -1106,11 +1321,11 @@
     "location": "青云宗山门广场",
     "time_of_day": "清晨",
     "composition": {
-      "camera_position": "侧面45度,距离3米",
-      "camera_movement": "快速环绕270度(非完整360),用时2.5秒,环绕方向与火龙袭入方向一致",
-      "framing": "火龙从画面右侧疾速掠入,顾玄在中央淡然应对",
-      "focus_type": "主体和特效清晰锐利,背景动态模糊,强调战斗张力",
-      "continuity_tags": ["combat_phase1", "camera_fast_270deg"]
+      "camera_position": "侧面45度,距离约3米",
+      "camera_movement": "小幅横移跟随火龙掠入,轻微摇镜(≤10度),保持镜头稳定",
+      "framing": "火龙从画面右侧掠入,顾玄保持画面中央从容应对",
+      "focus_type": "主体与特效清晰,背景适度虚化,突出冲击",
+      "continuity_tags": ["combat_phase1", "camera_stable_action"]
     },
     "characters": [
       {
@@ -1132,7 +1347,7 @@
       "environment": "山门广场",
       "lighting": "自然光 + 法术光芒",
       "color_palette": "高对比度,多彩",
-      "special_effects": "火龙呼啸而出被无形屏障消散"
+      "special_effects": "火龙呼啸而出,撞上'绝对防御'的透明屏障(淡蓝波纹)瞬间消散"
     },
     "audio": {
       "dialogues": [
@@ -1165,11 +1380,11 @@
     "location": "青云宗山门广场",
     "time_of_day": "清晨",
     "composition": {
-      "camera_position": "正面拍摄,距离2米",
-      "camera_movement": "环绕急停+快速推近至顾玄面部,从2米推至80cm,用时1秒",
-      "framing": "顾玄面部特写占据画面60%,表情淡然,体现从容",
-      "focus_type": "顾玄眼神锐利,玄天弟子在前景模糊",
-      "continuity_tags": ["combat_phase1_end", "camera_stop_push_close"]
+      "camera_position": "正面拍摄,距离约2米",
+      "camera_movement": "轻微缓慢推近,小幅收紧到胸部近景,避免急停和突兀变焦",
+      "framing": "顾玄居中,胸部近景,表情淡然,体现从容",
+      "focus_type": "顾玄面部清晰,前景对手适度虚化",
+      "continuity_tags": ["combat_phase1_end", "camera_micro_push"]
     },
     "characters": [
       {
@@ -1224,11 +1439,11 @@
     "location": "青云宗山门广场",
     "time_of_day": "清晨",
     "composition": {
-      "camera_position": "另一侧45度,距离3米",
-      "camera_movement": "反向环绕(与S012-1相反方向),用时2.5秒,配合冰锥从左侧袭入",
-      "framing": "冰锥从左侧疾速掠入,顾玄依然不动",
-      "focus_type": "主体和特效清晰锐利,背景动态模糊",
-      "continuity_tags": ["combat_phase2", "camera_reverse_direction"]
+      "camera_position": "另一侧45度,距离约3米",
+      "camera_movement": "小幅横移跟随冰锥掠入,轻微摇镜(≤10度),避免反向大环绕",
+      "framing": "冰锥从左侧掠入,顾玄保持画面中央不动",
+      "focus_type": "主体与特效清晰,背景适度虚化",
+      "continuity_tags": ["combat_phase2", "camera_stable_action"]
     },
     "characters": [
       {
@@ -1283,11 +1498,11 @@
     "location": "青云宗山门广场",
     "time_of_day": "清晨",
     "composition": {
-      "camera_position": "环绕拍摄",
-      "camera_movement": "完整360度环绕+急速升降,从腰部升至头顶,用时3秒,体现雷霆威力",
+      "camera_position": "侧前方45度,中景,距离约4米",
+      "camera_movement": "镜头小幅上仰跟随雷霆落下(≤15度),随后轻微推近聚焦顾玄抬手瞬间",
       "framing": "雷霆从天而降,顾玄吸收后反向射出直冲云霄,众人围观",
-      "focus_type": "主体和特效清晰锐利,背景动态模糊,强调战斗张力",
-      "continuity_tags": ["combat_climax", "camera_360deg_rise"]
+      "focus_type": "主体与特效清晰,背景适度虚化,突出高潮",
+      "continuity_tags": ["combat_climax", "camera_tilt_and_micro_push"]
     },
     "characters": [
       {
@@ -1585,7 +1800,7 @@
     "editing": {
       "transition_to_next": "直接切",
       "pacing": "舒缓满足",
-      "purpose": "主角内心OS,增加喜剧效果"
+      "purpose": "主角内心OS"
     },
     "notes": {
       "production_note": "实景拍摄",
@@ -1594,18 +1809,62 @@
     }
   },
   {
+    "shot_id": "EP01-S013-5",
+    "chapter_number": 1,
+    "scene_number": 4,
+    "duration": 2,
+    "shot_type": "特写",
+    "location": "顾玄脑海/眼前",
+    "time_of_day": "清晨",
+    "composition": {
+      "camera_position": "主观视角,从人物眼部位置拍摄,模拟第一人称",
+      "camera_movement": "界面提示轻微闪烁一次后保持稳定",
+      "framing": "中心构图,奖励提示占据画面55%,关键数字清晰可读",
+      "focus_type": "界面文字清晰锐利,背景完全虚化(f/1.2)"
+    },
+    "characters": [],
+    "visual_effects": {
+      "environment": "系统界面",
+      "lighting": "界面自发光",
+      "color_palette": "冷色调",
+      "special_effects": "系统提示:【隐藏任务完成:展现实力】【奖励积分+100】"
+    },
+    "audio": {
+      "dialogues": [
+        {
+          "speaker": "系统",
+          "text": "【隐藏任务完成:展现实力】【奖励积分+100】"
+        }
+      ],
+      "background_music": "恢弘转轻快",
+      "sound_effects": ["系统提示音"],
+      "volume_level": "提示音突出"
+    },
+    "editing": {
+      "transition_to_next": "淡出",
+      "pacing": "缓冲",
+      "purpose": "补足积分来源,并为时间跳转做缓冲"
+    },
+    "notes": {
+      "production_note": "CG界面",
+      "reference_style": "科技感+仙侠",
+      "difficulty_level": "简单"
+    },
+    "continuity_tags": ["task_reward", "points_bridge"]
+  },
+  {
     "shot_id": "EP01-S014-1",
     "chapter_number": 1,
     "scene_number": 5,
     "duration": 4,
-    "shot_type": "远景→特写",
+    "shot_type": "远景→近景",
     "location": "青云宗山门广场上空",
     "time_of_day": "正午",
     "composition": {
-      "camera_position": "从高空200米开始,垂直俯视广场",
-      "camera_movement": "急速俯冲至玄天剑宗掌门面部特写,用时4秒,配合轻微震动强化压迫感",
-      "framing": "从远景急速收缩至单人大特写,速度感制造冲击",
-      "focus_type": "俯冲时全景深,落地后焦点集中在掌门威严表情,背景虚化至f/1.8"
+      "camera_position": "广场上空约40米,轻微俯视,掌门踏空而来位于画面中心",
+      "camera_movement": "缓慢下降并小幅推近,收至掌门半身近景,避免俯冲",
+      "framing": "先交代踏空而来的压迫感,再收至掌门半身近景,保持主体居中",
+      "focus_type": "掌门清晰,背景适度虚化,强调威压"
     },
     "characters": [
       {
@@ -1640,6 +1899,7 @@
     },
     "notes": {
       "production_note": "实景+特效",
+      "on_screen_text": "正午·青云宗山门广场 (1.5秒,底部居中,白字黑描边)",
       "reference_style": "传统仙侠",
       "difficulty_level": "中等"
     }
@@ -1704,10 +1964,10 @@
     "location": "青云宗山门广场",
     "time_of_day": "正午",
     "composition": {
-      "camera_position": "环绕拍摄顾玄",
-      "camera_movement": "快速环绕",
-      "framing": "动态构图",
-      "focus_type": "主体清晰,特效突出"
+      "camera_position": "正面平视,距离约3米",
+      "camera_movement": "轻微缓慢推近,小幅收紧构图,必要时仅做小弧度侧移",
+      "framing": "顾玄居中,半身近景,黑气向外扩散形成压迫",
+      "focus_type": "主体清晰,特效突出,背景适度虚化"
     },
     "characters": [
       {
@@ -1845,13 +2105,13 @@
       "environment": "山门广场,周围人群吓散",
       "lighting": "自然光 + 黑气",
       "color_palette": "高对比度",
-      "special_effects": "黑气缭绕"
+      "special_effects": "黑气缭绕逐渐散去,系统界面一闪:【任务完成!奖励积分100】"
     },
     "audio": {
       "dialogues": [
         {
           "speaker": "旁白",
-          "text": "玄天剑宗掌门咬牙,最终不敢说话,带着弟子狼狈离去。系统音:【任务完成!奖励积分100】"
+          "text": "玄天剑宗掌门咬牙,最终不敢说话,带着弟子狼狈离去。"
         }
       ],
       "background_music": "压抑后转为轻松",
@@ -1859,9 +2119,9 @@
       "volume_level": "旁白突出"
     },
     "editing": {
-      "transition_to_next": "直接切",
+      "transition_to_next": "叠化",
       "pacing": "压抑→释放",
-      "purpose": "震慑成功,危机化解"
+      "purpose": "震慑成功,时间推进到午后"
     },
     "notes": {
       "production_note": "实景拍摄",
@@ -1930,6 +2190,7 @@
     },
     "notes": {
       "production_note": "实景拍摄",
+      "on_screen_text": "午后·青云宗 (1.5秒,底部居中,白字黑描边)",
       "reference_style": "轻喜剧",
       "difficulty_level": "简单"
     }
@@ -2045,8 +2306,8 @@
     "audio": {
       "dialogues": [
         {
-          "speaker": "旁白",
-          "text": "系统音:【新手任务完成!奖励积分+20】【系统商城已解锁!】"
+          "speaker": "系统",
+          "text": "【新手任务完成!奖励积分+20】【系统商城已解锁!】"
         }
       ],
       "background_music": "恢弘逐渐转为轻松",
@@ -2121,7 +2382,7 @@
     "scene_number": 7,
     "duration": 8,
     "shot_type": "特写",
-    "location": "顾玄脑海/���前",
+    "location": "顾玄脑海/眼前",
     "time_of_day": "午后",
     "composition": {
       "camera_position": "主观视角,从人物眼部位置拍摄,模拟浏览界面",
