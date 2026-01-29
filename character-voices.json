@@ -59,13 +59,13 @@
       "character_id": "system",
       "character_name": "系统",
       "character_title": "天魔系统",
-      "voice_id": "7468512265134833715",
-      "voice_name": "奶气萌娃",
-      "voice_description": "童声可爱，语气稚嫩俏皮",
+      "voice_id": "7426720361733013513",
+      "voice_name": "魅力女友",
+      "voice_description":"魅力女性,恋爱对象，女性",
       "character_traits": [
-        "童声",
-        "可爱",
-        "俏皮"
+        "魅力女性",
+        "恋爱对象",
+        "女性"
       ]
     }
   ],
